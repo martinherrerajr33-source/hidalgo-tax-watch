@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hidalgo Tax Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #EAE6D8;
+    --paper-raised: #F4F1E6;
+    --ink: #1E2B22;
+    --ink-soft: #4B5A4F;
+    --ledger: #2F4B3C;
+    --ledger-dark: #223A2E;
+    --stamp: #A23B2E;
+    --stamp-soft: #F1DFDA;
+    --brass: #9C7A3C;
+    --line: #CBC3A9;
+    --line-soft: #DAD3BC;
+    --amber: #B98A2E;
+    --amber-soft: #F4E7CC;
+    --focus: #2F6FDE;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  :focus-visible{outline:3px solid var(--focus); outline-offset:2px;}
+
+  .wrap{max-width:1180px; margin:0 auto; padding:28px 20px 80px;}
+
+  header.top{
+    display:flex; align-items:baseline; justify-content:space-between; gap:16px;
+    flex-wrap:wrap;
+    border-bottom:3px double var(--ledger);
+    padding-bottom:16px; margin-bottom:22px;
+  }
+  header.top .title-block{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;}
+  h1{
+    font-family:'Fraunces', serif;
+    font-optical-sizing:auto;
+    font-weight:700;
+    font-size:clamp(28px, 4vw, 40px);
+    margin:0;
+    color:var(--ledger-dark);
+    letter-spacing:-0.01em;
+  }
+  .county-tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--brass);
+    border:1px solid var(--brass);
+    padding:3px 8px;
+    border-radius:2px;
+  }
+  .updated{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    text-align:right;
+  }
+
+  /* ---- summary ledger tallies ---- */
+  .tallies{
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:14px;
+    margin-bottom:26px;
+  }
+  .tally{
+    background:var(--paper-raised);
+    border:1px solid var(--line);
+    border-top:3px solid var(--ledger);
+    padding:14px 16px;
+    position:relative;
+  }
+  .tally.is-delinquent{border-top-color:var(--stamp);}
+  .tally .label{
+    font-size:11px; text-transform:uppercase; letter-spacing:0.1em;
+    color:var(--ink-soft); margin-bottom:6px; font-weight:600;
+  }
+  .tally .value{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:26px; font-weight:600; color:var(--ledger-dark);
+    font-variant-numeric:tabular-nums;
+  }
+  .tally.is-delinquent .value{color:var(--stamp);}
+
+  /* ---- controls ---- */
+  .controls{
+    display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+    margin-bottom:18px;
+  }
+  .controls input[type="search"]{
+    flex:1 1 240px;
+    font-family:'IBM Plex Sans', sans-serif;
+    font-size:14px;
+    padding:9px 12px;
+    border:1px solid var(--line);
+    background:var(--paper-raised);
+    color:var(--ink);
+    border-radius:2px;
+  }
+  .status-tabs{display:flex; gap:6px; flex-wrap:wrap;}
+  .status-tabs button{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    padding:8px 12px;
+    border:1px solid var(--line);
+    background:var(--paper-raised);
+    color:var(--ink-soft);
+    cursor:pointer;
+    border-radius:2px;
+    transition:background .12s ease, color .12s ease, border-color .12s ease;
+  }
+  .status-tabs button:hover{border-color:var(--brass);}
+  .status-tabs button.active{
+    background:var(--ledger); color:#fff; border-color:var(--ledger);
+  }
+  .status-tabs button.active.is-delinquent{background:var(--stamp); border-color:var(--stamp);}
+
+  select#sortSelect{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    padding:8px 10px;
+    border:1px solid var(--line);
+    background:var(--paper-raised);
+    color:var(--ink);
+    border-radius:2px;
+  }
+
+  /* ---- table ---- */
+  .table-scroll{overflow-x:auto; border:1px solid var(--line); background:var(--paper-raised);}
+  table{width:100%; border-collapse:collapse; min-width:820px;}
+  thead th{
+    text-align:left;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px; text-transform:uppercase; letter-spacing:0.08em;
+    color:var(--ink-soft);
+    padding:12px 14px;
+    border-bottom:2px solid var(--ledger);
+    white-space:nowrap;
+    position:sticky; top:0; background:var(--paper-raised);
+  }
+  tbody td{
+    padding:12px 14px;
+    border-bottom:1px solid var(--line-soft);
+    font-size:13.5px;
+    vertical-align:top;
+  }
+  tbody tr:hover{background:rgba(47,75,60,0.045);}
+  tbody tr.row-delinquent{border-left:4px solid var(--stamp);}
+  tbody tr.row-delinquent td:first-child{padding-left:11px;}
+
+  .owner{font-weight:600; color:var(--ledger-dark);}
+  .addr-city{color:var(--ink-soft); font-size:12px; margin-top:2px;}
+  .mono{font-family:'IBM Plex Mono', monospace; font-variant-numeric:tabular-nums;}
+  .amount{font-family:'IBM Plex Mono', monospace; font-variant-numeric:tabular-nums; font-weight:600;}
+  .amount.zero{color:var(--ink-soft); font-weight:400;}
+  .amount.owed{color:var(--stamp);}
+
+  .stamp-badge{
+    display:inline-block;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    padding:4px 9px;
+    border:2px solid var(--stamp);
+    color:var(--stamp);
+    border-radius:3px;
+    transform:rotate(-2deg);
+    background:var(--stamp-soft);
+  }
+  .badge{
+    display:inline-block;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px; font-weight:600; letter-spacing:0.06em; text-transform:uppercase;
+    padding:4px 9px; border-radius:3px;
+  }
+  .badge.current_due{background:var(--amber-soft); color:var(--amber); border:1px solid var(--amber);}
+  .badge.paid_up{background:rgba(47,75,60,0.08); color:var(--ledger); border:1px solid var(--ledger);}
+  .badge.not_found{background:#eee; color:#888; border:1px solid #ccc;}
+  .badge.error{background:#eee; color:#a33; border:1px solid #a33;}
+
+  .empty-state{
+    text-align:center; padding:60px 20px; color:var(--ink-soft);
+    font-family:'IBM Plex Mono', monospace; font-size:13px;
+  }
+  .empty-state strong{display:block; font-family:'Fraunces', serif; font-size:20px; color:var(--ledger-dark); margin-bottom:8px; font-weight:600;}
+
+  footer.note{
+    margin-top:18px; font-size:11.5px; color:var(--ink-soft);
+    font-family:'IBM Plex Mono', monospace;
+  }
+
+  @media (max-width: 760px){
+    .tallies{grid-template-columns:repeat(2,1fr);}
+    thead{display:none;}
+    table, tbody, tr, td{display:block; width:100%;}
+    tbody tr{border:1px solid var(--line-soft); margin-bottom:10px; padding:10px 4px;}
+    tbody tr.row-delinquent{border-left:4px solid var(--stamp);}
+    tbody td{border:none; padding:4px 10px;}
+    tbody td[data-label]::before{
+      content:attr(data-label);
+      display:block; font-family:'IBM Plex Mono', monospace; font-size:10px;
+      color:var(--ink-soft); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:2px;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    *{transition:none !important;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="title-block">
+      <h1>Hidalgo Tax Watch</h1>
+      <span class="county-tag">Delinquency Tracker</span>
+    </div>
+    <div class="updated" id="updatedAt">—</div>
+  </header>
+
+  <section class="tallies" id="tallies" aria-label="Summary">
+    <div class="tally"><div class="label">Properties Checked</div><div class="value" id="tCheck">0</div></div>
+    <div class="tally is-delinquent"><div class="label">Delinquent</div><div class="value" id="tDelinq">0</div></div>
+    <div class="tally is-delinquent"><div class="label">Total Delinquent Owed</div><div class="value" id="tOwed">$0</div></div>
+    <div class="tally"><div class="label">Not Found</div><div class="value" id="tMissing">0</div></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="searchBox" placeholder="Search owner or address…" aria-label="Search owner or address">
+    <div class="status-tabs" id="statusTabs" role="tablist" aria-label="Filter by status"></div>
+    <select id="sortSelect" aria-label="Sort by">
+      <option value="total_desc">Sort: Total Due (high→low)</option>
+      <option value="prior_desc">Sort: Prior Year Due (high→low)</option>
+      <option value="owner_asc">Sort: Owner (A→Z)</option>
+      <option value="checked_desc">Sort: Recently Checked</option>
+    </select>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Owner</th>
+          <th>Property</th>
+          <th>Geo ID</th>
+          <th>Account #</th>
+          <th>Prior Yr Due</th>
+          <th>Total Due</th>
+          <th>Status</th>
+          <th>Checked</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <strong>No properties checked yet</strong>
+      Drop a CSV of Geo IDs in <code>/input</code> and run <code>run_batch.py</code> — this dashboard updates from <code>data.json</code>.
+    </div>
+  </div>
+
+  <footer class="note">Source: Hidalgo County Tax Office public lookup (actweb.acttax.com). Figures reflect the most recent automated check, not a live account balance — verify before acting on any single record.</footer>
+
+</div>
+
+<script>
+let ALL = [];
+let currentStatus = 'all';
+
+const STATUS_LABELS = {
+  all: 'All',
+  delinquent: 'Delinquent',
+  current_due: 'Current Due',
+  paid_up: 'Paid Up',
+  not_found: 'Not Found',
+  error: 'Errors',
+};
+
+function fmtMoney(n){
+  return '$' + Number(n||0).toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+}
+function fmtMoneyShort(n){
+  return '$' + Number(n||0).toLocaleString('en-US', {maximumFractionDigits:0});
+}
+function fmtDate(iso){
+  if(!iso) return '—';
+  const d = new Date(iso);
+  if(isNaN(d)) return iso;
+  return d.toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
+}
+function baseStatus(s){
+  return (s||'').replace('_multi_match','');
+}
+
+async function load(){
+  let data;
+  try{
+    const res = await fetch('data.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no data.json yet');
+    data = await res.json();
+  } catch(e){
+    document.getElementById('emptyState').style.display = 'block';
+    document.getElementById('tbody').innerHTML = '';
+    return;
+  }
+
+  ALL = data.properties || [];
+  document.getElementById('updatedAt').textContent = data.generated_at
+    ? 'Last run: ' + fmtDate(data.generated_at) : '';
+
+  const s = data.summary || {};
+  document.getElementById('tCheck').textContent = s.total_checked ?? ALL.length;
+  document.getElementById('tDelinq').textContent = s.delinquent_count ?? 0;
+  document.getElementById('tOwed').textContent = fmtMoneyShort(s.total_delinquent_amount ?? 0);
+  document.getElementById('tMissing').textContent = s.not_found_count ?? 0;
+
+  buildStatusTabs();
+  render();
+}
+
+function buildStatusTabs(){
+  const counts = {all: ALL.length, delinquent:0, current_due:0, paid_up:0, not_found:0, error:0};
+  ALL.forEach(p => { const b = baseStatus(p.status); if(counts[b] !== undefined) counts[b]++; });
+
+  const container = document.getElementById('statusTabs');
+  container.innerHTML = '';
+  Object.keys(STATUS_LABELS).forEach(key => {
+    const btn = document.createElement('button');
+    btn.textContent = `${STATUS_LABELS[key]} (${counts[key]||0})`;
+    btn.className = (key === currentStatus ? 'active' : '') + (key === 'delinquent' ? ' is-delinquent' : '');
+    btn.setAttribute('role','tab');
+    btn.onclick = () => { currentStatus = key; buildStatusTabs(); render(); };
+    container.appendChild(btn);
+  });
+}
+
+function render(){
+  const q = document.getElementById('searchBox').value.trim().toLowerCase();
+  const sortMode = document.getElementById('sortSelect').value;
+
+  let rows = ALL.filter(p => currentStatus === 'all' || baseStatus(p.status) === currentStatus);
+
+  if(q){
+    rows = rows.filter(p => {
+      const hay = [p.owner_name, p.source_owner, p.property_site_address, p.source_address, p.source_city, p.cad_reference, p.account_number]
+        .filter(Boolean).join(' ').toLowerCase();
+      return hay.includes(q);
+    });
+  }
+
+  rows = rows.slice().sort((a,b) => {
+    if(sortMode === 'total_desc') return (b.total_amount_due||0) - (a.total_amount_due||0);
+    if(sortMode === 'prior_desc') return (b.prior_year_amount_due||0) - (a.prior_year_amount_due||0);
+    if(sortMode === 'owner_asc') return (a.owner_name||a.source_owner||'').localeCompare(b.owner_name||b.source_owner||'');
+    if(sortMode === 'checked_desc') return new Date(b.checked_at) - new Date(a.checked_at);
+    return 0;
+  });
+
+  const tbody = document.getElementById('tbody');
+  tbody.innerHTML = '';
+  document.getElementById('emptyState').style.display = ALL.length === 0 ? 'block' : 'none';
+
+  rows.forEach(p => {
+    const tr = document.createElement('tr');
+    const isDelinquent = baseStatus(p.status) === 'delinquent';
+    if(isDelinquent) tr.classList.add('row-delinquent');
+
+    const owner = p.owner_name || p.source_owner || '—';
+    const addr = p.property_site_address || p.source_address || '—';
+    const city = p.source_city || '';
+
+    tr.innerHTML = `
+      <td data-label="Owner"><div class="owner">${escapeHtml(owner)}</div></td>
+      <td data-label="Property">${escapeHtml(addr)}${city ? `<div class="addr-city">${escapeHtml(city)}</div>` : ''}</td>
+      <td data-label="Geo ID" class="mono">${escapeHtml(p.cad_reference||'—')}</td>
+      <td data-label="Account #" class="mono">${escapeHtml(p.account_number||'—')}</td>
+      <td data-label="Prior Yr Due" class="amount ${p.prior_year_amount_due ? 'owed' : 'zero'}">${fmtMoney(p.prior_year_amount_due)}</td>
+      <td data-label="Total Due" class="amount ${p.total_amount_due ? 'owed' : 'zero'}">${fmtMoney(p.total_amount_due)}</td>
+      <td data-label="Status">${statusMarkup(p.status)}</td>
+      <td data-label="Checked" class="mono">${fmtDate(p.checked_at)}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function statusMarkup(status){
+  const b = baseStatus(status);
+  if(b === 'delinquent') return `<span class="stamp-badge">Past Due</span>`;
+  if(b === 'current_due') return `<span class="badge current_due">Current Due</span>`;
+  if(b === 'paid_up') return `<span class="badge paid_up">Paid Up</span>`;
+  if(b === 'not_found') return `<span class="badge not_found">Not Found</span>`;
+  return `<span class="badge error">Error</span>`;
+}
+
+function escapeHtml(str){
+  return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+document.getElementById('searchBox').addEventListener('input', render);
+document.getElementById('sortSelect').addEventListener('change', render);
+
+load();
+</script>
+</body>
+</html>
