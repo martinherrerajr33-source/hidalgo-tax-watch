@@ -42,8 +42,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run delinquency check
-        env:
-          HTW_DEBUG: "1"
         run: |
           if [ ! -f input/geo_ids.csv ]; then
             echo "No input/geo_ids.csv found yet - copy input/geo_ids_template.csv to input/geo_ids.csv and fill in your PropIDs."
