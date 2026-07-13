@@ -188,15 +188,6 @@ class HidalgoTaxChecker:
         resp = self._post_with_retry(SEARCH_URL, payload)
         html = resp.text
 
-        import os, sys
-        if os.environ.get("HTW_DEBUG"):
-            print(
-                f"DEBUG criteria={criteria!r} searchby={searchby} "
-                f"status={resp.status_code} final_url={resp.url} "
-                f"len={len(html)} snippet={html[:400]!r}",
-                file=sys.stderr,
-            )
-
         if "found no records" in html.lower():
             return [], 0
 
