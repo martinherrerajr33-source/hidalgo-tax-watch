@@ -1,0 +1,65 @@
+name: Check Tax Delinquency
+
+on:
+  # Runs itself every morning
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC = 6-7am Central (adjust to taste)
+
+  # Manual "run it now" button in the Actions tab, no input needed
+  workflow_dispatch:
+
+  # Drop a new/updated CSV into input/geo_ids.csv (e.g. via GitHub's web upload)
+  # and it kicks off automatically - this is your "give it a command" path.
+  push:
+    paths:
+      - "input/geo_ids.csv"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run delinquency check
+        run: |
+          if [ ! -f input/geo_ids.csv ]; then
+            echo "No input/geo_ids.csv found yet - copy input/geo_ids_template.csv to input/geo_ids.csv and fill in your PropIDs."
+            exit 0
+          fi
+          python run_batch.py --input input/geo_ids.csv
+
+      - name: Commit results.csv (audit trail / CRM import history)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh tax delinquency data"
+          file_pattern: "output/results.csv"
+
+      - name: Upload dashboard as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
