@@ -73,6 +73,12 @@ DEFAULT_HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
     ),
+    # The site's backend checks for a same-site Referer on the search POST
+    # (confirmed live: dropping the Referer causes showlist.jsp to bounce
+    # back an empty/no-match response instead of raising an error, which
+    # otherwise silently looks like every property is "not found"). A plain
+    # requests.Session() never sends one on its own, so we set it explicitly.
+    "Referer": f"{BASE_URL}/index.jsp",
 }
 
 MONEY_RE = r"\$?([\d,]+(?:\.\d{2})?)"
@@ -181,6 +187,15 @@ class HidalgoTaxChecker:
         }
         resp = self._post_with_retry(SEARCH_URL, payload)
         html = resp.text
+
+        import os, sys
+        if os.environ.get("HTW_DEBUG"):
+            print(
+                f"DEBUG criteria={criteria!r} searchby={searchby} "
+                f"status={resp.status_code} final_url={resp.url} "
+                f"len={len(html)} snippet={html[:400]!r}",
+                file=sys.stderr,
+            )
 
         if "found no records" in html.lower():
             return [], 0
