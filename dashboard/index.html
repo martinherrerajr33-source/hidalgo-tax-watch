@@ -193,6 +193,22 @@
   .badge.not_found{background:#eee; color:#888; border:1px solid #ccc;}
   .badge.error{background:#eee; color:#a33; border:1px solid #a33;}
 
+  /* ---- outreach / contacted tracking ---- */
+  .outreach-bar{
+    display:flex; align-items:center; gap:14px; flex-wrap:wrap;
+    margin:-8px 0 16px; font-family:'IBM Plex Mono', monospace; font-size:12px; color:var(--ink-soft);
+  }
+  .outreach-bar label{display:flex; align-items:center; gap:6px; cursor:pointer;}
+  .outreach-bar button.link-btn{
+    background:none; border:none; padding:0; color:var(--ink-soft);
+    text-decoration:underline; cursor:pointer; font-family:'IBM Plex Mono', monospace; font-size:12px;
+  }
+  .outreach-bar button.link-btn:hover{color:var(--stamp);}
+  .contact-check{width:16px; height:16px; cursor:pointer; accent-color:var(--ledger);}
+  th.col-contacted, td[data-label="Contacted"]{text-align:center;}
+  tbody tr.is-contacted{opacity:0.5;}
+  tbody tr.is-contacted .owner{text-decoration:line-through; text-decoration-color:var(--ink-soft);}
+
   .empty-state{
     text-align:center; padding:60px 20px; color:var(--ink-soft);
     font-family:'IBM Plex Mono', monospace; font-size:13px;
@@ -252,6 +268,12 @@
     </select>
   </div>
 
+  <div class="outreach-bar">
+    <span id="contactCounter">Contacted: 0/0</span>
+    <label><input type="checkbox" id="hideContacted"> Hide contacted</label>
+    <button type="button" class="link-btn" id="clearContacted">Clear all checkmarks</button>
+  </div>
+
   <div class="table-scroll">
     <table>
       <thead>
@@ -264,6 +286,7 @@
           <th>Total Due</th>
           <th>Status</th>
           <th>Checked</th>
+          <th class="col-contacted">Contacted</th>
         </tr>
       </thead>
       <tbody id="tbody"></tbody>
@@ -281,6 +304,31 @@
 <script>
 let ALL = [];
 let currentStatus = 'all';
+
+// ---- outreach / "contacted" checkmarks ----
+// Stored client-side only (localStorage), keyed by Geo ID / CAD reference, so
+// it survives the dashboard's daily data refresh (data.json is regenerated
+// fresh each run, but this lives in the browser, not in that file).
+const CONTACT_KEY = 'htw_contacted_v1';
+
+function loadContacted(){
+  try { return JSON.parse(localStorage.getItem(CONTACT_KEY) || '{}'); }
+  catch(e){ return {}; }
+}
+function saveContacted(obj){
+  try { localStorage.setItem(CONTACT_KEY, JSON.stringify(obj)); } catch(e){}
+}
+let CONTACTED = loadContacted();
+
+function contactKey(p){
+  return p.cad_reference || p.account_number || '';
+}
+
+function updateContactCounter(){
+  const total = ALL.length;
+  const done = ALL.filter(p => CONTACTED[contactKey(p)]).length;
+  document.getElementById('contactCounter').textContent = `Contacted: ${done}/${total}`;
+}
 
 const STATUS_LABELS = {
   all: 'All',
@@ -330,6 +378,7 @@ async function load(){
   document.getElementById('tMissing').textContent = s.not_found_count ?? 0;
 
   buildStatusTabs();
+  updateContactCounter();
   render();
 }
 
@@ -363,6 +412,10 @@ function render(){
     });
   }
 
+  if(document.getElementById('hideContacted').checked){
+    rows = rows.filter(p => !CONTACTED[contactKey(p)]);
+  }
+
   rows = rows.slice().sort((a,b) => {
     if(sortMode === 'total_desc') return (b.total_amount_due||0) - (a.total_amount_due||0);
     if(sortMode === 'prior_desc') return (b.prior_year_amount_due||0) - (a.prior_year_amount_due||0);
@@ -380,6 +433,10 @@ function render(){
     const isDelinquent = baseStatus(p.status) === 'delinquent';
     if(isDelinquent) tr.classList.add('row-delinquent');
 
+    const key = contactKey(p);
+    const isContacted = !!CONTACTED[key];
+    if(isContacted) tr.classList.add('is-contacted');
+
     const owner = p.owner_name || p.source_owner || '—';
     const addr = p.property_site_address || p.source_address || '—';
     const city = p.source_city || '';
@@ -393,6 +450,7 @@ function render(){
       <td data-label="Total Due" class="amount ${p.total_amount_due ? 'owed' : 'zero'}">${fmtMoney(p.total_amount_due)}</td>
       <td data-label="Status">${statusMarkup(p.status)}</td>
       <td data-label="Checked" class="mono">${fmtDate(p.checked_at)}</td>
+      <td data-label="Contacted"><input type="checkbox" class="contact-check" data-key="${escapeHtml(key)}" ${isContacted ? 'checked' : ''} aria-label="Mark ${escapeHtml(owner)} as contacted"></td>
     `;
     tbody.appendChild(tr);
   });
@@ -413,6 +471,27 @@ function escapeHtml(str){
 
 document.getElementById('searchBox').addEventListener('input', render);
 document.getElementById('sortSelect').addEventListener('change', render);
+document.getElementById('hideContacted').addEventListener('change', render);
+
+// Delegated so it keeps working after render() rebuilds the table rows.
+document.getElementById('tbody').addEventListener('change', (e) => {
+  if(!e.target.classList.contains('contact-check')) return;
+  const key = e.target.dataset.key;
+  if(!key) return;
+  CONTACTED[key] = e.target.checked;
+  saveContacted(CONTACTED);
+  updateContactCounter();
+  const tr = e.target.closest('tr');
+  if(tr) tr.classList.toggle('is-contacted', e.target.checked);
+});
+
+document.getElementById('clearContacted').addEventListener('click', () => {
+  if(!confirm('Clear all "contacted" checkmarks on this device? This cannot be undone.')) return;
+  CONTACTED = {};
+  saveContacted(CONTACTED);
+  updateContactCounter();
+  render();
+});
 
 load();
 </script>
