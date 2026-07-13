@@ -44,6 +44,7 @@ schedule (e.g. GitHub Actions).
 
 from __future__ import annotations
 
+import html as html_module
 import random
 import re
 import time
@@ -99,6 +100,14 @@ def _clean_text(html: str) -> str:
     """Turn <br> into newlines then strip remaining tags, for regex-friendly text."""
     text = re.sub(r"<br\s*/?>", "\n", html, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
+    # The site puts labels and values as "<b>Label:&nbsp;</b>$amount" - the &nbsp;
+    # (and any other HTML entities) must be decoded to real characters *before*
+    # whitespace collapsing, otherwise "&nbsp;" sits as literal text between the
+    # label and the value and the money-matching regexes never find it (every
+    # dollar amount silently comes back as $0.00 - confirmed live: a property
+    # with $9,913.99 total due parsed as $0.00 / "paid up" before this fix).
+    text = html_module.unescape(text)
+    text = text.replace("\xa0", " ")
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r" *\n *", "\n", text)
     return text.strip()
