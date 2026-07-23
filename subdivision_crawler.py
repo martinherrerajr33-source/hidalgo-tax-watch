@@ -119,11 +119,17 @@ def fetch_subdivision_codes(tokens: TokenManager) -> list[dict]:
     resp = requests.get(CONFIG_URL, headers={"Authorization": tokens.get()}, timeout=30)
     resp.raise_for_status()
     cfg = resp.json()
-    field = cfg["results"]["1"]
-    assert field.get("id") == "abstractSubdivisionName", (
-        f"Expected field '1' to be abstractSubdivisionName, got {field.get('id')!r}. "
-        "The CAD API layout may have changed - re-check propertysearchadvanced config."
-    )
+    results = cfg["results"]
+    # "results" has been observed as both a JSON array and as an object keyed by
+    # stringified indices ("0", "1", ...) depending on how it's serialized -
+    # normalize to an iterable of field dicts either way.
+    fields = results.values() if isinstance(results, dict) else results
+    field = next((f for f in fields if f.get("id") == "abstractSubdivisionName"), None)
+    if field is None:
+        raise RuntimeError(
+            "Could not find 'abstractSubdivisionName' field in propertysearchadvanced "
+            "config - the CAD API layout may have changed."
+        )
     return field["codefile"]
 
 
