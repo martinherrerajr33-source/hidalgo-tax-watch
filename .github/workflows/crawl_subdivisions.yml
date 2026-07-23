@@ -6,9 +6,12 @@ name: Crawl County Subdivisions
 # current_due properties to input/geo_ids.csv. No manual .xlsx export
 # needed - see subdivision_crawler.py for how it talks to the CAD portal.
 #
-# Committing new rows to input/geo_ids.csv (below) automatically triggers
-# check_delinquency.yml, which re-checks everything and refreshes the
-# dashboard - so this workflow doesn't need to touch the dashboard itself.
+# NOTE: commits made with the default GITHUB_TOKEN (which is what
+# git-auto-commit-action uses below) do NOT trigger other workflows'
+# `on: push` filters - that's a deliberate GitHub Actions anti-loop
+# safeguard. So this workflow explicitly kicks off check_delinquency.yml
+# itself (via `gh workflow run`) whenever it actually adds new rows,
+# instead of relying on the push trigger to do it automatically.
 
 on:
   schedule:
@@ -24,6 +27,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   crawl:
@@ -45,7 +49,14 @@ jobs:
           python subdivision_crawler.py --max-properties "${{ github.event.inputs.max_properties || '400' }}"
 
       - name: Commit new properties and progress
+        id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-crawl: add newly discovered delinquent/current-due properties"
           file_pattern: "input/geo_ids.csv input/subdivision_progress.json"
+
+      - name: Trigger dashboard refresh (only if new properties were added)
+        if: steps.commit.outputs.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run check_delinquency.yml --ref main
