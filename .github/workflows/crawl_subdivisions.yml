@@ -1,0 +1,51 @@
+name: Crawl County Subdivisions
+
+# Gradually and automatically works through every subdivision/abstract code
+# in Hidalgo CAD's index, a batch at a time, pulling property lists straight
+# from the CAD portal's own public API and adding only delinquent /
+# current_due properties to input/geo_ids.csv. No manual .xlsx export
+# needed - see subdivision_crawler.py for how it talks to the CAD portal.
+#
+# Committing new rows to input/geo_ids.csv (below) automatically triggers
+# check_delinquency.yml, which re-checks everything and refreshes the
+# dashboard - so this workflow doesn't need to touch the dashboard itself.
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 9:00 UTC = 3-4am Central - runs quietly overnight
+
+  # Manual "run it now" button in the Actions tab
+  workflow_dispatch:
+    inputs:
+      max_properties:
+        description: "Max new properties to tax-check this run"
+        required: false
+        default: "400"
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Crawl next batch of subdivisions
+        run: |
+          python subdivision_crawler.py --max-properties "${{ github.event.inputs.max_properties || '400' }}"
+
+      - name: Commit new properties and progress
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-crawl: add newly discovered delinquent/current-due properties"
+          file_pattern: "input/geo_ids.csv input/subdivision_progress.json"
