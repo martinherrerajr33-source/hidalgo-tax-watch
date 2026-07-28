@@ -221,6 +221,9 @@
     "A015000",
     "A020000",
     "A022001",
+    "A022500",
+    "A022701",
+    "A023000",
     "A210000",
     "A370000",
     "B161000",
@@ -247,8 +250,8 @@
     "T525000",
     "W230000"
   ],
-  "total_properties_checked": 1625,
-  "total_added": 256,
+  "total_properties_checked": 2025,
+  "total_added": 336,
   "seeded_from_existing_csv": true,
-  "last_run_utc": "2026-07-27T12:24:10.330343+00:00"
+  "last_run_utc": "2026-07-28T11:22:32.914706+00:00"
 }
