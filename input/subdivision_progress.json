@@ -894,6 +894,11 @@
     "B004701",
     "B005001",
     "B005002",
+    "B005004",
+    "B010000",
+    "B015000",
+    "B020000",
+    "B025000",
     "B161000",
     "B365000",
     "C960000",
@@ -918,8 +923,8 @@
     "T525000",
     "W230000"
   ],
-  "total_properties_checked": 12425,
-  "total_added": 1740,
+  "total_properties_checked": 12825,
+  "total_added": 1786,
   "seeded_from_existing_csv": true,
-  "last_run_utc": "2026-08-27T19:33:29.443253+00:00"
+  "last_run_utc": "2026-08-28T20:42:47.705017+00:00"
 }
