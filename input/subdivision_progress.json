@@ -1098,6 +1098,10 @@
     "B251000",
     "B254000",
     "B254200",
+    "B254300",
+    "B254400",
+    "B254500",
+    "B255000",
     "B365000",
     "C960000",
     "D680000",
@@ -1121,8 +1125,8 @@
     "T525000",
     "W230000"
   ],
-  "total_properties_checked": 17625,
-  "total_added": 2520,
+  "total_properties_checked": 18025,
+  "total_added": 2584,
   "seeded_from_existing_csv": true,
-  "last_run_utc": "2026-09-09T13:28:21.945602+00:00"
+  "last_run_utc": "2026-09-10T13:26:18.747456+00:00"
 }
