@@ -30,8 +30,9 @@ permissions:
   pages: write
   id-token: write
 
+# Own queue - never waits on, or bumps, the Tax Watch's long daily run.
 concurrency:
-  group: "pages"
+  group: "distress-watch"
   cancel-in-progress: false
 
 jobs:

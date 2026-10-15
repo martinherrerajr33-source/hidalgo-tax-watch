@@ -55,6 +55,12 @@ jobs:
           commit_message: "Refresh tax delinquency data"
           file_pattern: "output/results.csv"
 
+      # This run can take hours; pull in the Distress Watch's latest committed
+      # dashboard data so this deploy doesn't publish a stale copy of it.
+      - name: Pull latest Distress Watch data
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}" && git checkout FETCH_HEAD -- dashboard/distress.json dashboard/distress.html 2>/dev/null || true
+
       - name: Upload dashboard as Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
