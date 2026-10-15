@@ -6,9 +6,12 @@ HOW THE PORTAL WORKS (confirmed live, Oct 2026)
 ------------------------------------------------
 This one is NOT a plain HTTP site. The results page is a single-page app
 that runs every search over a websocket (wss://.../ws, "@kofile/FETCH_DOCUMENTS"
-messages) and renders the table in the browser. So we drive a real headless
-Chromium with Playwright and read the rendered table - same idea as a person
-using the site, one search at a time.
+messages). We drive a real headless Chromium with Playwright, trigger each
+search inside the app, and read the FETCH_DOCUMENTS_FULFILLED websocket
+message directly - not the rendered table, which on a fresh page load can
+show "No Results Found" even though the data arrived (confirmed 10/15/2026).
+That message also carries structured lot / block / subdivision fields and the
+total hit count (meta.numRecords) used for paging.
 
 A quick search is just a URL:
     /results?department=RP&limit=250&offset=0
@@ -39,6 +42,7 @@ After a burst of searches the backend starts timing out, and the page shows
 
 from __future__ import annotations
 
+import json
 import random
 import re
 import time
@@ -157,31 +161,46 @@ def results_url(keyword: str, department: str, start: date, end: date, offset: i
     return f"{BASE}/results?{urlencode(q)}"
 
 
-_EXTRACT_JS = """
-() => {
-  const body = document.body ? document.body.innerText : '';
-  const noResults = /No Results Found/i.test(body);
-  const m = body.match(/(\\d[\\d,]*)-(\\d[\\d,]*) of (\\d[\\d,]*) results/);
-  const rows = [...document.querySelectorAll('table tbody tr')].map(tr => {
-    const cell = c => { const td = tr.querySelector('td.' + c); return td ? td.innerText.trim() : ''; };
-    const cb = tr.querySelector('input[id^="table-checkbox-"]');
-    return {
-      doc_id: cb ? cb.id.replace('table-checkbox-', '') : '',
-      grantor: cell('col-3'), grantee: cell('col-4'), doc_type: cell('col-5'),
-      recorded: cell('col-6'), doc_number: cell('col-7'), legal: cell('col-9'),
-    };
-  }).filter(r => r.doc_type || r.doc_number);
-  const loading = /Loading Search Results/i.test(document.title);
-  const timedOut = /timed out/i.test(body);
-  return {noResults, loading, timedOut, rows,
-          from: m ? +m[1].replace(/,/g,'') : null, to: m ? +m[2].replace(/,/g,'') : null,
-          total: m ? +m[3].replace(/,/g,'') : null};
-}
-"""
+def _strip_tags(s: str) -> str:
+    return re.sub(r"<[^>]+>", "", s or "").strip()
+
+
+def _join(v) -> str:
+    if isinstance(v, list):
+        return "; ".join(x.strip() for x in v if isinstance(x, str) and x.strip())
+    return (v or "").strip() if isinstance(v, str) else ""
+
+
+def rows_from_payload(data: dict) -> list[dict]:
+    """FETCH_DOCUMENTS_FULFILLED payload.data -> flat rows (same shape the table shows)."""
+    out = []
+    by_hash = data.get("byHash") or {}
+    for doc_id in data.get("byOrder") or []:
+        d = by_hash.get(str(doc_id)) or by_hash.get(doc_id) or {}
+        grantees = [p.get("name", "") for p in d.get("parties", []) if p.get("type") == "grantee" and p.get("name")]
+        grantors = [p.get("name", "") for p in d.get("parties", []) if p.get("type") == "grantor" and p.get("name")]
+        out.append({
+            "doc_id": str(d.get("docId") or doc_id),
+            "doc_number": d.get("docNumber") or d.get("documentNumber") or "",
+            "doc_type": _strip_tags(d.get("docType") or "") or d.get("docTypeCode", ""),
+            "doc_type_code": d.get("docTypeCode", ""),
+            "recorded": d.get("recordedDate", ""),
+            "grantor": "; ".join(dict.fromkeys(grantors)) or _join(d.get("grantor")),
+            "grantee": "; ".join(dict.fromkeys(grantees)) or _join(d.get("grantee")),
+            "legal": _join(d.get("legalDescription")),
+        })
+    return out
 
 
 class ClerkScraper:
-    """One Playwright browser, reused for every search in a run."""
+    """One Playwright browser, reused for every search in a run.
+
+    The page's own table is unreliable on a fresh load (it can paint "No Results
+    Found" even when the data arrives), so we listen to the websocket and read the
+    FETCH_DOCUMENTS_FULFILLED message directly. Each search is triggered inside the
+    already-loaded app (history.pushState + popstate), exactly as clicking a new
+    search does - one websocket, one app session for the whole run.
+    """
 
     def __init__(self, min_gap: float = 15.0, max_gap: float = 25.0, page_timeout: float = 75.0,
                  headless: bool = True, log=print):
@@ -192,8 +211,9 @@ class ClerkScraper:
         self.searches = 0
         self._pw = self._browser = self._page = None
         self._last_search_at = 0.0
+        self._frames: list[dict] = []
         self.debug: list[dict] = []          # one line per search - committed so failures can be diagnosed
-        self.debug_dir = None                # set to a Path to also save page text/screenshots
+        self.debug_dir = None
 
     def __enter__(self):
         from playwright.sync_api import sync_playwright
@@ -205,6 +225,7 @@ class ClerkScraper:
             viewport={"width": 1366, "height": 900},
         )
         self._page = ctx.new_page()
+        self._page.on("websocket", self._on_ws)
         return self
 
     def __exit__(self, *exc):
@@ -214,6 +235,20 @@ class ClerkScraper:
         finally:
             if self._pw:
                 self._pw.stop()
+
+    def _on_ws(self, ws):
+        def on_frame(payload):
+            text = payload if isinstance(payload, str) else (payload or b"").decode("utf-8", "ignore")
+            if "FETCH_DOCUMENTS" not in text:
+                return
+            try:
+                msg = json.loads(text)
+            except ValueError:
+                return
+            t = msg.get("type", "")
+            if "FETCH_DOCUMENTS_FULFILLED" in t or "FETCH_DOCUMENTS_REJECTED" in t:
+                self._frames.append(msg)
+        ws.on("framereceived", on_frame)
 
     # ---- low level ----------------------------------------------------
 
@@ -225,7 +260,7 @@ class ClerkScraper:
         self._last_search_at = time.time()
 
     def certified_through(self) -> date | None:
-        """The portal only has documents indexed up to this date."""
+        """Loads the app (opening its websocket) and reads the 'Certified through' date."""
         self._page.goto(BASE + "/", wait_until="domcontentloaded", timeout=60000)
         try:
             self._page.wait_for_selector("text=Certified through", timeout=30000)
@@ -236,20 +271,31 @@ class ClerkScraper:
         return datetime.strptime(m.group(1), "%m/%d/%Y").date() if m else None
 
     def _load(self, url: str) -> dict:
+        """Run one search. Returns {rows, total, timedOut, rejected}."""
         self._pace()
         self.searches += 1
-        self._page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        path = url[len(BASE):]
+        # same URL as the page is already on won't refetch - hop home first
+        if self._page.url.endswith(path):
+            self._page.evaluate("p => { history.pushState({}, '', p); window.dispatchEvent(new PopStateEvent('popstate', {state:{}})); }", "/")
+            time.sleep(1.0)
+        self._frames.clear()
+        self._page.evaluate("p => { history.pushState({}, '', p); window.dispatchEvent(new PopStateEvent('popstate', {state:{}})); }", path)
         deadline = time.time() + self.page_timeout
-        state = {}
+        state = {"rows": [], "total": None, "timedOut": False, "rejected": ""}
         while time.time() < deadline:
-            time.sleep(1.5)
-            state = self._page.evaluate(_EXTRACT_JS)
-            if state["rows"] and state["total"] is not None:
-                # table can paint before every row is in - one more beat
-                time.sleep(1.0)
-                state = self._page.evaluate(_EXTRACT_JS)
+            self._page.wait_for_timeout(500)
+            ok = [f for f in self._frames if "FULFILLED" in f.get("type", "")]
+            if ok:
+                payload = ok[0].get("payload") or {}
+                state["rows"] = rows_from_payload(payload.get("data") or {})
+                state["total"] = (payload.get("meta") or {}).get("numRecords", len(state["rows"]))
                 break
-            if state["noResults"] or state["timedOut"]:
+            bad = [f for f in self._frames if "REJECTED" in f.get("type", "")]
+            if bad:
+                err = (bad[0].get("payload") or {})
+                state["rejected"] = str(err.get("errors") or "rejected")[:200]
+                state["timedOut"] = True
                 break
         else:
             state["timedOut"] = True
@@ -257,28 +303,16 @@ class ClerkScraper:
         return state
 
     def _note(self, url: str, state: dict) -> None:
-        body = ""
-        try:
-            body = self._page.inner_text("body")[:600]
-        except Exception:  # noqa: BLE001
-            pass
-        entry = {"url": url, "title": self._page.title(), "rows": len(state.get("rows", [])),
-                 "total": state.get("total"), "noResults": state.get("noResults"),
-                 "timedOut": state.get("timedOut"), "body": body}
-        self.debug.append(entry)
-        if self.debug_dir and len(self.debug) <= 3:
-            try:
-                self.debug_dir.mkdir(parents=True, exist_ok=True)
-                self._page.screenshot(path=str(self.debug_dir / f"search_{len(self.debug)}.png"), full_page=False)
-            except Exception:  # noqa: BLE001
-                pass
+        self.debug.append({"url": url[len(BASE):], "rows": len(state.get("rows", [])), "total": state.get("total"),
+                           "timedOut": state.get("timedOut"), "rejected": state.get("rejected", ""),
+                           "at": datetime.now(timezone.utc).isoformat(timespec="seconds")})
 
     # ---- one keyword / one window --------------------------------------
 
     def search_window(self, keyword: str, department: str, start: date, end: date) -> tuple[list[ClerkRecord], int]:
         """All rows for one keyword in one date window. Returns (records kept, raw row count).
 
-        Raises Throttled if the portal times out twice.
+        Raises Throttled if the portal times out / rejects twice.
         """
         kept: list[ClerkRecord] = []
         offset, limit, raw = 0, 50, 0
@@ -286,15 +320,16 @@ class ClerkScraper:
             url = results_url(keyword, department, start, end, offset, limit)
             state = self._load(url)
             if state.get("timedOut"):
-                self.log(f"    {keyword} {start}..{end}: timed out, cooling down and retrying")
+                self.log(f"    {keyword} {start}..{end}: no answer ({state.get('rejected') or 'timeout'}), cooling down")
                 time.sleep(60)
                 state = self._load(url)
                 if state.get("timedOut"):
-                    raise Throttled(f"{keyword} {start}..{end} timed out twice")
+                    raise Throttled(f"{keyword} {start}..{end}: {state.get('rejected') or 'timed out'} twice")
             rows = state["rows"]
             raw += len(rows)
             for r in rows:
-                cat = categorize(r["doc_type"], r["grantor"], r["grantee"])
+                cat = categorize(r["doc_type"], r["grantor"], r["grantee"]) or \
+                      categorize(r.get("doc_type_code", ""), r["grantor"], r["grantee"])
                 if not cat:
                     continue
                 kept.append(ClerkRecord(
@@ -302,10 +337,10 @@ class ClerkScraper:
                     recorded=r["recorded"], grantor=r["grantor"], grantee=r["grantee"], legal=r["legal"],
                     department=department, keyword=keyword,
                 ))
-            total, to = state.get("total"), state.get("to")
-            if not rows or total is None or to is None or to >= total:
+            total = state.get("total") or 0
+            offset += limit
+            if not rows or offset >= total:
                 break
-            offset = to  # the page tells us how many it actually showed
         return kept, raw
 
     def is_honest(self, canary: dict | None) -> bool:

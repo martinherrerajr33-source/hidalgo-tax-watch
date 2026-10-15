@@ -138,3 +138,22 @@ def test_score_stacks_and_caps():
 def test_results_url():
     u = results_url("heirship", "RP", date(2026, 10, 12), date(2026, 10, 13))
     assert "recordedDateRange=20261012%2C20261013" in u and "searchValue=heirship" in u
+
+
+def test_rows_from_ws_payload():
+    from distress.clerk import rows_from_payload
+    data = {"byOrder": [331587830], "byHash": {"331587830": {
+        "docId": 331587830, "docNumber": "2026-3796238", "docType": "AFFIDVT <em>HEIRSHIP</em>",
+        "docTypeCode": "AFFIDVT HEIRSHI", "recordedDate": "10/13/2026",
+        "grantor": ["MIRELES EVA MARIA", "BERRONES JOSE GUADALUPE DECEASED", ""],
+        "grantee": ["BERRONES JOSE GUADALUPE DECEASED", ""],
+        "legalDescription": ["Subdivision-  Name: EXPRESSWAY HEIGHTS 3 Lot: 7 Block: 11", ""],
+        "parties": [{"name": "MIRELES EVA MARIA", "type": "grantor"},
+                    {"name": "BERRONES JOSE GUADALUPE DECEASED", "type": "grantor"},
+                    {"name": "BERRONES JOSE GUADALUPE DECEASED", "type": "grantee"},
+                    {"type": "grantor", "overflowMsg": ""}]}}}
+    (r,) = rows_from_payload(data)
+    assert r["doc_type"] == "AFFIDVT HEIRSHIP" and categorize(r["doc_type"]) == "heirship"
+    assert r["grantee"] == "BERRONES JOSE GUADALUPE DECEASED"
+    assert r["grantor"] == "MIRELES EVA MARIA; BERRONES JOSE GUADALUPE DECEASED"
+    assert r["legal"].endswith("Lot: 7 Block: 11") and r["recorded"] == "10/13/2026"
