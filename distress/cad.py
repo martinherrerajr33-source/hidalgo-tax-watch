@@ -68,7 +68,7 @@ class Match:
 
 
 class CadClient:
-    def __init__(self, year: str, delay: float = 0.4, timeout: int = 30):
+    def __init__(self, year: str, delay: float = 0.1, timeout: int = 30):
         self.year = year
         self.delay = delay
         self.timeout = timeout
@@ -177,8 +177,8 @@ def _name_fit(parcel: Parcel, person: Person) -> bool:
 def match_record(cad: CadClient, people: list[Person], legal: Legal | None) -> tuple[Match | None, list[str]]:
     """Find the parcel a record is about. Returns (best match or None, low-confidence candidate geo IDs)."""
     name_hits: dict[str, tuple[Parcel, Person]] = {}
-    for person in people:
-        for q in person.queries():
+    for person in people[:4]:              # tax suits can list 20 heirs - the first few are the owners
+        for q in person.queries()[:2]:
             for parcel in cad.by_owner(q):
                 if _name_fit(parcel, person):
                     name_hits.setdefault(parcel.geo_id, (parcel, person))
