@@ -135,6 +135,11 @@ class ClerkRecord:
         return d
 
 
+# Confirmed live 10/15/2026: 11 heirship affidavits recorded 10/12-10/13/2026.
+# Used until a run finds a busier window of its own.
+DEFAULT_CANARY = {"keyword": "heirship", "department": "RP", "start": "2026-10-12", "end": "2026-10-13"}
+
+
 class Throttled(RuntimeError):
     """The portal stopped answering honestly - stop and retry next run."""
 
@@ -187,6 +192,8 @@ class ClerkScraper:
         self.searches = 0
         self._pw = self._browser = self._page = None
         self._last_search_at = 0.0
+        self.debug: list[dict] = []          # one line per search - committed so failures can be diagnosed
+        self.debug_dir = None                # set to a Path to also save page text/screenshots
 
     def __enter__(self):
         from playwright.sync_api import sync_playwright
@@ -240,11 +247,31 @@ class ClerkScraper:
             if state["rows"] and state["total"] is not None:
                 # table can paint before every row is in - one more beat
                 time.sleep(1.0)
-                return self._page.evaluate(_EXTRACT_JS)
+                state = self._page.evaluate(_EXTRACT_JS)
+                break
             if state["noResults"] or state["timedOut"]:
-                return state
-        state["timedOut"] = True
+                break
+        else:
+            state["timedOut"] = True
+        self._note(url, state)
         return state
+
+    def _note(self, url: str, state: dict) -> None:
+        body = ""
+        try:
+            body = self._page.inner_text("body")[:600]
+        except Exception:  # noqa: BLE001
+            pass
+        entry = {"url": url, "title": self._page.title(), "rows": len(state.get("rows", [])),
+                 "total": state.get("total"), "noResults": state.get("noResults"),
+                 "timedOut": state.get("timedOut"), "body": body}
+        self.debug.append(entry)
+        if self.debug_dir and len(self.debug) <= 3:
+            try:
+                self.debug_dir.mkdir(parents=True, exist_ok=True)
+                self._page.screenshot(path=str(self.debug_dir / f"search_{len(self.debug)}.png"), full_page=False)
+            except Exception:  # noqa: BLE001
+                pass
 
     # ---- one keyword / one window --------------------------------------
 
@@ -283,8 +310,7 @@ class ClerkScraper:
 
     def is_honest(self, canary: dict | None) -> bool:
         """Re-run a search we know has results. Empty => we're being throttled."""
-        if not canary:
-            return True
+        canary = canary or DEFAULT_CANARY
         start = date.fromisoformat(canary["start"])
         end = date.fromisoformat(canary["end"])
         url = results_url(canary["keyword"], canary.get("department", "RP"), start, end)

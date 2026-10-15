@@ -51,7 +51,9 @@ def run_clerk(budget: int, backfill_days: int) -> None:
     canary = cstate.get("canary")
     added = 0
 
+    from pathlib import Path
     with ClerkScraper(log=log) as sc:
+        sc.debug_dir = store.DATA_DIR / "debug"
         certified = sc.certified_through() or (TODAY - timedelta(days=2))
         log(f"Clerk portal certified through {certified}")
         default_start = certified - timedelta(days=backfill_days)
@@ -110,6 +112,7 @@ def run_clerk(budget: int, backfill_days: int) -> None:
         cstate["last_run"] = datetime.now(timezone.utc).isoformat()
         cstate["last_status"] = status
         cstate["last_searches"] = sc.searches
+        cstate["last_debug"] = sc.debug[-25:]
 
     store.save("clerk_records", records)
     store.save("state", state)
@@ -444,7 +447,12 @@ def main() -> None:
         try:
             run_court(args.full_taxsuits)
         except Exception as exc:  # noqa: BLE001
+            import traceback
             log(f"COURT JOB FAILED: {exc!r}")
+            st = store.load("state")
+            st.setdefault("court", {})["last_error"] = traceback.format_exc()[-2500:]
+            st["court"]["last_error_at"] = datetime.now(timezone.utc).isoformat()
+            store.save("state", st)
             failed.append("court")
     if args.job in ("clerk", "all"):
         try:
