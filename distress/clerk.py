@@ -144,7 +144,7 @@ class Throttled(RuntimeError):
     """The portal stopped answering honestly - stop and retry next run."""
 
 
-def results_url(keyword: str, department: str, start: date, end: date, offset: int = 0, limit: int = 250) -> str:
+def results_url(keyword: str, department: str, start: date, end: date, offset: int = 0, limit: int = 50) -> str:
     q = {
         "department": department,
         "limit": str(limit),
@@ -281,7 +281,7 @@ class ClerkScraper:
         Raises Throttled if the portal times out twice.
         """
         kept: list[ClerkRecord] = []
-        offset, limit, raw = 0, 250, 0
+        offset, limit, raw = 0, 50, 0
         while True:
             url = results_url(keyword, department, start, end, offset, limit)
             state = self._load(url)

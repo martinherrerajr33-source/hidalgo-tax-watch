@@ -1,32 +1,4 @@
 {
- "clerk": {
-  "canary": null,
-  "certified_through": "2026-10-13",
-  "done_through": {},
-  "last_debug": [
-   {
-    "body": "No results found for bankruptcy + 09/29/2026-10/12/2026\nSkip To Header Nav\nSkip To Workspace Tabs\nSkip To Main Content\nTHE COUNTY OF\nHidalgo\nCOUNTY CLERK\nArturo Guajardo, Jr\nProperty Alert\n\nCart\n\n0\n\nRegister\nHelp\nSign In\nNEW SEARCH\nRESULTS\nNo Results Found\n\nYour search for \"bankruptcy + 09/29/2026-10/12/2026\" returned no results.\n\nSuggestions:\nMake sure all names are spelled correctly\nTry different name variations\nTry broadening your search\nTry fewer keywords\nSee our friendly\nHelp Guide\nEdit Search Criteria\nDownload No Results Report\n© 2026 Hidalgo County, Texas. All Rights Reserved\nPowered By",
-    "noResults": true,
-    "rows": 0,
-    "timedOut": false,
-    "title": "Loading Search Results...",
-    "total": null,
-    "url": "https://hidalgo.tx.publicsearch.us/results?department=RP&limit=250&offset=0&recordedDateRange=20260929%2C20261012&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
-   },
-   {
-    "body": "No results found for heirship + 10/12/2026-10/13/2026\nSkip To Header Nav\nSkip To Workspace Tabs\nSkip To Main Content\nTHE COUNTY OF\nHidalgo\nCOUNTY CLERK\nArturo Guajardo, Jr\nProperty Alert\n\nCart\n\n0\n\nRegister\nHelp\nSign In\nNEW SEARCH\nRESULTS\nNo Results Found\n\nYour search for \"heirship + 10/12/2026-10/13/2026\" returned no results.\n\nSuggestions:\nMake sure all names are spelled correctly\nTry different name variations\nTry broadening your search\nTry fewer keywords\nSee our friendly\nHelp Guide\nEdit Search Criteria\nDownload No Results Report\n© 2026 Hidalgo County, Texas. All Rights Reserved\nPowered By",
-    "noResults": true,
-    "rows": 0,
-    "timedOut": false,
-    "title": "Loading Search Results...",
-    "total": null,
-    "url": "https://hidalgo.tx.publicsearch.us/results?department=RP&limit=250&offset=0&recordedDateRange=20261012%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=heirship"
-   }
-  ],
-  "last_run": "2026-10-15T18:06:38.095680+00:00",
-  "last_searches": 2,
-  "last_status": "throttled"
- },
  "court": {
   "last_error": "erificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 448, in main\n    run_court(args.full_taxsuits)\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 137, in run_court\n    found = fetch_open_tax_suits(client, date(2000, 1, 1), TODAY, window_days=92, log=log)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 264, in fetch_open_tax_suits\n    rows = client.business_party_search(\"HIDALGO COUNTY\", a, b, status=\"open\")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 224, in business_party_search\n    page = self._search({\n           ^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 200, in _search\n    self._open_session()\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 193, in _open_session\n    self.s.get(f\"{BASE}/default.aspx\", timeout=self.timeout)\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='pa.co.hidalgo.tx.us', port=443): Max retries exceeded with url: /default.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n",
   "last_error_at": "2026-10-15T18:06:18.206527+00:00",
