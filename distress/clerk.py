@@ -218,16 +218,12 @@ class ClerkScraper:
     def __enter__(self):
         from playwright.sync_api import sync_playwright
         self._pw = sync_playwright().start()
-        # Full Chromium in "new headless" mode reports itself like normal Chrome. The default
-        # headless shell announces "HeadlessChrome", and this portal quietly answers every
-        # search from it with zero results (seen on GitHub runners 10/15/2026).
-        self._browser = self._pw.chromium.launch(
-            headless=self.headless, channel="chromium",
-            args=["--disable-blink-features=AutomationControlled"],
+        self._browser = self._pw.chromium.launch(headless=self.headless)
+        ctx = self._browser.new_context(
+            user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+            viewport={"width": 1366, "height": 900},
         )
-        ctx = self._browser.new_context(viewport={"width": 1366, "height": 900}, locale="en-US",
-                                        timezone_id="America/Chicago")
-        ctx.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         self._page = ctx.new_page()
         self._page.on("websocket", self._on_ws)
         return self
