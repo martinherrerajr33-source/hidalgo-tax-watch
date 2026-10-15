@@ -123,3 +123,28 @@ scheduled runs rather than firing it all in one go.
   logic? `run_batch.py` is a plain function call
   (`HidalgoTaxChecker().check(geo_id)`) - easy to import into another
   script rather than running standalone.
+
+## Distress Watch (stacked public records)
+
+A second dashboard at `distress.html` ranks properties 0-100 by how many
+distress signals are stacked on them, from three more county sources:
+
+- **County Clerk records** (hidalgo.tx.publicsearch.us): affidavits of
+  heirship, wills/probate filings, lis pendens, city mowing/paving/code liens,
+  IRS/state tax liens, judgments, mechanic's liens, substitute-trustee
+  appointments and foreclosure notices, bankruptcies, recorded divorces.
+- **Court records** (pa.co.hidalgo.tx.us): every open delinquent-tax suit
+  back to 2000, plus new probate and divorce cases.
+- **HCAD + tax office**: each record is matched to a parcel (by lot/block
+  when the filing has one, otherwise by owner name), then tax status is checked.
+
+Tabs: Ranked properties, Open tax suits, New filings (with a "needs review"
+filter for records that couldn't be tied to one parcel), and How scoring
+works. Every tab exports a CSV with GoHighLevel-friendly columns.
+
+Runs daily via `.github/workflows/distress_watch.yml` (or Actions → Distress
+Watch → Run workflow). Code is in `run_distress.py` and `distress/`; data
+it keeps between runs is in `data/distress/`. The clerk portal throttles bursts
+of searches, so the scraper goes slowly (~20 s per search, 120 searches per
+run by default) and stops cleanly when it detects throttling; the first
+90-day backfill takes a few daily runs to finish.

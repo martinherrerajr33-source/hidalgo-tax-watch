@@ -1,0 +1,94 @@
+name: Distress Watch
+
+# Pulls County Clerk filings + court cases, matches them to HCAD parcels,
+# scores each parcel 0-100, and republishes the dashboard (distress.html).
+# See run_distress.py for what each job does.
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # ~5am Central, after the subdivision crawl and before the tax check
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Which part to run"
+        type: choice
+        options: [all, clerk, court, build]
+        default: all
+      clerk_budget:
+        description: "Max clerk searches this run (~20s each)"
+        default: "120"
+      backfill_days:
+        description: "How far back the clerk scraper starts on its first run"
+        default: "90"
+      full_taxsuits:
+        description: "Force a full re-walk of open tax suits"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  distress:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt -r requirements-distress.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run Distress Watch
+        run: |
+          ARGS="${{ github.event.inputs.job || 'all' }} --budget ${{ github.event.inputs.clerk_budget || '120' }} --backfill-days ${{ github.event.inputs.backfill_days || '90' }}"
+          if [ "${{ github.event.inputs.full_taxsuits }}" = "true" ]; then ARGS="$ARGS --full-taxsuits"; fi
+          python run_distress.py $ARGS
+
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/distress dashboard/distress.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No data changes"; exit 0; fi
+          git commit -m "Distress Watch: refresh public-records data"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 5
+          done
+          exit 1
+
+      # The Tax Watch's data.json is generated at deploy time and not committed,
+      # so pull the live copy back in - otherwise this deploy would wipe it.
+      - name: Keep the live Tax Watch data
+        run: |
+          curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data.json" \
+            -o dashboard/data.json || echo "No live data.json to carry over"
+
+      - name: Upload dashboard as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

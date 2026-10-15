@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hidalgo Distress Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EAE6D8; --paper-raised:#F4F1E6; --ink:#1E2B22; --ink-soft:#4B5A4F;
+    --ledger:#2F4B3C; --ledger-dark:#223A2E; --stamp:#A23B2E; --stamp-soft:#F1DFDA;
+    --brass:#9C7A3C; --line:#CBC3A9; --line-soft:#DAD3BC; --amber:#B98A2E; --amber-soft:#F4E7CC;
+    --focus:#2F6FDE;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans',system-ui,sans-serif;
+       -webkit-font-smoothing:antialiased; min-height:100vh;}
+  :focus-visible{outline:3px solid var(--focus); outline-offset:2px;}
+  a{color:var(--ledger);}
+  .wrap{max-width:1240px; margin:0 auto; padding:28px 20px 80px;}
+
+  header.top{display:flex; align-items:baseline; justify-content:space-between; gap:16px; flex-wrap:wrap;
+    border-bottom:3px double var(--ledger); padding-bottom:16px; margin-bottom:18px;}
+  header.top .title-block{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;}
+  h1{font-family:'Fraunces',serif; font-optical-sizing:auto; font-weight:700; font-size:clamp(28px,4vw,40px);
+     margin:0; color:var(--ledger-dark); letter-spacing:-0.01em;}
+  .county-tag{font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--brass); border:1px solid var(--brass); padding:3px 8px; border-radius:2px;}
+  .updated{font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--ink-soft); text-align:right;}
+  .updated a{color:var(--ink-soft);}
+
+  nav.tabs{display:flex; gap:0; border-bottom:1px solid var(--line); margin-bottom:22px; flex-wrap:wrap;}
+  nav.tabs button{font-family:'IBM Plex Mono',monospace; font-size:12.5px; letter-spacing:.06em; text-transform:uppercase;
+    background:none; border:none; border-bottom:3px solid transparent; padding:10px 16px; color:var(--ink-soft); cursor:pointer;}
+  nav.tabs button.active{color:var(--ledger-dark); border-bottom-color:var(--ledger); font-weight:600;}
+  nav.tabs button .count{color:var(--brass); margin-left:4px;}
+
+  .tallies{display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-bottom:22px;}
+  .tally{background:var(--paper-raised); border:1px solid var(--line); border-top:3px solid var(--ledger); padding:14px 16px;}
+  .tally.hot{border-top-color:var(--stamp);}
+  .tally .label{font-size:11px; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-soft); margin-bottom:6px; font-weight:600;}
+  .tally .value{font-family:'IBM Plex Mono',monospace; font-size:26px; font-weight:600; color:var(--ledger-dark); font-variant-numeric:tabular-nums;}
+  .tally.hot .value{color:var(--stamp);}
+
+  .controls{display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:12px;}
+  .controls input[type=search]{flex:1 1 240px; font-family:'IBM Plex Sans',sans-serif; font-size:14px; padding:9px 12px;
+    border:1px solid var(--line); background:var(--paper-raised); color:var(--ink); border-radius:2px;}
+  .controls select, .btn{font-family:'IBM Plex Mono',monospace; font-size:12px; padding:8px 10px; border:1px solid var(--line);
+    background:var(--paper-raised); color:var(--ink); border-radius:2px;}
+  .btn{cursor:pointer;}
+  .btn.primary{background:var(--ledger); color:#fff; border-color:var(--ledger);}
+  .btn:hover{border-color:var(--brass);}
+  .chips{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px;}
+  .chip{font-family:'IBM Plex Mono',monospace; font-size:11.5px; padding:6px 10px; border:1px solid var(--line);
+    background:var(--paper-raised); color:var(--ink-soft); cursor:pointer; border-radius:2px;}
+  .chip.on{background:var(--ledger); color:#fff; border-color:var(--ledger);}
+  .chip .n{opacity:.7; margin-left:3px;}
+  .subbar{display:flex; gap:14px; align-items:center; flex-wrap:wrap; font-family:'IBM Plex Mono',monospace; font-size:12px;
+    color:var(--ink-soft); margin-bottom:12px;}
+  .subbar label{display:flex; gap:6px; align-items:center; cursor:pointer;}
+
+  .table-scroll{overflow-x:auto; border:1px solid var(--line); background:var(--paper-raised);}
+  table{width:100%; border-collapse:collapse; min-width:900px;}
+  thead th{text-align:left; font-family:'IBM Plex Mono',monospace; font-size:11px; text-transform:uppercase; letter-spacing:.08em;
+    color:var(--ink-soft); padding:12px 14px; border-bottom:2px solid var(--ledger); white-space:nowrap; position:sticky; top:0; background:var(--paper-raised);}
+  tbody td{padding:12px 14px; border-bottom:1px solid var(--line-soft); font-size:13.5px; vertical-align:top;}
+  tbody tr.main{cursor:pointer;}
+  tbody tr.main:hover{background:rgba(47,75,60,.045);}
+  tbody tr.is-contacted{opacity:.5;}
+  tbody tr.detail td{background:#EFEBDD; padding:14px 18px 18px;}
+  .owner{font-weight:600; color:var(--ledger-dark);}
+  .sub{color:var(--ink-soft); font-size:12px; margin-top:2px;}
+  .mono{font-family:'IBM Plex Mono',monospace; font-variant-numeric:tabular-nums;}
+  .amount{font-family:'IBM Plex Mono',monospace; font-variant-numeric:tabular-nums; font-weight:600;}
+  .amount.owed{color:var(--stamp);}
+  .muted{color:var(--ink-soft);}
+
+  .score{display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; border-radius:50%;
+    font-family:'IBM Plex Mono',monospace; font-weight:600; font-size:17px; border:2px solid var(--ledger); color:var(--ledger-dark);
+    background:var(--paper);}
+  .score.t70{border-color:var(--stamp); color:#fff; background:var(--stamp); transform:rotate(-4deg);}
+  .score.t50{border-color:var(--stamp); color:var(--stamp); background:var(--stamp-soft);}
+  .score.t30{border-color:var(--amber); color:var(--amber); background:var(--amber-soft);}
+  .tag{display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:10.5px; font-weight:600; letter-spacing:.04em;
+    text-transform:uppercase; padding:3px 7px; border-radius:3px; margin:0 4px 4px 0; border:1px solid var(--line);
+    background:var(--paper); color:var(--ink-soft); white-space:nowrap;}
+  .tag.g-tax,.tag.g-foreclosure{border-color:var(--stamp); color:var(--stamp); background:var(--stamp-soft);}
+  .tag.g-death{border-color:var(--ledger); color:#fff; background:var(--ledger);}
+  .tag.g-lawsuit,.tag.g-bankruptcy{border-color:var(--amber); color:var(--amber); background:var(--amber-soft);}
+  .tag.g-code{border-color:var(--brass); color:var(--brass);}
+  .stamp-badge{display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:10px; font-weight:600; letter-spacing:.08em;
+    text-transform:uppercase; padding:3px 7px; border:2px solid var(--stamp); color:var(--stamp); border-radius:3px;
+    transform:rotate(-2deg); background:var(--stamp-soft);}
+  .match{font-family:'IBM Plex Mono',monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.05em;}
+  .match.high{color:var(--ledger);} .match.medium{color:var(--amber);} .match.low,.match.none,.match.pending{color:#999;}
+
+  .detail-grid{display:grid; grid-template-columns:260px 1fr; gap:22px;}
+  .detail-grid h3{font-family:'Fraunces',serif; font-size:15px; margin:0 0 8px; color:var(--ledger-dark);}
+  .breakdown{list-style:none; margin:0; padding:0; font-size:13px;}
+  .breakdown li{display:flex; justify-content:space-between; border-bottom:1px dotted var(--line); padding:4px 0;}
+  .breakdown li b{font-family:'IBM Plex Mono',monospace;}
+  .sig{border-left:3px solid var(--line); padding:6px 10px; margin-bottom:8px; background:var(--paper-raised); font-size:13px;}
+  .sig .when{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft);}
+  .facts{font-size:12.5px; color:var(--ink-soft); line-height:1.6; margin-top:10px;}
+
+  .empty-state{text-align:center; padding:60px 20px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; font-size:13px;}
+  .empty-state strong{display:block; font-family:'Fraunces',serif; font-size:20px; color:var(--ledger-dark); margin-bottom:8px; font-weight:600;}
+  .more{text-align:center; padding:14px;}
+  .howto{max-width:760px; line-height:1.6; font-size:14px;}
+  .howto h2{font-family:'Fraunces',serif; color:var(--ledger-dark);}
+  .howto table{min-width:0;}
+  footer.note{margin-top:18px; font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
+  [hidden]{display:none !important;}
+
+  @media (max-width:760px){
+    .tallies{grid-template-columns:repeat(2,1fr);}
+    .detail-grid{grid-template-columns:1fr;}
+    table{min-width:0;}
+    thead{display:none;}
+    table,tbody,tr,td{display:block; width:100%;}
+    tbody tr.main{border:1px solid var(--line-soft); margin-bottom:10px; padding:10px 4px;}
+    tbody td{border:none; padding:4px 10px;}
+    tbody td[data-label]::before{content:attr(data-label); display:block; font-family:'IBM Plex Mono',monospace; font-size:10px;
+      color:var(--ink-soft); text-transform:uppercase; letter-spacing:.06em; margin-bottom:2px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="title-block">
+      <h1>Hidalgo Distress Watch</h1>
+      <span class="county-tag">Stacked Public Records</span>
+    </div>
+    <div class="updated"><span id="updatedAt">—</span><br><a href="./">← Tax Watch</a></div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button data-tab="ranked" class="active" role="tab">Ranked properties<span class="count" id="cRanked"></span></button>
+    <button data-tab="suits" role="tab">Open tax suits<span class="count" id="cSuits"></span></button>
+    <button data-tab="feed" role="tab">New filings<span class="count" id="cFeed"></span></button>
+    <button data-tab="how" role="tab">How scoring works</button>
+  </nav>
+
+  <!-- ============ RANKED ============ -->
+  <section id="tab-ranked">
+    <div class="tallies">
+      <div class="tally"><div class="label">Properties with signals</div><div class="value" id="tProps">0</div></div>
+      <div class="tally hot"><div class="label">Score 70+</div><div class="value" id="t70">0</div></div>
+      <div class="tally hot"><div class="label">Stacked (2+ types)</div><div class="value" id="tStacked">0</div></div>
+      <div class="tally"><div class="label">Open tax suits</div><div class="value" id="tSuits">0</div></div>
+    </div>
+    <div class="controls">
+      <input type="search" id="rSearch" placeholder="Search owner, address, Geo ID…" aria-label="Search">
+      <select id="rMin" aria-label="Minimum score">
+        <option value="0">Any score</option><option value="30">30+</option><option value="50" selected>50+</option><option value="70">70+</option>
+      </select>
+      <select id="rCity" aria-label="City"><option value="">All cities</option></select>
+      <select id="rSort" aria-label="Sort">
+        <option value="score">Sort: Score</option><option value="recent">Sort: Newest signal</option>
+        <option value="value">Sort: Market value</option><option value="due">Sort: Taxes due</option>
+      </select>
+      <button class="btn primary" id="rExport">Export CSV</button>
+    </div>
+    <div class="chips" id="rChips" aria-label="Filter by signal type"></div>
+    <div class="subbar">
+      <span id="rCounter"></span>
+      <label><input type="checkbox" id="rStackedOnly"> Stacked only</label>
+      <label><input type="checkbox" id="rHideContacted"> Hide contacted</label>
+      <label><input type="checkbox" id="rAbsentee"> No homestead only</label>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead><tr>
+          <th>Score</th><th>Owner</th><th>Property</th><th>Signals</th><th>Value</th><th>Taxes due</th><th>Latest</th><th>Contacted</th>
+        </tr></thead>
+        <tbody id="rBody"></tbody>
+      </table>
+      <div class="more" id="rMore" hidden><button class="btn" id="rMoreBtn">Show more</button></div>
+      <div class="empty-state" id="rEmpty" hidden><strong>Nothing matches these filters</strong>Lower the minimum score or clear the signal filters.</div>
+    </div>
+  </section>
+
+  <!-- ============ TAX SUITS ============ -->
+  <section id="tab-suits" hidden>
+    <div class="controls">
+      <input type="search" id="sSearch" placeholder="Search defendant, case #, address…" aria-label="Search tax suits">
+      <select id="sYear" aria-label="Year filed"><option value="">All years</option></select>
+      <select id="sMatch" aria-label="Matched to a property">
+        <option value="">Matched + unmatched</option><option value="matched">Matched to a property</option><option value="unmatched">Not matched yet</option>
+      </select>
+      <button class="btn primary" id="sExport">Export CSV</button>
+    </div>
+    <div class="subbar"><span id="sCounter"></span><label><input type="checkbox" id="sDeceased"> Deceased defendant only</label></div>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th>Case</th><th>Filed</th><th>Defendants</th><th>Property</th><th>Taxes due</th><th>Court</th></tr></thead>
+        <tbody id="sBody"></tbody>
+      </table>
+      <div class="more" id="sMore" hidden><button class="btn" id="sMoreBtn">Show more</button></div>
+      <div class="empty-state" id="sEmpty" hidden><strong>No open tax suits loaded yet</strong>The court scraper fills this on its first run.</div>
+    </div>
+  </section>
+
+  <!-- ============ FEED ============ -->
+  <section id="tab-feed" hidden>
+    <div class="controls">
+      <input type="search" id="fSearch" placeholder="Search parties, legal description, doc #…" aria-label="Search filings">
+      <select id="fCat" aria-label="Type"><option value="">All types</option></select>
+      <select id="fMatch" aria-label="Match status">
+        <option value="">Any match</option><option value="matched">Matched</option><option value="review">Needs review</option>
+      </select>
+      <button class="btn primary" id="fExport">Export CSV</button>
+    </div>
+    <div class="subbar"><span id="fCounter"></span><span>Last 45 days of filings. "Needs review" = couldn't be tied to one parcel automatically.</span></div>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th>Date</th><th>Type</th><th>Parties</th><th>Legal / case</th><th>Match</th></tr></thead>
+        <tbody id="fBody"></tbody>
+      </table>
+      <div class="more" id="fMore" hidden><button class="btn" id="fMoreBtn">Show more</button></div>
+    </div>
+  </section>
+
+  <!-- ============ HOW ============ -->
+  <section id="tab-how" hidden class="howto">
+    <h2>How the 0–100 score works</h2>
+    <p>Every recorded document and court case is matched to an HCAD parcel. A parcel's score is the strongest signal in each
+       group, plus a bonus for each additional group stacked on the same property. Two filings about the same death
+       (say a probate case and an heirship affidavit) count once.</p>
+    <div class="table-scroll"><table><thead><tr><th>Signal</th><th>Group</th><th>Points</th></tr></thead><tbody id="howBody"></tbody></table></div>
+    <ul>
+      <li><b>Stacking:</b> +5 for each extra signal group on the same parcel (max +15).</li>
+      <li><b>Owner named deceased</b> in a heirship affidavit, probate, or tax suit: +10.</li>
+      <li><b>No homestead exemption</b> (likely absentee or rental): +5.</li>
+      <li><b>Delinquent taxes:</b> +5 if $5k+ prior-year due, +10 if $15k+.</li>
+      <li><b>Aging:</b> signals older than 1 year count 60%, older than 3 years 40%. Open tax suits and current delinquency never age.</li>
+    </ul>
+    <p><b>Match confidence.</b> <span class="match high">High</span> = the lot/block on the filing agrees with HCAD.
+       <span class="match medium">Medium</span> = the owner's name found exactly one parcel. Lower-confidence matches are
+       never scored — they show in <i>New filings → Needs review</i> with the candidate parcels.</p>
+    <p class="muted">Sources: Hidalgo County Clerk official records, Hidalgo County Odyssey court records, Hidalgo CAD, and the
+       county tax office. Unofficial copies; verify before acting on any single record.</p>
+  </section>
+
+  <footer class="note" id="statusNote"></footer>
+</div>
+
+<script>
+const CONTACT_KEY = 'htw_contacted_v1';   // shared with Tax Watch - contacted marks carry over by Geo ID
+let DATA = null, CATS = {}, CONTACTED = {};
+try { CONTACTED = JSON.parse(localStorage.getItem(CONTACT_KEY) || '{}'); } catch(e) { CONTACTED = {}; }
+function saveContacted(){ try { localStorage.setItem(CONTACT_KEY, JSON.stringify(CONTACTED)); } catch(e){} }
+
+const PAGE = 150;
+const shown = {r: PAGE, s: PAGE, f: PAGE};
+const activeCats = new Set();
+const openRows = new Set();
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const money = n => n ? '$' + Number(n).toLocaleString('en-US', {maximumFractionDigits:0}) : '—';
+const toDate = s => { if(!s) return 0; const m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})/); return m ? new Date(+m[3], m[1]-1, +m[2]).getTime() : new Date(s).getTime() || 0; };
+const fmtDate = s => { const t = toDate(s); return t ? new Date(t).toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'}) : '—'; };
+const cadUrl = (pid) => pid ? `https://hidalgo.prodigycad.com/property-detail/${encodeURIComponent(pid)}` : '';
+const group = c => (CATS[c] || {}).group || 'other';
+const label = c => (CATS[c] || {}).label || c;
+
+function tier(s){ return s >= 70 ? 't70' : s >= 50 ? 't50' : s >= 30 ? 't30' : ''; }
+
+async function load(){
+  try {
+    const res = await fetch('distress.json', {cache:'no-store'});
+    if(!res.ok) throw new Error();
+    DATA = await res.json();
+  } catch(e) {
+    $('rBody').innerHTML = '';
+    $('rEmpty').hidden = false;
+    $('rEmpty').innerHTML = '<strong>No data yet</strong>The Distress Watch workflow writes distress.json on its first run.';
+    return;
+  }
+  CATS = DATA.categories || {};
+  const s = DATA.summary || {};
+  $('updatedAt').textContent = 'Last run: ' + fmtDate(DATA.generated_at);
+  $('tProps').textContent = (s.properties || 0).toLocaleString();
+  $('t70').textContent = (s.score_70_plus || 0).toLocaleString();
+  $('tStacked').textContent = (s.stacked || 0).toLocaleString();
+  $('tSuits').textContent = (s.open_tax_suits || 0).toLocaleString();
+  $('cRanked').textContent = (s.properties || 0).toLocaleString();
+  $('cSuits').textContent = (s.open_tax_suits || 0).toLocaleString();
+  $('cFeed').textContent = (DATA.feed || []).length.toLocaleString();
+  const doneDates = Object.values(s.clerk_done_through || {}).sort();
+  $('statusNote').textContent =
+    `Clerk records indexed through ${s.clerk_certified_through || '—'}; scraper caught up through ${doneDates[0] || '—'}` +
+    (s.clerk_status === 'throttled' ? ' (portal throttled last run — resuming next run)' : '') +
+    `. ${(s.clerk_records||0).toLocaleString()} recorded documents, ${(s.court_cases||0).toLocaleString()} court cases, ${s.match_rate||0}% matched to a parcel.`;
+
+  // city + chips + selects
+  const cities = [...new Set(DATA.properties.map(p => p.city).filter(Boolean))].sort();
+  $('rCity').innerHTML += cities.map(c => `<option>${esc(c)}</option>`).join('');
+  const catCounts = {};
+  DATA.properties.forEach(p => p.categories.forEach(c => catCounts[c] = (catCounts[c]||0) + 1));
+  $('rChips').innerHTML = Object.keys(CATS).filter(c => catCounts[c]).map(c =>
+    `<button class="chip" data-cat="${c}">${esc(label(c))}<span class="n">${catCounts[c]}</span></button>`).join('');
+  const years = [...new Set(DATA.tax_suits.map(t => (t.filed||'').slice(-4)).filter(Boolean))].sort().reverse();
+  $('sYear').innerHTML += years.map(y => `<option>${y}</option>`).join('');
+  const feedCats = [...new Set(DATA.feed.map(f => f.category))];
+  $('fCat').innerHTML += feedCats.map(c => `<option value="${c}">${esc(label(c))}</option>`).join('');
+  $('howBody').innerHTML = Object.entries(CATS).map(([k, v]) =>
+    `<tr><td>${esc(v.label)}</td><td class="mono">${esc(v.group)}</td><td class="mono">${v.weight}</td></tr>`).join('');
+
+  renderRanked(); renderSuits(); renderFeed();
+}
+
+// ---------------- ranked ----------------
+function rankedRows(){
+  const q = $('rSearch').value.trim().toLowerCase();
+  const min = +$('rMin').value, city = $('rCity').value, sort = $('rSort').value;
+  let rows = DATA.properties.filter(p => p.score >= min);
+  if(city) rows = rows.filter(p => p.city === city);
+  if(activeCats.size) rows = rows.filter(p => p.categories.some(c => activeCats.has(c)));
+  if($('rStackedOnly').checked) rows = rows.filter(p => new Set(p.categories.map(group)).size >= 2);
+  if($('rHideContacted').checked) rows = rows.filter(p => !CONTACTED[p.geo_id]);
+  if($('rAbsentee').checked) rows = rows.filter(p => p.tax && p.tax.found && !p.tax.homestead);
+  if(q) rows = rows.filter(p => [p.owner, p.address, p.city, p.geo_id, p.legal, ...p.signals.map(s => s.parties)]
+                                  .join(' ').toLowerCase().includes(q));
+  const latest = p => Math.max(...p.signals.map(s => toDate(s.date)));
+  rows = rows.slice().sort((a, b) =>
+    sort === 'recent' ? latest(b) - latest(a) :
+    sort === 'value'  ? (b.market_value||0) - (a.market_value||0) :
+    sort === 'due'    ? ((b.tax||{}).total_due||0) - ((a.tax||{}).total_due||0) :
+    b.score - a.score || latest(b) - latest(a));
+  return rows;
+}
+
+function renderRanked(){
+  const rows = rankedRows();
+  $('rCounter').textContent = `${rows.length.toLocaleString()} properties`;
+  $('rEmpty').hidden = rows.length > 0;
+  $('rMore').hidden = rows.length <= shown.r;
+  const html = [];
+  rows.slice(0, shown.r).forEach(p => {
+    const tags = [...new Set(p.categories)].map(c => `<span class="tag g-${group(c)}">${esc(label(c))}</span>`).join('');
+    const latest = p.signals[0] ? fmtDate(p.signals[0].date) : '—';
+    const due = p.tax ? p.tax.total_due : 0;
+    const contacted = !!CONTACTED[p.geo_id];
+    html.push(`<tr class="main ${contacted ? 'is-contacted' : ''}" data-geo="${esc(p.geo_id)}">
+      <td data-label="Score"><span class="score ${tier(p.score)}">${p.score}</span></td>
+      <td data-label="Owner"><div class="owner">${esc(p.owner || '—')}</div>${p.tax && p.tax.owner_mailing ? `<div class="sub">Mail: ${esc(p.tax.owner_mailing)}</div>` : ''}</td>
+      <td data-label="Property">${esc(p.address || '—')}<div class="sub">${esc(p.city || '')}${p.city ? ' · ' : ''}<span class="mono">${esc(p.geo_id)}</span></div></td>
+      <td data-label="Signals">${tags}</td>
+      <td data-label="Value" class="mono">${money(p.market_value)}</td>
+      <td data-label="Taxes due" class="amount ${due ? 'owed' : ''}">${money(due)}</td>
+      <td data-label="Latest" class="mono">${latest}</td>
+      <td data-label="Contacted"><input type="checkbox" class="contact" data-geo="${esc(p.geo_id)}" ${contacted ? 'checked' : ''} aria-label="Mark contacted"></td>
+    </tr>`);
+    if(openRows.has(p.geo_id)) html.push(detailRow(p));
+  });
+  $('rBody').innerHTML = html.join('');
+}
+
+function detailRow(p){
+  const bd = p.breakdown.map(b => `<li><span>${esc(b.label)}</span><b>+${b.points}</b></li>`).join('');
+  const sigs = p.signals.map(s => `<div class="sig">
+      <div><b>${esc(s.label)}</b> <span class="muted">· ${esc(s.detail || '')}</span>
+        ${s.deceased ? '<span class="stamp-badge">Deceased</span>' : ''}</div>
+      <div class="when">${fmtDate(s.date)} · ${esc(s.source)}${s.ref ? ' · ' + (s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.ref)}</a>` : esc(s.ref)) : ''}
+        · <span class="match ${esc(s.confidence)}">${esc(s.confidence)} match</span></div>
+      ${s.parties ? `<div class="sub">${esc(s.parties)}</div>` : ''}
+    </div>`).join('');
+  const t = p.tax || {};
+  return `<tr class="detail"><td colspan="8"><div class="detail-grid">
+      <div><h3>Why ${p.score}</h3><ul class="breakdown">${bd}</ul>
+        <div class="facts">${esc(p.legal || '')}<br>
+          ${t.found ? `Prior-year due: ${money(t.prior_year_due)} · Total due: ${money(t.total_due)}<br>Exemptions: ${esc(t.exemptions || 'none')}<br>` : ''}
+          ${p.pid ? `<a href="${cadUrl(p.pid)}" target="_blank" rel="noopener">Open in HCAD ↗</a>` : ''}</div></div>
+      <div><h3>Signals</h3>${sigs}</div></div></td></tr>`;
+}
+
+$('rBody').addEventListener('click', e => {
+  if(e.target.closest('a, input')) return;
+  const tr = e.target.closest('tr.main'); if(!tr) return;
+  const g = tr.dataset.geo; openRows.has(g) ? openRows.delete(g) : openRows.add(g);
+  renderRanked();
+});
+$('rBody').addEventListener('change', e => {
+  if(!e.target.classList.contains('contact')) return;
+  CONTACTED[e.target.dataset.geo] = e.target.checked; saveContacted();
+  e.target.closest('tr').classList.toggle('is-contacted', e.target.checked);
+});
+$('rChips').addEventListener('click', e => {
+  const b = e.target.closest('.chip'); if(!b) return;
+  const c = b.dataset.cat; activeCats.has(c) ? activeCats.delete(c) : activeCats.add(c);
+  b.classList.toggle('on'); shown.r = PAGE; renderRanked();
+});
+['rSearch','rMin','rCity','rSort','rStackedOnly','rHideContacted','rAbsentee'].forEach(id =>
+  $(id).addEventListener(id === 'rSearch' ? 'input' : 'change', () => { shown.r = PAGE; renderRanked(); }));
+$('rMoreBtn').onclick = () => { shown.r += PAGE; renderRanked(); };
+
+// ---------------- tax suits ----------------
+function suitRows(){
+  const q = $('sSearch').value.trim().toLowerCase(), y = $('sYear').value, m = $('sMatch').value;
+  let rows = DATA.tax_suits;
+  if(y) rows = rows.filter(t => (t.filed||'').endsWith(y));
+  if(m === 'matched') rows = rows.filter(t => t.geo_id);
+  if(m === 'unmatched') rows = rows.filter(t => !t.geo_id);
+  if($('sDeceased').checked) rows = rows.filter(t => t.deceased);
+  if(q) rows = rows.filter(t => [t.case_number, t.defendants, t.address, t.city, t.geo_id].join(' ').toLowerCase().includes(q));
+  return rows;
+}
+function renderSuits(){
+  const rows = suitRows();
+  $('sCounter').textContent = `${rows.length.toLocaleString()} open tax suits`;
+  $('sEmpty').hidden = DATA.tax_suits.length > 0;
+  $('sMore').hidden = rows.length <= shown.s;
+  $('sBody').innerHTML = rows.slice(0, shown.s).map(t => `<tr>
+    <td data-label="Case" class="mono"><a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.case_number)}</a><div class="sub">${esc(t.status)}</div></td>
+    <td data-label="Filed" class="mono">${fmtDate(t.filed)}</td>
+    <td data-label="Defendants">${esc(t.defendants)} ${t.deceased ? '<span class="stamp-badge">Deceased</span>' : ''}</td>
+    <td data-label="Property">${t.geo_id ? `${esc(t.address || '—')}<div class="sub">${esc(t.city||'')} <span class="mono">${esc(t.geo_id)}</span> · <span class="match ${esc(t.match)}">${esc(t.match)}</span></div>` : '<span class="muted">Not matched yet</span>'}</td>
+    <td data-label="Taxes due" class="amount ${t.total_due ? 'owed' : ''}">${money(t.total_due)}</td>
+    <td data-label="Court" class="sub">${esc(t.court)}</td></tr>`).join('');
+}
+['sSearch','sYear','sMatch','sDeceased'].forEach(id =>
+  $(id).addEventListener(id === 'sSearch' ? 'input' : 'change', () => { shown.s = PAGE; renderSuits(); }));
+$('sMoreBtn').onclick = () => { shown.s += PAGE; renderSuits(); };
+
+// ---------------- feed ----------------
+function feedRows(){
+  const q = $('fSearch').value.trim().toLowerCase(), c = $('fCat').value, m = $('fMatch').value;
+  let rows = DATA.feed;
+  if(c) rows = rows.filter(f => f.category === c);
+  if(m === 'matched') rows = rows.filter(f => f.match === 'high' || f.match === 'medium');
+  if(m === 'review') rows = rows.filter(f => !(f.match === 'high' || f.match === 'medium'));
+  if(q) rows = rows.filter(f => [f.parties, f.legal, f.ref, f.doc_type, f.geo_id].join(' ').toLowerCase().includes(q));
+  return rows;
+}
+function renderFeed(){
+  const rows = feedRows();
+  $('fCounter').textContent = `${rows.length.toLocaleString()} filings`;
+  $('fMore').hidden = rows.length <= shown.f;
+  $('fBody').innerHTML = rows.slice(0, shown.f).map(f => `<tr>
+    <td data-label="Date" class="mono">${fmtDate(f.date)}<div class="sub">${esc(f.source)}</div></td>
+    <td data-label="Type"><span class="tag g-${group(f.category)}">${esc(f.label)}</span><div class="sub">${esc(f.doc_type)}</div></td>
+    <td data-label="Parties">${esc(f.parties)}</td>
+    <td data-label="Legal / case">${esc(f.legal || '')}<div class="sub mono">${f.url ? `<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.ref)}</a>` : esc(f.ref)}</div></td>
+    <td data-label="Match"><span class="match ${esc(f.match)}">${esc(f.match)}</span>${f.geo_id ? `<div class="sub mono">${esc(f.geo_id)}</div>` :
+       (f.candidates && f.candidates.length ? `<div class="sub mono">${f.candidates.map(esc).join('<br>')}</div>` : '')}</td></tr>`).join('');
+}
+['fSearch','fCat','fMatch'].forEach(id =>
+  $(id).addEventListener(id === 'fSearch' ? 'input' : 'change', () => { shown.f = PAGE; renderFeed(); }));
+$('fMoreBtn').onclick = () => { shown.f += PAGE; renderFeed(); };
+
+// ---------------- tabs ----------------
+document.querySelectorAll('nav.tabs button').forEach(b => b.onclick = () => {
+  document.querySelectorAll('nav.tabs button').forEach(x => x.classList.toggle('active', x === b));
+  ['ranked','suits','feed','how'].forEach(t => $('tab-' + t).hidden = t !== b.dataset.tab);
+});
+
+// ---------------- CSV export (GoHighLevel-friendly columns) ----------------
+function csv(rows, cols){
+  const q = v => { const s = String(v ?? ''); return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
+  return [cols.map(c => q(c[0])).join(','), ...rows.map(r => cols.map(c => q(c[1](r))).join(','))].join('\n');
+}
+function download(name, text){
+  const blob = new Blob(['﻿' + text], {type:'text/csv;charset=utf-8'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+}
+function splitOwner(o){
+  const n = (o || '').split('&')[0].trim().split(/\s+/);
+  return {last: n[0] || '', first: n[1] || ''};
+}
+function parseMail(m){
+  const r = (m || '').match(/^(.*?)\s+([A-Z .'-]+?)\s*,?\s+(TX|[A-Z]{2})\s+(\d{5})/i);
+  return r ? {street: r[1], city: r[2], state: r[3], zip: r[4]} : {street: m || '', city: '', state: '', zip: ''};
+}
+const stamp = () => new Date().toISOString().slice(0, 10);
+
+$('rExport').onclick = () => {
+  const rows = rankedRows();
+  download(`distress-ranked-${stamp()}.csv`, csv(rows, [
+    ['First Name', p => splitOwner(p.owner).first], ['Last Name', p => splitOwner(p.owner).last],
+    ['Owner Name', p => p.owner], ['Property Address', p => p.address], ['Property City', p => p.city],
+    ['Property State', () => 'TX'],
+    ['Mailing Address', p => parseMail((p.tax||{}).owner_mailing).street], ['Mailing City', p => parseMail((p.tax||{}).owner_mailing).city],
+    ['Mailing State', p => parseMail((p.tax||{}).owner_mailing).state], ['Mailing Zip', p => parseMail((p.tax||{}).owner_mailing).zip],
+    ['Geo ID', p => p.geo_id], ['Distress Score', p => p.score],
+    ['Signals', p => [...new Set(p.categories.map(label))].join('; ')],
+    ['Latest Signal', p => p.signals[0] ? p.signals[0].date : ''],
+    ['Market Value', p => p.market_value], ['Taxes Due', p => (p.tax||{}).total_due || 0],
+    ['Homestead', p => p.tax && p.tax.found ? (p.tax.homestead ? 'Yes' : 'No') : ''],
+    ['Owner Deceased', p => p.signals.some(s => s.deceased) ? 'Yes' : ''],
+    ['Notes', p => p.breakdown.map(b => `${b.label} +${b.points}`).join('; ')],
+  ]));
+};
+$('sExport').onclick = () => download(`open-tax-suits-${stamp()}.csv`, csv(suitRows(), [
+  ['Case Number', t => t.case_number], ['Filed', t => t.filed], ['Court', t => t.court], ['Status', t => t.status],
+  ['Defendants', t => t.defendants], ['Deceased Defendant', t => t.deceased ? 'Yes' : ''],
+  ['Geo ID', t => t.geo_id || ''], ['Property Address', t => t.address], ['City', t => t.city],
+  ['Market Value', t => t.market_value || ''], ['Taxes Due', t => t.total_due ?? ''], ['Case Link', t => t.url],
+]));
+$('fExport').onclick = () => download(`new-filings-${stamp()}.csv`, csv(feedRows(), [
+  ['Date', f => f.date], ['Source', f => f.source], ['Signal', f => f.label], ['Doc Type', f => f.doc_type],
+  ['Parties', f => f.parties], ['Legal', f => f.legal], ['Doc / Case #', f => f.ref], ['Link', f => f.url],
+  ['Geo ID', f => f.geo_id || ''], ['Match', f => f.match], ['Candidates', f => (f.candidates||[]).join(' ')],
+]));
+
+load();
+</script>
+</body>
+</html>
