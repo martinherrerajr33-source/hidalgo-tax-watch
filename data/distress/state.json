@@ -5,15 +5,15 @@
   "done_through": {},
   "last_debug": [
    {
-    "at": "2026-10-15T19:06:16+00:00",
+    "at": "2026-10-15T19:09:18+00:00",
     "rejected": "",
     "rows": 0,
     "timedOut": false,
     "total": 0,
-    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20260929%2C20261012&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
+    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20261010%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
    },
    {
-    "at": "2026-10-15T19:06:33+00:00",
+    "at": "2026-10-15T19:09:38+00:00",
     "rejected": "",
     "rows": 0,
     "timedOut": false,
@@ -21,7 +21,7 @@
     "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20261012%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=heirship"
    }
   ],
-  "last_run": "2026-10-15T19:06:33.948263+00:00",
+  "last_run": "2026-10-15T19:09:38.718316+00:00",
   "last_searches": 2,
   "last_status": "throttled"
  },
