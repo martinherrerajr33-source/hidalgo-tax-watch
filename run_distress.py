@@ -119,6 +119,71 @@ def run_clerk(budget: int, backfill_days: int) -> None:
     log(f"Clerk: {sc.searches} searches, {added} new records, {len(records)} total. Status: {status}")
 
 
+# ============================================================== clerk exports
+
+EXPORT_DIR = "input/clerk_exports"
+_EXPORT_COLS = {
+    "grantor": "grantor", "grantors": "grantor", "grantor name": "grantor",
+    "grantee": "grantee", "grantees": "grantee", "grantee name": "grantee",
+    "doc type": "doc_type", "document type": "doc_type", "instrument type": "doc_type", "type": "doc_type",
+    "recorded date": "recorded", "recorded": "recorded", "record date": "recorded", "file date": "recorded",
+    "doc number": "doc_number", "document number": "doc_number", "instrument number": "doc_number",
+    "doc #": "doc_number", "doc no": "doc_number", "instrument #": "doc_number",
+    "legal description": "legal", "legal": "legal", "legal desc": "legal",
+}
+
+
+def import_clerk_exports() -> int:
+    """Read CSVs exported from the clerk portal ('Export all Results') into clerk_records.
+
+    The portal returns empty results to automated browsers, so clerk filings come
+    in this way: run the searches in a normal browser, export, and drop the CSV in
+    input/clerk_exports/ (GitHub web upload works - it triggers a refresh).
+    """
+    import csv
+    from pathlib import Path
+    from distress.clerk import categorize
+
+    files = sorted(Path(EXPORT_DIR).glob("*.csv"))
+    if not files:
+        return 0
+    records = store.load("clerk_records")
+    added = 0
+    for f in files:
+        with f.open(newline="", encoding="utf-8-sig") as fh:
+            reader = csv.DictReader(fh)
+            cols = {c: _EXPORT_COLS.get(re.sub(r"\s+", " ", (c or "").strip().lower())) for c in reader.fieldnames or []}
+            if "doc_type" not in cols.values() or "doc_number" not in cols.values():
+                log(f"  {f.name}: skipped - no Doc Type / Doc Number columns (found {reader.fieldnames})")
+                continue
+            for raw in reader:
+                row = {"grantor": "", "grantee": "", "doc_type": "", "recorded": "", "doc_number": "", "legal": ""}
+                for c, key in cols.items():
+                    if key and raw.get(c):
+                        row[key] = (row[key] + "; " if row[key] else "") + raw[c].strip()
+                d = row["recorded"][:10]
+                for fmt in ("%m/%d/%Y", "%Y-%m-%d", "%m/%d/%y"):
+                    try:
+                        row["recorded"] = datetime.strptime(d, fmt).strftime("%m/%d/%Y")
+                        break
+                    except ValueError:
+                        continue
+                cat = categorize(row["doc_type"], row["grantor"], row["grantee"])
+                if not cat or not row["doc_number"] or row["doc_number"] in records:
+                    continue
+                records[row["doc_number"]] = {
+                    "doc_id": "", "doc_number": row["doc_number"], "doc_type": row["doc_type"], "category": cat,
+                    "recorded": row["recorded"], "grantor": row["grantor"], "grantee": row["grantee"],
+                    "legal": row["legal"], "department": "RP", "keyword": "export",
+                    "first_seen": TODAY.isoformat(), "url": "",
+                }
+                added += 1
+        log(f"  {f.name}: read")
+    store.save("clerk_records", records)
+    log(f"Clerk exports: {added} new signal records from {len(files)} file(s)")
+    return added
+
+
 # ============================================================== court
 
 def run_court(full_taxsuits: bool) -> None:
@@ -432,7 +497,9 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("job", choices=["clerk", "court", "build", "all"])
+    ap.add_argument("job", choices=["clerk", "court", "build", "all"],
+                    help="all = court + clerk CSV exports + build. The clerk scraper only runs "
+                         "when asked for by name (the portal blanks automated searches).")
     ap.add_argument("--budget", type=int, default=120, help="max clerk searches this run")
     ap.add_argument("--backfill-days", type=int, default=90, help="how far back the clerk scraper starts")
     ap.add_argument("--full-taxsuits", action="store_true", help="force a full walk of open tax suits")
@@ -454,7 +521,9 @@ def main() -> None:
             st["court"]["last_error_at"] = datetime.now(timezone.utc).isoformat()
             store.save("state", st)
             failed.append("court")
-    if args.job in ("clerk", "all"):
+    if args.job in ("all", "build"):
+        import_clerk_exports()
+    if args.job == "clerk":
         try:
             run_clerk(args.budget, args.backfill_days)
         except Exception as exc:  # noqa: BLE001

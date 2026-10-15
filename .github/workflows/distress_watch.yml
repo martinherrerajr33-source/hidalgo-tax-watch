@@ -7,6 +7,10 @@ name: Distress Watch
 on:
   schedule:
     - cron: "17 10 * * *"   # ~5am Central, after the subdivision crawl and before the tax check
+  # Uploading a clerk export CSV kicks off a refresh
+  push:
+    paths:
+      - "input/clerk_exports/**"
   workflow_dispatch:
     inputs:
       job:

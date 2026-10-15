@@ -111,6 +111,12 @@
   .howto{max-width:760px; line-height:1.6; font-size:14px;}
   .howto h2{font-family:'Fraunces',serif; color:var(--ledger-dark);}
   .howto table{min-width:0;}
+  .pull-box{background:var(--paper-raised); border:1px solid var(--line); border-left:4px solid var(--brass);
+    padding:12px 16px; margin-bottom:16px; font-size:13.5px; line-height:1.5;}
+  .pull-links{display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;}
+  .pull-links a{font-family:'IBM Plex Mono',monospace; font-size:11.5px; padding:5px 9px; border:1px solid var(--line);
+    background:var(--paper); color:var(--ledger-dark); text-decoration:none; border-radius:2px;}
+  .pull-links a:hover{border-color:var(--brass);}
   footer.note{margin-top:18px; font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
   [hidden]{display:none !important;}
 
@@ -206,6 +212,13 @@
 
   <!-- ============ FEED ============ -->
   <section id="tab-feed" hidden>
+    <div class="pull-box">
+      <b>Add clerk filings.</b> The clerk site only shows results in a normal browser, so pull them by hand:
+      open each search below, click <i>Export all Results</i>, and upload the CSVs to
+      <a href="https://github.com/martinherrerajr33-source/hidalgo-tax-watch/upload/main/input/clerk_exports" target="_blank" rel="noopener">input/clerk_exports</a>.
+      The dashboard refreshes on its own after the upload.
+      <div class="pull-links" id="pullLinks"></div>
+    </div>
     <div class="controls">
       <input type="search" id="fSearch" placeholder="Search parties, legal description, doc #…" aria-label="Search filings">
       <select id="fCat" aria-label="Type"><option value="">All types</option></select>
@@ -452,6 +465,18 @@ function renderFeed(){
 ['fSearch','fCat','fMatch'].forEach(id =>
   $(id).addEventListener(id === 'fSearch' ? 'input' : 'change', () => { shown.f = PAGE; renderFeed(); }));
 $('fMoreBtn').onclick = () => { shown.f += PAGE; renderFeed(); };
+
+// ---------------- clerk search links (last 7 days) ----------------
+(function(){
+  const pad = n => String(n).padStart(2, '0');
+  const ymd = d => `${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}`;
+  const end = new Date(), start = new Date(Date.now() - 7*864e5);
+  const searches = [['heirship','RP'],['will','RP'],['probate','RP'],['testament','RP'],['pendens','RP'],
+                    ['lien','RP'],['judgment','RP'],['judgement','RP'],['trustee','RP'],['bankruptcy','RP'],
+                    ['foreclosure','FC']];
+  $('pullLinks').innerHTML = searches.map(([kw, dept]) =>
+    `<a target="_blank" rel="noopener" href="https://hidalgo.tx.publicsearch.us/results?department=${dept}&limit=50&offset=0&recordedDateRange=${ymd(start)}%2C${ymd(end)}&searchOcrText=false&searchType=quickSearch&searchValue=${kw}">${kw}</a>`).join('');
+})();
 
 // ---------------- tabs ----------------
 document.querySelectorAll('nav.tabs button').forEach(b => b.onclick = () => {
