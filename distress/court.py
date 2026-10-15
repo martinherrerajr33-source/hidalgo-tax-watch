@@ -160,6 +160,56 @@ def build_case(row: dict, kind: str) -> CourtCase:
     )
 
 
+def ca_bundle_with_missing_intermediates(host: str) -> str:
+    """The Odyssey server doesn't send its intermediate certificate. Browsers fetch it
+    themselves (from the URL inside the certificate, "AIA"); Python doesn't, so every
+    request fails with CERTIFICATE_VERIFY_FAILED. Do the same thing a browser does:
+    read the server's certificate, download its issuer(s) from the AIA URL, and add
+    them to the normal trusted bundle. Verification stays fully on.
+    """
+    import socket
+    import ssl
+    import tempfile
+    import urllib.request
+
+    import certifi
+    from cryptography import x509
+    from cryptography.hazmat.primitives import serialization
+    from cryptography.x509.oid import AuthorityInformationAccessOID, ExtensionOID
+
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE   # only to READ the leaf certificate; nothing is sent
+    with socket.create_connection((host, 443), timeout=30) as sock:
+        with ctx.wrap_socket(sock, server_hostname=host) as tls:
+            der = tls.getpeercert(binary_form=True)
+    cert = x509.load_der_x509_certificate(der)
+    extra = []
+    for _ in range(3):
+        try:
+            aia = cert.extensions.get_extension_for_oid(ExtensionOID.AUTHORITY_INFORMATION_ACCESS).value
+        except x509.ExtensionNotFound:
+            break
+        urls = [d.access_location.value for d in aia if d.access_method == AuthorityInformationAccessOID.CA_ISSUERS]
+        if not urls:
+            break
+        data = urllib.request.urlopen(urls[0], timeout=30).read()
+        try:
+            issuer = x509.load_der_x509_certificate(data)
+        except ValueError:
+            issuer = x509.load_pem_x509_certificate(data)
+        extra.append(issuer.public_bytes(serialization.Encoding.PEM))
+        if issuer.issuer == issuer.subject:
+            break
+        cert = issuer
+    with open(certifi.where(), "rb") as f:
+        bundle = f.read()
+    tmp = tempfile.NamedTemporaryFile("wb", suffix=".pem", delete=False)
+    tmp.write(bundle + b"\n" + b"".join(extra))
+    tmp.close()
+    return tmp.name
+
+
 class OdysseyClient:
     def __init__(self, delay_seconds: float = 2.0, timeout: int = 60, max_retries: int = 3):
         self.s = requests.Session()
@@ -190,7 +240,11 @@ class OdysseyClient:
 
     def _open_session(self):
         self.s.cookies.clear()
-        self.s.get(f"{BASE}/default.aspx", timeout=self.timeout)
+        try:
+            self.s.get(f"{BASE}/default.aspx", timeout=self.timeout)
+        except requests.exceptions.SSLError:
+            self.s.verify = ca_bundle_with_missing_intermediates("pa.co.hidalgo.tx.us")
+            self.s.get(f"{BASE}/default.aspx", timeout=self.timeout)
         self.s.post(f"{BASE}/Search.aspx?ID=200",
                     data={"NodeID": ALL_COURTS_NODES, "NodeDesc": "All Courts"}, timeout=self.timeout)
         self._ready = True
