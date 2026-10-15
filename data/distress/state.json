@@ -5,25 +5,23 @@
   "done_through": {},
   "last_debug": [
    {
-    "body": "No results found for bankruptcy + 09/29/2026-10/12/2026\nSkip To Header Nav\nSkip To Workspace Tabs\nSkip To Main Content\nTHE COUNTY OF\nHidalgo\nCOUNTY CLERK\nArturo Guajardo, Jr\nProperty Alert\n\nCart\n\n0\n\nRegister\nHelp\nSign In\nNEW SEARCH\nRESULTS\nNo Results Found\n\nYour search for \"bankruptcy + 09/29/2026-10/12/2026\" returned no results.\n\nSuggestions:\nMake sure all names are spelled correctly\nTry different name variations\nTry broadening your search\nTry fewer keywords\nSee our friendly\nHelp Guide\nEdit Search Criteria\nDownload No Results Report\n© 2026 Hidalgo County, Texas. All Rights Reserved\nPowered By",
-    "noResults": true,
+    "at": "2026-10-15T19:06:16+00:00",
+    "rejected": "",
     "rows": 0,
     "timedOut": false,
-    "title": "Loading Search Results...",
-    "total": null,
-    "url": "https://hidalgo.tx.publicsearch.us/results?department=RP&limit=50&offset=0&recordedDateRange=20260929%2C20261012&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
+    "total": 0,
+    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20260929%2C20261012&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
    },
    {
-    "body": "No results found for heirship + 10/12/2026-10/13/2026\nSkip To Header Nav\nSkip To Workspace Tabs\nSkip To Main Content\nTHE COUNTY OF\nHidalgo\nCOUNTY CLERK\nArturo Guajardo, Jr\nProperty Alert\n\nCart\n\n0\n\nRegister\nHelp\nSign In\nNEW SEARCH\nRESULTS\nNo Results Found\n\nYour search for \"heirship + 10/12/2026-10/13/2026\" returned no results.\n\nSuggestions:\nMake sure all names are spelled correctly\nTry different name variations\nTry broadening your search\nTry fewer keywords\nSee our friendly\nHelp Guide\nEdit Search Criteria\nDownload No Results Report\n© 2026 Hidalgo County, Texas. All Rights Reserved\nPowered By",
-    "noResults": true,
+    "at": "2026-10-15T19:06:33+00:00",
+    "rejected": "",
     "rows": 0,
     "timedOut": false,
-    "title": "Loading Search Results...",
-    "total": null,
-    "url": "https://hidalgo.tx.publicsearch.us/results?department=RP&limit=50&offset=0&recordedDateRange=20261012%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=heirship"
+    "total": 0,
+    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20261012%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=heirship"
    }
   ],
-  "last_run": "2026-10-15T18:18:53.111593+00:00",
+  "last_run": "2026-10-15T19:06:33.948263+00:00",
   "last_searches": 2,
   "last_status": "throttled"
  },
