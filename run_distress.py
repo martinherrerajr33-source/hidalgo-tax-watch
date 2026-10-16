@@ -242,7 +242,22 @@ def run_court(full_taxsuits: bool) -> None:
 # ============================================================== build
 
 _HOMESTEAD_RE = re.compile(r"\bHS\b|HOMESTEAD|HOMESTD|\bHMSTD\b", re.I)
-_LAWSUIT_NONE = re.compile(r"^\s*(NO|NONE|N/A)?\s*$", re.I)
+_CASE_RE = re.compile(r"\bT-?(\d{3,4})-?(\d{2})-?([A-Z0-9])\b", re.I)
+
+
+def case_numbers(field: str) -> list[str]:
+    """Tax-office 'Active Lawsuits' field -> ['T-1086-26-B', ...] (the raw field also carries page junk)."""
+    out = []
+    for a, b, c in _CASE_RE.findall(field or ""):
+        n = f"T-{int(a):04d}-{b}-{c.upper()}"
+        if n not in out:
+            out.append(n)
+    return out
+
+
+def norm_case(n: str) -> str:
+    found = case_numbers(n)
+    return found[0] if found else (n or "").upper()
 
 
 def clerk_people(rec: dict) -> list[Person]:
@@ -323,7 +338,68 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
     store.save("matches", matches)
     store.save("parcels", parcels)
 
-    # ---- 2. gather signals per parcel ------------------------------
+    # ---- 2. tax status for matched parcels -------------------------
+    matched_geos = {m["geo_id"] for m in matches.values() if m.get("confidence") in ("high", "medium")}
+    stale = [g for g in matched_geos if g not in taxes or
+             (TODAY - date.fromisoformat(taxes[g].get("checked", "2000-01-01"))).days >= 7]
+    stale.sort(key=lambda g: g in taxes)   # never-checked first
+    if stale:
+        log(f"Build: tax-checking {min(len(stale), tax_budget)} of {len(stale)} parcels")
+        checker = HidalgoTaxChecker()
+        for i, g in enumerate(stale[:tax_budget], 1):
+            r = checker.check(g)
+            if r.status == "error":
+                continue
+            taxes[g] = {
+                "checked": TODAY.isoformat(), "found": r.found, "status": r.status,
+                "prior_year_due": r.prior_year_amount_due, "total_due": r.total_amount_due,
+                "lawsuits": case_numbers(r.active_lawsuits), "exemptions": r.exemptions,
+                "homestead": bool(_HOMESTEAD_RE.search(r.exemptions or "")),
+                "owner_mailing": r.owner_address, "owner_name": r.owner_name,
+            }
+            if i % 100 == 0:
+                store.save("tax_status", taxes)
+        store.save("tax_status", taxes)
+    for t in taxes.values():   # older entries stored the raw field
+        if "lawsuits" not in t:
+            t["lawsuits"] = case_numbers(t.pop("active_lawsuits", ""))
+
+    # ---- 3. let the tax office settle which parcel a tax suit is about ----
+    # The tax office lists the suit's cause number on the parcel it's about.
+    # That beats any name match, and it catches name matches that picked the
+    # owner's other property.
+    by_number = {norm_case(c["case_number"]): cid for cid, c in court.items() if c.get("kind") == "tax_suit"}
+    confirmed = demoted = 0
+    suit_geo: dict[str, str] = {}
+    for g, t in taxes.items():
+        for num in t.get("lawsuits", []):
+            cid = by_number.get(norm_case(num))
+            if cid:
+                suit_geo[cid] = g
+    for cid, g in suit_geo.items():
+        ref = f"court:{cid}"
+        m = matches.get(ref, {})
+        if m.get("geo_id") != g or m.get("confidence") != "high":
+            matches[ref] = {"geo_id": g, "confidence": "high", "method": "tax-office", "person": "",
+                            "n_candidates": 1, "tried": TODAY.isoformat(), "candidates": []}
+            confirmed += 1
+    for ref, m in matches.items():
+        if not ref.startswith("court:") or m.get("confidence") != "medium":
+            continue
+        cid = ref.split(":", 1)[1]
+        if court.get(cid, {}).get("kind") != "tax_suit" or cid in suit_geo:
+            continue
+        t = taxes.get(m["geo_id"])
+        if t and t.get("found") and (t.get("lawsuits") or t.get("prior_year_due", 0) <= 0):
+            # parcel is current on taxes, or is in a *different* suit - wrong parcel
+            m["confidence"] = "low"
+            m["method"] = "rejected-by-tax-office"
+            m.setdefault("candidates", [m["geo_id"]])
+            demoted += 1
+    log(f"Build: tax office confirmed {confirmed} suit-to-parcel links, rejected {demoted} name matches")
+    store.save("matches", matches)
+
+    # ---- 3b. gather signals per parcel -----------------------------
     signals: dict[str, list[dict]] = {}
 
     def add(geo: str, sig: dict):
@@ -356,26 +432,6 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
             "deceased": bool(case.get("any_deceased")), "confidence": m["confidence"],
         })
 
-    # ---- 3. tax status for matched parcels -------------------------
-    stale = [g for g in signals if g not in taxes or
-             (TODAY - date.fromisoformat(taxes[g].get("checked", "2000-01-01"))).days >= 7]
-    stale.sort(key=lambda g: g in taxes)   # never-checked first
-    if stale:
-        log(f"Build: tax-checking {min(len(stale), tax_budget)} of {len(stale)} parcels")
-        checker = HidalgoTaxChecker()
-        for g in stale[:tax_budget]:
-            r = checker.check(g)
-            if r.status == "error":
-                continue
-            taxes[g] = {
-                "checked": TODAY.isoformat(), "found": r.found, "status": r.status,
-                "prior_year_due": r.prior_year_amount_due, "total_due": r.total_amount_due,
-                "active_lawsuits": r.active_lawsuits, "exemptions": r.exemptions,
-                "homestead": bool(_HOMESTEAD_RE.search(r.exemptions or "")),
-                "owner_mailing": r.owner_address, "owner_name": r.owner_name,
-            }
-        store.save("tax_status", taxes)
-
     for g, t in taxes.items():
         if g not in signals:
             continue
@@ -384,11 +440,11 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
                     "label": "Delinquent taxes", "detail": f'${t["prior_year_due"]:,.0f} prior-year due',
                     "amount": t["prior_year_due"], "ref": "", "url": "", "parties": "", "deceased": False,
                     "confidence": "high"})
-        lawsuits = t.get("active_lawsuits") or ""
-        if not _LAWSUIT_NONE.match(lawsuits) and not any(s["category"] == "tax_suit" for s in signals[g]):
+        nums = t.get("lawsuits") or []
+        if nums and not any(s["category"] == "tax_suit" for s in signals[g]):
             add(g, {"category": "tax_suit", "source": "tax", "date": t["checked"],
-                    "label": "Open tax suit", "detail": f"Tax office: {lawsuits[:80]}",
-                    "ref": "", "url": "", "parties": "", "deceased": False, "confidence": "high"})
+                    "label": "Open tax suit", "detail": "Tax office lists suit " + ", ".join(nums),
+                    "ref": nums[0], "url": "", "parties": "", "deceased": False, "confidence": "high"})
 
     # ---- 4. score + write dashboard --------------------------------
     props = []
