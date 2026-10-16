@@ -135621,6 +135621,165 @@
   "style": "IN THE MATTER OF THE MARRIAGE OF MANUEL RAMOS VS. FRANCISCA RAMOS",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095847"
  },
+ "5095886": {
+  "any_deceased": true,
+  "case_id": "5095886",
+  "case_number": "P1-44269",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "probate",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "ANDREW",
+    "last": "EISENBERG",
+    "middle": "C",
+    "raw": "ANDREW C. EISENBERG"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of ANDREW C. EISENBERG Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095886"
+ },
+ "5095923": {
+  "any_deceased": false,
+  "case_id": "5095923",
+  "case_number": "F-4008-26-1",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #1",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "divorce",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "LEONARD",
+    "last": "WINKLER",
+    "middle": "",
+    "raw": "LEONARD WINKLER"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "RUTH",
+    "last": "WINKLER",
+    "middle": "",
+    "raw": "RUTH WINKLER"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF LEONARD WINKLER VS. RUTH WINKLER",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095923"
+ },
+ "5095934": {
+  "any_deceased": false,
+  "case_id": "5095934",
+  "case_number": "F-4010-26-G",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "370th District Court",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "divorce",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [
+     "LIRA"
+    ],
+    "deceased": false,
+    "first": "AYLIN",
+    "last": "VILLANUEVA",
+    "middle": "GEORGETTE LIRA",
+    "raw": "AYLIN GEORGETTE LIRA VILLANUEVA"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "JOHNATHON",
+    "last": "RAMIREZ",
+    "middle": "",
+    "raw": "JOHNATHON RAMIREZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF AYLIN GEORGETTE LIRA VILLANUEVA VS. JOHNATHON RAMIREZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095934"
+ },
+ "5095989": {
+  "any_deceased": false,
+  "case_id": "5095989",
+  "case_number": "F-4012-26-E",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "275th District Court",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "divorce",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "ALONDRA",
+    "last": "TORRES",
+    "middle": "",
+    "raw": "ALONDRA TORRES"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "DIEGO",
+    "last": "BOLANOS",
+    "middle": "",
+    "raw": "DIEGO BOLANOS"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF ALONDRA TORRES VS. DIEGO BOLANOS",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095989"
+ },
+ "5096041": {
+  "any_deceased": false,
+  "case_id": "5096041",
+  "case_number": "F-4014-26-I",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "398th District Court",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "divorce",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "YVETTE",
+    "last": "MARTINEZ",
+    "middle": "",
+    "raw": "YVETTE MARTINEZ"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "REYNALDO",
+    "last": "MARTINEZ",
+    "middle": "",
+    "raw": "REYNALDO MARTINEZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF YVETTE MARTINEZ VS. REYNALDO MARTINEZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5096041"
+ },
  "520303": {
   "any_deceased": false,
   "case_id": "520303",
