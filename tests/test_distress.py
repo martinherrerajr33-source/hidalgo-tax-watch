@@ -91,6 +91,10 @@ def test_clerk_categories():
     assert categorize("WILL") == "will_probate"
     assert categorize("LETTERS OF TESTAMENT") == "will_probate"
     assert categorize("WARRANTY DEED") is None
+    assert categorize("TRANSFER TX LIEN") == "tax_loan"
+    assert categorize("TRANSFER OF LIEN") is None
+    assert categorize("APPOINT SUB TTEE") == "pre_foreclosure"
+    assert categorize("REL OF JUDGEMENT") is None
 
 
 def test_legal_descriptions_match():

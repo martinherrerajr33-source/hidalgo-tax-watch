@@ -101,8 +101,15 @@ DOC_RULES: list[tuple[str, re.Pattern]] = [
 _GOV_GRANTOR = re.compile(r"^(CITY|TOWN|VILLAGE) OF\b|\bCITY OF\b", re.I)
 
 
+# A property-tax loan: the owner fell behind on property taxes and a lender paid
+# them off in exchange for a lien (Tex. Tax Code 32.06). Recorded as a "transfer".
+_TAX_LOAN = re.compile(r"^(TRANSFER TX LIEN|TRANSFER OF TAX L|TRANSFER TAX LIEN)", re.I)
+
+
 def categorize(doc_type: str, grantor: str = "", grantee: str = "") -> str | None:
     dt = (doc_type or "").strip()
+    if _TAX_LOAN.search(dt):
+        return "tax_loan"
     if not dt or _NOT_A_SIGNAL.search(dt):
         return None
     for cat, rx in DOC_RULES:

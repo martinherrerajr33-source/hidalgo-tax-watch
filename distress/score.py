@@ -34,6 +34,7 @@ CATEGORIES: dict[str, tuple[str, int, str]] = {
     "bankruptcy":         ("bankruptcy",  15, "Bankruptcy"),
     "code_lien":          ("code",        15, "City / code lien"),
     "tax_lien":           ("liens",       12, "IRS / state tax lien"),
+    "tax_loan":           ("tax",         15, "Property-tax loan (tax lien transfer)"),
     "judgment":           ("liens",       10, "Judgment"),
     "child_support_lien": ("liens",       10, "Child support lien"),
     "mechanics_lien":     ("liens",        8, "Mechanic's lien"),

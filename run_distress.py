@@ -498,8 +498,7 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("job", choices=["clerk", "court", "build", "all"],
-                    help="all = court + clerk CSV exports + build. The clerk scraper only runs "
-                         "when asked for by name (the portal blanks automated searches).")
+                    help="all = court + clerk + clerk CSV exports (if any) + build")
     ap.add_argument("--budget", type=int, default=120, help="max clerk searches this run")
     ap.add_argument("--backfill-days", type=int, default=90, help="how far back the clerk scraper starts")
     ap.add_argument("--full-taxsuits", action="store_true", help="force a full walk of open tax suits")
@@ -523,11 +522,15 @@ def main() -> None:
             failed.append("court")
     if args.job in ("all", "build"):
         import_clerk_exports()
-    if args.job == "clerk":
+    if args.job in ("clerk", "all"):
         try:
             run_clerk(args.budget, args.backfill_days)
         except Exception as exc:  # noqa: BLE001
+            import traceback
             log(f"CLERK JOB FAILED: {exc!r}")
+            st = store.load("state")
+            st.setdefault("clerk", {})["last_error"] = traceback.format_exc()[-2500:]
+            store.save("state", st)
             failed.append("clerk")
     if args.job in ("build", "all"):
         run_build(args.tax_budget, args.match_budget, args.year)

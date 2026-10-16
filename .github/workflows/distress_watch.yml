@@ -6,7 +6,8 @@ name: Distress Watch
 
 on:
   schedule:
-    - cron: "17 10 * * *"   # ~5am Central, after the subdivision crawl and before the tax check
+    - cron: "17 10 * * *"   # ~5am Central
+    - cron: "43 16 * * *"   # ~11:45am Central - backup in case GitHub skips the early run (it picks up where the last one stopped)
   # Uploading a clerk export CSV kicks off a refresh
   push:
     paths:
