@@ -356,7 +356,10 @@ class ClerkScraper:
         return state
 
     def _note(self, url: str, state: dict) -> None:
-        self.debug.append({"search": url, "rows": len(state.get("rows", [])), "total": state.get("total"),
+        types = {}
+        for r in state.get("rows", []):
+            types[r.get("doc_type", "")] = types.get(r.get("doc_type", ""), 0) + 1
+        self.debug.append({"search": url, "types": types, "rows": len(state.get("rows", [])), "total": state.get("total"),
                            "timedOut": state.get("timedOut"), "rejected": state.get("rejected", ""),
                            "at": datetime.now(timezone.utc).isoformat(timespec="seconds")})
 
