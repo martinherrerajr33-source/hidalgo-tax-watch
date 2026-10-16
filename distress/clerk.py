@@ -270,40 +270,93 @@ class ClerkScraper:
         m = re.search(r"Certified through\s+(\d{2}/\d{2}/\d{4})", txt)
         return datetime.strptime(m.group(1), "%m/%d/%Y").date() if m else None
 
-    def _load(self, url: str) -> dict:
-        """Run one search. Returns {rows, total, timedOut, rejected}."""
-        self._pace()
-        self.searches += 1
-        path = url[len(BASE):]
-        # same URL as the page is already on won't refetch - hop home first
-        if self._page.url.endswith(path):
-            self._page.evaluate("p => { history.pushState({}, '', p); window.dispatchEvent(new PopStateEvent('popstate', {state:{}})); }", "/")
-            time.sleep(1.0)
-        self._frames.clear()
-        self._page.evaluate("p => { history.pushState({}, '', p); window.dispatchEvent(new PopStateEvent('popstate', {state:{}})); }", path)
+    # Typing a search into the page's own form is what makes the portal answer.
+    # Loading a /results?... URL directly (or pushing it into the app's history)
+    # only works for searches this browser has already run - brand-new ones come
+    # back as "No Results Found" (confirmed 10/16/2026 in a normal browser: the
+    # same advanced search returned 27 rows when submitted from the form and 0
+    # when loaded by URL). So every search goes through the Quick Search form.
+
+    def _wait_frame(self, n_before: int) -> dict:
         deadline = time.time() + self.page_timeout
-        state = {"rows": [], "total": None, "timedOut": False, "rejected": ""}
         while time.time() < deadline:
             self._page.wait_for_timeout(500)
-            ok = [f for f in self._frames if "FULFILLED" in f.get("type", "")]
+            new = self._frames[n_before:]
+            ok = [f for f in new if "FULFILLED" in f.get("type", "")]
             if ok:
-                payload = ok[0].get("payload") or {}
-                state["rows"] = rows_from_payload(payload.get("data") or {})
-                state["total"] = (payload.get("meta") or {}).get("numRecords", len(state["rows"]))
-                break
-            bad = [f for f in self._frames if "REJECTED" in f.get("type", "")]
+                payload = ok[-1].get("payload") or {}
+                rows = rows_from_payload(payload.get("data") or {})
+                total = (payload.get("meta") or {}).get("numRecords", len(rows))
+                return {"rows": rows, "total": total, "timedOut": False, "rejected": ""}
+            bad = [f for f in new if "REJECTED" in f.get("type", "")]
             if bad:
-                err = (bad[0].get("payload") or {})
-                state["rejected"] = str(err.get("errors") or "rejected")[:200]
-                state["timedOut"] = True
+                err = bad[-1].get("payload") or {}
+                return {"rows": [], "total": None, "timedOut": True, "rejected": str(err.get("errors") or "rejected")[:200]}
+        return {"rows": [], "total": None, "timedOut": True, "rejected": ""}
+
+    def _dismiss_popups(self) -> None:
+        for sel in ('[role=dialog] button:has-text("Close")', 'button[aria-label="Close"]', 'button:has-text("No Thanks")'):
+            try:
+                loc = self._page.locator(sel)
+                if loc.count() and loc.first.is_visible():
+                    loc.first.click(timeout=2000)
+            except Exception:  # noqa: BLE001
+                pass
+
+    def _fill(self, selector: str, value: str) -> None:
+        loc = self._page.locator(selector).first
+        loc.click(timeout=10000)
+        loc.press("Control+A")
+        loc.press("Backspace")
+        loc.type(value, delay=40)
+
+    def _ui_search(self, keyword: str, department: str, start: date, end: date) -> dict:
+        """Run one quick search through the form and collect every page of results."""
+        self._pace()
+        self.searches += 1
+        label = f"{keyword} {start:%m/%d/%Y}-{end:%m/%d/%Y}"
+        self._page.goto(BASE + "/", wait_until="domcontentloaded", timeout=60000)
+        self._page.wait_for_selector("#basicSearchInputBox, input[aria-label^='Search for']", timeout=30000)
+        self._page.wait_for_timeout(1500)
+        self._dismiss_popups()
+        if department != "RP":
+            try:
+                self._page.locator("button[aria-haspopup=listbox]").first.click(timeout=5000)
+                self._page.locator("[role=option]", has_text="Foreclosures").first.click(timeout=5000)
+            except Exception:  # noqa: BLE001
+                self.log(f"    could not switch department to {department}")
+        self._fill("#basicSearchInputBox, input[aria-label^='Search for']", keyword)
+        self._fill("input[aria-label='Starting Recorded Date']", start.strftime("%m/%d/%Y"))
+        self._fill("input[aria-label='Ending Recorded Date']", end.strftime("%m/%d/%Y"))
+        self._page.keyboard.press("Escape")   # close the date picker
+        n = len(self._frames)
+        self._page.locator("button[type=submit]", has_text="Search").first.click(timeout=10000)
+        state = self._wait_frame(n)
+        all_rows = list(state["rows"])
+        # further pages: the results page's own "next page" control
+        pages = 1
+        while not state["timedOut"] and state["total"] and len(all_rows) < state["total"] and pages < 40:
+            nxt = self._page.locator("button[aria-label*='next' i], a[aria-label*='next' i]").first
+            try:
+                if not nxt.count() or nxt.is_disabled():
+                    break
+                n = len(self._frames)
+                self._page.wait_for_timeout(int(random.uniform(3000, 6000)))
+                nxt.click(timeout=10000)
+            except Exception:  # noqa: BLE001
                 break
-        else:
-            state["timedOut"] = True
-        self._note(url, state)
+            page_state = self._wait_frame(n)
+            if page_state["timedOut"] or not page_state["rows"]:
+                break
+            all_rows.extend(page_state["rows"])
+            pages += 1
+        state["rows"] = all_rows
+        state["pages"] = pages
+        self._note(label, state)
         return state
 
     def _note(self, url: str, state: dict) -> None:
-        self.debug.append({"url": url[len(BASE):], "rows": len(state.get("rows", [])), "total": state.get("total"),
+        self.debug.append({"search": url, "rows": len(state.get("rows", [])), "total": state.get("total"),
                            "timedOut": state.get("timedOut"), "rejected": state.get("rejected", ""),
                            "at": datetime.now(timezone.utc).isoformat(timespec="seconds")})
 
@@ -315,41 +368,34 @@ class ClerkScraper:
         Raises Throttled if the portal times out / rejects twice.
         """
         kept: list[ClerkRecord] = []
-        offset, limit, raw = 0, 50, 0
-        while True:
-            url = results_url(keyword, department, start, end, offset, limit)
-            state = self._load(url)
+        state = self._ui_search(keyword, department, start, end)
+        if state.get("timedOut"):
+            self.log(f"    {keyword} {start}..{end}: no answer ({state.get('rejected') or 'timeout'}), cooling down")
+            time.sleep(60)
+            state = self._ui_search(keyword, department, start, end)
             if state.get("timedOut"):
-                self.log(f"    {keyword} {start}..{end}: no answer ({state.get('rejected') or 'timeout'}), cooling down")
-                time.sleep(60)
-                state = self._load(url)
-                if state.get("timedOut"):
-                    raise Throttled(f"{keyword} {start}..{end}: {state.get('rejected') or 'timed out'} twice")
-            rows = state["rows"]
-            raw += len(rows)
-            for r in rows:
-                cat = categorize(r["doc_type"], r["grantor"], r["grantee"]) or \
-                      categorize(r.get("doc_type_code", ""), r["grantor"], r["grantee"])
-                if not cat:
-                    continue
-                kept.append(ClerkRecord(
-                    doc_id=r["doc_id"], doc_number=r["doc_number"], doc_type=r["doc_type"], category=cat,
-                    recorded=r["recorded"], grantor=r["grantor"], grantee=r["grantee"], legal=r["legal"],
-                    department=department, keyword=keyword,
-                ))
-            total = state.get("total") or 0
-            offset += limit
-            if not rows or offset >= total:
-                break
-        return kept, raw
+                raise Throttled(f"{keyword} {start}..{end}: {state.get('rejected') or 'timed out'} twice")
+        rows = state["rows"]
+        if state.get("total") and len(rows) < state["total"]:
+            self.log(f"    {keyword} {start}..{end}: only {len(rows)} of {state['total']} rows came back")
+        for r in rows:
+            cat = categorize(r["doc_type"], r["grantor"], r["grantee"]) or \
+                  categorize(r.get("doc_type_code", ""), r["grantor"], r["grantee"])
+            if not cat:
+                continue
+            kept.append(ClerkRecord(
+                doc_id=r["doc_id"], doc_number=r["doc_number"], doc_type=r["doc_type"], category=cat,
+                recorded=r["recorded"], grantor=r["grantor"], grantee=r["grantee"], legal=r["legal"],
+                department=department, keyword=keyword,
+            ))
+        return kept, len(rows)
 
     def is_honest(self, canary: dict | None) -> bool:
         """Re-run a search we know has results. Empty => we're being throttled."""
         canary = canary or DEFAULT_CANARY
         start = date.fromisoformat(canary["start"])
         end = date.fromisoformat(canary["end"])
-        url = results_url(canary["keyword"], canary.get("department", "RP"), start, end)
-        state = self._load(url)
+        state = self._ui_search(canary["keyword"], canary.get("department", "RP"), start, end)
         ok = bool(state["rows"])
         self.log(f"    canary {canary['keyword']} {start}..{end}: {'ok' if ok else 'EMPTY - throttled'}")
         return ok
