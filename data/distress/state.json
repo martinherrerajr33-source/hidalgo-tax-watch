@@ -1,29 +1,49 @@
 {
  "clerk": {
   "canary": null,
-  "certified_through": "2026-10-13",
-  "done_through": {},
+  "certified_through": "2026-10-14",
+  "done_through": {
+   "bankruptcy": "2026-10-14",
+   "divorce": "2026-10-14",
+   "foreclosure": "2026-10-14"
+  },
   "last_debug": [
    {
-    "at": "2026-10-15T19:09:18+00:00",
+    "at": "2026-10-16T14:43:41+00:00",
     "rejected": "",
     "rows": 0,
+    "search": "bankruptcy 10/10/2026-10/14/2026",
     "timedOut": false,
-    "total": 0,
-    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20261010%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=bankruptcy"
+    "total": 0
    },
    {
-    "at": "2026-10-15T19:09:38+00:00",
+    "at": "2026-10-16T14:43:59+00:00",
+    "rejected": "",
+    "rows": 11,
+    "search": "heirship 10/12/2026-10/13/2026",
+    "timedOut": false,
+    "total": 11
+   },
+   {
+    "at": "2026-10-16T14:44:22+00:00",
+    "rejected": "",
+    "rows": 2,
+    "search": "divorce 10/10/2026-10/14/2026",
+    "timedOut": false,
+    "total": 2
+   },
+   {
+    "at": "2026-10-16T14:44:44+00:00",
     "rejected": "",
     "rows": 0,
+    "search": "foreclosure 10/10/2026-10/14/2026",
     "timedOut": false,
-    "total": 0,
-    "url": "/results?department=RP&limit=50&offset=0&recordedDateRange=20261012%2C20261013&searchOcrText=false&searchType=quickSearch&searchValue=heirship"
+    "total": 0
    }
   ],
-  "last_run": "2026-10-15T19:09:38.718316+00:00",
-  "last_searches": 2,
-  "last_status": "throttled"
+  "last_run": "2026-10-16T14:44:44.068666+00:00",
+  "last_searches": 4,
+  "last_status": "ok"
  },
  "court": {
   "last_error": "erificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 448, in main\n    run_court(args.full_taxsuits)\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 137, in run_court\n    found = fetch_open_tax_suits(client, date(2000, 1, 1), TODAY, window_days=92, log=log)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 264, in fetch_open_tax_suits\n    rows = client.business_party_search(\"HIDALGO COUNTY\", a, b, status=\"open\")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 224, in business_party_search\n    page = self._search({\n           ^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 200, in _search\n    self._open_session()\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 193, in _open_session\n    self.s.get(f\"{BASE}/default.aspx\", timeout=self.timeout)\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='pa.co.hidalgo.tx.us', port=443): Max retries exceeded with url: /default.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n",
