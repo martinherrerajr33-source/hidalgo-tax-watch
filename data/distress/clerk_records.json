@@ -7293,20 +7293,6 @@
   "recorded": "8/6/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/327902934"
  },
- "327912374": {
-  "category": "mechanics_lien",
-  "department": "RP",
-  "doc_id": "327912374",
-  "doc_number": "2026-3777521",
-  "doc_type": "MECHANICS LIEN NOTE",
-  "first_seen": "2026-10-16",
-  "grantee": "FOX ROOFING SERVICES LLC; ARREDONDO ISRAEL; SECURITY SERVICE FEDERAL CREDIT UNION",
-  "grantor": "RODRIGUEZ OSVALDO SR; RODRIGUEZ DORA",
-  "keyword": "lien",
-  "legal": "Subdivision - Name: VICTORIA NORTH I Lot: 3 Block: 1 Reference - 26/149B",
-  "recorded": "8/7/2026",
-  "url": "https://hidalgo.tx.publicsearch.us/doc/327912374"
- },
  "327921328": {
   "category": "heirship",
   "department": "RP",
@@ -7334,20 +7320,6 @@
   "legal": "Subdivision - Name: TROPICAL VALLEY ACRES SUBD Lot: 108 Reference - 24/41",
   "recorded": "8/7/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/327921331"
- },
- "327971825": {
-  "category": "tax_loan",
-  "department": "RP",
-  "doc_id": "327971825",
-  "doc_number": "2026-3777618",
-  "doc_type": "TRANSFER TX LIEN",
-  "first_seen": "2026-10-16",
-  "grantee": "HOME TAX SOLUTIONS LLC",
-  "grantor": "MC ALLEN CITY OF ET AL; VILLALOBOS ANGELICA",
-  "keyword": "lien",
-  "legal": "Subdivision - Name: PASEO DEL RIO Lot: 48",
-  "recorded": "8/7/2026",
-  "url": "https://hidalgo.tx.publicsearch.us/doc/327971825"
  },
  "327971826": {
   "category": "heirship",
@@ -7390,34 +7362,6 @@
   "legal": "Subdivision - Name: ESTANCIA AT TRES LAGOS 2 Lot: 58",
   "recorded": "8/7/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/327971834"
- },
- "327971835": {
-  "category": "mechanics_lien",
-  "department": "RP",
-  "doc_id": "327971835",
-  "doc_number": "2026-3777603",
-  "doc_type": "MECHANICS LIEN NOTE",
-  "first_seen": "2026-10-16",
-  "grantee": "PINPOINT CONSTRUCTION & INVESTMENTS LLC; PINPOINT CONSTRUCTION; RUIZ ASCARY MEMBER; BANK OF SOUTH TEXAS",
-  "grantor": "SANCHEZ JOHNNY LEE",
-  "keyword": "lien",
-  "legal": "Subdivision - Name: RANCHITOS ESCONDIDOS SUBD I Lot: 43",
-  "recorded": "8/7/2026",
-  "url": "https://hidalgo.tx.publicsearch.us/doc/327971835"
- },
- "327971837": {
-  "category": "tax_loan",
-  "department": "RP",
-  "doc_id": "327971837",
-  "doc_number": "2026-3777633",
-  "doc_type": "TRANSFER TX LIEN",
-  "first_seen": "2026-10-16",
-  "grantee": "HOME TAX SOLUTIONS LLC",
-  "grantor": "MC ALLEN CITY OF ET AL; BROXTON PROPERTIES INC",
-  "keyword": "lien",
-  "legal": "Subdivision - Name: CONTINENTAL TRADE CNTR RS Lot: 40; Subdivision - Name: CONTINENTAL TRADE CNTR RS Lot: 41",
-  "recorded": "8/7/2026",
-  "url": "https://hidalgo.tx.publicsearch.us/doc/327971837"
  },
  "327971839": {
   "category": "other_lien",
@@ -9210,20 +9154,6 @@
   "legal": "",
   "recorded": "8/13/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/329670285"
- },
- "329670286": {
-  "category": "other_lien",
-  "department": "RP",
-  "doc_id": "329670286",
-  "doc_number": "2026-3779114",
-  "doc_type": "LIEN NOTICE",
-  "first_seen": "2026-10-16",
-  "grantee": "DE LEON KENIA",
-  "grantor": "TEXAS STATE OF; LEAL IRIS EDITH ESPINOZA",
-  "keyword": "lien",
-  "legal": "",
-  "recorded": "8/13/2026",
-  "url": "https://hidalgo.tx.publicsearch.us/doc/329670286"
  },
  "329670765": {
   "category": "heirship",
@@ -12290,6 +12220,20 @@
   "legal": "$2156.46",
   "recorded": "8/24/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/330447753"
+ },
+ "330447759": {
+  "category": "tax_lien",
+  "department": "RP",
+  "doc_id": "330447759",
+  "doc_number": "2026-3782234",
+  "doc_type": "STATE TAX LIEN",
+  "first_seen": "2026-10-16",
+  "grantee": "SKYBOX SPORTS LOUNGE LLC; WINGS STADIUM",
+  "grantor": "TEXAS STATE OF",
+  "keyword": "lien",
+  "legal": "$1026.33",
+  "recorded": "8/24/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/330447759"
  },
  "330447761": {
   "category": "tax_lien",

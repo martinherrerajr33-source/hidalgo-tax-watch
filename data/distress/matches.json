@@ -4320,15 +4320,6 @@
   "confidence": "low",
   "tried": "2026-10-16"
  },
- "clerk:327912374": {
-  "candidates": [],
-  "confidence": "high",
-  "geo_id": "V3318-01-001-0003-00",
-  "method": "name+legal",
-  "n_candidates": 37,
-  "person": "RODRIGUEZ OSVALDO",
-  "tried": "2026-10-16"
- },
  "clerk:327921328": {
   "candidates": [],
   "confidence": "high",
@@ -4345,15 +4336,6 @@
   "method": "name+legal",
   "n_candidates": 2,
   "person": "ALFONSE BEVERLY",
-  "tried": "2026-10-16"
- },
- "clerk:327971825": {
-  "candidates": [],
-  "confidence": "high",
-  "geo_id": "P4408-00-000-0048-00",
-  "method": "name+legal",
-  "n_candidates": 1,
-  "person": "VILLALOBOS ANGELICA",
   "tried": "2026-10-16"
  },
  "clerk:327971826": {
@@ -4381,20 +4363,6 @@
   "method": "legal",
   "n_candidates": 1,
   "person": "",
-  "tried": "2026-10-16"
- },
- "clerk:327971835": {
-  "candidates": [],
-  "confidence": "high",
-  "geo_id": "R0941-01-000-0043-00",
-  "method": "name+legal",
-  "n_candidates": 3,
-  "person": "SANCHEZ JOHNNY",
-  "tried": "2026-10-16"
- },
- "clerk:327971837": {
-  "candidates": [],
-  "confidence": "none",
   "tried": "2026-10-16"
  },
  "clerk:327971839": {
@@ -5388,17 +5356,6 @@
   "candidates": [
    "A0800-00-000-1062-16",
    "D6800-00-042-0001-00"
-  ],
-  "confidence": "low",
-  "tried": "2026-10-16"
- },
- "clerk:329670286": {
-  "candidates": [
-   "A3710-02-000-0059-00",
-   "H1020-00-000-0026-00",
-   "I6048-02-000-0036-00",
-   "V0123-00-000-0082-00",
-   "W6650-00-000-0046-00"
   ],
   "confidence": "low",
   "tried": "2026-10-16"
@@ -7216,6 +7173,11 @@
   "tried": "2026-10-16"
  },
  "clerk:330447753": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-16"
+ },
+ "clerk:330447759": {
   "candidates": [],
   "confidence": "none",
   "tried": "2026-10-16"
@@ -35790,6 +35752,17 @@
    "L4250-00-00A-0013-00",
    "M1950-00-034-0005-00",
    "H4250-04-036-0004-05"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-16"
+ },
+ "court:5095847": {
+  "candidates": [
+   "W3800-00-175-0000-07",
+   "T6700-00-001-0003-00",
+   "A5447-00-000-0056-00",
+   "W2300-00-001-0013-00",
+   "P1000-00-000-0115-00"
   ],
   "confidence": "low",
   "tried": "2026-10-16"

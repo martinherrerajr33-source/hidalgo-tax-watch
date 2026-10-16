@@ -43159,16 +43159,6 @@
   "pid": "117650",
   "prop_type": "R"
  },
- "A3700-00-007-0006-00": {
-  "address": "320 S COLORADO ST",
-  "city": "",
-  "geo_id": "A3700-00-007-0006-00",
-  "legal": "ALTON ORIGINAL TOWNSITE LOT 6 BLK 7",
-  "market_value": 163874.0,
-  "owner": "RODRIGUEZ OSVALDO FLORES & ARLETTE",
-  "pid": "117667",
-  "prop_type": "R"
- },
  "A3700-00-007-0008-00": {
   "address": "329 S ARIZONA ST",
   "city": "",
@@ -46607,6 +46597,16 @@
   "market_value": 118767.0,
   "owner": "GONZALEZ GUADALUPE M",
   "pid": "840372",
+  "prop_type": "R"
+ },
+ "A5447-00-000-0056-00": {
+  "address": "APACHE CIR",
+  "city": "",
+  "geo_id": "A5447-00-000-0056-00",
+  "legal": "APACHE ESTATES LOT 56",
+  "market_value": 111496.0,
+  "owner": "RAMOS MANUEL & MARIA DE LA LUZ SAUCEDA",
+  "pid": "840374",
   "prop_type": "R"
  },
  "A5447-00-000-0057-00": {
@@ -78867,6 +78867,26 @@
   "market_value": 251296.0,
   "owner": "PEREZ JOSE G & SILVIA G",
   "pid": "684810",
+  "prop_type": "R"
+ },
+ "B3810-00-000-0121-00": {
+  "address": "1011 W F ST",
+  "city": "MISSION",
+  "geo_id": "B3810-00-000-0121-00",
+  "legal": "BOUGANVILLA ESTATES LOT 121",
+  "market_value": 80288.0,
+  "owner": "RAMOS MANUELITA GARCIA",
+  "pid": "684812",
+  "prop_type": "R"
+ },
+ "B3810-00-000-0122-00": {
+  "address": "1101 W F ST",
+  "city": "MISSION",
+  "geo_id": "B3810-00-000-0122-00",
+  "legal": "BOUGANVILLA ESTATES LOT 122",
+  "market_value": 286245.0,
+  "owner": "RAMOS MANUELITA GARCIA",
+  "pid": "684813",
   "prop_type": "R"
  },
  "B3810-00-000-0124-00": {
@@ -299199,6 +299219,16 @@
   "pid": "192668",
   "prop_type": "R"
  },
+ "H3450-03-000-0014-00": {
+  "address": "2304 PARIS ST",
+  "city": "MISSION",
+  "geo_id": "H3450-03-000-0014-00",
+  "legal": "HILDA NO. 3 LOT 14",
+  "market_value": 108048.0,
+  "owner": "RAMOS MANUELA DE JESUS",
+  "pid": "192670",
+  "prop_type": "R"
+ },
  "H3450-03-000-0016-00": {
   "address": "2308 PARIS ST",
   "city": "MISSION",
@@ -444109,6 +444139,56 @@
   "pid": "235382",
   "prop_type": "R"
  },
+ "M3550-00-167-0000-05": {
+  "address": "1125 W 14TH ST",
+  "city": "",
+  "geo_id": "M3550-00-167-0000-05",
+  "legal": "MERCEDES ORIGINAL TOWNSITE W62'-E125'-N125' OF BLK 167",
+  "market_value": 50600.0,
+  "owner": "RAMOS MANUEL S",
+  "pid": "235389",
+  "prop_type": "R"
+ },
+ "M3550-00-167-0000-10": {
+  "address": "1117 14TH ST",
+  "city": "",
+  "geo_id": "M3550-00-167-0000-10",
+  "legal": "MERCEDES ORIGINAL TOWNSITE E63' OF N125' OF BLK 167",
+  "market_value": 95000.0,
+  "owner": "RAMOS MANUEL S",
+  "pid": "235390",
+  "prop_type": "R"
+ },
+ "M3550-00-167-0000-30": {
+  "address": "1433 S COLORADO AVE",
+  "city": "",
+  "geo_id": "M3550-00-167-0000-30",
+  "legal": "MERCEDES ORIGINAL TOWNSITE E125'-S100'-N225' BLK 167",
+  "market_value": 72368.0,
+  "owner": "RAMOS MANUEL S",
+  "pid": "235394",
+  "prop_type": "R"
+ },
+ "M3550-00-167-0000-35": {
+  "address": "1125 W 14TH ST",
+  "city": "MERCEDES",
+  "geo_id": "M3550-00-167-0000-35",
+  "legal": "MERCEDES ORIGINAL TOWNSITE W55'-E180'-N375' BLK 167",
+  "market_value": 114077.0,
+  "owner": "RAMOS MANUEL S",
+  "pid": "235395",
+  "prop_type": "R"
+ },
+ "M3550-00-167-0000-40": {
+  "address": "COLORADO",
+  "city": "",
+  "geo_id": "M3550-00-167-0000-40",
+  "legal": "MERCEDES ORIGINAL TOWNSITE S97.65'-N322.65'-E125' BLK 167",
+  "market_value": 140687.0,
+  "owner": "RAMOS MANUEL S",
+  "pid": "607794",
+  "prop_type": "R"
+ },
  "M3550-00-168-0003-00": {
   "address": "1505 S VERMONT AVE",
   "city": "",
@@ -446777,16 +446857,6 @@
   "market_value": 53250.0,
   "owner": "DE LA CERDA BELINDA",
   "pid": "1235094",
-  "prop_type": "R"
- },
- "M3840-00-000-0030-00": {
-  "address": "1114 MEZQUITE DR",
-  "city": "",
-  "geo_id": "M3840-00-000-0030-00",
-  "legal": "MEZQUITE MOORE LOT 30",
-  "market_value": 53250.0,
-  "owner": "RODRIGUEZ OSVALDO ISMAEL & SUSANA JANETT CANTU",
-  "pid": "1235098",
   "prop_type": "R"
  },
  "M3840-00-000-0031-00": {
@@ -503069,16 +503139,6 @@
   "pid": "1540550",
   "prop_type": "R"
  },
- "O6915-01-000-0039-00": {
-  "address": "507 MELO GOLD",
-  "city": "",
-  "geo_id": "O6915-01-000-0039-00",
-  "legal": "ORCHARDS OF SAN JUAN - PH 1 LOT 39",
-  "market_value": 83531.0,
-  "owner": "SANCHEZ JOHNNY TORRES",
-  "pid": "1540554",
-  "prop_type": "R"
- },
  "O6915-01-000-0046-00": {
   "address": "RIO RED",
   "city": "",
@@ -507467,6 +507527,16 @@
   "market_value": 196330.0,
   "owner": "FLORES JUAN M & EVANGELINA",
   "pid": "253886",
+  "prop_type": "R"
+ },
+ "P1000-00-000-0115-00": {
+  "address": "1925 E HERMOSILLO",
+  "city": "",
+  "geo_id": "P1000-00-000-0115-00",
+  "legal": "PALM LAKE ESTATES LOT 115",
+  "market_value": 60060.0,
+  "owner": "RAMOS MANUEL CASSO",
+  "pid": "253888",
   "prop_type": "R"
  },
  "P1000-00-000-0116-00": {
@@ -740809,6 +740879,16 @@
   "pid": "352288",
   "prop_type": "MH"
  },
+ "T6700-00-001-0003-00": {
+  "address": "504 W LOOP 19TH ST",
+  "city": "WESLACO",
+  "geo_id": "T6700-00-001-0003-00",
+  "legal": "TRAILS END EAST-MOBILE HOME BLK 1 LOT 3",
+  "market_value": 71952.0,
+  "owner": "RAMOS MANUEL & JOSEPHINE",
+  "pid": "306546",
+  "prop_type": "R"
+ },
  "T6700-00-001-0008-00": {
   "address": "514 W LOOP 19TH ST",
   "city": "WESLACO",
@@ -788779,6 +788859,16 @@
   "pid": "321501",
   "prop_type": "R"
  },
+ "W2300-00-001-0013-00": {
+  "address": "164 S TEXAS BLVD",
+  "city": "WESLACO",
+  "geo_id": "W2300-00-001-0013-00",
+  "legal": "WESLACO ORIGINAL TOWNSITE BLK 1 LT 13, 14 & 15",
+  "market_value": 214083.0,
+  "owner": "RAMOS MANUEL & SYLVIA",
+  "pid": "321502",
+  "prop_type": "R"
+ },
  "W2300-00-001-0027-00": {
   "address": "111 S MISSOURI AVE",
   "city": "WESLACO",
@@ -810687,6 +810777,16 @@
   "market_value": 213500.0,
   "owner": "SOLIS EFRAIN & LAURENTINA",
   "pid": "328129",
+  "prop_type": "R"
+ },
+ "W4500-00-000-0002-00": {
+  "address": "1621 W PALMA VISTA DR",
+  "city": "",
+  "geo_id": "W4500-00-000-0002-00",
+  "legal": "WESTVIEW HEIGHTS LT 2",
+  "market_value": 113394.0,
+  "owner": "RAMOS MANUEL ESPINOSA",
+  "pid": "328130",
   "prop_type": "R"
  },
  "W4500-00-000-0004-00": {

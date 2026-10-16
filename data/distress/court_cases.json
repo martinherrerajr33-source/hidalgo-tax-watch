@@ -135588,6 +135588,39 @@
   "style": "IN THE MATTER OF THE MARRAIGE OF ESMERALDA GARCIA AND ANGEL OLIVAREZ GARCIA",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095698"
  },
+ "5095847": {
+  "any_deceased": false,
+  "case_id": "5095847",
+  "case_number": "F-4007-26-4",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #4",
+  "filed": "10/16/2026",
+  "first_seen": "2026-10-16",
+  "kind": "divorce",
+  "last_seen": "2026-10-16",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "MANUEL",
+    "last": "RAMOS",
+    "middle": "",
+    "raw": "MANUEL RAMOS"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "FRANCISCA",
+    "last": "RAMOS",
+    "middle": "",
+    "raw": "FRANCISCA RAMOS"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF MANUEL RAMOS VS. FRANCISCA RAMOS",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5095847"
+ },
  "520303": {
   "any_deceased": false,
   "case_id": "520303",
