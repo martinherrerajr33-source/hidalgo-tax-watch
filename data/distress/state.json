@@ -2,238 +2,121 @@
  "clerk": {
   "canary": {
    "department": "RP",
-   "end": "2026-10-04",
+   "end": "2026-10-14",
    "keyword": "trustee",
-   "start": "2026-10-02"
+   "start": "2026-10-14"
   },
   "certified_through": "2026-10-14",
   "done_through": {
-   "bankruptcy": "2026-10-07",
-   "divorce": "2026-10-07",
-   "foreclosure": "2026-10-07",
-   "heirship": "2026-10-07",
-   "judgement": "2026-10-07",
-   "judgment": "2026-10-07",
-   "lien": "2026-10-04",
-   "pendens": "2026-10-07",
-   "probate": "2026-10-07",
-   "testament": "2026-10-07",
-   "trustee": "2026-10-04",
-   "will": "2026-10-07"
+   "bankruptcy": "2026-10-14",
+   "divorce": "2026-10-14",
+   "foreclosure": "2026-10-14",
+   "heirship": "2026-10-14",
+   "judgement": "2026-10-14",
+   "judgment": "2026-10-14",
+   "lien": "2026-10-14",
+   "pendens": "2026-10-14",
+   "probate": "2026-10-14",
+   "testament": "2026-10-14",
+   "trustee": "2026-10-14",
+   "will": "2026-10-14"
   },
   "last_debug": [
    {
-    "at": "2026-10-16T20:15:17+00:00",
+    "at": "2026-10-17T13:49:29+00:00",
     "rejected": "",
-    "rows": 1,
-    "search": "testament 09/24/2026-10/07/2026",
+    "rows": 147,
+    "search": "lien 10/06/2026-10/06/2026",
     "timedOut": false,
-    "total": 1,
-    "types": {
-     "R/W EASEMENT": 1
-    }
-   },
-   {
-    "at": "2026-10-16T20:15:41+00:00",
-    "rejected": "",
-    "rows": 21,
-    "search": "will 09/24/2026-09/30/2026",
-    "timedOut": false,
-    "total": 21,
-    "types": {
-     "AFFIDAVIT": 1,
-     "ASGMT OF LIEN": 2,
-     "ASSIGNMENT": 1,
-     "ASSUMED NAME": 1,
-     "DEED OF TRUST": 3,
-     "MODIFICATION": 1,
-     "REL OF JUDGEMENT": 1,
-     "RELEASE OF LIEN": 5,
-     "WARRANTY DEED": 4,
-     "WILL": 2
-    }
-   },
-   {
-    "at": "2026-10-16T20:16:05+00:00",
-    "rejected": "",
-    "rows": 69,
-    "search": "lien 09/25/2026-09/25/2026",
-    "timedOut": false,
-    "total": 69,
-    "types": {
-     "ASGMT OF LIEN": 2,
-     "EXTENSN OF LIEN": 2,
-     "MECHANICS LIEN NOTE": 3,
-     "P/REL OF LIEN": 7,
-     "REL LIEN CLAIM": 2,
-     "RELEASE OF LIEN": 43,
-     "TRANSFER OF LIEN": 2,
-     "TRANSFER TX LIEN": 8
-    }
-   },
-   {
-    "at": "2026-10-16T20:16:19+00:00",
-    "rejected": "",
-    "rows": 0,
-    "search": "lien 09/26/2026-09/26/2026",
-    "timedOut": false,
-    "total": 0,
-    "types": {}
-   },
-   {
-    "at": "2026-10-16T20:16:40+00:00",
-    "rejected": "",
-    "rows": 69,
-    "search": "lien 09/25/2026-09/25/2026",
-    "timedOut": false,
-    "total": 69,
-    "types": {
-     "ASGMT OF LIEN": 2,
-     "EXTENSN OF LIEN": 2,
-     "MECHANICS LIEN NOTE": 3,
-     "P/REL OF LIEN": 7,
-     "REL LIEN CLAIM": 2,
-     "RELEASE OF LIEN": 43,
-     "TRANSFER OF LIEN": 2,
-     "TRANSFER TX LIEN": 8
-    }
-   },
-   {
-    "at": "2026-10-16T20:16:53+00:00",
-    "rejected": "",
-    "rows": 13,
-    "search": "trustee 09/26/2026-09/28/2026",
-    "timedOut": false,
-    "total": 13,
-    "types": {
-     "APPOINT SUB TTEE": 2,
-     "ASSIGNMENT OF FINANC": 1,
-     "CERTIFICATE": 1,
-     "DEED OF TRUST": 2,
-     "NOTICE": 1,
-     "QUITCLAIM DEED": 1,
-     "WARRANTY DEED": 5
-    }
-   },
-   {
-    "at": "2026-10-16T20:17:09+00:00",
-    "rejected": "",
-    "rows": 0,
-    "search": "lien 09/27/2026-09/27/2026",
-    "timedOut": false,
-    "total": 0,
-    "types": {}
-   },
-   {
-    "at": "2026-10-16T20:17:37+00:00",
-    "rejected": "",
-    "rows": 87,
-    "search": "lien 09/28/2026-09/28/2026",
-    "timedOut": false,
-    "total": 87,
+    "total": 147,
     "types": {
      "ASGMT OF LIEN": 3,
-     "HOSPITAL LIEN": 8,
-     "LIEN NOTICE": 8,
-     "MECHANICS LIEN NOTE": 2,
-     "P/REL OF LIEN": 2,
-     "REL FED TAX LIEN": 3,
-     "REL LIEN CLAIM": 1,
-     "RELEASE OF LIEN": 44,
-     "STATE TAX LIEN": 7,
-     "TRANSFER OF LIEN": 9
+     "EXTENSN OF LIEN": 5,
+     "HOSPITAL LIEN": 14,
+     "LIEN NOTICE": 20,
+     "MECHANICS LIEN NOTE": 1,
+     "P/REL OF LIEN": 4,
+     "REL LIEN CLAIM": 4,
+     "REL STATE TAX LIEN": 10,
+     "RELEASE OF LIEN": 53,
+     "STATE TAX LIEN": 28,
+     "TRANSFER OF LIEN": 5
     }
    },
    {
-    "at": "2026-10-16T20:18:04+00:00",
+    "at": "2026-10-17T13:49:53+00:00",
     "rejected": "",
-    "rows": 168,
-    "search": "lien 09/29/2026-09/29/2026",
+    "rows": 103,
+    "search": "lien 10/07/2026-10/07/2026",
     "timedOut": false,
-    "total": 168,
-    "types": {
-     "ASGMT OF LIEN": 13,
-     "EXTENSN OF LIEN": 1,
-     "LIEN NOTICE": 87,
-     "P/REL OF LIEN": 15,
-     "REL LIEN CLAIM": 5,
-     "REL STATE TAX LIEN": 3,
-     "RELEASE OF LIEN": 34,
-     "STATE TAX LIEN": 7,
-     "TRANSFER OF LIEN": 3
-    }
-   },
-   {
-    "at": "2026-10-16T20:18:15+00:00",
-    "rejected": "",
-    "rows": 57,
-    "search": "trustee 09/29/2026-10/01/2026",
-    "timedOut": false,
-    "total": 57,
+    "total": 103,
     "types": {
      "ASGMT OF LIEN": 7,
-     "ASSIGNMENT": 1,
-     "CERTIFICATE": 1,
-     "CORRECTION": 2,
-     "DEED": 5,
-     "DEED OF TRUST": 9,
-     "EXTENSN OF LIEN": 2,
-     "MODIFICATION": 2,
-     "RELEASE OF LIEN": 4,
-     "TRUSTEES DEED": 5,
-     "WARRANTY DEED": 19
+     "HOSPITAL LIEN": 1,
+     "LIEN NOTICE": 15,
+     "MECHANICS LIEN NOTE": 3,
+     "P/REL LIEN CLAIM": 1,
+     "P/REL OF LIEN": 10,
+     "REL LIEN CLAIM": 3,
+     "RELEASE OF LIEN": 50,
+     "STATE TAX LIEN": 2,
+     "TRANSFER OF LIEN": 11
     }
    },
    {
-    "at": "2026-10-16T20:18:40+00:00",
-    "rejected": "",
-    "rows": 101,
-    "search": "lien 09/30/2026-09/30/2026",
-    "timedOut": false,
-    "total": 101,
-    "types": {
-     "ASGMT OF LIEN": 6,
-     "MECHANICS LIEN NOTE": 2,
-     "P/REL OF LIEN": 7,
-     "REL LIEN CLAIM": 4,
-     "REL STATE TAX LIEN": 1,
-     "RELEASE OF LIEN": 62,
-     "TRANSFER OF LIEN": 5,
-     "TRANSFER TX LIEN": 14
-    }
-   },
-   {
-    "at": "2026-10-16T20:18:50+00:00",
+    "at": "2026-10-17T13:50:02+00:00",
     "rejected": "",
     "rows": 0,
-    "search": "foreclosure 10/01/2026-10/07/2026",
+    "search": "bankruptcy 10/08/2026-10/14/2026",
     "timedOut": false,
     "total": 0,
     "types": {}
    },
    {
-    "at": "2026-10-16T20:19:12+00:00",
+    "at": "2026-10-17T13:50:31+00:00",
     "rejected": "",
-    "rows": 101,
-    "search": "lien 09/30/2026-09/30/2026",
+    "rows": 103,
+    "search": "lien 10/07/2026-10/07/2026",
     "timedOut": false,
-    "total": 101,
+    "total": 103,
     "types": {
-     "ASGMT OF LIEN": 6,
-     "MECHANICS LIEN NOTE": 2,
-     "P/REL OF LIEN": 6,
-     "REL LIEN CLAIM": 4,
-     "REL STATE TAX LIEN": 1,
-     "RELEASE OF LIEN": 63,
-     "TRANSFER OF LIEN": 5,
-     "TRANSFER TX LIEN": 14
+     "ASGMT OF LIEN": 7,
+     "HOSPITAL LIEN": 1,
+     "LIEN NOTICE": 15,
+     "MECHANICS LIEN NOTE": 3,
+     "P/REL LIEN CLAIM": 1,
+     "P/REL OF LIEN": 10,
+     "REL LIEN CLAIM": 3,
+     "RELEASE OF LIEN": 50,
+     "STATE TAX LIEN": 2,
+     "TRANSFER OF LIEN": 11
     }
    },
    {
-    "at": "2026-10-16T20:19:17+00:00",
+    "at": "2026-10-17T13:50:42+00:00",
+    "rejected": "",
+    "rows": 8,
+    "search": "divorce 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 8,
+    "types": {
+     "C C DIVORCE": 8
+    }
+   },
+   {
+    "at": "2026-10-17T13:51:10+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "foreclosure 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-17T13:51:27+00:00",
     "rejected": "",
     "rows": 33,
-    "search": "heirship 10/01/2026-10/07/2026",
+    "search": "heirship 10/08/2026-10/14/2026",
     "timedOut": false,
     "total": 33,
     "types": {
@@ -241,160 +124,279 @@
     }
    },
    {
-    "at": "2026-10-16T20:19:37+00:00",
+    "at": "2026-10-17T13:51:43+00:00",
     "rejected": "",
-    "rows": 10,
-    "search": "judgement 10/01/2026-10/07/2026",
+    "rows": 7,
+    "search": "judgement 10/08/2026-10/14/2026",
     "timedOut": false,
-    "total": 10,
+    "total": 7,
     "types": {
      "JUDGEMENT": 2,
-     "REL OF JUDGEMENT": 8
+     "REL OF JUDGEMENT": 5
     }
    },
    {
-    "at": "2026-10-16T20:19:53+00:00",
+    "at": "2026-10-17T13:52:05+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "judgment 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-17T13:52:30+00:00",
+    "rejected": "",
+    "rows": 7,
+    "search": "judgement 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 7,
+    "types": {
+     "JUDGEMENT": 2,
+     "REL OF JUDGEMENT": 5
+    }
+   },
+   {
+    "at": "2026-10-17T13:52:56+00:00",
+    "rejected": "",
+    "rows": 78,
+    "search": "lien 10/08/2026-10/08/2026",
+    "timedOut": false,
+    "total": 78,
+    "types": {
+     "ASGMT OF LIEN": 9,
+     "EXTENSN OF LIEN": 1,
+     "LIEN NOTICE": 17,
+     "MECHANICS LIEN NOTE": 2,
+     "P/REL OF LIEN": 5,
+     "REL LIEN CLAIM": 2,
+     "RELEASE OF LIEN": 34,
+     "TRANSFER OF LIEN": 8
+    }
+   },
+   {
+    "at": "2026-10-17T13:53:09+00:00",
+    "rejected": "",
+    "rows": 8,
+    "search": "pendens 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 8,
+    "types": {
+     "LIS PENDENS": 6,
+     "REL LIS PENDENS": 2
+    }
+   },
+   {
+    "at": "2026-10-17T13:53:26+00:00",
+    "rejected": "",
+    "rows": 7,
+    "search": "probate 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 7,
+    "types": {
+     "C C PROBATE": 7
+    }
+   },
+   {
+    "at": "2026-10-17T13:53:43+00:00",
     "rejected": "",
     "rows": 1,
-    "search": "judgment 10/01/2026-10/07/2026",
+    "search": "testament 10/08/2026-10/14/2026",
     "timedOut": false,
     "total": 1,
     "types": {
-     "LIS PENDENS": 1
+     "WARRANTY DEED": 1
     }
    },
    {
-    "at": "2026-10-16T20:20:22+00:00",
+    "at": "2026-10-17T13:54:07+00:00",
     "rejected": "",
-    "rows": 60,
-    "search": "lien 10/01/2026-10/01/2026",
+    "rows": 27,
+    "search": "trustee 10/08/2026-10/10/2026",
     "timedOut": false,
-    "total": 60,
+    "total": 27,
     "types": {
+     "AFFIDAVIT": 3,
+     "ASGMT OF LIEN": 2,
+     "CORRECTION": 1,
+     "DEED OF TRUST": 2,
+     "MODIFICATION": 1,
+     "POWER OF ATTORNEY": 2,
+     "RELEASE OF LIEN": 5,
+     "TRANSFER OF LIEN": 1,
+     "TRUSTEES DEED": 6,
+     "WARRANTY DEED": 4
+    }
+   },
+   {
+    "at": "2026-10-17T13:54:27+00:00",
+    "rejected": "",
+    "rows": 13,
+    "search": "will 10/08/2026-10/14/2026",
+    "timedOut": false,
+    "total": 13,
+    "types": {
+     "AFFIDAVIT": 1,
      "ASGMT OF LIEN": 1,
-     "EXTENSN OF LIEN": 8,
-     "LIEN NOTICE": 2,
-     "MECHANICS LIEN NOTE": 4,
+     "BOND": 1,
+     "DEED OF TRUST": 1,
+     "PLAT (RP)": 1,
+     "TRANSFER OF LIEN": 2,
+     "WARRANTY DEED": 4,
+     "WILL": 2
+    }
+   },
+   {
+    "at": "2026-10-17T13:54:52+00:00",
+    "rejected": "",
+    "rows": 54,
+    "search": "lien 10/09/2026-10/09/2026",
+    "timedOut": false,
+    "total": 54,
+    "types": {
+     "ASGMT OF LIEN": 6,
+     "EXTENSN OF LIEN": 3,
+     "MECHANICS LIEN NOTE": 2,
      "P/REL OF LIEN": 6,
-     "REL LIEN CLAIM": 6,
+     "REL FED TAX LIEN": 3,
+     "REL LIEN CLAIM": 1,
      "RELEASE OF LIEN": 27,
      "TRANSFER OF LIEN": 6
     }
    },
    {
-    "at": "2026-10-16T20:20:40+00:00",
+    "at": "2026-10-17T13:55:08+00:00",
     "rejected": "",
-    "rows": 8,
-    "search": "pendens 10/01/2026-10/07/2026",
+    "rows": 0,
+    "search": "lien 10/10/2026-10/10/2026",
     "timedOut": false,
-    "total": 8,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-17T13:55:28+00:00",
+    "rejected": "",
+    "rows": 54,
+    "search": "lien 10/09/2026-10/09/2026",
+    "timedOut": false,
+    "total": 54,
     "types": {
-     "LIS PENDENS": 5,
-     "REL LIS PENDENS": 3
+     "ASGMT OF LIEN": 6,
+     "EXTENSN OF LIEN": 3,
+     "MECHANICS LIEN NOTE": 2,
+     "P/REL OF LIEN": 6,
+     "REL FED TAX LIEN": 3,
+     "REL LIEN CLAIM": 1,
+     "RELEASE OF LIEN": 27,
+     "TRANSFER OF LIEN": 6
     }
    },
    {
-    "at": "2026-10-16T20:21:03+00:00",
+    "at": "2026-10-17T13:55:45+00:00",
     "rejected": "",
-    "rows": 1,
-    "search": "probate 10/01/2026-10/07/2026",
+    "rows": 0,
+    "search": "lien 10/11/2026-10/11/2026",
     "timedOut": false,
-    "total": 1,
-    "types": {
-     "C C PROBATE": 1
-    }
+    "total": 0,
+    "types": {}
    },
    {
-    "at": "2026-10-16T20:21:28+00:00",
+    "at": "2026-10-17T13:56:06+00:00",
     "rejected": "",
-    "rows": 11,
-    "search": "will 10/01/2026-10/07/2026",
+    "rows": 20,
+    "search": "trustee 10/11/2026-10/13/2026",
     "timedOut": false,
-    "total": 11,
+    "total": 20,
     "types": {
-     "ASGMT OF LIEN": 1,
+     "AGREEMENT": 1,
+     "ASGMT OF LIEN": 5,
+     "CERTIFICATE": 2,
+     "CORRECTION": 1,
+     "DEED": 1,
      "DEED OF TRUST": 2,
-     "RELEASE OF LIEN": 4,
-     "WARRANTY DEED": 3,
-     "WILL": 1
+     "RELEASE OF LIEN": 2,
+     "TRUSTEES DEED": 2,
+     "WARRANTY DEED": 4
     }
    },
    {
-    "at": "2026-10-16T20:21:58+00:00",
+    "at": "2026-10-17T13:56:22+00:00",
     "rejected": "",
-    "rows": 74,
-    "search": "lien 10/02/2026-10/02/2026",
+    "rows": 0,
+    "search": "lien 10/12/2026-10/12/2026",
     "timedOut": false,
-    "total": 74,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-17T13:57:00+00:00",
+    "rejected": "",
+    "rows": 158,
+    "search": "lien 10/13/2026-10/13/2026",
+    "timedOut": false,
+    "total": 158,
     "types": {
-     "ASGMT OF LIEN": 2,
-     "EXTENSN OF LIEN": 4,
-     "LIEN NOTICE": 3,
-     "MECHANICS LIEN NOTE": 3,
+     "ASGMT OF LIEN": 18,
+     "EXTENSN OF LIEN": 1,
+     "LIEN NOTICE": 14,
+     "MECHANICS LIEN NOTE": 1,
+     "P/REL OF LIEN": 4,
+     "REL LIEN CLAIM": 21,
+     "REL STATE TAX LIEN": 2,
+     "RELEASE OF LIEN": 77,
+     "STATE TAX LIEN": 4,
+     "TRANSFER OF LIEN": 8,
+     "TRANSFER TX LIEN": 8
+    }
+   },
+   {
+    "at": "2026-10-17T13:57:20+00:00",
+    "rejected": "",
+    "rows": 126,
+    "search": "lien 10/14/2026-10/14/2026",
+    "timedOut": false,
+    "total": 126,
+    "types": {
+     "ASGMT OF LIEN": 12,
+     "EXTENSN OF LIEN": 3,
+     "HOSPITAL LIEN": 16,
+     "LIEN NOTICE": 9,
+     "MECHANICS LIEN NOTE": 2,
      "P/REL OF LIEN": 7,
-     "REL LIEN CLAIM": 5,
-     "RELEASE OF LIEN": 44,
-     "STATE TAX LIEN": 3,
-     "TRANSFER OF LIEN": 3
+     "PARTIAL RELEASE OF CHILD SUPPORT LIEN": 1,
+     "REL LIEN CLAIM": 2,
+     "RELEASE OF LIEN": 54,
+     "TRANSFER OF LIEN": 10,
+     "TRANSFER TX LIEN": 10
     }
    },
    {
-    "at": "2026-10-16T20:22:16+00:00",
+    "at": "2026-10-17T13:57:24+00:00",
     "rejected": "",
-    "rows": 7,
-    "search": "trustee 10/02/2026-10/04/2026",
+    "rows": 19,
+    "search": "trustee 10/14/2026-10/14/2026",
     "timedOut": false,
-    "total": 7,
+    "total": 19,
     "types": {
-     "CERTIFICATE": 1,
-     "MINERAL DEED": 1,
-     "RELEASE OF LIEN": 2,
-     "SHERIFFS DEED": 2,
-     "WARRANTY DEED": 1
+     "APPOINT SUB TTEE": 2,
+     "ASGMT OF LIEN": 1,
+     "CERTIFICATE": 2,
+     "DEED": 1,
+     "PLAT (RP)": 1,
+     "RELEASE OF LIEN": 3,
+     "TRUSTEES DEED": 6,
+     "WARRANTY DEED": 3
     }
-   },
-   {
-    "at": "2026-10-16T20:22:32+00:00",
-    "rejected": "",
-    "rows": 0,
-    "search": "lien 10/03/2026-10/03/2026",
-    "timedOut": false,
-    "total": 0,
-    "types": {}
-   },
-   {
-    "at": "2026-10-16T20:22:55+00:00",
-    "rejected": "",
-    "rows": 7,
-    "search": "trustee 10/02/2026-10/04/2026",
-    "timedOut": false,
-    "total": 7,
-    "types": {
-     "CERTIFICATE": 1,
-     "MINERAL DEED": 1,
-     "RELEASE OF LIEN": 2,
-     "SHERIFFS DEED": 2,
-     "WARRANTY DEED": 1
-    }
-   },
-   {
-    "at": "2026-10-16T20:23:10+00:00",
-    "rejected": "",
-    "rows": 0,
-    "search": "lien 10/04/2026-10/04/2026",
-    "timedOut": false,
-    "total": 0,
-    "types": {}
    }
   ],
-  "last_run": "2026-10-16T20:23:10.781063+00:00",
-  "last_searches": 120,
+  "last_run": "2026-10-17T13:57:24.596098+00:00",
+  "last_searches": 27,
   "last_status": "ok"
  },
  "court": {
   "last_error": "erificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 448, in main\n    run_court(args.full_taxsuits)\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 137, in run_court\n    found = fetch_open_tax_suits(client, date(2000, 1, 1), TODAY, window_days=92, log=log)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 264, in fetch_open_tax_suits\n    rows = client.business_party_search(\"HIDALGO COUNTY\", a, b, status=\"open\")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 224, in business_party_search\n    page = self._search({\n           ^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 200, in _search\n    self._open_session()\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 193, in _open_session\n    self.s.get(f\"{BASE}/default.aspx\", timeout=self.timeout)\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='pa.co.hidalgo.tx.us', port=443): Max retries exceeded with url: /default.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n",
   "last_error_at": "2026-10-15T18:06:18.206527+00:00",
-  "last_run": "2026-10-16T19:43:44.798017+00:00",
+  "last_run": "2026-10-17T13:48:26.274711+00:00",
   "taxsuits_full_walk": "2026-10-15"
  }
 }
