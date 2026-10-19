@@ -184,6 +184,29 @@ def test_case_parties_and_contacts():
                    "grantor": "DELGADO ROSA; DELGADO GUMERCINDO DECEASED", "grantee": "DELGADO GUMERCINDO DECEASED"}),
     ]
     contacts, deceased = rd.contacts_for({"owner": "DELGADO GUMERCINDO"}, None, srcs)
-    assert [c["role"] for c in contacts] == ["Estate representative", "Heir"]
+    # affidavit not read yet: the signer is only an affiant, ranked last
+    assert [c["role"] for c in contacts] == ["Estate representative", "Affiant"]
     assert contacts[0]["name"] == "Maria Elena Delgado"
     assert deceased == ["Gumercindo Delgado"]     # never offered as a contact
+
+
+AFFIDAVIT_TEXT = open(__file__.replace("test_distress.py", "fixtures/affidavit_berrones.txt"), encoding="utf-8").read()
+
+
+def test_affidavit_heirs_not_affiant():
+    from distress.heirship import parse_affidavit
+    import run_distress as rd
+    a = parse_affidavit(AFFIDAVIT_TEXT, "BERRONES JOSE GUADALUPE")
+    assert a["affiant"]["name"] == "Eva Maria Mireles"
+    assert a["affiant"]["relationship"] == "daughter-in-law" and not a["affiant"]["is_heir"]
+    names = {h["name"]: h for h in a["heirs"]}
+    assert names["San Juana Ginez Berrones"]["relation"] == "surviving spouse"
+    assert names["Nato Berrones"]["address"].startswith("306 N. Bob Garcia")
+    assert "José Guadalupe Berrones Jr." in names          # the son, not the decedent
+    rec = {"category": "heirship", "doc_number": "2026-3796238", "affidavit": a,
+           "grantor": "MIRELES EVA MARIA; BERRONES JOSE GUADALUPE DECEASED", "grantee": "BERRONES JOSE GUADALUPE DECEASED"}
+    contacts, deceased = rd.contacts_for({"owner": "BERRONES JOSE G & SAN JUANA"}, None, [("clerk", rec)])
+    assert contacts[0]["role"] == "Heir"
+    assert any(c["name"].endswith("Jr.") for c in contacts)   # the son isn't mistaken for his late father
+    assert contacts[-1]["name"] == "Eva Maria Mireles" and contacts[-1]["role"] == "Affiant"
+    assert "Jose Berrones" in deceased

@@ -409,3 +409,51 @@ class ClerkScraper:
         ok = bool(state["rows"])
         self.log(f"    canary {canary['keyword']} {start}..{end}: {'ok' if ok else 'EMPTY - throttled'}")
         return ok
+
+
+# ---- document images (free watermark-free previews, full resolution) ------
+#
+# /doc/<doc_id> shows every page of a recorded document. The page images are
+# served from /files/documents/<doc_id>/images/<n>_<page>.png?exp=..&sig=..
+# (2536x3296 px - plenty for OCR); the signed URLs come from the app, so we
+# open the doc page in the same browser and collect them as they load.
+
+def _doc_images(self, doc_id: str, max_pages: int = 6) -> list[bytes]:
+    urls: list[str] = []
+
+    def on_response(resp):
+        u = resp.url
+        if f"/files/documents/{doc_id}/images/" in u and u not in urls:
+            urls.append(u)
+
+    self._page.on("response", on_response)
+    try:
+        self._pace()
+        self._page.goto(f"{BASE}/doc/{doc_id}", wait_until="domcontentloaded", timeout=60000)
+        self._page.wait_for_timeout(6000)
+        self._dismiss_popups()
+        body = self._page.inner_text("body")
+        m = re.search(r"Number of Pages:\s*(\d+)", body)
+        n_pages = min(int(m.group(1)) if m else 1, max_pages)
+        nxt = self._page.locator("button[aria-label='Go To Next Page']").first
+        for _ in range(n_pages - 1):
+            before = len(urls)
+            try:
+                nxt.click(timeout=5000)
+            except Exception:  # noqa: BLE001
+                break
+            for _ in range(20):
+                self._page.wait_for_timeout(500)
+                if len(urls) > before:
+                    break
+        images = []
+        for u in urls[:max_pages]:
+            r = self._page.request.get(u, timeout=60000)
+            if r.ok:
+                images.append(r.body())
+        return images
+    finally:
+        self._page.remove_listener("response", on_response)
+
+
+ClerkScraper.doc_images = _doc_images

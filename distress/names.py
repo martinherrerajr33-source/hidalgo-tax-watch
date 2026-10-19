@@ -53,6 +53,8 @@ def strip_deceased(name: str) -> tuple[str, bool]:
 
 
 def _clean_tokens(name: str) -> list[str]:
+    import unicodedata
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
     name = _AKA_RE.sub("", name)
     name = _ETAL_RE.sub("", name)
     name = re.sub(r"[^A-Za-z&' -]", " ", name)

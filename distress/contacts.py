@@ -6,11 +6,16 @@ distressed property the best point of contact is whoever can actually sign or
 steer a sale - so contacts are ranked:
 
   1  Estate representative   applicant / executor / administrator on a probate case
-  2  Heir                    signed an affidavit of heirship (they're the family member handling it)
+  2  Heir                    spouse / children / relatives NAMED INSIDE an affidavit of heirship
+                             (read from the document - the affiant who signed it is often a
+                             neighbor, friend or in-law, not an heir)
   3  Owner of record         HCAD / tax-office owner, if not known to be deceased
   4  Co-owner / defendant    living people named in the tax suit (often the heirs)
   5  Spouse                  party to a divorce case
   6  Named on a filing       person named on a lien / lis pendens / judgment
+  7  Filer                   "record and return to" person on the affidavit's cover page
+  8  Affiant                 signed the heirship affidavit but isn't an heir (neighbor, friend,
+                             in-law) - knows the family, last resort
 
 People known to be deceased are never offered as a contact; they're listed
 separately so you know whose estate it is.
@@ -32,11 +37,14 @@ ROLE_RANK = {
     "Co-owner / tax suit defendant": 4,
     "Spouse": 5,
     "Named on filing": 6,
+    "Filer": 7,
+    "Affiant": 8,
 }
 
 
-def _key(last: str, first: str) -> str:
-    return f"{(last or '').split(' ')[0]}|{first or ''}".upper()
+def _key(last: str, first: str, raw: str = "") -> str:
+    m = re.search(r"\b(JR|SR|II|III|IV)\b", (raw or "").upper().replace(".", ""))
+    return f"{(last or '').split(' ')[0]}|{first or ''}|{m.group(1) if m else ''}".upper()
 
 
 def _pretty(first: str, middle: str, last: str) -> str:
@@ -51,7 +59,7 @@ class ContactBook:
 
     def mark_deceased(self, person) -> None:
         if person:
-            self.deceased[_key(person.last, person.first)] = _pretty(person.first, "", person.last)
+            self.deceased[_key(person.last, person.first, person.raw)] = _pretty(person.first, "", person.last)
 
     def add(self, person, role: str, source: str, address: str = "", attorney: str = "", attorney_phone: str = ""):
         if not person:
@@ -59,10 +67,11 @@ class ContactBook:
         if person.deceased:
             self.mark_deceased(person)
             return
-        k = _key(person.last, person.first)
+        k = _key(person.last, person.first, person.raw)
         cur = self.people.get(k)
         entry = {
-            "name": _pretty(person.first, person.middle, person.last),
+            "name": _pretty(person.first, person.middle, person.last) +
+                    (" Jr." if re.search(r"\bJR\b", person.raw.upper().replace(".", "")) else ""),
             "role": role, "rank": ROLE_RANK.get(role, 9), "source": source,
             "address": norm_space(address), "attorney": attorney, "attorney_phone": attorney_phone,
         }
@@ -79,7 +88,7 @@ class ContactBook:
 
     def result(self) -> tuple[list[dict], list[str]]:
         living = [p for k, p in self.people.items() if k not in self.deceased]
-        living.sort(key=lambda p: (p["rank"], not p["address"], p["name"]))
+        living.sort(key=lambda p: (p["rank"], "spouse" not in p["source"], not p["address"], p["name"]))
         return living, sorted(set(self.deceased.values()))
 
 

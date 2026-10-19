@@ -108,6 +108,12 @@ def run_clerk(budget: int, backfill_days: int) -> None:
                 store.save("clerk_records", records)
                 store.save("state", state)
 
+        # ---- read new affidavits of heirship (heirs are only named inside the document)
+        try:
+            read_affidavits(sc, records, int(os.environ.get("DISTRESS_OCR_BUDGET", "30")))
+        except Exception as exc:  # noqa: BLE001
+            log(f"  affidavit reading stopped: {exc!r}")
+
         cstate["canary"] = canary
         cstate["certified_through"] = certified.isoformat()
         cstate["last_run"] = datetime.now(timezone.utc).isoformat()
@@ -118,6 +124,48 @@ def run_clerk(budget: int, backfill_days: int) -> None:
     store.save("clerk_records", records)
     store.save("state", state)
     log(f"Clerk: {sc.searches} searches, {added} new records, {len(records)} total. Status: {status}")
+
+
+def ocr_images(images: list[bytes]) -> str:
+    import io
+    import pytesseract
+    from PIL import Image
+    texts = []
+    for b in images:
+        img = Image.open(io.BytesIO(b)).convert("L")
+        texts.append(pytesseract.image_to_string(img, config="--psm 4"))
+    return "\n\n".join(texts)
+
+
+def read_affidavits(sc, records: dict, budget: int) -> None:
+    """OCR affidavits of heirship and record the heirs they name (see distress/heirship.py)."""
+    from distress.heirship import parse_affidavit
+    todo = [r for r in records.values()
+            if r.get("category") == "heirship" and r.get("doc_id") and "affidavit" not in r]
+    todo.sort(key=lambda r: datetime.strptime(r.get("recorded") or "01/01/1900", "%m/%d/%Y"), reverse=True)
+    done = 0
+    debug_dir = store.DATA_DIR / "debug"
+    for rec in todo[:budget]:
+        images = sc.doc_images(rec["doc_id"])
+        if not images:
+            log(f"  affidavit {rec['doc_number']}: no page images")
+            continue
+        text = ocr_images(images)
+        decedent = next((n for n in re.split(r"\s*;\s*", rec.get("grantee", "")) if "DECEASED" in n.upper()),
+                        rec.get("grantee", "")).upper().replace("DECEASED", "").strip()
+        parsed = parse_affidavit(text, decedent)
+        parsed["ocr_chars"] = len(text)
+        parsed["read_on"] = TODAY.isoformat()
+        rec["affidavit"] = parsed
+        done += 1
+        if done <= 3:
+            debug_dir.mkdir(parents=True, exist_ok=True)
+            (debug_dir / f"ocr_{rec['doc_id']}.txt").write_text(text, encoding="utf-8")
+        log(f"  affidavit {rec['doc_number']}: affiant {parsed['affiant'].get('name') or '?'} "
+            f"({parsed['affiant'].get('relationship') or 'relationship ?'}), {len(parsed['heirs'])} heirs named")
+        if done % 10 == 0:
+            store.save("clerk_records", records)
+    log(f"  affidavits read: {done}, {max(0, len(todo) - done)} still to read")
 
 
 # ============================================================== clerk exports
@@ -367,8 +415,27 @@ def contacts_for(parcel: dict, tax: dict | None, srcs: list[tuple[str, dict]]) -
                 book.add(Person(raw=d["raw"], last=d["last"], first=d["first"], middle=d.get("middle", "")),
                          "Spouse", f'divorce {rec["case_number"]}', addr)
         elif kind == "clerk" and rec.get("category") == "heirship":
-            for person in split_index_names(rec.get("grantor", "")):
-                book.add(person, "Heir", f'affidavit of heirship {rec.get("doc_number", "")}')
+            doc = f'affidavit of heirship {rec.get("doc_number", "")}'
+            aff = rec.get("affidavit")
+            if aff:
+                for h in aff.get("heirs", []):
+                    book.add(person_from_court_name(h["name"]), "Heir", f'{h.get("relation", "heir")} · {doc}',
+                             h.get("address", ""))
+                a = aff.get("affiant", {})
+                rel = a.get("relationship") or "relationship not stated"
+                if a.get("name"):
+                    if a.get("is_heir"):
+                        book.add(person_from_court_name(a["name"]), "Heir", f'{rel} (affiant) · {doc}')
+                    else:
+                        book.add(person_from_court_name(a["name"]), "Affiant", f'{rel} - signed, not an heir · {doc}')
+                rt = aff.get("return_to") or {}
+                if rt.get("name"):
+                    book.add(person_from_court_name(rt["name"]), "Filer", f'record & return to · {doc}',
+                             rt.get("address", ""))
+            else:
+                # document not read yet: the index only tells us who signed it
+                for person in split_index_names(rec.get("grantor", "")):
+                    book.add(person, "Affiant", f'signed {doc} - heirs not read yet')
         elif kind == "clerk":
             for person in split_index_names(rec.get("grantee", "")):
                 book.add(person, "Named on filing", f'{rec.get("doc_type", "").title()} {rec.get("doc_number", "")}')

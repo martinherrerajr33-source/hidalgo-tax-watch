@@ -1,3 +1,5 @@
 playwright>=1.47
 cryptography>=42
 certifi
+pytesseract>=0.3
+pillow>=10
