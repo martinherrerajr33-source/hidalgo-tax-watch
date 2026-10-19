@@ -180,7 +180,7 @@
     <div class="table-scroll">
       <table>
         <thead><tr>
-          <th>Score</th><th>Owner</th><th>Property</th><th>Signals</th><th>Value</th><th>Taxes due</th><th>Latest</th><th>Contacted</th>
+          <th>Score</th><th>Point of contact</th><th>Property</th><th>Signals</th><th>Value</th><th>Taxes due</th><th>Latest</th><th>Contacted</th>
         </tr></thead>
         <tbody id="rBody"></tbody>
       </table>
@@ -337,7 +337,8 @@ function rankedRows(){
   if($('rStackedOnly').checked) rows = rows.filter(p => new Set(p.categories.map(group)).size >= 2);
   if($('rHideContacted').checked) rows = rows.filter(p => !CONTACTED[p.geo_id]);
   if($('rAbsentee').checked) rows = rows.filter(p => p.tax && p.tax.found && !p.tax.homestead);
-  if(q) rows = rows.filter(p => [p.owner, p.address, p.city, p.geo_id, p.legal, ...p.signals.map(s => s.parties)]
+  if(q) rows = rows.filter(p => [p.owner, p.address, p.city, p.geo_id, p.legal, ...p.signals.map(s => s.parties),
+                                  ...(p.contacts || []).map(c => c.name)]
                                   .join(' ').toLowerCase().includes(q));
   const latest = p => Math.max(...p.signals.map(s => toDate(s.date)));
   rows = rows.slice().sort((a, b) =>
@@ -361,7 +362,7 @@ function renderRanked(){
     const contacted = !!CONTACTED[p.geo_id];
     html.push(`<tr class="main ${contacted ? 'is-contacted' : ''}" data-geo="${esc(p.geo_id)}">
       <td data-label="Score"><span class="score ${tier(p.score)}">${p.score}</span></td>
-      <td data-label="Owner"><div class="owner">${esc(p.owner || '—')}</div>${p.tax && p.tax.owner_mailing ? `<div class="sub">Mail: ${esc(p.tax.owner_mailing)}</div>` : ''}</td>
+      <td data-label="Point of contact">${pocCell(p)}</td>
       <td data-label="Property">${esc(p.address || '—')}<div class="sub">${esc(p.city || '')}${p.city ? ' · ' : ''}<span class="mono">${esc(p.geo_id)}</span></div></td>
       <td data-label="Signals">${tags}</td>
       <td data-label="Value" class="mono">${money(p.market_value)}</td>
@@ -372,6 +373,26 @@ function renderRanked(){
     if(openRows.has(p.geo_id)) html.push(detailRow(p));
   });
   $('rBody').innerHTML = html.join('');
+}
+
+function poc(p){ return (p.contacts || [])[0]; }
+function pocCell(p){
+  const c = poc(p);
+  const dead = (p.deceased_people || []).length ? `<div class="sub">Estate of ${esc(p.deceased_people.join(', '))}</div>` : '';
+  if(!c) return `<div class="owner">${esc(p.owner || '—')}</div><div class="sub">Owner of record</div>${dead}`;
+  const more = (p.contacts.length > 1) ? ` <span class="muted">+${p.contacts.length - 1}</span>` : '';
+  return `<div class="owner">${esc(c.name)}${more}</div><div class="sub">${esc(c.role)}</div>` +
+         (c.address ? `<div class="sub">${esc(c.address)}</div>` : '') + dead;
+}
+function contactsBlock(p){
+  const list = (p.contacts || []).map(c => `<div class="sig">
+      <div><b>${esc(c.name)}</b> <span class="muted">· ${esc(c.role)}</span></div>
+      <div class="when">${esc(c.source)}</div>
+      ${c.address ? `<div class="sub">${esc(c.address)}</div>` : ''}
+      ${c.attorney ? `<div class="sub">Attorney: ${esc(c.attorney)}${c.attorney_phone ? ' · ' + esc(c.attorney_phone) : ''}</div>` : ''}
+    </div>`).join('');
+  const dead = (p.deceased_people || []).length ? `<div class="sub" style="margin-bottom:8px">Deceased: ${esc(p.deceased_people.join(', '))}</div>` : '';
+  return `<h3>Who to contact</h3>${dead}${list || '<div class="sub">No living contact found yet — skip-trace the owner of record.</div>'}`;
 }
 
 function detailRow(p){
@@ -385,7 +406,7 @@ function detailRow(p){
     </div>`).join('');
   const t = p.tax || {};
   return `<tr class="detail"><td colspan="8"><div class="detail-grid">
-      <div><h3>Why ${p.score}</h3><ul class="breakdown">${bd}</ul>
+      <div>${contactsBlock(p)}<h3 style="margin-top:16px">Why ${p.score}</h3><ul class="breakdown">${bd}</ul>
         <div class="facts">${esc(p.legal || '')}<br>
           ${t.found ? `Prior-year due: ${money(t.prior_year_due)} · Total due: ${money(t.total_due)}<br>Exemptions: ${esc(t.exemptions || 'none')}<br>` : ''}
           ${p.pid ? `<a href="${cadUrl(p.pid)}" target="_blank" rel="noopener">Open in HCAD ↗</a>` : ''}</div></div>
@@ -502,12 +523,28 @@ function parseMail(m){
   const r = (m || '').match(/^(.*?)\s+([A-Z .'-]+?)\s*,?\s+(TX|[A-Z]{2})\s+(\d{5})/i);
   return r ? {street: r[1], city: r[2], state: r[3], zip: r[4]} : {street: m || '', city: '', state: '', zip: ''};
 }
+function contactName(p){
+  const c = poc(p);
+  if(!c) return splitOwner(p.owner);
+  const n = c.name.split(/\s+/);
+  return {first: n[0] || '', last: n.slice(1).filter(x => x.length > 1).slice(-1)[0] || n[n.length - 1] || ''};
+}
+function otherContact(p, i){
+  const c = (p.contacts || [])[i];
+  return c ? `${c.name} (${c.role}${c.address ? '; ' + c.address : ''})` : '';
+}
 const stamp = () => new Date().toISOString().slice(0, 10);
 
 $('rExport').onclick = () => {
   const rows = rankedRows();
   download(`distress-ranked-${stamp()}.csv`, csv(rows, [
-    ['First Name', p => splitOwner(p.owner).first], ['Last Name', p => splitOwner(p.owner).last],
+    ['First Name', p => contactName(p).first], ['Last Name', p => contactName(p).last],
+    ['Contact Role', p => (poc(p) || {}).role || 'Owner of record'],
+    ['Contact Address', p => (poc(p) || {}).address || ''],
+    ['Contact Source', p => (poc(p) || {}).source || ''],
+    ['Attorney', p => (poc(p) || {}).attorney || ''], ['Attorney Phone', p => (poc(p) || {}).attorney_phone || ''],
+    ['Contact 2', p => otherContact(p, 1)], ['Contact 3', p => otherContact(p, 2)], ['Contact 4', p => otherContact(p, 3)],
+    ['Deceased', p => (p.deceased_people || []).join('; ')],
     ['Owner Name', p => p.owner], ['Property Address', p => p.address], ['Property City', p => p.city],
     ['Property State', () => 'TX'],
     ['Mailing Address', p => parseMail((p.tax||{}).owner_mailing).street], ['Mailing City', p => parseMail((p.tax||{}).owner_mailing).city],
@@ -517,7 +554,6 @@ $('rExport').onclick = () => {
     ['Latest Signal', p => p.signals[0] ? p.signals[0].date : ''],
     ['Market Value', p => p.market_value], ['Taxes Due', p => (p.tax||{}).total_due || 0],
     ['Homestead', p => p.tax && p.tax.found ? (p.tax.homestead ? 'Yes' : 'No') : ''],
-    ['Owner Deceased', p => p.signals.some(s => s.deceased) ? 'Yes' : ''],
     ['Notes', p => p.breakdown.map(b => `${b.label} +${b.points}`).join('; ')],
   ]));
 };

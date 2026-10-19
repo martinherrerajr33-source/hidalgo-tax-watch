@@ -161,3 +161,29 @@ def test_rows_from_ws_payload():
     assert r["grantee"] == "BERRONES JOSE GUADALUPE DECEASED"
     assert r["grantor"] == "MIRELES EVA MARIA; BERRONES JOSE GUADALUPE DECEASED"
     assert r["legal"].endswith("Lot: 7 Block: 11") and r["recorded"] == "10/13/2026"
+
+
+PROBATE_DETAIL = '''<div>Party Information</div><table>
+<tr><th id="PIr01">Decedent</th><th id="PIr11">Delgado, Gumercindo</th><th>Attorneys</th></tr>
+<tr><td headers="PIr01 PIr11">&nbsp;</td></tr>
+<tr><th id="PIr02">Applicant</th><th id="PIr12">Delgado, Maria Elena</th><th>Lead Attorneys</th></tr>
+<tr><td headers="PIr02 PIr12">1205 W Elm Ave<br>McAllen, TX 78501</td><td>JOHN Q SMITH<br>Retained<br>956-555-1234(W)</td></tr>
+</table><div>Events & Orders of the Court</div>'''
+
+
+def test_case_parties_and_contacts():
+    from distress.court import parse_case_parties
+    import run_distress as rd
+    parties = parse_case_parties(PROBATE_DETAIL)
+    applicant = next(p for p in parties if p["role"] == "Applicant")
+    assert applicant["address"] == "1205 W Elm Ave, McAllen, TX 78501"
+    assert applicant["attorney_phone"] == "(956) 555-1234"
+    srcs = [
+        ("court", {"kind": "probate", "case_number": "P1-1", "parties": [], "detail_parties": parties}),
+        ("clerk", {"category": "heirship", "doc_number": "2026-1",
+                   "grantor": "DELGADO ROSA; DELGADO GUMERCINDO DECEASED", "grantee": "DELGADO GUMERCINDO DECEASED"}),
+    ]
+    contacts, deceased = rd.contacts_for({"owner": "DELGADO GUMERCINDO"}, None, srcs)
+    assert [c["role"] for c in contacts] == ["Estate representative", "Heir"]
+    assert contacts[0]["name"] == "Maria Elena Delgado"
+    assert deceased == ["Gumercindo Delgado"]     # never offered as a contact

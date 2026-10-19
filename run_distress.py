@@ -23,6 +23,7 @@ All state is in data/distress/*.json (see distress/store.py).
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 import time
@@ -232,6 +233,38 @@ def run_court(full_taxsuits: bool) -> None:
         except Exception as exc:  # noqa: BLE001
             log(f"  {kind}: failed ({exc}) - will retry next run")
 
+    # ---- who's on each case (applicants/executors, defendants + addresses, attorneys)
+    from distress.court import fetch_case_parties
+    def detail_priority(cid):
+        c = cases[cid]
+        kind_rank = {"probate": 0, "tax_suit": 1, "divorce": 2}.get(c.get("kind"), 3)
+        try:
+            age = (TODAY - datetime.strptime(c.get("filed", ""), "%m/%d/%Y").date()).days
+        except ValueError:
+            age = 99999
+        return (kind_rank, age)
+    need = [cid for cid, c in cases.items()
+            if "detail_parties" not in c and (c.get("kind") != "tax_suit" or c.get("open", True))]
+    need.sort(key=detail_priority)
+    budget = int(os.environ.get("DISTRESS_DETAIL_BUDGET", "250"))
+    fetched = 0
+    sample_dir = store.DATA_DIR / "debug"
+    for cid in need[:budget]:
+        try:
+            parties, raw = fetch_case_parties(client, cid)
+        except Exception as exc:  # noqa: BLE001
+            log(f"  case detail {cid} failed: {exc}")
+            continue
+        cases[cid]["detail_parties"] = parties
+        cases[cid]["detail_fetched"] = TODAY.isoformat()
+        fetched += 1
+        if fetched <= 2 or (not parties and fetched <= 6):
+            sample_dir.mkdir(parents=True, exist_ok=True)
+            (sample_dir / f"case_{cases[cid].get('kind')}_{cid}.html").write_text(raw, encoding="utf-8")
+        if fetched % 50 == 0:
+            store.save("court_cases", cases)
+    log(f"  case details: fetched {fetched}, {max(0, len(need) - fetched)} still to do")
+
     cst["last_run"] = datetime.now(timezone.utc).isoformat()
     store.save("court_cases", cases)
     store.save("state", state)
@@ -283,6 +316,67 @@ def court_people(case: dict) -> list[Person]:
         out.append(Person(raw=d["raw"], last=d["last"], first=d["first"], middle=d.get("middle", ""),
                           deceased=d.get("deceased", False), alt_lasts=d.get("alt_lasts", [])))
     return out
+
+
+def contacts_for(parcel: dict, tax: dict | None, srcs: list[tuple[str, dict]]) -> tuple[list[dict], list[str]]:
+    """Ranked people to contact about one parcel (see distress/contacts.py)."""
+    from distress.contacts import (ContactBook, split_owner_names, split_index_names, person_from_court_name,
+                                   ESTATE_ROLES, DECEDENT_ROLES)
+    from distress.names import Person
+    book = ContactBook()
+
+    # pass 1: who is deceased (so they're never offered as a contact)
+    for kind, rec in srcs:
+        if kind == "clerk":
+            for person in split_index_names(rec.get("grantor", "")) + split_index_names(rec.get("grantee", "")):
+                if person.deceased:
+                    book.mark_deceased(person)
+        else:
+            for d in rec.get("parties", []):
+                if d.get("deceased"):
+                    book.mark_deceased(Person(raw=d["raw"], last=d["last"], first=d["first"], deceased=True))
+            for d in rec.get("detail_parties", []):
+                if DECEDENT_ROLES.search(d.get("role", "")) or "DECEASED" in d.get("name", "").upper():
+                    book.mark_deceased(person_from_court_name(d["name"]))
+
+    # pass 2: everyone else, by role
+    for kind, rec in srcs:
+        if kind == "court" and rec.get("kind") == "probate":
+            for d in rec.get("detail_parties", []):
+                if ESTATE_ROLES.search(d.get("role", "")):
+                    book.add(person_from_court_name(d["name"]), "Estate representative",
+                             f'{d["role"]} · probate {rec["case_number"]}', d.get("address", ""),
+                             d.get("attorney", ""), d.get("attorney_phone", ""))
+        elif kind == "court" and rec.get("kind") == "tax_suit":
+            detail = {d["name"]: d for d in rec.get("detail_parties", []) if "DEFENDANT" in d.get("role", "").upper()}
+            if detail:
+                for name, d in detail.items():
+                    book.add(person_from_court_name(name), "Co-owner / tax suit defendant",
+                             f'tax suit {rec["case_number"]}', d.get("address", ""), d.get("attorney", ""),
+                             d.get("attorney_phone", ""))
+            else:
+                for d in rec.get("parties", []):
+                    book.add(Person(raw=d["raw"], last=d["last"], first=d["first"], middle=d.get("middle", ""),
+                                    deceased=d.get("deceased", False)),
+                             "Co-owner / tax suit defendant", f'tax suit {rec["case_number"]}')
+        elif kind == "court" and rec.get("kind") == "divorce":
+            detail = {d["name"]: d for d in rec.get("detail_parties", [])}
+            for d in rec.get("parties", []):
+                addr = next((x.get("address", "") for n, x in detail.items()
+                             if d["last"] in n.upper() and d["first"] in n.upper()), "")
+                book.add(Person(raw=d["raw"], last=d["last"], first=d["first"], middle=d.get("middle", "")),
+                         "Spouse", f'divorce {rec["case_number"]}', addr)
+        elif kind == "clerk" and rec.get("category") == "heirship":
+            for person in split_index_names(rec.get("grantor", "")):
+                book.add(person, "Heir", f'affidavit of heirship {rec.get("doc_number", "")}')
+        elif kind == "clerk":
+            for person in split_index_names(rec.get("grantee", "")):
+                book.add(person, "Named on filing", f'{rec.get("doc_type", "").title()} {rec.get("doc_number", "")}')
+
+    mailing = (tax or {}).get("owner_mailing", "")
+    for person in split_owner_names((tax or {}).get("owner_name") or parcel.get("owner", "")):
+        book.add(person, "Owner of record", "tax office / HCAD", mailing)
+    return book.result()
 
 
 def run_build(tax_budget: int, match_budget: int, year: str) -> None:
@@ -405,10 +499,12 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
     def add(geo: str, sig: dict):
         signals.setdefault(geo, []).append(sig)
 
+    sources: dict[str, list[tuple[str, dict]]] = {}
     for doc_id, rec in clerk.items():
         m = matches.get(f"clerk:{doc_id}", {})
         if m.get("confidence") not in ("high", "medium"):
             continue
+        sources.setdefault(m["geo_id"], []).append(("clerk", rec))
         add(m["geo_id"], {
             "category": rec["category"], "source": "clerk", "date": rec["recorded"],
             "label": CATEGORIES[rec["category"]][2], "detail": rec["doc_type"],
@@ -424,6 +520,7 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
         m = matches.get(f"court:{cid}", {})
         if m.get("confidence") not in ("high", "medium"):
             continue
+        sources.setdefault(m["geo_id"], []).append(("court", case))
         cat = case["kind"]
         add(m["geo_id"], {
             "category": cat, "source": "court", "date": case["filed"],
@@ -453,7 +550,9 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
         t = taxes.get(g)
         score, breakdown = score_parcel(sigs, t, TODAY)
         sigs.sort(key=lambda s: s.get("date", ""), reverse=True)
+        contacts, deceased = contacts_for(p, t, sources.get(g, []))
         props.append({
+            "contacts": contacts, "deceased_people": deceased,
             "geo_id": g, "pid": p.get("pid", ""), "owner": p.get("owner", ""),
             "address": p.get("address", ""), "city": p.get("city", ""),
             "legal": p.get("legal", ""), "market_value": p.get("market_value", 0),

@@ -347,3 +347,69 @@ def fetch_recent(client: OdysseyClient, kind: str, log=print) -> list[CourtCase]
         cases.append(build_case(row, kind))
     log(f"  {kind}: {len(rows)} newest cases scanned, {len(cases)} kept")
     return cases
+
+
+# ---- case detail: who's on the case --------------------------------------
+#
+# Odyssey's CaseDetail.aspx "Party Information" table lays each party out as
+#   <tr><th id="PIr01">Applicant</th><th id="PIr11">Garcia, Maria</th> ... <th>Attorneys</th></tr>
+#   <tr><td headers="PIr01 PIr11">123 MAIN ST<br>MCALLEN, TX 78501</td> <td>JOHN DOE Retained 956-555-1234(W)</td></tr>
+# The parser below keys off those ids, and falls back to plain text if the
+# layout differs. Applicants / executors / administrators on a probate case are
+# the people who control the estate - the best point of contact for an heir deal.
+
+_PARTY_ROLE_RE = re.compile(
+    r'<th[^>]*id="(PIr0\d+)"[^>]*>(.*?)</th>\s*<th[^>]*id="(PIr1\d+)"[^>]*>(.*?)</th>(.*?)(?=<th[^>]*id="PIr0\d+"|</table>)',
+    re.S | re.I)
+_PHONE_RE = re.compile(r"\(?\b(\d{3})\)?[-. ]?(\d{3})[-. ]?(\d{4})\b")
+_ROLE_WORDS = ("applicant", "executor", "executrix", "administrator", "administratrix", "personal representative",
+               "petitioner", "respondent", "defendant", "plaintiff", "decedent", "deceased", "heir", "guardian",
+               "ward", "proposed ward", "trustee", "beneficiary", "devisee", "independent")
+
+
+def _cell_lines(fragment: str) -> list[str]:
+    t = re.sub(r"<br\s*/?>", "\n", fragment, flags=re.I)
+    t = re.sub(r"</(td|tr|div|p)>", "\n", t, flags=re.I)
+    t = html_module.unescape(re.sub(r"<[^>]+>", " ", t)).replace("\xa0", " ")
+    return [norm_space(x) for x in t.split("\n") if norm_space(x)]
+
+
+def parse_case_parties(page_html: str) -> list[dict]:
+    """CaseDetail.aspx -> [{role, name, address, attorney, attorney_phone}]"""
+    i = page_html.find("Party Information")
+    if i < 0:
+        return []
+    j = page_html.find("Events & Orders", i)
+    block = page_html[i: j if j > 0 else i + 60000]
+    parties = []
+    for _, role_html, _, name_html, rest in _PARTY_ROLE_RE.findall(block):
+        role = _text(role_html)
+        name = _text(name_html)
+        if not name or not role:
+            continue
+        # cells after the name row: first the party's own details (address), then attorney cells
+        tds = re.findall(r"<td[^>]*>(.*?)</td>", rest, re.S | re.I)
+        address_lines, attorney, phone = [], "", ""
+        for td in tds:
+            lines = _cell_lines(td)
+            if not lines:
+                continue
+            joined = " ".join(lines)
+            if re.search(r"\b(Retained|Court Appointed|Pro Se|Lead Attorney)\b", joined, re.I):
+                attorney = attorney or lines[0]
+                m = _PHONE_RE.search(joined)
+                if m and not phone:
+                    phone = f"({m.group(1)}) {m.group(2)}-{m.group(3)}"
+            elif not address_lines and re.search(r"\d", joined) and not re.search(r"\b(DOB|SID|Race|Male|Female)\b", joined):
+                address_lines = [x for x in lines if not re.match(r"^(Height|Weight)", x)]
+        parties.append({"role": role, "name": name, "address": ", ".join(address_lines)[:160],
+                        "attorney": attorney[:80], "attorney_phone": phone})
+    return parties
+
+
+def fetch_case_parties(client: "OdysseyClient", case_id: str) -> tuple[list[dict], str]:
+    if not client._ready:
+        client._open_session()
+    r = client._req("GET", f"{BASE}/CaseDetail.aspx", params={"CaseID": case_id})
+    client._wait()
+    return parse_case_parties(r.text), r.text
