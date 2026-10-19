@@ -26082,6 +26082,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331558938"
  },
  "331560498": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "BIANCA DAVILA",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Gustavo Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Blanche Marie Davila",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 10081,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261009000148 400 Second Avenue South, Recorded On: October 09, 2026 11:56 AM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331560498",
@@ -26096,6 +26121,61 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331560498"
  },
  "331560500": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "BIANCA DAVILA",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Blanche Marie Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Sally Ann Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Bianca Estelle Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Joel Kent Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Gilbert Daniel Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Arianna Esther Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Matthew John Davila",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "William Murphey Davila",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 9788,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261009000148 400 Second Avenue South, Recorded On: October 09, 2026 11:56 AM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331560500",
@@ -26110,6 +26190,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331560500"
  },
  "331561439": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "ARTURO LUIS SEGUNDO",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Fernando Luis Segundo",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Luis Segundo",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 6158,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261009000164 919 North 1000 West, Recorded On: October 09, 2026 12:41 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331561439",
@@ -26194,6 +26299,36 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331580016"
  },
  "331581130": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "POMPOSA DE LA ROSA",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "De La Rosa Perez",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Alberta Perez",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Israel Perez",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 6468,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331581130",
@@ -26208,6 +26343,20 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331581130"
  },
  "331581135": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Pomposa De La Rosa",
+    "relationship": ""
+   },
+   "heirs": [],
+   "ocr_chars": 6430,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331581135",
@@ -26222,6 +26371,36 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331581135"
  },
  "331581142": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "FIDENCIO DE LA ROSA RUIZ",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "De La Rosa Perez",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Alberta Perez",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Israel Perez",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 6331,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331581142",
@@ -26250,6 +26429,58 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331582681"
  },
  "331583713": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Jonathan Renteria",
+    "relationship": "disinterested"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Criselda Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Guadalupe Jesus Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Lucinda Garcia Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Cesar Fernando Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Javier Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Maria Elena Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Nora Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Monica Torres",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 9916,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331583713",
@@ -26264,6 +26495,58 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331583713"
  },
  "331583716": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Juanita Laura Garcia",
+    "relationship": "disinterested"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Criselda Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Guadalupe Jesus Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Lucinda Garcia Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Cesar Fernando Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Javier Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Maria Elena Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Nora Torres",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Monica Torres",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 7651,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331583716",
@@ -26320,6 +26603,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331585681"
  },
  "331585683": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "RUBEN CASTANEDA",
+    "relationship": "disinterested"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ricardo Sanchez",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 8374,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261013000174 919 North 1000 West, Recorded On: October 13, 2026 11:15 AM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331585683",
@@ -26348,6 +26651,43 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331587316"
  },
  "331587830": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Eva Maria Mireles",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "2009 Dallas Dr, Weslaco, TX 78596",
+     "name": "San Juana Ginez Berrones",
+     "relation": "surviving spouse"
+    },
+    {
+     "address": "",
+     "name": "Nato Berrones",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Alma Delia Berrones Saenz",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "José Guadalupe Berrones Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Nato Berrones - of birth -",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3955,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331587830",
@@ -26362,6 +26702,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331587830"
  },
  "331590183": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "JENNIFER CLARICE LOPEZ",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Del Refugio Jimenez",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 6725,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261013000208 400 Second Avenue South, Recorded On: October 13, 2026 01:31 PM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331590183",
@@ -26390,6 +26750,17 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331590648"
  },
  "331593308": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "ELVA FARIAS",
+    "relationship": ""
+   },
+   "heirs": [],
+   "ocr_chars": 25144,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331593308",
@@ -26404,6 +26775,66 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331593308"
  },
  "331593598": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "ROGELIO REYNA",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jose Rogelio Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Yuri Isabel Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Roman Eric Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Daisy Michelle Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jesus Alfredo Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Carlos Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ovralia A. Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Oralin A. Reyna",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Daughter Oraliw A. Reyna",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 7297,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261013000352 201 S. Sam Houston, Recorded On: October 13, 2026 03:28 PM",
+    "name": "Document No: 3796321 Randall P. Crane, Attorney at Law"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331593598",
@@ -26418,6 +26849,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331593598"
  },
  "331594383": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Mary Jane Vargas",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Silvestre Vargas",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 4096,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261013000383 17460 I-35 N, # 430-105, Recorded On: October 13, 2026 03:53 PM",
+    "name": "Document No S V GROUP LLC"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331594383",
@@ -26740,6 +27191,20 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331598329"
  },
  "331599265": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "ADA DELEON",
+    "relationship": ""
+   },
+   "heirs": [],
+   "ocr_chars": 7380,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000015 5072 North 300 West, Recorded On: October 14, 2026 08:27 AM",
+    "name": "Document No Simplifile"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331599265",
@@ -26768,6 +27233,17 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331599266"
  },
  "331600829": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "ALEJANDRO HERNANDEZ",
+    "relationship": ""
+   },
+   "heirs": [],
+   "ocr_chars": 9359,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331600829",
@@ -26782,6 +27258,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331600829"
  },
  "331600830": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "NORMA ALICIA CAVADA MARTINEZ",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "HECTOR CANTU GARCIA",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 9224,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000027 919 North 1000 West, Recorded On: October 14, 2026 09:06 AM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331600830",
@@ -26824,6 +27320,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331603813"
  },
  "331603818": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Bobby Glenn Timmons",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Tina Aleman",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Graciela Moya Aleman",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Pilar Aleman",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 9898,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331603818",
@@ -26880,6 +27403,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331607626"
  },
  "331608292": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Maricela Ortega",
+    "relationship": "friend"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Gloria Galvan",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Carlos Galvan",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 3430,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000182 919 North 1000 West, Recorded On: October 14, 2026 12:32 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331608292",
@@ -26894,6 +27442,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331608292"
  },
  "331608295": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Jose B. Ortega",
+    "relationship": "friend"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Gloria Galvan",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Carlos Galvan",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 3407,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000182 919 North 1000 West, Recorded On: October 14, 2026 12:32 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331608295",
@@ -26922,6 +27495,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331608785"
  },
  "331614422": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Jose B. Ortega",
+    "relationship": "friend"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ramiro Galvan",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Carlos Galvan",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 3439,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000214 919 North 1000 West, Recorded On: October 14, 2026 01:22 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331614422",
@@ -26950,6 +27548,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331614423"
  },
  "331614425": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Maricela Ortega",
+    "relationship": "friend"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ramiro Galvan",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Carlos Galvan",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 3451,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000214 919 North 1000 West, Recorded On: October 14, 2026 01:22 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331614425",
@@ -27048,6 +27671,38 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331619464"
  },
  "331619470": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Sylvia Lugo Herrera",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Paula Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Santos Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Andrew Lee Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ashley Nicole Alvarado",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 5007,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331619470",
@@ -27076,6 +27731,38 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331619473"
  },
  "331619474": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Marisa Garza",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Paula Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Santos Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Andrew Lee Alvarado",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ashley Nicole Alvarado",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 4966,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331619474",
@@ -27146,6 +27833,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331620048"
  },
  "331620053": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Valerie Toala",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Mary Antonia RSM",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 8384,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261014000311 919 North 1000 West, Recorded On: October 14, 2026 04:01 PM",
+    "name": "Document No Corporation Service Company"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331620053",
@@ -27398,6 +28105,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331631118"
  },
  "331631120": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "Macario Garcia",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "1900 W Mimosa Dr., Weslaco, TX 78596",
+     "name": "Elodia De Leon",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 3635,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331631120",
@@ -27412,6 +28136,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331631120"
  },
  "331635301": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Juan Casares",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 3933,
+   "read_on": "2026-10-19",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331635301",
@@ -27510,6 +28251,51 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331636798"
  },
  "331638918": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "",
+    "relationship": "friend"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Olga De",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Luis De",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Daniel De",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jada Josette De",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Juan Jose De",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Orlando De",
+     "relation": "family (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 5014,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261015000122 5072 North 300 West, Recorded On: October 15, 2026 01:28 PM",
+    "name": "Document No Simplifile"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331638918",
@@ -27566,6 +28352,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331641146"
  },
  "331641590": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": true,
+    "name": "SARA RODRIGUEZ ALVAREZ",
+    "relationship": "surviving spouse"
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "Lot Thirteen",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 7961,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261015000198 400 Second Avenue South, Recorded On: October 15, 2026 02:59 PM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331641590",
@@ -27580,6 +28386,31 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331641590"
  },
  "331641982": {
+  "affidavit": {
+   "affiant": {
+    "is_heir": false,
+    "name": "EDEN HINOJOSA",
+    "relationship": ""
+   },
+   "heirs": [
+    {
+     "address": "",
+     "name": "JOSE O.",
+     "relation": "surviving spouse"
+    },
+    {
+     "address": "",
+     "name": "Lot Sixty Three",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 8622,
+   "read_on": "2026-10-19",
+   "return_to": {
+    "address": "Receipt No: 20261015000199 400 Second Avenue South, Recorded On: October 15, 2026 03:01 PM",
+    "name": "Document No eRecording Partners"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331641982",
