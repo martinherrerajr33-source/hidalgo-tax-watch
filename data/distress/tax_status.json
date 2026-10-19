@@ -351,6 +351,30 @@
   "status": "delinquent",
   "total_due": 19761.56
  },
+ "A1295-01-000-0013-00": {
+  "checked": "2026-10-19",
+  "exemptions": "",
+  "found": false,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "",
+  "owner_name": "",
+  "prior_year_due": 0.0,
+  "status": "not_found",
+  "total_due": 0.0
+ },
+ "A1295-01-000-0057-00": {
+  "checked": "2026-10-19",
+  "exemptions": "",
+  "found": false,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "",
+  "owner_name": "",
+  "prior_year_due": 0.0,
+  "status": "not_found",
+  "total_due": 0.0
+ },
  "A1460-00-000-0021-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $68,600 \r\nLand Value: $55,586 \r\nImprovement Value: $13,014 \r\n\r\nCapped Value: $63,309 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nOVER 65\nDEFERRAL\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-16",
@@ -3501,6 +3525,18 @@
   "status": "current_due",
   "total_due": 9961.67
  },
+ "C4135-00-000-0003-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "3533 MORELAND DR STE A WESLACO, TX 78596-9132",
+  "owner_name": "LF TRINITY DEVELOPMENT GROUP LLC",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "C4143-00-000-0024-00": {
   "active_lawsuits": "T-1371-24-M\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $79,847 \r\nLand Value: $65,379 \r\nImprovement Value: $14,468 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-15",
@@ -4237,6 +4273,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "C7886-95-000-0008-01": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "4413 MELODY LN EDINBURG, TX 78542-3525",
+  "owner_name": "MADEIRA RAVEN & NORMA D",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 502.72
+ },
  "C7900-00-000-0008-36": {
   "active_lawsuits": "T-1229-25-H\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $41,075 \r\nLand Value: $35,617 \r\nImprovement Value: $5,458 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-15",
@@ -4418,6 +4466,18 @@
   "prior_year_due": 10099.48,
   "status": "delinquent",
   "total_due": 10099.48
+ },
+ "C9100-00-000-0063-00": {
+  "checked": "2026-10-19",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "4506 W LOPEZ DR EDINBURG, TX 78542-2027",
+  "owner_name": "HINOJOSA JOSE O",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "C9200-00-000-0028-00": {
   "active_lawsuits": "T-0687-26-F\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $89,021 \r\nLand Value: $46,000 \r\nImprovement Value: $43,021 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -4904,6 +4964,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 3.8
+ },
+ "D3010-04-000-0108-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "7911 JAM SQUARE N EDINBURG, TX 78542-6870",
+  "owner_name": "CANTU SERGIO & LONNY JOANNE REYES",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "D3800-06-000-0043-00": {
   "active_lawsuits": "T-1279-25-A\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $317,370 \r\nLand Value: $180,745 \r\nImprovement Value: $136,625 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $2,953 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -5471,6 +5543,18 @@
   "status": "delinquent",
   "total_due": 46715.44
  },
+ "E2930-00-000-0100-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1312 GEARHART DR ALAMO, TX 78516",
+  "owner_name": "STANLEY ROBERT GARLAND & AALIYAH MARIE D",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "E3000-00-000-0037-00": {
   "checked": "2026-10-16",
   "exemptions": "NHS CAP LOSS",
@@ -5957,6 +6041,18 @@
   "lawsuits": [],
   "owner_mailing": "PO BOX 1958 MISSION, TX 78573-0032",
   "owner_name": "PENA CHAPA DEVELOPMENT INC",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "E4254-00-000-0076-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "7721 IRMA ST EDINBURG, TX 78542-4194",
+  "owner_name": "GARZA PATRICIA GABRIELA",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -7253,6 +7349,18 @@
   "status": "delinquent",
   "total_due": 4958.91
  },
+ "F4683-00-000-0001-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "C/O PILOT TRAVEL CENTERES STORE NO 727 PO BOX 54470 LEXINGTON, KY 40555-4470",
+  "owner_name": "PILOT TRAVEL CENTERS LLC",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "F5250-00-001-0013-00": {
   "checked": "2026-10-16",
   "exemptions": "NHS CAP LOSS",
@@ -8387,6 +8495,18 @@
   "lawsuits": [],
   "owner_mailing": "2206 JUSTIN AVE SAN JUAN, TX 78589-2770",
   "owner_name": "ARANDA JESUS ALEJANDRO GOMEZ",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "H0418-00-000-0063-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2406 OLMITOS AVE SAN JUAN, TX 78589",
+  "owner_name": "SALAS CARLOS NAVARRO & KARINA CHAVEZ",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -11521,6 +11641,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "L3205-00-000-0033-00": {
+  "checked": "2026-10-19",
+  "exemptions": "",
+  "found": false,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "",
+  "owner_name": "",
+  "prior_year_due": 0.0,
+  "status": "not_found",
+  "total_due": 0.0
+ },
  "L3205-00-000-0049-00": {
   "active_lawsuits": "",
   "checked": "2026-10-16",
@@ -11993,6 +12125,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "L5025-00-000-0141-07": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 903 PROGRESO, TX 78579-0903",
+  "owner_name": "CASARES JUAN GERARDO",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "L5040-00-000-3019-00": {
   "checked": "2026-10-16",
   "exemptions": "None",
@@ -12260,6 +12404,18 @@
   "prior_year_due": 14773.85,
   "status": "delinquent",
   "total_due": 20099.33
+ },
+ "L5845-00-000-0150-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "803 S 9TH AVE EDINBURG, TX 78539",
+  "owner_name": "AZUA DAVID PALACIOS",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "L5860-00-000-0007-00": {
   "checked": "2026-10-16",
@@ -13947,6 +14103,18 @@
   "homestead": true,
   "owner_mailing": "704 ALMA AVE WESLACO, TX 78599-9622",
   "owner_name": "TORRE MARIA",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "M4011-04-000-0039-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "229 PIGEON BERRY PASS BUDA, TX 78610-2057",
+  "owner_name": "PEREZ LOGISTICS SOLUTIONS LLC",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -15867,6 +16035,18 @@
   "status": "delinquent",
   "total_due": 7155.82
  },
+ "O2700-04-000-0035-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "3001 SYCAMORE AVE MCALLEN, TX 78501-6671",
+  "owner_name": "DE LA ROSA OLGA",
+  "prior_year_due": 2291.81,
+  "status": "delinquent",
+  "total_due": 5299.04
+ },
  "O2700-05-000-0088-00": {
   "checked": "2026-10-16",
   "exemptions": "None",
@@ -17559,6 +17739,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "P8110-00-000-0060-00": {
+  "checked": "2026-10-19",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "821 CEDAR ST SW ISANTI, MN 55040-7225",
+  "owner_name": "LEWIS LORETTA L",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "P8115-02-000-0086-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $205,965 \r\nLand Value: $51,420 \r\nImprovement Value: $154,545 \r\n\r\nCapped Value: $188,029 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-16",
@@ -17727,6 +17919,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "P9110-01-000-0015-00": {
+  "checked": "2026-10-19",
+  "exemptions": "",
+  "found": false,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "",
+  "owner_name": "",
+  "prior_year_due": 0.0,
+  "status": "not_found",
+  "total_due": 0.0
+ },
  "P9276-02-000-0154-00": {
   "active_lawsuits": "T-1392-25-C\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $141,831 \r\nLand Value: $49,859 \r\nImprovement Value: $91,972 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-15",
@@ -17835,6 +18039,18 @@
   "status": "delinquent",
   "total_due": 5973.86
  },
+ "P9288-00-000-0088-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 1675 PHARR, TX 78577",
+  "owner_name": "PUENTE DEL SUR LTD",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "P9288-00-000-0119-00": {
   "checked": "2026-10-16",
   "exemptions": "None",
@@ -17903,6 +18119,18 @@
   "homestead": false,
   "owner_mailing": "2607 E NORTH AVE APT 505 DONNA, TX 78537",
   "owner_name": "CRUZ MARIANA",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "P9540-00-000-0113-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "3907 TORO AVE WESLACO, TX 78599",
+  "owner_name": "MATA JOSE MANUEL & BRITTANY MICHELLE CON",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -18723,6 +18951,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "R3146-03-000-0042-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 2604 EDINBURG, TX 78540-2604",
+  "owner_name": "RIO RICO DEVELOPERS LLC",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "R3200-03-142-0016-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $126,206 \r\nLand Value: $45,495 \r\nImprovement Value: $80,711 \r\n\r\nCapped Value: $83,829 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-16",
@@ -19120,6 +19360,18 @@
   "prior_year_due": 401.84,
   "status": "delinquent",
   "total_due": 1776.09
+ },
+ "R5610-00-001-0010-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "913 DIEGO ST MERCEDES, TX 78570-2251",
+  "owner_name": "SOTO MARTIN & CLAUDIA",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "R5610-00-001-0016-00": {
   "checked": "2026-10-16",
@@ -19827,6 +20079,18 @@
   "homestead": false,
   "owner_mailing": "2719 LAREDO ST EDINBURG, TX 78542-6685",
   "owner_name": "CAMARGO JOSE LORETO BARRERA & MIREYA MAR",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "S1753-04-00B-0167-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "13235 MILE 1 1/2 W MERCEDES, TX 78570-4900",
+  "owner_name": "DE LA CRUZ ADAN JR",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -23259,6 +23523,18 @@
   "status": "delinquent",
   "total_due": 5625.16
  },
+ "T6863-01-000-0002-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1011 WESTWAY AVE MCALLEN, TX 78501",
+  "owner_name": "OLIVARES EFREN CARLOS & KARLA ALEJANDRA",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "T7353-00-000-0006-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $81,000 \r\nLand Value: $81,000 \r\nImprovement Value: $0 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-16",
@@ -23983,6 +24259,18 @@
   "status": "delinquent",
   "total_due": 7655.48
  },
+ "V2660-05-000-0118-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "5808 BARBARA ST MERCEDES, TX 78570",
+  "owner_name": "GUARDIOLA MARICELA BERMUDEZ & JUAN ALBER",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "V2770-02-000-010A-00": {
   "active_lawsuits": "T-0383-22-F\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $188,859 \r\nLand Value: $60,200 \r\nImprovement Value: $128,659 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-15",
@@ -24435,6 +24723,18 @@
   "status": "delinquent",
   "total_due": 7525.51
  },
+ "V3700-01-008-0008-00": {
+  "checked": "2026-10-19",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "3921 TIERRA ESCONDIDA WESLACO, TX 78596-8577",
+  "owner_name": "DE LEON JOSE & ELODIA",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "V3800-02-008-0020-00": {
   "active_lawsuits": "T-0608-25-L\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $133,376 \r\nLand Value: $46,500 \r\nImprovement Value: $86,876 \r\n\r\nCapped Value: $87,432 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
   "checked": "2026-10-15",
@@ -24795,6 +25095,18 @@
   "lawsuits": [],
   "owner_mailing": "807 VOLZ LN MISSION, TX 78572-2934",
   "owner_name": "RUIZ JESUS F & LAURA A",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "W0100-00-026-0011-00": {
+  "checked": "2026-10-19",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2602 N BRYAN RD MISSION, TX 78574-3553",
+  "owner_name": "J.S KAWAMOTO LLC",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
@@ -25707,6 +26019,18 @@
   "lawsuits": [],
   "owner_mailing": "1615 W 25TH MISSION, TX 78574-7685",
   "owner_name": "VILLARREAL ALEJANDRO H",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
+ "W7400-00-015-0013-00": {
+  "checked": "2026-10-19",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "1602 PEREZ RD PALMVIEW, TX 78572-2389",
+  "owner_name": "ALVAREZ PEDRO",
   "prior_year_due": 0.0,
   "status": "paid_up",
   "total_due": 0.0
