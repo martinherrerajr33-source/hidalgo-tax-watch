@@ -137,14 +137,17 @@ def ocr_images(images: list[bytes]) -> str:
     return "\n\n".join(texts)
 
 
+AFFIDAVIT_PARSER = 2   # bump to re-read affidavits after parser changes
+
+
 def read_affidavits(sc, records: dict, budget: int) -> None:
     """OCR affidavits of heirship and record the heirs they name (see distress/heirship.py)."""
     from distress.heirship import parse_affidavit
     todo = [r for r in records.values()
-            if r.get("category") == "heirship" and r.get("doc_id") and "affidavit" not in r]
+            if r.get("category") == "heirship" and r.get("doc_id")
+            and (r.get("affidavit") or {}).get("parser") != AFFIDAVIT_PARSER]
     todo.sort(key=lambda r: datetime.strptime(r.get("recorded") or "01/01/1900", "%m/%d/%Y"), reverse=True)
     done = 0
-    debug_dir = store.DATA_DIR / "debug"
     for rec in todo[:budget]:
         images = sc.doc_images(rec["doc_id"])
         if not images:
@@ -155,14 +158,11 @@ def read_affidavits(sc, records: dict, budget: int) -> None:
                         rec.get("grantee", "")).upper().replace("DECEASED", "").strip()
         parsed = parse_affidavit(text, decedent)
         parsed["ocr_chars"] = len(text)
+        parsed["parser"] = AFFIDAVIT_PARSER
         parsed["read_on"] = TODAY.isoformat()
         rec["affidavit"] = parsed
         done += 1
-        if done <= 3:
-            debug_dir.mkdir(parents=True, exist_ok=True)
-            (debug_dir / f"ocr_{rec['doc_id']}.txt").write_text(text, encoding="utf-8")
-        log(f"  affidavit {rec['doc_number']}: affiant {parsed['affiant'].get('name') or '?'} "
-            f"({parsed['affiant'].get('relationship') or 'relationship ?'}), {len(parsed['heirs'])} heirs named")
+        log(f"  affidavit {rec['doc_number']}: {len(parsed['affiants'])} affiant(s), {len(parsed['heirs'])} heirs named")
         if done % 10 == 0:
             store.save("clerk_records", records)
     log(f"  affidavits read: {done}, {max(0, len(todo) - done)} still to read")
@@ -421,13 +421,14 @@ def contacts_for(parcel: dict, tax: dict | None, srcs: list[tuple[str, dict]]) -
                 for h in aff.get("heirs", []):
                     book.add(person_from_court_name(h["name"]), "Heir", f'{h.get("relation", "heir")} · {doc}',
                              h.get("address", ""))
-                a = aff.get("affiant", {})
-                rel = a.get("relationship") or "relationship not stated"
-                if a.get("name"):
+                for a in aff.get("affiants") or ([aff["affiant"]] if aff.get("affiant", {}).get("name") else []):
+                    rel = a.get("relationship") or "relationship not stated"
                     if a.get("is_heir"):
-                        book.add(person_from_court_name(a["name"]), "Heir", f'{rel} (affiant) · {doc}')
+                        book.add(person_from_court_name(a["name"]), "Heir", f'{rel} (affiant) · {doc}',
+                                 a.get("address", ""))
                     else:
-                        book.add(person_from_court_name(a["name"]), "Affiant", f'{rel} - signed, not an heir · {doc}')
+                        book.add(person_from_court_name(a["name"]), "Affiant",
+                                 f'signed it, not an heir ({rel}) · {doc}', a.get("address", ""))
                 rt = aff.get("return_to") or {}
                 if rt.get("name"):
                     book.add(person_from_court_name(rt["name"]), "Filer", f'record & return to · {doc}',
