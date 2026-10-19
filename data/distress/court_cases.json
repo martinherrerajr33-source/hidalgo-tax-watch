@@ -136050,6 +136050,101 @@
   "style": "Hidalgo County, McAllen Independent School District, City of McAllen, South Texas College, Hidalgo County Drainage District # 01, South Texas Independent School District VS. Impression Properties LLC",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5096535"
  },
+ "5096860": {
+  "any_deceased": false,
+  "case_id": "5096860",
+  "case_number": "F-4029-26-8",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #8",
+  "filed": "10/19/2026",
+  "first_seen": "2026-10-19",
+  "kind": "divorce",
+  "last_seen": "2026-10-19",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "JUAN",
+    "last": "CONTRERAS",
+    "middle": "",
+    "raw": "JUAN CONTRERAS"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "MARIA",
+    "last": "CONTRERAS",
+    "middle": "",
+    "raw": "MARIA CONTRERAS"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF JUAN CONTRERAS VS. MARIA CONTRERAS",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5096860"
+ },
+ "5096911": {
+  "any_deceased": true,
+  "case_id": "5096911",
+  "case_number": "P2-44273",
+  "case_type": "Determination of Heirship (OCA)",
+  "court": "Probate Court #2",
+  "filed": "10/19/2026",
+  "first_seen": "2026-10-19",
+  "kind": "probate",
+  "last_seen": "2026-10-19",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "JILL",
+    "last": "STEIMLE",
+    "middle": "",
+    "raw": "Jill Steimle"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Jill SteimleDeceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5096911"
+ },
+ "5096973": {
+  "any_deceased": false,
+  "case_id": "5096973",
+  "case_number": "F-4032-26-5",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #5",
+  "filed": "10/19/2026",
+  "first_seen": "2026-10-19",
+  "kind": "divorce",
+  "last_seen": "2026-10-19",
+  "parties": [
+   {
+    "alt_lasts": [
+     "LUIS"
+    ],
+    "deceased": false,
+    "first": "IN",
+    "last": "GARCIA",
+    "middle": "THE MATTER OF THE MARRAIGE OF ANDRES LUIS",
+    "raw": "IN THE MATTER OF THE MARRAIGE OF ANDRES LUIS GARCIA"
+   },
+   {
+    "alt_lasts": [
+     "FELICIA"
+    ],
+    "deceased": false,
+    "first": "LORELY",
+    "last": "HERNANDEZ",
+    "middle": "FELICIA",
+    "raw": "LORELY FELICIA HERNANDEZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRAIGE OF ANDRES LUIS GARCIA AND LORELY FELICIA HERNANDEZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5096973"
+ },
  "520303": {
   "any_deceased": false,
   "case_id": "520303",
