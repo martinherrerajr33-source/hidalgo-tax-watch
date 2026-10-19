@@ -26084,10 +26084,25 @@
  "331560498": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "BIANCA DAVILA",
-    "relationship": ""
+    "name": "Bianca Davila",
+    "relationship": "not a beneficiary of the estate"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Bianca Davila",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Steve Stangl",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
    "heirs": [
     {
      "address": "",
@@ -26098,14 +26113,17 @@
      "address": "",
      "name": "Blanche Marie Davila",
      "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Arianna Esther Davila Doc",
+     "relation": "family (named in affidavit)"
     }
    ],
    "ocr_chars": 10081,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261009000148 400 Second Avenue South, Recorded On: October 09, 2026 11:56 AM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26123,58 +26141,61 @@
  "331560500": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "BIANCA DAVILA",
-    "relationship": ""
+    "name": "Bianca Davila",
+    "relationship": "not a beneficiary of the estate"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Bianca Davila",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Steve Stangl",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Blanche Marie Davila",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Sally Ann Davila",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
      "name": "Bianca Estelle Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Joel Kent Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Gilbert Daniel Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Arianna Esther Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Matthew John Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "William Murphey Davila",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 9788,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261009000148 400 Second Avenue South, Recorded On: October 09, 2026 11:56 AM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26192,28 +26213,40 @@
  "331561439": {
   "affidavit": {
    "affiant": {
-    "is_heir": false,
-    "name": "ARTURO LUIS SEGUNDO",
-    "relationship": ""
+    "address": "",
+    "is_heir": true,
+    "name": "Arturo Luis Segundo",
+    "relationship": "surviving son"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Arturo Luis Segundo",
+     "relationship": "surviving son"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Fernando Luis Segundo",
+     "name": "Arturo Luis Segundo Fernando",
      "relation": "family (named in affidavit)"
     },
     {
      "address": "",
-     "name": "Jose Luis Segundo",
+     "name": "Luis Segundo Jose",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Luis Segundo",
      "relation": "family (named in affidavit)"
     }
    ],
    "ocr_chars": 6158,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261009000164 919 North 1000 West, Recorded On: October 09, 2026 12:41 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26301,16 +26334,20 @@
  "331581130": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "POMPOSA DE LA ROSA",
-    "relationship": ""
+    "name": "Pomposa de la Rosa",
+    "relationship": "knows the family - not a relative"
    },
-   "heirs": [
+   "affiants": [
     {
      "address": "",
-     "name": "De La Rosa Perez",
-     "relation": "family (named in affidavit)"
-    },
+     "is_heir": false,
+     "name": "Pomposa de la Rosa",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
     {
      "address": "",
      "name": "Alberta Perez",
@@ -26323,11 +26360,9 @@
     }
    ],
    "ocr_chars": 6468,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26345,17 +26380,30 @@
  "331581135": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Pomposa De La Rosa",
-    "relationship": ""
+    "relationship": "knows the family - not a relative"
    },
-   "heirs": [],
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Pomposa De La Rosa",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jaime Perez Villanueva Property",
+     "relation": "family (named in affidavit)"
+    }
+   ],
    "ocr_chars": 6430,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26373,16 +26421,20 @@
  "331581142": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "FIDENCIO DE LA ROSA RUIZ",
-    "relationship": ""
+    "name": "Fidencio de la Rosa Ruiz",
+    "relationship": "knows the family - not a relative"
    },
-   "heirs": [
+   "affiants": [
     {
      "address": "",
-     "name": "De La Rosa Perez",
-     "relation": "family (named in affidavit)"
-    },
+     "is_heir": false,
+     "name": "Fidencio de la Rosa Ruiz",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
     {
      "address": "",
      "name": "Alberta Perez",
@@ -26395,11 +26447,9 @@
     }
    ],
    "ocr_chars": 6331,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261012000009 400 Second Avenue South, Recorded On: October 13, 2026 08:55 AM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26431,55 +26481,63 @@
  "331583713": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Jonathan Renteria",
-    "relationship": "disinterested"
+    "relationship": "knows the family - not a relative"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jonathan Renteria",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Criselda Torres",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Guadalupe Jesus Torres",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Lucinda Garcia Torres",
-     "relation": "family (named in affidavit)"
+     "name": "Guadalupe Jesus Torres Jr.",
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Cesar Fernando Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Javier Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Maria Elena Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Nora Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Monica Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Criselda Torres",
+     "relation": "child"
     }
    ],
    "ocr_chars": 9916,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "809 S 5th St, MCALLEN TX 78501",
+    "name": "Criselda Torres"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -26497,55 +26555,63 @@
  "331583716": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Juanita Laura Garcia",
-    "relationship": "disinterested"
+    "relationship": "knows the family - not a relative"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juanita Laura Garcia",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Criselda Torres",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Guadalupe Jesus Torres",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Lucinda Garcia Torres",
-     "relation": "family (named in affidavit)"
+     "name": "Guadalupe Jesus Torres Jr.",
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Cesar Fernando Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Javier Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Maria Elena Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Nora Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
      "address": "",
      "name": "Monica Torres",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Criselda Torre",
+     "relation": "child"
     }
    ],
    "ocr_chars": 7651,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "809 S Sth St, MCALLEN TX 78501",
+    "name": "Criselda Torres"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -26605,11 +26671,41 @@
  "331585683": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "RUBEN CASTANEDA",
-    "relationship": "disinterested"
+    "name": "Ruben Castaneda",
+    "relationship": "knows the family - not a relative"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ruben Castaneda",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Esmeralda Sanchez Martinez",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
    "heirs": [
+    {
+     "address": "",
+     "name": "Ricardo Sanchez Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Rafael Sanchez",
+     "relation": "parent"
+    },
+    {
+     "address": "",
+     "name": "Roberto Sanchez",
+     "relation": "parent"
+    },
     {
      "address": "",
      "name": "Ricardo Sanchez",
@@ -26617,10 +26713,11 @@
     }
    ],
    "ocr_chars": 8374,
+   "parser": 2,
    "read_on": "2026-10-19",
    "return_to": {
-    "address": "Receipt No: 20261013000174 919 North 1000 West, Recorded On: October 13, 2026 11:15 AM",
-    "name": "Document No Corporation Service Company"
+    "address": "2300 West Pike Boulevard Suite 300, Weslaco, Texas 78596",
+    "name": "Jones Galligan Key Lozano L.l.p"
    }
   },
   "category": "heirship",
@@ -26653,16 +26750,20 @@
  "331587830": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Eva Maria Mireles",
     "relationship": ""
    },
-   "heirs": [
+   "affiants": [
     {
-     "address": "2009 Dallas Dr, Weslaco, TX 78596",
-     "name": "San Juana Ginez Berrones",
-     "relation": "surviving spouse"
-    },
+     "address": "",
+     "is_heir": false,
+     "name": "Eva Maria Mireles",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
     {
      "address": "",
      "name": "Nato Berrones",
@@ -26679,14 +26780,18 @@
      "relation": "child"
     },
     {
-     "address": "",
-     "name": "Nato Berrones - of birth -",
-     "relation": "child"
+     "address": "2009 Dallas Dr, Weslaco, TX 78596",
+     "name": "San Juana Ginez Berrones",
+     "relation": "surviving spouse"
     }
    ],
    "ocr_chars": 3955,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "6001 TROY AVE, WESLACO TX 78599",
+    "name": "Eva M Mireles"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -26704,22 +26809,59 @@
  "331590183": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "JENNIFER CLARICE LOPEZ",
-    "relationship": ""
+    "name": "Jennifer Clarice Lopez",
+    "relationship": "not entitled to any portion"
    },
-   "heirs": [
+   "affiants": [
     {
      "address": "",
-     "name": "Del Refugio Jimenez",
-     "relation": "family (named in affidavit)"
+     "is_heir": false,
+     "name": "Jennifer Clarice Lopez",
+     "relationship": "not entitled to any portion"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Selene Rangel",
+     "relationship": "not entitled to any portion"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Obed R Balderas",
+     "relationship": "not entitled to any portion"
     }
    ],
-   "ocr_chars": 6725,
+   "heirs": [
+    {
+     "address": "3704 Santa Maria, Mission, Texas 78572",
+     "name": "Gilberto C Lopez Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "3700 Santa Maria, Mission, Texas 78572",
+     "name": "Eduardo Villarreal",
+     "relation": "child"
+    },
+    {
+     "address": "3700 Santa Maria, Mission, Texas 78572",
+     "name": "Martha Villarreal",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Pablo Guerrero Diaz",
+     "relation": "father"
+    }
+   ],
+   "ocr_chars": 8415,
+   "parser": 2,
    "read_on": "2026-10-19",
    "return_to": {
-    "address": "Receipt No: 20261013000208 400 Second Avenue South, Recorded On: October 13, 2026 01:31 PM",
-    "name": "Document No eRecording Partners"
+    "address": "Walsh McGurk Cordova Nixon PLLC 3704 Santa Maria St., 4900-B North 10° Street Mission, Texas 78572",
+    "name": "Scott A Walsh Gilberto Camilo Lopez"
    }
   },
   "category": "heirship",
@@ -26752,12 +26894,22 @@
  "331593308": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "ELVA FARIAS",
-    "relationship": ""
+    "name": "Elva Farias",
+    "relationship": "acquainted"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Elva Farias",
+     "relationship": "acquainted"
+    }
+   ],
    "heirs": [],
    "ocr_chars": 25144,
+   "parser": 2,
    "read_on": "2026-10-19",
    "return_to": {}
   },
@@ -26777,63 +26929,60 @@
  "331593598": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "ROGELIO REYNA",
+    "name": "Rogelio Reyna",
     "relationship": ""
    },
-   "heirs": [
+   "affiants": [
     {
      "address": "",
-     "name": "Jose Rogelio Reyna",
-     "relation": "family (named in affidavit)"
+     "is_heir": false,
+     "name": "Rogelio Reyna",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "2823 De La Rosa Drive, Donna, Texas 78537",
+     "name": "Jesus Alfredo Reyna",
+     "relation": "child"
+    },
+    {
+     "address": "2823 De La Rosa Drive, Donna, Texas 78537",
+     "name": "Carlos Reyna",
+     "relation": "child"
     },
     {
      "address": "",
-     "name": "Yuri Isabel Reyna",
-     "relation": "family (named in affidavit)"
+     "name": "Zoyla Solis",
+     "relation": "heir"
+    },
+    {
+     "address": "",
+     "name": "Jose Rogelio Reyna",
+     "relation": "heir"
+    },
+    {
+     "address": "",
+     "name": "Yuri lsabel Reyna Correa",
+     "relation": "heir"
     },
     {
      "address": "",
      "name": "Roman Eric Reyna",
-     "relation": "family (named in affidavit)"
+     "relation": "heir"
     },
     {
      "address": "",
      "name": "Daisy Michelle Reyna",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Jesus Alfredo Reyna",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Carlos Reyna",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Ovralia A. Reyna",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Oralin A. Reyna",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Daughter Oraliw A. Reyna",
-     "relation": "family (named in affidavit)"
+     "relation": "heir"
     }
    ],
    "ocr_chars": 7297,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261013000352 201 S. Sam Houston, Recorded On: October 13, 2026 03:28 PM",
-    "name": "Document No: 3796321 Randall P. Crane, Attorney at Law"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -26851,23 +27000,23 @@
  "331594383": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "Mary Jane Vargas",
-    "relationship": ""
+    "name": "",
+    "relationship": "acquainted"
    },
+   "affiants": [],
    "heirs": [
     {
      "address": "",
-     "name": "Silvestre Vargas",
+     "name": "Mary Jane Vargas",
      "relation": "family (named in affidavit)"
     }
    ],
-   "ocr_chars": 4096,
+   "ocr_chars": 4173,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261013000383 17460 I-35 N, # 430-105, Recorded On: October 13, 2026 03:53 PM",
-    "name": "Document No S V GROUP LLC"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27193,16 +27342,42 @@
  "331599265": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "ADA DELEON",
+    "name": "Ada Deleon",
     "relationship": ""
    },
-   "heirs": [],
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ada Deleon",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Rosendo Deleon",
+     "relation": "father"
+    },
+    {
+     "address": "",
+     "name": "Saraj Deleon",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Elizabeth Vasilca",
+     "relation": "child"
+    }
+   ],
    "ocr_chars": 7380,
+   "parser": 2,
    "read_on": "2026-10-19",
    "return_to": {
-    "address": "Receipt No: 20261014000015 5072 North 300 West, Recorded On: October 14, 2026 08:27 AM",
-    "name": "Document No Simplifile"
+    "address": "3708 ELLIS DR, MCALLEN, TEXAS 78504-8820",
+    "name": "Ada Deleon"
    }
   },
   "category": "heirship",
@@ -27235,14 +27410,39 @@
  "331600829": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "ALEJANDRO HERNANDEZ",
+    "name": "Alejandro Hernandez",
     "relationship": ""
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Alejandro Hernandez",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria Alma Hinojosa",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Raquel Martinez Tanguma",
+     "relationship": ""
+    }
+   ],
    "heirs": [],
    "ocr_chars": 9359,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "10113 N 10th Street, Suite H, MCALLEN TX 78504",
+    "name": "Arturo R Cantu"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -27260,23 +27460,42 @@
  "331600830": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "NORMA ALICIA CAVADA MARTINEZ",
-    "relationship": ""
+    "name": "Norma Alicia Cavada Martinez",
+    "relationship": "personal friend"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Norma Alicia Cavada Martinez",
+     "relationship": "personal friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Enrique Gutierrez Gonzalez",
+     "relationship": "personal friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Miguel Hector Cantu Gastelum",
+     "relationship": "personal friend"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "HECTOR CANTU GARCIA",
-     "relation": "surviving spouse"
+     "name": "Maria del Rosario Cantu Gastelum",
+     "relation": "child"
     }
    ],
    "ocr_chars": 9224,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000027 919 North 1000 West, Recorded On: October 14, 2026 09:06 AM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27322,30 +27541,39 @@
  "331603818": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Bobby Glenn Timmons",
-    "relationship": ""
+    "relationship": "acquainted"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Bobby Glenn Timmons",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juanita Garza",
+     "relationship": "acquainted"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Tina Aleman",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Graciela Moya Aleman",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
      "name": "Pilar Aleman",
-     "relation": "family (named in affidavit)"
+     "relation": "surviving spouse"
     }
    ],
    "ocr_chars": 9898,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "PO DRAWER 630, EDINBURG TX 78540",
+    "name": "Oxford Gonzalez"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -27405,28 +27633,35 @@
  "331608292": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Maricela Ortega",
     "relationship": "friend"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maricela Ortega",
+     "relationship": "friend"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Gloria Galvan",
-     "relation": "family (named in affidavit)"
+     "address": "6221 N. Minnesota Road Mission, Texas 78574",
+     "name": "Ana Covarrubia",
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "5701 N. Minnesota Road Mission, Texas 78574",
      "name": "Carlos Galvan",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 3430,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000182 919 North 1000 West, Recorded On: October 14, 2026 12:32 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27444,28 +27679,35 @@
  "331608295": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "Jose B. Ortega",
+    "name": "Jose B Ortega",
     "relationship": "friend"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jose B Ortega",
+     "relationship": "friend"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Gloria Galvan",
-     "relation": "family (named in affidavit)"
+     "address": "6221 N. Minnesota Road Mission, Texas 78574",
+     "name": "Ana Covarrubia",
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "5701 N. Minnesota Road Mission, Texas 78574",
      "name": "Carlos Galvan",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 3407,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000182 919 North 1000 West, Recorded On: October 14, 2026 12:32 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27497,28 +27739,35 @@
  "331614422": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "Jose B. Ortega",
+    "name": "Jose B Ortega",
     "relationship": "friend"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jose B Ortega",
+     "relationship": "friend"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Ramiro Galvan",
-     "relation": "family (named in affidavit)"
+     "address": "6221 N. Minnesota Road Mission, Texas 78574",
+     "name": "Ana Covarrubia",
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "5701 N. Minnesota Road Mission, Texas 78574",
      "name": "Carlos Galvan",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 3439,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000214 919 North 1000 West, Recorded On: October 14, 2026 01:22 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27550,28 +27799,35 @@
  "331614425": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Maricela Ortega",
     "relationship": "friend"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maricela Ortega",
+     "relationship": "friend"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Ramiro Galvan",
-     "relation": "family (named in affidavit)"
+     "address": "6221 N. Minnesota Road Mission, Texas 78574",
+     "name": "Ana Covarrubia",
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "5701 N. Minnesota Road Mission, Texas 78574",
      "name": "Carlos Galvan",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 3451,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000214 919 North 1000 West, Recorded On: October 14, 2026 01:22 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -27673,35 +27929,43 @@
  "331619470": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Sylvia Lugo Herrera",
     "relationship": ""
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sylvia Lugo Herrera",
+     "relationship": ""
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Paula Alvarado",
-     "relation": "family (named in affidavit)"
+     "name": "Santos Alvarado IV",
+     "relation": "child"
     },
     {
-     "address": "",
-     "name": "Santos Alvarado",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
+     "address": "8222 Dahlia Run Boerne, Texas 78015",
      "name": "Andrew Lee Alvarado",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "2406 Vo-Tech Dr. Weslaco, Texas 78596",
      "name": "Ashley Nicole Alvarado",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 5007,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "2406 Vo Tech Dr, WESLACO TX 78599",
+    "name": "Paula Alvarado"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -27733,35 +27997,43 @@
  "331619474": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Marisa Garza",
     "relationship": ""
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Marisa Garza",
+     "relationship": ""
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Paula Alvarado",
-     "relation": "family (named in affidavit)"
+     "name": "Santos Alvarado IV",
+     "relation": "child"
     },
     {
-     "address": "",
-     "name": "Santos Alvarado",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
+     "address": "8222 Dahlia Run Boerne, Texas 78015",
      "name": "Andrew Lee Alvarado",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     },
     {
-     "address": "",
+     "address": "2406 Vo-Tech Dr. Weslaco, Texas 78596",
      "name": "Ashley Nicole Alvarado",
-     "relation": "family (named in affidavit)"
+     "relation": "child"
     }
    ],
    "ocr_chars": 4966,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "2406 Vo Tech Dr, WESLACO TX 78599",
+    "name": "Paula Alvarado"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -27835,23 +28107,76 @@
  "331620053": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Valerie Toala",
     "relationship": ""
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Valerie Toala",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ralph L Gearhart",
+     "relationship": ""
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Mary Antonia RSM",
+     "name": "Marjorie L Rados",
      "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "George F Strohmeyer Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Elizabeth Josephine Bauer",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Marian M Strohmeyer",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Rita Ann Grant",
+     "relation": "sibling"
+    },
+    {
+     "address": "",
+     "name": "Sandra Sue Strohmeyer",
+     "relation": "sibling"
+    },
+    {
+     "address": "",
+     "name": "David Jerome Strohmeyer",
+     "relation": "sibling"
+    },
+    {
+     "address": "",
+     "name": "Shayla Clare Strohmeyer",
+     "relation": "sibling"
+    },
+    {
+     "address": "",
+     "name": "Kevin Keane Strohmeyer",
+     "relation": "sibling"
     }
    ],
    "ocr_chars": 8384,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261014000311 919 North 1000 West, Recorded On: October 14, 2026 04:01 PM",
-    "name": "Document No Corporation Service Company"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -28107,11 +28432,37 @@
  "331631120": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
     "name": "Macario Garcia",
     "relationship": ""
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Macario Garcia",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Antonio Perez",
+     "relationship": ""
+    },
+    {
+     "address": "7812 Travis St. Mission, TX 78574",
+     "is_heir": false,
+     "name": "Macario Garcix",
+     "relationship": ""
+    }
+   ],
    "heirs": [
+    {
+     "address": "1900 W Mimosa Dr., Weslaco, TX 78596",
+     "name": "Ruben De Leon",
+     "relation": "child"
+    },
     {
      "address": "1900 W Mimosa Dr., Weslaco, TX 78596",
      "name": "Elodia De Leon",
@@ -28119,8 +28470,12 @@
     }
    ],
    "ocr_chars": 3635,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "3921 Tierra Escondida, Weslaco TX 78596",
+    "name": "Ruben De Leon"
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -28138,20 +28493,33 @@
  "331635301": {
   "affidavit": {
    "affiant": {
+    "address": "514 E. Huisache St Weslaco, TX 78596",
     "is_heir": false,
-    "name": "",
-    "relationship": ""
+    "name": "Ricardo Alonzo-Hinojosa",
+    "relationship": "knows the family - not a relative"
    },
+   "affiants": [
+    {
+     "address": "514 E. Huisache St Weslaco, TX 78596",
+     "is_heir": false,
+     "name": "Ricardo Alonzo-Hinojosa",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Juan Casares",
-     "relation": "family (named in affidavit)"
+     "address": "315 N. Gonzalez Progreso, TX 78579",
+     "name": "Juan Casares Jr.",
+     "relation": "father"
     }
    ],
    "ocr_chars": 3933,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {}
+   "return_to": {
+    "address": "315 N Gonzalez Progreso TX 78579, Grantee: Juan Casares JR.",
+    "name": "Juan Casares Jr."
+   }
   },
   "category": "heirship",
   "department": "RP",
@@ -28253,48 +28621,51 @@
  "331638918": {
   "affidavit": {
    "affiant": {
+    "address": "614 S, Cesar Chavez Road, Edinburg, Texas 78542",
     "is_heir": false,
-    "name": "",
-    "relationship": "friend"
+    "name": "Sebastian Barron",
+    "relationship": "family friend for 35 years"
    },
+   "affiants": [
+    {
+     "address": "614 S, Cesar Chavez Road, Edinburg, Texas 78542",
+     "is_heir": false,
+     "name": "Sebastian Barron",
+     "relationship": "family friend for 35 years"
+    },
+    {
+     "address": "3809 Lakeway Drive, Edinburg, Texas 78541",
+     "is_heir": false,
+     "name": "Roberto Garcia",
+     "relationship": "family friend for 35 years"
+    }
+   ],
    "heirs": [
     {
-     "address": "",
-     "name": "Olga De",
-     "relation": "family (named in affidavit)"
+     "address": "3001 Sycamore Avenue McAllen, Texas 78501",
+     "name": "Daniel De La Rosa",
+     "relation": "child"
+    },
+    {
+     "address": "1604 Crown Pointe Blvd. Mission, Texas 78572",
+     "name": "Georgina Hernandez",
+     "relation": "child"
+    },
+    {
+     "address": "1901 N. Colonel Rowe Blvd. McAllen, Texas 78501",
+     "name": "Jada Josette De La Rosa",
+     "relation": "child"
     },
     {
      "address": "",
-     "name": "Jose Luis De",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Daniel De",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Jada Josette De",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Juan Jose De",
-     "relation": "family (named in affidavit)"
-    },
-    {
-     "address": "",
-     "name": "Orlando De",
-     "relation": "family (named in affidavit)"
+     "name": "Orlando De La Rosa",
+     "relation": "child"
     }
    ],
    "ocr_chars": 5014,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261015000122 5072 North 300 West, Recorded On: October 15, 2026 01:28 PM",
-    "name": "Document No Simplifile"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -28354,23 +28725,47 @@
  "331641590": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": true,
-    "name": "SARA RODRIGUEZ ALVAREZ",
+    "name": "Sara Rodriguez Alvarez",
     "relationship": "surviving spouse"
    },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Sara Rodriguez Alvarez",
+     "relationship": "surviving spouse"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Alfredo Perez Jr.",
+     "relationship": "surviving spouse"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Liana M Zarate",
+     "relationship": "surviving spouse"
+    }
+   ],
    "heirs": [
     {
      "address": "",
-     "name": "Lot Thirteen",
-     "relation": "child"
+     "name": "Aurora Alvarez Longoria",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jaime Alvarez Son",
+     "relation": "family (named in affidavit)"
     }
    ],
    "ocr_chars": 7961,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261015000198 400 Second Avenue South, Recorded On: October 15, 2026 02:59 PM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
@@ -28388,28 +28783,77 @@
  "331641982": {
   "affidavit": {
    "affiant": {
+    "address": "",
     "is_heir": false,
-    "name": "EDEN HINOJOSA",
+    "name": "Eden Hinojosa",
     "relationship": ""
    },
-   "heirs": [
+   "affiants": [
     {
      "address": "",
-     "name": "JOSE O.",
-     "relation": "surviving spouse"
+     "is_heir": false,
+     "name": "Eden Hinojosa",
+     "relationship": ""
+    },
+    {
+     "address": "2419 E Steel Avenue, Edinburg, Texas 78542",
+     "is_heir": false,
+     "name": "Ramon Salinas",
+     "relationship": ""
     },
     {
      "address": "",
-     "name": "Lot Sixty Three",
-     "relation": "child"
+     "is_heir": false,
+     "name": "Amelia Davila Hinojosa",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jose O Hinojosa",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Ovidio Hinojosa",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ovidio Franco Hinojosa Jr.",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ruben Hinojosa Franco",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Eden Hinojosa Son",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Raul Hinojosa",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ricardo Hinojosa Son",
+     "relation": "family (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Bernardo Hinojosa Son",
+     "relation": "family (named in affidavit)"
     }
    ],
    "ocr_chars": 8622,
+   "parser": 2,
    "read_on": "2026-10-19",
-   "return_to": {
-    "address": "Receipt No: 20261015000199 400 Second Avenue South, Recorded On: October 15, 2026 03:01 PM",
-    "name": "Document No eRecording Partners"
-   }
+   "return_to": {}
   },
   "category": "heirship",
   "department": "RP",
