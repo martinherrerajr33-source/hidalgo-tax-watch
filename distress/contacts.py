@@ -33,12 +33,13 @@ DECEDENT_ROLES = re.compile(r"DECEDENT|DECEASED|ESTATE OF", re.I)
 ROLE_RANK = {
     "Estate representative": 1,
     "Heir": 2,
-    "Owner of record": 3,
-    "Co-owner / tax suit defendant": 4,
-    "Spouse": 5,
-    "Named on filing": 6,
-    "Filer": 7,
-    "Affiant": 8,
+    "Possible heir": 3,
+    "Owner of record": 4,
+    "Co-owner / tax suit defendant": 5,
+    "Spouse": 6,
+    "Named on filing": 7,
+    "Filer": 8,
+    "Affiant": 9,
 }
 
 

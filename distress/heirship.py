@@ -37,7 +37,8 @@ NON_FAMILY = re.compile(r"\b(neighbou?r|friend|acquaint\w*|pastor|minister|co-?w
                         r"not related|no relation|unrelated|disinterested|known (?:them|the family|decedent))", re.I)
 ENTITY = re.compile(r"\b(LLC|L\.L\.C|INC|CORP|CORPORATION|COMPANY|TITLE|ABSTRACT|LAW|LAWYER|ATTORNEY|PLLC|P\.C|"
                     r"NOTARY|SIMPLIFILE|ERECORDING|E-RECORDING|CSC|SERVICE|SERVICES|PARTNERS|GROUP|BANK|"
-                    r"MORTGAGE|LENDING|FIRM|OFFICE|ASSOCIATES|FNA|TRUST|ESCROW|DOCUMENT|RECEIPT)\b", re.I)
+                    r"MORTGAGE|LENDING|FIRM|OFFICE|ASSOCIATES|FNA|TRUST|ESCROW|DOCUMENT|RECEIPT|LLP|L\.L\.P|PROPERTY|"
+                    r"PROPERTIES|REALTY|COUNTY|CITY|STATE)\b", re.I)
 
 _U = "A-Za-zÀ-ÖØ-öø-ÿ"
 _NAME = (r"([A-ZÀ-Þ][" + _U + r".'\-]+(?:\s+(?:[A-ZÀ-Þ][" + _U + r".'\-]+|de|De|del|Del|la|La|los|Los|y|Y)){1,5})")
@@ -179,7 +180,7 @@ def parse_affidavit(text: str, decedent: str = "") -> dict:
             heirs[f] = {"name": n, "relation": relation, "address": address}
         else:
             cur["address"] = cur["address"] or address
-            if cur["relation"] in ("heir", "family (named in affidavit)") and relation not in ("heir",):
+            if cur["relation"] in ("heir", "possible relative (named in affidavit)") and relation != "heir":
                 cur["relation"] = relation
 
     def context(i: int) -> str:
@@ -249,7 +250,7 @@ def parse_affidavit(text: str, decedent: str = "") -> dict:
     if not heirs and decedent:
         surname = re.escape(decedent.split()[0].title())
         for m in re.finditer(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z.]+){0,2}\s+" + surname + r"(?:\s+[A-Z][a-z]+)?)\b", flat):
-            add_heir(m.group(1), "family (named in affidavit)")
+            add_heir(m.group(1), "possible relative (named in affidavit)")
 
     # ------------------------------------------------------------ return-to
     return_to = {}

@@ -110,7 +110,7 @@ def run_clerk(budget: int, backfill_days: int) -> None:
 
         # ---- read new affidavits of heirship (heirs are only named inside the document)
         try:
-            read_affidavits(sc, records, int(os.environ.get("DISTRESS_OCR_BUDGET", "30")))
+            read_affidavits(sc, records, int(os.environ.get("DISTRESS_OCR_BUDGET", "60")))
         except Exception as exc:  # noqa: BLE001
             log(f"  affidavit reading stopped: {exc!r}")
 
@@ -137,7 +137,7 @@ def ocr_images(images: list[bytes]) -> str:
     return "\n\n".join(texts)
 
 
-AFFIDAVIT_PARSER = 2   # bump to re-read affidavits after parser changes
+AFFIDAVIT_PARSER = 3   # bump to re-read affidavits after parser changes
 
 
 def read_affidavits(sc, records: dict, budget: int) -> None:
@@ -419,7 +419,8 @@ def contacts_for(parcel: dict, tax: dict | None, srcs: list[tuple[str, dict]]) -
             aff = rec.get("affidavit")
             if aff:
                 for h in aff.get("heirs", []):
-                    book.add(person_from_court_name(h["name"]), "Heir", f'{h.get("relation", "heir")} · {doc}',
+                    role = "Possible heir" if h.get("relation", "").startswith("possible") else "Heir"
+                    book.add(person_from_court_name(h["name"]), role, f'{h.get("relation", "heir")} · {doc}',
                              h.get("address", ""))
                 for a in aff.get("affiants") or ([aff["affiant"]] if aff.get("affiant", {}).get("name") else []):
                     rel = a.get("relationship") or "relationship not stated"
