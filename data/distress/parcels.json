@@ -50709,6 +50709,16 @@
   "pid": "716809",
   "prop_type": "R"
  },
+ "A2608-00-000-0004-00": {
+  "address": "1614 ALCANIZ DR",
+  "city": "EDINBURG",
+  "geo_id": "A2608-00-000-0004-00",
+  "legal": "ALCANIZ LOT 4",
+  "market_value": 311049.0,
+  "owner": "HERNANDEZ PRISCILLA M & JESUS M ISLAS JR",
+  "pid": "899437",
+  "prop_type": "R"
+ },
  "A2608-00-000-0005-00": {
   "address": "1618 ALCANIZ DR",
   "city": "EDINBURG",
@@ -58617,6 +58627,16 @@
   "market_value": 175073.0,
   "owner": "RIVERA MARIA DE LA LUZ GUERRERO & GISEL ARIZMENDI",
   "pid": "590584",
+  "prop_type": "R"
+ },
+ "A5580-00-000-0004-00": {
+  "address": "6314 BRUSHLINE RD",
+  "city": "",
+  "geo_id": "A5580-00-000-0004-00",
+  "legal": "ARMANDO GARZA LOT 4",
+  "market_value": 180627.0,
+  "owner": "QUINTANILLA MARIA LARA",
+  "pid": "590586",
   "prop_type": "R"
  },
  "A5580-00-000-0007-00": {
@@ -133699,6 +133719,16 @@
   "pid": "707338",
   "prop_type": "R"
  },
+ "C1617-00-000-0092-00": {
+  "address": "8023 GEMINI AVE",
+  "city": "",
+  "geo_id": "C1617-00-000-0092-00",
+  "legal": "CARDINAL GARDENS LOT 92",
+  "market_value": 97007.0,
+  "owner": "QUINTANILLA MARIA HILARIA",
+  "pid": "707340",
+  "prop_type": "R"
+ },
  "C1617-00-000-0107-00": {
   "address": "8336 N GEMINI AVE",
   "city": "",
@@ -179127,6 +179157,16 @@
   "market_value": 59473.0,
   "owner": "RAMOS ROJELIO",
   "pid": "153184",
+  "prop_type": "R"
+ },
+ "C7650-00-003-0015-00": {
+  "address": "2016 AVILA ST",
+  "city": "",
+  "geo_id": "C7650-00-003-0015-00",
+  "legal": "COLONIA PLAZA LT 15, 16, 17, 18 & 19 BLK 3",
+  "market_value": 141551.0,
+  "owner": "RAMOS ELSA G",
+  "pid": "153185",
   "prop_type": "R"
  },
  "C7650-00-003-0020-00": {
@@ -242257,6 +242297,26 @@
   "market_value": 37652.0,
   "owner": "MONTEMAYOR GILBERTO VALDEZ",
   "pid": "349242",
+  "prop_type": "R"
+ },
+ "E4254-02-000-0116-00": {
+  "address": "403 VALENCIA DR",
+  "city": "DONNA",
+  "geo_id": "E4254-02-000-0116-00",
+  "legal": "EL ENCANTADO PH 2 LOT 116",
+  "market_value": 124326.0,
+  "owner": "TORRES TERESA DE JESUS & FERNANDO BLANCO NORIEGA",
+  "pid": "349249",
+  "prop_type": "R"
+ },
+ "E4254-02-000-0117-00": {
+  "address": "409 VALENCIA DR",
+  "city": "DONNA",
+  "geo_id": "E4254-02-000-0117-00",
+  "legal": "EL ENCANTADO PH 2 LOT 117",
+  "market_value": 115627.0,
+  "owner": "TORRES TERESA DE JESUS & FERNANDO BLANCO NORIEGA",
+  "pid": "349250",
   "prop_type": "R"
  },
  "E4254-02-000-0118-00": {
@@ -343179,6 +343239,16 @@
   "pid": "1305869",
   "prop_type": "R"
  },
+ "H1967-01-000-0035-00": {
+  "address": "1521 E CAPSTONE DR",
+  "city": "EDINBURG",
+  "geo_id": "H1967-01-000-0035-00",
+  "legal": "HEIGHTS ON WISCONSIN PH 1 LOT 35",
+  "market_value": 261519.0,
+  "owner": "QUINTANILLA MARIA CHRISTINA",
+  "pid": "1305870",
+  "prop_type": "R"
+ },
  "H1967-01-000-0058-00": {
   "address": "1308 E MAXIMUM DR",
   "city": "EDINBURG",
@@ -370857,6 +370927,16 @@
   "market_value": 166847.0,
   "owner": "GARCIA SYLVIA",
   "pid": "193692",
+  "prop_type": "R"
+ },
+ "H3830-00-000-0162-00": {
+  "address": "1608 IVORY ST",
+  "city": "MCALLEN",
+  "geo_id": "H3830-00-000-0162-00",
+  "legal": "HOEHN DRIVE LOT 162",
+  "market_value": 25800.0,
+  "owner": "QUINTANILLA MARIA ELY",
+  "pid": "193693",
   "prop_type": "R"
  },
  "H3830-00-000-0164-00": {
@@ -401487,6 +401567,16 @@
   "market_value": 168671.0,
   "owner": "MARTINEZ JUAN G & CATALINA",
   "pid": "556428",
+  "prop_type": "R"
+ },
+ "K0860-02-000-0028-00": {
+  "address": "4410 BETH DR",
+  "city": "EDINBURG",
+  "geo_id": "K0860-02-000-0028-00",
+  "legal": "KAYLEN HEIGHTS NO. 2 LOT 28",
+  "market_value": 200000.0,
+  "owner": "QUINTANILLA MARIA G",
+  "pid": "556431",
   "prop_type": "R"
  },
  "K0860-03-000-0001-00": {
@@ -577059,6 +577149,16 @@
   "pid": "344876",
   "prop_type": "R"
  },
+ "N3100-00-000-0007-00": {
+  "address": "1703 AMERICA ST",
+  "city": "EDINBURG",
+  "geo_id": "N3100-00-000-0007-00",
+  "legal": "NORTH ALAMO ESTATES LOT 7",
+  "market_value": 148000.0,
+  "owner": "QUINTANILLA MARIA GUADALUPE",
+  "pid": "344880",
+  "prop_type": "R"
+ },
  "N3100-00-000-0010-00": {
   "address": "1715 AMERICA ST",
   "city": "EDINBURG",
@@ -589607,6 +589707,16 @@
   "market_value": 265593.0,
   "owner": "PEREZ JOSE & YOLANDA",
   "pid": "704146",
+  "prop_type": "R"
+ },
+ "N4847-02-000-0045-00": {
+  "address": "2105 KINGSBOROUGH AVE",
+  "city": "MCALLEN",
+  "geo_id": "N4847-02-000-0045-00",
+  "legal": "NORTHGATE CROSSING PH 2 LOT 45",
+  "market_value": 239747.0,
+  "owner": "LAMOURT RENE F & ESPERANZA",
+  "pid": "704153",
   "prop_type": "R"
  },
  "N4847-02-000-0046-00": {
@@ -667787,6 +667897,16 @@
   "market_value": 91841.0,
   "owner": "FLORES SYLVIA KARINA",
   "pid": "609900",
+  "prop_type": "R"
+ },
+ "P9550-00-000-0050-00": {
+  "address": "707 PASEO DEL REY DR",
+  "city": "MISSION",
+  "geo_id": "P9550-00-000-0050-00",
+  "legal": "PUNTA DEL SOL LOT 50",
+  "market_value": 79159.0,
+  "owner": "TORRES TERESA",
+  "pid": "609903",
   "prop_type": "R"
  },
  "P9550-00-000-0059-00": {
@@ -789739,6 +789859,16 @@
   "pid": "595671",
   "prop_type": "R"
  },
+ "S3982-01-000-0214-00": {
+  "address": "3105 BRENDA ST",
+  "city": "EDINBURG",
+  "geo_id": "S3982-01-000-0214-00",
+  "legal": "SOLANA PH 1 LOT 214",
+  "market_value": 134610.0,
+  "owner": "QUINTANILLA MARIA G",
+  "pid": "595673",
+  "prop_type": "R"
+ },
  "S3982-01-000-0222-00": {
   "address": "2923 BRENDA ST",
   "city": "EDINBURG",
@@ -801169,6 +801299,16 @@
   "pid": "288541",
   "prop_type": "R"
  },
+ "S4870-00-000-0054-00": {
+  "address": "100 W MOORE RD UT",
+  "city": "PHARR",
+  "geo_id": "S4870-00-000-0054-00",
+  "legal": "SOUTHGATE LOT 54 - AMENDED",
+  "market_value": 202756.0,
+  "owner": "QUINTANILLA MARIA E",
+  "pid": "288543",
+  "prop_type": "R"
+ },
  "S4870-00-000-0063-00": {
   "address": "100 W MOORE RD UT",
   "city": "PHARR",
@@ -807407,6 +807547,16 @@
   "market_value": 247708.0,
   "owner": "CORTEZ MARIA HERLINDA",
   "pid": "450621",
+  "prop_type": "R"
+ },
+ "S5920-00-000-0012-00": {
+  "address": "207 SING CIR",
+  "city": "PHARR",
+  "geo_id": "S5920-00-000-0012-00",
+  "legal": "STAR LOT 12",
+  "market_value": 150264.0,
+  "owner": "QUINTANILLA MARIA ANGELA",
+  "pid": "450618",
   "prop_type": "R"
  },
  "S5920-00-000-0014-00": {
@@ -870379,6 +870529,16 @@
   "pid": "303399",
   "prop_type": "R"
  },
+ "T5250-00-009-0020-00": {
+  "address": "113 PASEO DEL REY",
+  "city": "",
+  "geo_id": "T5250-00-009-0020-00",
+  "legal": "TIERRA DORADA LOT 20 BLK 9",
+  "market_value": 179380.0,
+  "owner": "QUINTANILLA MARIA DEL ROSARIO",
+  "pid": "303404",
+  "prop_type": "R"
+ },
  "T5250-00-010-0005-00": {
   "address": "116 PASEO DEL REY",
   "city": "MISSION",
@@ -871037,6 +871197,16 @@
   "market_value": 148048.0,
   "owner": "ALANIZ MARIA D & JUAN J",
   "pid": "303670",
+  "prop_type": "R"
+ },
+ "T5250-00-022-0021-00": {
+  "address": "215 CASTILLO & DIAMANTE",
+  "city": "MISSION",
+  "geo_id": "T5250-00-022-0021-00",
+  "legal": "TIERRA DORADA LOT 21 BLK 22",
+  "market_value": 161121.0,
+  "owner": "TORRES TERESA",
+  "pid": "303671",
   "prop_type": "R"
  },
  "T5250-00-022-0024-00": {
