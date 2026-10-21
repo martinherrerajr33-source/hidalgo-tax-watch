@@ -117784,7 +117784,7 @@
    }
   ],
   "plaintiffs": [],
-  "status": "Filed",
+  "status": "Inactive",
   "style": "Estate of Jesus Cedillo Deceased",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5053991"
  },
@@ -136501,6 +136501,358 @@
   "status": "Filed",
   "style": "Hidalgo County, Edinburg Consolidated Independent School District, City of McAllen, South Texas College, Hidalgo County Drainage District # 01, Hidalgo County Emergency Services District # 03, South Texas Independent School District VS. Jacqueline Dawn Garcia",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098002"
+ },
+ "5098051": {
+  "any_deceased": true,
+  "case_id": "5098051",
+  "case_number": "T-1258-26-I",
+  "case_type": "Tax Cases (OCA)",
+  "court": "398th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [
+     "GUERRA"
+    ],
+    "deceased": true,
+    "first": "CRISELDA",
+    "last": "ELIZONDO",
+    "middle": "GUERRA",
+    "raw": "Criselda Guerra Elizondo (DECEASED)"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "NATIVIDAD",
+    "last": "GUERRA",
+    "middle": "",
+    "raw": "Natividad Guerra"
+   },
+   {
+    "alt_lasts": [
+     "ELIZABETH"
+    ],
+    "deceased": false,
+    "first": "AMANDA",
+    "last": "GALINDO",
+    "middle": "ELIZABETH",
+    "raw": "Amanda Elizabeth Galindo"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District",
+   "City Edinburg",
+   "Edinburg Consolidated Independent School District",
+   "Hidalgo County",
+   "South Texas College"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County Drainage District # 01, South Texas Independent School District, City Edinburg, Edinburg Consolidated Independent School District, Hidalgo County, South Texas College VS. Criselda Guerra Elizondo (DECEASED), Natividad Guerra, Jr., Amanda Elizabeth Galindo, As Administrator Of, The Estate of Criselda Elizondo, (Deceased)",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098051"
+ },
+ "5098055": {
+  "any_deceased": true,
+  "case_id": "5098055",
+  "case_number": "P1-44277",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "probate",
+  "last_seen": "2026-10-21",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "BENITO",
+    "last": "SANDOVAL",
+    "middle": "M",
+    "raw": "Benito M Sandoval"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Benito M Sandoval Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098055"
+ },
+ "5098059": {
+  "any_deceased": true,
+  "case_id": "5098059",
+  "case_number": "T-1259-26-C",
+  "case_type": "Tax Cases (OCA)",
+  "court": "139th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "RAMON",
+    "last": "LEAL",
+    "middle": "",
+    "raw": "Ramon (DECEASED) Leal"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "JOEL",
+    "last": "GARZA",
+    "middle": "",
+    "raw": "Joel Garza"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "PAULA",
+    "last": "GARZA",
+    "middle": "",
+    "raw": "Paula Garza"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District",
+   "Mission Consolidated Independent School District",
+   "Hidalgo County",
+   "South Texas College"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County Drainage District # 01, South Texas Independent School District, Mission Consolidated Independent School District, Hidalgo County, South Texas College VS. Ramon (DECEASED) Leal, Joel Garza, Paula Garza, a/k/a Paula Gonzalez Garza",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098059"
+ },
+ "5098087": {
+  "any_deceased": false,
+  "case_id": "5098087",
+  "case_number": "T-1260-26-C",
+  "case_type": "Tax Cases (OCA)",
+  "court": "139th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "RAMON",
+    "last": "GARZA",
+    "middle": "",
+    "raw": "Ramon Garza"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "EMILIA",
+    "last": "GARZA",
+    "middle": "",
+    "raw": "Emilia Garza"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District",
+   "Mission Consolidated Independent School District",
+   "Hidalgo County",
+   "South Texas College",
+   "City of Alton",
+   "Hidalgo County Emergency Services District # 05",
+   "Hidalgo County Emergency Services District # 06"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County Drainage District # 01, South Texas Independent School District, Mission Consolidated Independent School District, Hidalgo County, South Texas College, City of Alton, Hidalgo County Emergency Services District # 05, Hidalgo County Emergency Services District # 06 VS. Ramon Garza, Emilia Garza, a/k/a Emilia Mendez Garza",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098087"
+ },
+ "5098103": {
+  "any_deceased": false,
+  "case_id": "5098103",
+  "case_number": "T-1261-26-J",
+  "case_type": "Tax Cases (OCA)",
+  "court": "430th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "ESMERALDA",
+    "last": "JIMENEZ",
+    "middle": "Y",
+    "raw": "Esmeralda Y. Jimenez"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County",
+   "Donna Independent School District",
+   "South Texas College",
+   "Hidalgo County Drainage District # 01",
+   "Hidalgo County Emergency Services District # 04",
+   "South Texas Independent School District"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, Donna Independent School District, South Texas College, Hidalgo County Drainage District # 01, Hidalgo County Emergency Services District # 04, South Texas Independent School District VS. Esmeralda Y. Jimenez",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098103"
+ },
+ "5098105": {
+  "any_deceased": true,
+  "case_id": "5098105",
+  "case_number": "P2-44278",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #2",
+  "filed": "10/20/2026",
+  "first_seen": "2026-10-21",
+  "kind": "probate",
+  "last_seen": "2026-10-21",
+  "parties": [
+   {
+    "alt_lasts": [
+     "NOE"
+    ],
+    "deceased": true,
+    "first": "OSCAR",
+    "last": "SOLIS",
+    "middle": "NOE",
+    "raw": "Oscar Noe Solis"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Oscar Noe Solis Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098105"
+ },
+ "5098113": {
+  "any_deceased": false,
+  "case_id": "5098113",
+  "case_number": "T-1262-26-I",
+  "case_type": "Tax Cases (OCA)",
+  "court": "398th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "DAVID",
+    "last": "MORENO",
+    "middle": "",
+    "raw": "David Moreno"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "PATRICIA",
+    "last": "MORENO",
+    "middle": "",
+    "raw": "Patricia Moreno"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County",
+   "South Texas College",
+   "Pharr -San Juan- Alamo Independent School District",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas College, Pharr -San Juan- Alamo Independent School District, South Texas Independent School District, Hidalgo County Drainage District # 01 VS. David Moreno, aka David Davalos Moreno, Patricia Moreno, a/k/a Patricia G. Moreno a/k/a Patricia Garcia Moreno",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098113"
+ },
+ "5098201": {
+  "any_deceased": false,
+  "case_id": "5098201",
+  "case_number": "T-1263-26-D",
+  "case_type": "Tax Cases (OCA)",
+  "court": "206th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-21",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [
+     "MENDEZ"
+    ],
+    "deceased": false,
+    "first": "RAFAEL",
+    "last": "TREVINO",
+    "middle": "MENDEZ",
+    "raw": "Rafael Mendez Trevino"
+   },
+   {
+    "alt_lasts": [
+     "TREVINO"
+    ],
+    "deceased": false,
+    "first": "JULIA",
+    "last": "JUAREZ",
+    "middle": "TREVINO",
+    "raw": "Julia Trevino Juarez"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01",
+   "Hidalgo County Emergency Services District # 04",
+   "Donna Independent School District",
+   "South Texas College"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas Independent School District, Hidalgo County Drainage District # 01, Hidalgo County Emergency Services District # 04, Donna Independent School District, South Texas College VS. Rafael Mendez Trevino, a/k/a Rafael M. Trevino a/k/a Rafael Trevino Mendez, Julia Trevino Juarez",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098201"
+ },
+ "5098258": {
+  "any_deceased": false,
+  "case_id": "5098258",
+  "case_number": "F-4050-26-C",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "139th District Court",
+  "filed": "10/21/2026",
+  "first_seen": "2026-10-21",
+  "kind": "divorce",
+  "last_seen": "2026-10-21",
+  "parties": [
+   {
+    "alt_lasts": [
+     "DE",
+     "DE BALDERRAMA"
+    ],
+    "deceased": false,
+    "first": "IN",
+    "last": "BALDERRAMA",
+    "middle": "THE MATTER OF THE MARRAIGE OF SONIA CABELLO DE",
+    "raw": "IN THE MATTER OF THE MARRAIGE OF SONIA CABELLO DE BALDERRAMA"
+   },
+   {
+    "alt_lasts": [
+     "SANTIAGO"
+    ],
+    "deceased": false,
+    "first": "MARTIN",
+    "last": "CASIANO",
+    "middle": "SANTIAGO",
+    "raw": "MARTIN SANTIAGO CASIANO"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRAIGE OF SONIA CABELLO DE BALDERRAMA VS. MARTIN SANTIAGO CASIANO",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098258"
  },
  "520303": {
   "any_deceased": false,

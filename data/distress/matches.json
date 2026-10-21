@@ -45349,6 +45349,90 @@
   "person": "GARCIA JACQUELINE",
   "tried": "2026-10-21"
  },
+ "court:5098051": {
+  "candidates": [
+   "S2450-00-000-0006-00",
+   "S2450-00-000-0007-00",
+   "W6896-01-000-0107-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-21"
+ },
+ "court:5098055": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "R1120-00-000-0023-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "SANDOVAL BENITO",
+  "tried": "2026-10-21"
+ },
+ "court:5098059": {
+  "candidates": [
+   "W0100-00-055-0007-32",
+   "R1060-00-000-0002-00",
+   "K7300-00-000-0026-00",
+   "V0563-05-000-0220-00",
+   "M5758-95-000-0005-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-21"
+ },
+ "court:5098087": {
+  "candidates": [
+   "C6950-02-000-0007-00",
+   "N3400-00-000-2189-05",
+   "T2200-00-022-0034-03",
+   "P0335-00-000-0029-00",
+   "P5500-00-001-0034-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-21"
+ },
+ "court:5098103": {
+  "candidates": [],
+  "confidence": "low",
+  "geo_id": "E0157-00-000-0075-00",
+  "method": "rejected-by-tax-office",
+  "n_candidates": 1,
+  "person": "JIMENEZ ESMERALDA",
+  "tried": "2026-10-21"
+ },
+ "court:5098105": {
+  "candidates": [
+   "L0250-00-058-0002-09",
+   "S2950-00-000-0477-26",
+   "S2950-00-000-0517-07",
+   "V0563-03-000-0100-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-21"
+ },
+ "court:5098113": {
+  "candidates": [
+   "L0250-00-058-0001-07",
+   "L0450-00-198-0000-17",
+   "L0450-00-198-0000-18",
+   "L0450-00-198-0000-20",
+   "B5460-00-000-0001-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-21"
+ },
+ "court:5098201": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "V3314-00-000-0061-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "TREVINO RAFAEL",
+  "tried": "2026-10-21"
+ },
+ "court:5098258": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-21"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",

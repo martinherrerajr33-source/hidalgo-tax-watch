@@ -142259,6 +142259,16 @@
   "pid": "133762",
   "prop_type": "R"
  },
+ "C2550-00-000-0025-00": {
+  "address": "1521 CEDAR DR",
+  "city": "EDINBURG",
+  "geo_id": "C2550-00-000-0025-00",
+  "legal": "CEDAR HEIGHTS LOT 25, S10' LOT 26",
+  "market_value": 247807.0,
+  "owner": "GARZA EMILIA T & FLAVIO H",
+  "pid": "133772",
+  "prop_type": "R"
+ },
  "C2550-00-000-0026-00": {
   "address": "1511 CEDAR DR",
   "city": "EDINBURG",
@@ -209209,6 +209219,16 @@
   "pid": "159344",
   "prop_type": "R"
  },
+ "D4400-03-003-0017-00": {
+  "address": "209 DE LOS SANTOS ST",
+  "city": "WESLACO",
+  "geo_id": "D4400-03-003-0017-00",
+  "legal": "DIANA UT NO. 3 BLK 3 LOT 17",
+  "market_value": 137339.0,
+  "owner": "JUAREZ JULIANA",
+  "pid": "159356",
+  "prop_type": "R"
+ },
  "D4400-03-003-0020-00": {
   "address": "223 DE LOS SANTOS ST",
   "city": "",
@@ -221217,6 +221237,16 @@
   "market_value": 88088.0,
   "owner": "BELMARES JOSE RENE",
   "pid": "643395",
+  "prop_type": "R"
+ },
+ "E0157-00-000-0075-00": {
+  "address": "858 WHITETAIL CIR S",
+  "city": "DONNA",
+  "geo_id": "E0157-00-000-0075-00",
+  "legal": "EARLING ESTATES LOT 75",
+  "market_value": 149999.0,
+  "owner": "JIMENEZ ESMERALDA Y",
+  "pid": "643400",
   "prop_type": "R"
  },
  "E0157-00-000-0076-00": {
@@ -288267,6 +288297,16 @@
   "market_value": 645546.0,
   "owner": "SANCHEZ JESUS ALEJANDRO",
   "pid": "689116",
+  "prop_type": "R"
+ },
+ "F1552-00-000-0032-00": {
+  "address": "909 PEREGRINE DR",
+  "city": "EDINBURG",
+  "geo_id": "F1552-00-000-0032-00",
+  "legal": "FALCON'S CREST GARDENS (AMENDED) LOT 32",
+  "market_value": 553971.0,
+  "owner": "SOLIS OSCAR E & LORISSA ANN",
+  "pid": "689119",
   "prop_type": "R"
  },
  "F1552-00-000-0033-00": {
@@ -420199,6 +420239,16 @@
   "pid": "659380",
   "prop_type": "R"
  },
+ "K7300-00-000-0026-00": {
+  "address": "3505 CHEROKEE DR",
+  "city": "",
+  "geo_id": "K7300-00-000-0026-00",
+  "legal": "KIOWA LOT 26",
+  "market_value": 84816.0,
+  "owner": "LEAL RAMON & GUADALUPE",
+  "pid": "659383",
+  "prop_type": "R"
+ },
  "K7300-00-000-0027-00": {
   "address": "3501 CHEROKEE DR",
   "city": "",
@@ -421787,6 +421837,16 @@
   "market_value": 152538.0,
   "owner": "RODRIGUEZ MARIA REBECCA",
   "pid": "206148",
+  "prop_type": "R"
+ },
+ "L0250-00-058-0002-09": {
+  "address": "410 N 13TH ST",
+  "city": "DONNA",
+  "geo_id": "L0250-00-058-0002-09",
+  "legal": "LOTT, TOWN & IMPROVEMENTS W 316' OF LOT D BLK 58 RESUB OF LOT 2 .65 AC.",
+  "market_value": 356832.0,
+  "owner": "SOLIS OSCAR",
+  "pid": "206151",
   "prop_type": "R"
  },
  "L0250-00-059-0003-00": {
@@ -531629,6 +531689,16 @@
   "pid": "1070080",
   "prop_type": "R"
  },
+ "M0952-01-000-0009-00": {
+  "address": "4200 LOTT RD",
+  "city": "DONNA",
+  "geo_id": "M0952-01-000-0009-00",
+  "legal": "MARAVILLAS ESTATES PH 1 LOT 9",
+  "market_value": 97872.0,
+  "owner": "TREVINO RAFAEL JR & ALYSSA REYES",
+  "pid": "1070085",
+  "prop_type": "R"
+ },
  "M0952-01-000-0014-00": {
   "address": "2204 S MIDWAY RD",
   "city": "DONNA",
@@ -568098,6 +568168,16 @@
   "owner": "RODRIGUEZ MARIA I",
   "pid": "790176",
   "prop_type": "R"
+ },
+ "M5758-95-000-0005-00": {
+  "address": "6108 TIERRA BUENA ST",
+  "city": "MONTE ALTO, HIDALGO",
+  "geo_id": "M5758-95-000-0005-00",
+  "legal": "MONTE ALTO ACRES PH 5 LOT 5 -- IMPROVEMENTS ONLY -- NEW FOR 2022",
+  "market_value": 129305.0,
+  "owner": "LEAL RAMON L",
+  "pid": "1380084",
+  "prop_type": "MH"
  },
  "M5758-95-000-0007-00": {
   "address": "FIRST ST",
@@ -690979,6 +691059,16 @@
   "pid": "1313689",
   "prop_type": "R"
  },
+ "R1060-00-000-0002-00": {
+  "address": "1002 RANCHO ESCONDIDO DR",
+  "city": "",
+  "geo_id": "R1060-00-000-0002-00",
+  "legal": "RANCHO ESCONDIDO LOT 2",
+  "market_value": 131659.0,
+  "owner": "LEAL RAMON",
+  "pid": "267150",
+  "prop_type": "R"
+ },
  "R1060-00-000-0008-00": {
   "address": "1014 RANCHO ESCONDIDO DR",
   "city": "",
@@ -691457,6 +691547,16 @@
   "market_value": 145076.0,
   "owner": "SALINAS MARIO ALBERTO",
   "pid": "577621",
+  "prop_type": "R"
+ },
+ "R1120-00-000-0023-00": {
+  "address": "824 RANCHO ESCONDIDO",
+  "city": "",
+  "geo_id": "R1120-00-000-0023-00",
+  "legal": "RANCHO HEIGHTS LOT 23",
+  "market_value": 137705.0,
+  "owner": "SANDOVAL BENITO & OLAYA",
+  "pid": "577625",
   "prop_type": "R"
  },
  "R1120-00-000-0024-00": {
@@ -764399,6 +764499,26 @@
   "pid": "279984",
   "prop_type": "R"
  },
+ "S2450-00-000-0006-00": {
+  "address": "320 N 27TH AVE",
+  "city": "EDINBURG",
+  "geo_id": "S2450-00-000-0006-00",
+  "legal": "SEMREN LOT 6",
+  "market_value": 134040.0,
+  "owner": "ELIZONDO CRISELDA G & NATIVIDAD GUERRA JR",
+  "pid": "279985",
+  "prop_type": "R"
+ },
+ "S2450-00-000-0007-00": {
+  "address": "N 27TH AVE",
+  "city": "",
+  "geo_id": "S2450-00-000-0007-00",
+  "legal": "SEMREN LOT 7",
+  "market_value": 62880.0,
+  "owner": "ELIZONDO CRISELDA G & NATIVIDAD GUERRA JR",
+  "pid": "279986",
+  "prop_type": "R"
+ },
  "S2450-00-000-0008-00": {
   "address": "312 N 27TH AVE",
   "city": "EDINBURG",
@@ -779709,6 +779829,16 @@
   "pid": "282723",
   "prop_type": "R"
  },
+ "S2950-00-000-0477-26": {
+  "address": "10328 N TAYLOR RD",
+  "city": "",
+  "geo_id": "S2950-00-000-0477-26",
+  "legal": "JOHN H SHARY E368'-W1135'-N273'-S495' LOT 477 2.31AC NET",
+  "market_value": 211222.0,
+  "owner": "SOLIS OSCAR",
+  "pid": "282726",
+  "prop_type": "R"
+ },
  "S2950-00-000-0482-15": {
   "address": "7031 7 MI RD",
   "city": "",
@@ -780147,6 +780277,16 @@
   "market_value": 622171.0,
   "owner": "CANTU LEONELA Z",
   "pid": "282962",
+  "prop_type": "R"
+ },
+ "S2950-00-000-0517-07": {
+  "address": "5020 W HWY 107",
+  "city": "",
+  "geo_id": "S2950-00-000-0517-07",
+  "legal": "JOHN H SHARY LT 517-E 57.5' -W 591.18' - S 415'-N1320' OUT OF W 22.95AC 0.55 AC",
+  "market_value": 238159.0,
+  "owner": "SOLIS OSCAR & CRISTINA",
+  "pid": "282971",
   "prop_type": "R"
  },
  "S2950-00-000-0517-10": {
@@ -833777,6 +833917,16 @@
   "market_value": 150042.0,
   "owner": "DE LEON ESPERANZA",
   "pid": "658581",
+  "prop_type": "R"
+ },
+ "T0108-00-000-0037-00": {
+  "address": "3008 PEACE AVE",
+  "city": "",
+  "geo_id": "T0108-00-000-0037-00",
+  "legal": "TABASCO LOT 37",
+  "market_value": 192481.0,
+  "owner": "SOLIS OSCAR JR",
+  "pid": "658583",
   "prop_type": "R"
  },
  "T0108-00-000-0039-00": {
@@ -904899,6 +905049,16 @@
   "pid": "570647",
   "prop_type": "R"
  },
+ "V0563-03-000-0100-00": {
+  "address": "2902 HUISACHE AVE",
+  "city": "",
+  "geo_id": "V0563-03-000-0100-00",
+  "legal": "VALLE ALTO NORTH UT 3 LOT 100",
+  "market_value": 134996.0,
+  "owner": "SOLIS OSCAR & MARIA V CORTEZ",
+  "pid": "570649",
+  "prop_type": "R"
+ },
  "V0563-03-000-0102-00": {
   "address": "2906 HUISACHE AVE",
   "city": "",
@@ -905177,6 +905337,16 @@
   "market_value": 161485.0,
   "owner": "TORRES GUADALUPE & ADALIA",
   "pid": "594153",
+  "prop_type": "R"
+ },
+ "V0563-05-000-0220-00": {
+  "address": "2902 JARILLA AVE",
+  "city": "",
+  "geo_id": "V0563-05-000-0220-00",
+  "legal": "VALLE ALTO NORTH UT 5 LOT 220",
+  "market_value": 152916.0,
+  "owner": "LEAL RAMON & NANCY G",
+  "pid": "594156",
   "prop_type": "R"
  },
  "V0563-06-000-0225-00": {
@@ -917027,6 +917197,16 @@
   "market_value": 240987.0,
   "owner": "MIRANDA DAVID & JOANNA",
   "pid": "632231",
+  "prop_type": "R"
+ },
+ "V3314-00-000-0061-00": {
+  "address": "3107 LILAC DR",
+  "city": "DONNA",
+  "geo_id": "V3314-00-000-0061-00",
+  "legal": "VICTORIA GARDENS LOT 61",
+  "market_value": 195421.0,
+  "owner": "TREVINO RAFAEL M & JULIA",
+  "pid": "632242",
   "prop_type": "R"
  },
  "V3314-00-000-0062-00": {
@@ -952097,6 +952277,16 @@
   "market_value": 245911.0,
   "owner": "MONTEZ JASON ET AL",
   "pid": "319262",
+  "prop_type": "R"
+ },
+ "W0100-00-055-0007-32": {
+  "address": "FM 2993",
+  "city": "",
+  "geo_id": "W0100-00-055-0007-32",
+  "legal": "WEST ADDN. TO SHARYLAND .47AC-S15AC LOT 55-7 .47AC NET",
+  "market_value": 21105.0,
+  "owner": "LEAL RAMON",
+  "pid": "319264",
   "prop_type": "R"
  },
  "W0100-00-055-0007-33": {
@@ -991967,6 +992157,16 @@
   "market_value": 91230.0,
   "owner": "GARZA LAURA A",
   "pid": "594306",
+  "prop_type": "R"
+ },
+ "W6896-01-000-0107-00": {
+  "address": "3011 MEGAN DR",
+  "city": "EDINBURG",
+  "geo_id": "W6896-01-000-0107-00",
+  "legal": "WISCONSIN M/H COMMUNITY PH 1 LOT 107",
+  "market_value": 130794.0,
+  "owner": "GUERRA NATIVIDAD Jr",
+  "pid": "594309",
   "prop_type": "R"
  },
  "W6896-01-000-0111-00": {

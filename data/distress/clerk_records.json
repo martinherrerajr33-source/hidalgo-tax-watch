@@ -9422,6 +9422,45 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329697241"
  },
  "329700225": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Sofia Cruz",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sofia Cruz",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Kimberly Fuentes",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Spfia Cruz",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "6627 Lakeview Drive, Palmview, Texas 78574",
+     "name": "Juana Josefina Castillo",
+     "relation": "heir"
+    }
+   ],
+   "ocr_chars": 4409,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329700225",
@@ -9450,6 +9489,49 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329701420"
  },
  "329701974": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": "disinterested"
+   },
+   "affiants": [],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Aubin Menchaca",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Lydia Menchaca",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Velma Dora Menchaca",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Diana Menchaca",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Miguel Menchaca",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 5239,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "423 Rexine Dr, ALAMO TX 78516",
+    "name": "Diana Garza"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329701974",
@@ -9856,6 +9938,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329712444"
  },
  "329713451": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Carolina Ramos",
+    "relationship": "not related"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Carolina Ramos",
+     "relationship": "not related"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria del Toro",
+     "relationship": "not related"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Luciano Navarro",
+     "relationship": "not related"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8617,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329713451",
@@ -9968,6 +10083,53 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329714304"
  },
  "329714711": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Judy F Witt",
+    "relationship": "not related"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Judy F Witt",
+     "relationship": "not related"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Donna C McLean",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Kimberly Courtney",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Barry J Rensing",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Scott Finley",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Donna C",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 7573,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329714711",
@@ -10318,6 +10480,80 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329728368"
  },
  "329728370": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": true,
+    "name": "Thomas Brandon Thompson",
+    "relationship": "grandson"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Thomas Brandon Thompson",
+     "relationship": "grandson"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Chu-Kyong Im Hernandez",
+     "relationship": "grandson"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Arturo D Torres",
+     "relationship": "grandson"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Thomas Harry Thompson",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Kristen Elizabeth Thompson Garcia",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Sarah Michelle Thompson Wilkinson",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Alisha Vivianne Thompson Donnelly",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Saralu Thompson Lunn",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Richard Glynn Thompson",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Tommy Thompson",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Margot Thompson",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 10993,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329728370",
@@ -10472,6 +10708,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329729142"
  },
  "329730341": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Rosemary Patterson",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rosemary Patterson",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Mar-fy P Williams",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Shannon Latting",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8095,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329730341",
@@ -10486,6 +10755,61 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329730341"
  },
  "329730343": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Ana Zamora Garcia",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ana Zamora Garcia",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jose Rogelio Barrera-capistran",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "JOSE ROGELIO BARRERA-CAPISTRANare",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Laura Teresa Negrete",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Doc- Merida Abigail Negrete Durham",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Veronica Negrete Samples Houston",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Maricruz Negrete San Antonio",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 9148,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329730343",
@@ -10500,6 +10824,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329730343"
  },
  "329731178": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 4797,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "3937 Pena St., MISSION TX 78572",
+    "name": "Maria Ofelia Guerra"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329731178",
@@ -10542,6 +10883,29 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329731192"
  },
  "329731193": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Maria Margarita Barreiro",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 5006,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "500 Debby Lane, MISSION TX 78572",
+    "name": "Maria Margarita Barreiro"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329731193",
@@ -10556,6 +10920,29 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329731193"
  },
  "329731195": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Maria Margarita Barreiro",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 5638,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "500 Debby Lane, MISSION TX 78572",
+    "name": "Maria Margarita Barreiro"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329731195",
@@ -10570,6 +10957,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329731195"
  },
  "329731198": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 5484,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "3937 Pena St., MISSION TX 78572",
+    "name": "Maria Ofelia Guerra"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329731198",
@@ -10612,6 +11016,43 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329731631"
  },
  "329731644": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Delia Ahumada Cedillo",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Delia Ahumada Cedillo",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Bendice Raul Cedillo",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Sonia Alicia Cedillo",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Lois A",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 12810,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "329731644",
@@ -10682,6 +11123,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/329733972"
  },
  "330329043": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Eustolio Santana",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Eustolio Santana",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ricardo Barbosa",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Hilda L Barbosa",
+     "relationship": ""
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 9794,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330329043",
@@ -10696,6 +11170,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330329043"
  },
  "330330106": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": "acquainted"
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 7000,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "2108 Domingo Trevino Dr, PCI -",
+    "name": "Dina Ochoa"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330330106",
@@ -10710,6 +11201,53 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330330106"
  },
  "330330107": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Macario Garcia",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Macario Garcia",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Antonio Perez",
+     "relationship": ""
+    },
+    {
+     "address": "7812 Travis St. Mission, TX 78574",
+     "is_heir": false,
+     "name": "Mdcario Garcia",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jose Alfredo Torres",
+     "relation": "child"
+    },
+    {
+     "address": "6416 Brazil Ave., Edinburg, TX 78542",
+     "name": "Alejandro Torres",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3878,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "3508 Katrina Ave, MCALLEN TX 78503",
+    "name": "Miguel Covarrubia"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330330107",
@@ -10724,6 +11262,47 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330330107"
  },
  "330330108": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Macario Garcia",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Macario Garcia",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Antonio Perez",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jose Alfredo Torres",
+     "relation": "child"
+    },
+    {
+     "address": "6416 Brazil Ave., Edinburg, TX 78542",
+     "name": "Alejandro Torres",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3824,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "3508 Katrina Ave, MCALLEN TX 78503",
+    "name": "Miguel Covarrubia"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330330108",
@@ -10738,6 +11317,58 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330330108"
  },
  "330334949": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "David Rodriguez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "David Rodriguez",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juan Gabriel Lara Vargas",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria del Carmen Perez Cuevas",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "8832 Skyhawk Dr., Edinburg, Texas 78542",
+     "name": "Nicolas Rodriguez",
+     "relation": "child"
+    },
+    {
+     "address": "8832 Skyhawk Dr., Edinburg, Texas 78542",
+     "name": "Dariyan Rodriguez",
+     "relation": "child"
+    },
+    {
+     "address": "8832 Skyhawk Dr., Edinburg, Texas 78542",
+     "name": "Serena Rodriguez",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 5990,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "426 W Caffery Ave, PHARR TX 78577",
+    "name": "O'Hanlon Demerath Castillo"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330334949",
@@ -10752,6 +11383,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330334949"
  },
  "330342319": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Donna M Politsch",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Donna M Politsch",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Debbora Bulthaus",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 9494,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330342319",
@@ -10920,6 +11578,53 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330347322"
  },
  "330347323": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Norma Salinas",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Norma Salinas",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Joey Trevino",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Dina Ann Gonzales-vento",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "822 Diego Dr., Mercedes, Texas 78570",
+     "name": "Summer Vento Olmedo",
+     "relation": "child"
+    },
+    {
+     "address": "822 Diego Dr., Mercedes, Texas 78570",
+     "name": "Mika Vento",
+     "relation": "parent"
+    }
+   ],
+   "ocr_chars": 12640,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "JONES, GALLIGAN, KEY & LOZANO L.L.P., 2300 West Pike Boulevard Suite 300",
+    "name": "Kristen N Gutierrez"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330347323",
@@ -10962,6 +11667,49 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330347759"
  },
  "330348437": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Esmeralda A Flores",
+    "relationship": "friend"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Esmeralda A Flores",
+     "relationship": "friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Elvira Perez",
+     "relationship": "friend"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Omar Anzaldua",
+     "relation": "child"
+    },
+    {
+     "address": "925 N. Tower Rd. Edinburg, Texas 78542",
+     "name": "Rosa Ella Rodriguez",
+     "relation": "child"
+    },
+    {
+     "address": "2114 La Condesa Edinburg, Texas 78539",
+     "name": "Melinda E Villarreal",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 10387,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330348437",
@@ -11004,6 +11752,54 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330348447"
  },
  "330348448": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Esmeralda A Flores",
+    "relationship": "family friend"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Esmeralda A Flores",
+     "relationship": "family friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Elvira Perez",
+     "relationship": "family friend"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "508 E. Ramseyer Rd. Edinburg, Texas 78542",
+     "name": "Omar Anzaldua",
+     "relation": "child"
+    },
+    {
+     "address": "502 E. Ramseyer Rd. Edinburg, Texas 78542",
+     "name": "Ronaldo Anzaldua",
+     "relation": "child"
+    },
+    {
+     "address": "925 N. Tower Rd. Edinburg, Texas 78542",
+     "name": "Rosa Ella Rodriguez",
+     "relation": "child"
+    },
+    {
+     "address": "2114 La Condesa Edinburg, Texas 78539",
+     "name": "Melinda E Villarreal",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 10510,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330348448",
@@ -11088,6 +11884,43 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330349368"
  },
  "330352191": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Yvette Lopez",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Yvette Lopez",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Javier Lopez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Ruby Lopez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Iris Lopez",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 8384,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330352191",
@@ -11116,6 +11949,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330352192"
  },
  "330353793": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Miguel Regalado Jr.",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Miguel Regalado Jr.",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rebecca Regalado",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 7296,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330353793",
@@ -11732,6 +12592,27 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330367742"
  },
  "330369687": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Sandra Lizeth Gonzalez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sandra Lizeth Gonzalez",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 10758,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330369687",
@@ -11788,6 +12669,86 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330374510"
  },
  "330375403": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Cynthia Barrera",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Cynthia Barrera",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jaime Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Yadira Cisneros Jaime Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Javier Cisneros Mark Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Noel Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Christian Cisneros Peter Cisneros Matthew",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Noe Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Javier Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Guadalupe Cisneros Jr.",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Enedelia Cisneros Vargas",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jesus Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Rumaldo Cisneros",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 8788,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "P.O. Drawer 630, EDINBURG TX 78540",
+    "name": "Ricardo Gonzalez DBA Oxford Gonzalez"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330375403",
@@ -11802,6 +12763,49 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330375403"
  },
  "330430749": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Andres Castro",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Andres Castro",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sulema Rodriguez",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jesus H Castro",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jesus Hector Castro",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Andres Castro Disinterested",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 8959,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330430749",
@@ -11914,6 +12918,27 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330437637"
  },
  "330438410": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Everica Cantu Rivera",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Everica Cantu Rivera",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8915,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330438410",
@@ -11956,6 +12981,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330438415"
  },
  "330438416": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Everica Cantu Rivera",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Everica Cantu Rivera",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rigoberto Rivera",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8668,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330438416",
@@ -11998,6 +13050,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330438419"
  },
  "330438420": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Juan Domingo Molina",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juan Domingo Molina",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Yolanda Sosa Villalobos",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8256,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330438420",
@@ -12068,6 +13147,72 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330442826"
  },
  "330443679": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Esperanza Jasso",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Esperanza Jasso",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Araceli Herrera",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Hilda Torres Disinterested",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Hilda Torres",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Sylvia Torres",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Manuel Torres",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jesse Torres",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Hilda Torres Sylvia Torres Laura",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Chapa Manuel Torres Jesse",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 7515,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "408 W 11th St, ELSA TX 78543",
+    "name": "Hilda Torres"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330443679",
@@ -12082,6 +13227,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330443679"
  },
  "330443683": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Enriqueta G Perez",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Enriqueta G Perez",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Pablo Gonzalez",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Enriqueta Gonzalez",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 8171,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330443683",
@@ -12152,6 +13330,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330445513"
  },
  "330445985": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 8281,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "11815 FM 2812, EDCOUCH TX 78538",
+    "name": "Rosalinda Olivo"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330445985",
@@ -12180,6 +13375,53 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330445987"
  },
  "330446537": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Melissa A Pimentel",
+    "relationship": "friend"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Melissa A Pimentel",
+     "relationship": "friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juan Rene Guajardo",
+     "relationship": "friend"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Arnold Ramirez",
+     "relationship": "friend"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Sergio Antonio Garcia",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Sylvia Renee Garcia",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 6856,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "1321 Valle Verde Drive, MERCEDES TX 78570",
+    "name": "Melissa A Pimentel"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330446537",
@@ -12250,6 +13492,46 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330447761"
  },
  "330468028": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Delia Rodriguez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Delia Rodriguez",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Alicia Morales",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Yolanda Morales Cavazos",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Jose Angel Morales",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 11622,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "125 E. Caffery Ave., Pharr TX 78577",
+    "name": "israel L Rivas"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330468028",
@@ -12390,6 +13672,44 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330468139"
  },
  "330468157": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Maria San",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria San",
+     "relationship": "knows the family - not a relative"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Noe Jesus Cantt",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Maria Sen Juanita Salinas",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Maria San Juanita Salinas Disinterested",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 7884,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330468157",
@@ -12460,6 +13780,80 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330473255"
  },
  "330475683": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Melissa Mabel Leal Canthu",
+    "relationship": "not a beneficiary of the estate"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Melissa Mabel Leal Canthu",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Yolanda Dianeth Hinojosa",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Yolanda Dianeth Hinojosa-Cantu",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "6026 Lancaster Street, Houston, Texas 77087",
+     "name": "Dayra Patricia Salinas",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Melissa Mabel Leal Cantu",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Dayra Patricia Salinas April",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "PLACE Monterrey",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Nuevo Leon",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Mexico Lancaster Street",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Nuevo Lean",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Mexico E",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 10425,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330475683",
@@ -12474,6 +13868,63 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330475683"
  },
  "330475684": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": true,
+    "name": "Maria Guadalupe Gomez",
+    "relationship": "daughter"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Maria Guadalupe Gomez",
+     "relationship": "daughter"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "San Juana De Los Santos",
+     "relation": "child"
+    },
+    {
+     "address": "751 W. Illinois, Weslaco, Texas 78596",
+     "name": "Aurora Arredondo",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Alberto Alcala",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Estela Alcala",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Imelda Leon",
+     "relation": "child"
+    },
+    {
+     "address": "751 W. Illinois, Weslaco, Texas 78596",
+     "name": "Marta C Sanchez",
+     "relation": "child"
+    },
+    {
+     "address": "311 Forrest Hills Dr. #13, Weslaco, Texas 78596",
+     "name": "Julia Dahlia Alcala",
+     "relation": "heir"
+    }
+   ],
+   "ocr_chars": 9453,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330475684",
@@ -12488,6 +13939,56 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330475684"
  },
  "330476029": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Roberta Ann Sierra",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Roberta Ann Sierra",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Marriage Ofira Garza Guerra",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Rolando Javier Guerra",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Ofira Nelda Guerra",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Rolando Javier Guerra Ofira",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Nelda Guerra",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 4393,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "37571 N Highway 281, PCI -",
+    "name": "Rolando Guerra"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330476029",
@@ -13104,6 +14605,54 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330486103"
  },
  "330487141": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Rogelio Reyna Verdin",
+    "relationship": "cousin for over 20 years"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rogelio Reyna Verdin",
+     "relationship": "cousin for over 20 years"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ofelia Reyna",
+     "relationship": "cousin for over 20 years"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Fernando Lara Reyna",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Danira Lara",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Lorena Lara",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Anna Cristina Lara",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3927,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330487141",
@@ -13188,6 +14737,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330487585"
  },
  "330487586": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Alejandro Mendoza",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Alejandro Mendoza",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Mayra Griselda Flores Ramos",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 9634,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330487586",
@@ -13286,6 +14862,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330487594"
  },
  "330487595": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Alejandro Mendoza",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Alejandro Mendoza",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Agapito Mendoza",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 9409,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330487595",
@@ -13720,6 +15323,45 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330490444"
  },
  "330492018": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Jesus Garza",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jesus Garza",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Diana Cantu",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria Barbosa",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Roberto Vasquez",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 8131,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330492018",
@@ -13734,6 +15376,44 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330492018"
  },
  "330493401": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Hernan Cortez",
+    "relationship": "not a beneficiary of the estate"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Hernan Cortez",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sylvia De La Garza",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Fortino Cortez",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Maria De Jesus Cortez Doc",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 9531,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330493401",
@@ -13748,6 +15428,54 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330493401"
  },
  "330493408": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Hernan Cortez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Hernan Cortez",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sylvia De La Garza",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "219 W. Eller Ave., Pharr, Texas 78577",
+     "name": "Laura Ann Salinas Cortez",
+     "relation": "child"
+    },
+    {
+     "address": "13050 Salt Fork, San Antonio, Texas 78523",
+     "name": "Rosalinda C Palacios",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Hernan Cortez July",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "PLACE San Juan",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 10302,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330493408",
@@ -13930,6 +15658,36 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330506495"
  },
  "330507990": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Robert Tijerina",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Robert Tijerina",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ernesto C",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 5470,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "7000127 37571 N. Expressway 281, Edinburg TX 78542",
+    "name": "Rolando J Guerra"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330507990",
@@ -13944,6 +15702,44 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330507990"
  },
  "330508001": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Rose Wand",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rose Wand",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Norma L Flores",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ronald E Merrill",
+     "relation": "heir"
+    },
+    {
+     "address": "1408 Cibolo Trl 7413 Candlewood Ln. Universal City, TX 78148",
+     "name": "Rose L Wand Lori M Sytsma",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 9174,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330508001",
@@ -13958,6 +15754,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330508001"
  },
  "330509348": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Carolyn G Riley",
+    "relationship": "not a beneficiary of the estate"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Carolyn G Riley",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Diane Frances Gray",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Clement Gray",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 12738,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330509348",
@@ -13986,6 +15815,26 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330509665"
  },
  "330510691": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": "disinterested"
+   },
+   "affiants": [],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Alonso Cortez",
+     "relation": "surviving spouse"
+    }
+   ],
+   "ocr_chars": 7885,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330510691",
@@ -14126,6 +15975,54 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330513991"
  },
  "330513992": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Sandra Lizeth Gonzalez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sandra Lizeth Gonzalez",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Sandra Lizeth Genzalez",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Oralia Delgado De Gonzalez",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Alfredo Gonzalez",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Stephany Gonzalez",
+     "relation": "possible relative (named in affidavit)"
+    },
+    {
+     "address": "",
+     "name": "Lizeth Gonzalez",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 10589,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330513992",
@@ -14322,6 +16219,63 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330515733"
  },
  "330516187": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Jose R Gonzalez",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jose R Gonzalez",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rodolfo Edurado Ortiz",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Leticia Canales",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "301 S. Inspiration Rd Apt 1217, Mission Texas 78572",
+     "name": "Ruben Jose Gonzalez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Carlos Felipe Gonzalez",
+     "relation": "child"
+    },
+    {
+     "address": "918 Lost Mine Trial, Mission, Texas 78572",
+     "name": "Nora Edith Gonzalez Gutirrez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Jose R",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 5853,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "7000350 426 W Caffery Ave, Pharr TX 78577",
+    "name": "O'Hanlon Demerath Castillo"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330516187",
@@ -14336,6 +16290,58 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330516187"
  },
  "330516196": {
+  "affidavit": {
+   "affiant": {
+    "address": "5013 Heron Ave Mc Allen, Texas 78504",
+    "is_heir": false,
+    "name": "Rosa Beatriz Ramos",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "5013 Heron Ave Mc Allen, Texas 78504",
+     "is_heir": false,
+     "name": "Rosa Beatriz Ramos",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Armandina Reyes",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Eduardo Reyes",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "5013 Heron Ave., McAllen, Texas 78504",
+     "name": "Victor Manuel Ramos",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Lombardo Ramos",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Mc Allen",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 5876,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "7000359 5013 Heron Ave, MCALLEN TX 78504",
+    "name": "Rosa Beatriz Ramos"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330516196",
@@ -14350,6 +16356,89 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330516196"
  },
  "330516541": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Alicia Garcia",
+    "relationship": "not a beneficiary of the estate"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Alicia Garcia",
+     "relationship": "not a beneficiary of the estate"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juan Cervantes",
+     "relationship": "not a beneficiary of the estate"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Claudia Carolina Tellez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "David Tellez Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Paula M Tellez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Jose A Tellez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Cristian Tellez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Claudia Carolina Tellez December",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "PLACE Fort Smith",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Bella Vista",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Arkansas David Tellez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Cristian Tellez July",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Arkansas Conser Rd",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 9777,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330516541",
@@ -14574,6 +16663,46 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330538785"
  },
  "330539500": {
+  "affidavit": {
+   "affiant": {
+    "address": "130 S.Guerra Ave, Weslaco, TX 78596",
+    "is_heir": false,
+    "name": "Arturo Cedillo",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "130 S.Guerra Ave, Weslaco, TX 78596",
+     "is_heir": false,
+     "name": "Arturo Cedillo",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "2554 Greene Ave., Fort Worth, TX 76109",
+     "name": "Ramiro Solis Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Melinda Solis",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Linda Korkian",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 4618,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "2554 Greene Ave, FORT WORTH TX 76109",
+    "name": "Ramiro Solis Jr."
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330539500",
@@ -14588,6 +16717,46 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330539500"
  },
  "330539503": {
+  "affidavit": {
+   "affiant": {
+    "address": "1031 Plena Vista Dr. Alamo, TX 78516",
+    "is_heir": false,
+    "name": "Rene Reyna",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "1031 Plena Vista Dr. Alamo, TX 78516",
+     "is_heir": false,
+     "name": "Rene Reyna",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "2554 Greene Ave., Fort Worth, TX 76109",
+     "name": "Ramiro Solis Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Melinda Solis",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Linda Korkian",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 4483,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "2554 Greene Ave, FORT WORTH TX 76109",
+    "name": "Ramiro Solis Jr."
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330539503",
@@ -14616,6 +16785,58 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330541084"
  },
  "330541959": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Jessica Castro",
+    "relationship": "not related"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jessica Castro",
+     "relationship": "not related"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "1218 San Vicente Norte, Weslaco, Texas 78599",
+     "name": "Mario Alberto Castro",
+     "relation": "child"
+    },
+    {
+     "address": "804 Coyote St. Donna, Texas 78537",
+     "name": "Francisco Javier Bernal",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Mario Alberto Castro December",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Inocencio Castro San Vicente Norte",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Francisco Javier Bernal July",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Rumaldo Bernal Coyote St",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 7810,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330541959",
@@ -14826,6 +17047,23 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330544580"
  },
  "330545481": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": "disinterested"
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 4093,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "321 E Kelly, PCI -",
+    "name": "Nora Longoria"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330545481",
@@ -15310,6 +17548,46 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330595952"
  },
  "330595953": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Jose Rico Longoria",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jose Rico Longoria",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "1619 Ermine Wy Crandall, TX 75114",
+     "name": "Eli Matthew Olivarez",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Alpha Omega Longoria",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Everardo Ricardo Arredondo",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 8481,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "11027 Curwensville Tyrone Hwy Olanta, PA 16863, Decedent: Belinda Robles",
+    "name": "Jose Rico Longoria"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330595953",
@@ -15324,6 +17602,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330595953"
  },
  "330597629": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": true,
+    "name": "Donald L Vickers",
+    "relationship": "surviving father"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Donald L Vickers",
+     "relationship": "surviving father"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Melissa Dearth",
+     "relationship": "surviving father"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Juan Mora",
+     "relationship": "surviving father"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 12340,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330597629",
@@ -15338,6 +17649,33 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330597629"
  },
  "330597630": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": true,
+    "name": "Donald L Vickers",
+    "relationship": "surviving spouse"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Donald L Vickers",
+     "relationship": "surviving spouse"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Lilia H Carreon",
+     "relationship": "surviving spouse"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 9918,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330597630",
@@ -15366,6 +17704,41 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/330600289"
  },
  "330600631": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Jaydee Jacob Robles",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Jaydee Jacob Robles",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Jaydee Jacob Robles September",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Ester Mendoza Three Notch Rd St",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 8975,
+   "parser": 3,
+   "read_on": "2026-10-21",
+   "return_to": {
+    "address": "22685 Three Notch Rd St #202, California, MD 20619, Decedent: Joe Hector Robles, a/k/a Jose Hector Robles, a/k/a Joe H Robles",
+    "name": "Jaydee Jacob Robles"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "330600631",
