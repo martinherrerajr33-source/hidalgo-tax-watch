@@ -131744,8 +131744,6 @@
   "case_number": "T-1203-26-G",
   "case_type": "Tax Cases (OCA)",
   "court": "370th District Court",
-  "detail_fetched": "2026-10-22",
-  "detail_parties": [],
   "filed": "09/30/2026",
   "first_seen": "2026-10-15",
   "kind": "tax_suit",
@@ -137099,7 +137097,7 @@
   ],
   "plaintiffs": [],
   "status": "Filed",
-  "style": "NANCY LEAL DE FABELA VS. JOSE ANTONIO FABELA",
+  "style": "IN THE MATTER OF THE MARRIAGE OF NANCY LEAL DE FABELA VS. JOSE ANTONIO FABELA",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098700"
  },
  "5098821": {
@@ -137226,16 +137224,476 @@
    }
   ],
   "plaintiffs": [
+   "Hidalgo County",
    "South Texas College",
    "City of San Juan",
-   "Hidalgo County Drainage District # 01",
    "Pharr -San Juan- Alamo Independent School District",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas College, City of San Juan, Pharr -San Juan- Alamo Independent School District, South Texas Independent School District, Hidalgo County Drainage District # 01 VS. Alianza Enterprises, Inc., D/B/A Just-A-Cut",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098835"
+ },
+ "5098870": {
+  "any_deceased": false,
+  "case_id": "5098870",
+  "case_number": "T-1270-26-A",
+  "case_type": "Tax Cases (OCA)",
+  "court": "92nd District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "IRMA",
+    "last": "RODRIGUEZ",
+    "middle": "",
+    "raw": "Irma Rodriguez"
+   }
+  ],
+  "plaintiffs": [
    "Hidalgo County",
+   "South Texas College",
+   "City of Pharr",
+   "Pharr -San Juan- Alamo Independent School District",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas College, City of Pharr, Pharr -San Juan- Alamo Independent School District, South Texas Independent School District, Hidalgo County Drainage District # 01 VS. Irma Rodriguez, a/k/a Irma Rodriguez-Zamora",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098870"
+ },
+ "5098884": {
+  "any_deceased": false,
+  "case_id": "5098884",
+  "case_number": "F-4056-26-9",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #9",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "divorce",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "IVANA",
+    "last": "BARRERA",
+    "middle": "",
+    "raw": "IVANA BARRERA"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "GIOVANNI",
+    "last": "MARTINEZ",
+    "middle": "",
+    "raw": "GIOVANNI MARTINEZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF IVANA BARRERA VS. GIOVANNI MARTINEZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098884"
+ },
+ "5098902": {
+  "any_deceased": false,
+  "case_id": "5098902",
+  "case_number": "F-4057-26-L",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "464th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "divorce",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "MARIA",
+    "last": "CASARES",
+    "middle": "",
+    "raw": "MARIA CASARES"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "BOBBY",
+    "last": "CASARES",
+    "middle": "",
+    "raw": "BOBBY CASARES"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF MARIA CASARES VS. BOBBY CASARES",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098902"
+ },
+ "5098907": {
+  "any_deceased": false,
+  "case_id": "5098907",
+  "case_number": "T-1271-26-D",
+  "case_type": "Tax Cases (OCA)",
+  "court": "206th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [],
+  "plaintiffs": [
+   "South Texas College",
+   "Hidalgo County Drainage District #1",
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "City of McAllen",
+   "McAllen Independent School District"
+  ],
+  "status": "Filed",
+  "style": "South Texas College, Hidalgo County Drainage District #1, Hidalgo County, South Texas Independent School District, City of McAllen, McAllen Independent School District VS. San Miguelito Restaurant LLC D/BA Hacienda San Miguel Restaurant",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098907"
+ },
+ "5098917": {
+  "any_deceased": false,
+  "case_id": "5098917",
+  "case_number": "T-1272-26-M",
+  "case_type": "Tax Cases (OCA)",
+  "court": "476th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [
+     "LEARNING"
+    ],
+    "deceased": false,
+    "first": "KIDZ",
+    "last": "CENTER",
+    "middle": "EXPLORER DAYCARE & LEARNING",
+    "raw": "Kidz Explorer Daycare & Learning Center"
+   }
+  ],
+  "plaintiffs": [
+   "Hidalgo County",
+   "South Texas College",
+   "City of Pharr",
+   "Pharr -San Juan- Alamo Independent School District",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas College, City of Pharr, Pharr -San Juan- Alamo Independent School District, South Texas Independent School District, Hidalgo County Drainage District # 01 VS. Kidz Explorer Daycare & Learning Center, LLC",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098917"
+ },
+ "5098961": {
+  "any_deceased": false,
+  "case_id": "5098961",
+  "case_number": "F-4058-26-J",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "430th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "divorce",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [
+     "BRIANA"
+    ],
+    "deceased": false,
+    "first": "JENNESYS",
+    "last": "CRUZ",
+    "middle": "BRIANA",
+    "raw": "JENNESYS BRIANA CRUZ"
+   },
+   {
+    "alt_lasts": [
+     "BLANCO"
+    ],
+    "deceased": false,
+    "first": "OLIVER",
+    "last": "ASCANIO",
+    "middle": "BLANCO",
+    "raw": "OLIVER BLANCO ASCANIO"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF JENNESYS BRIANA CRUZ VS. OLIVER BLANCO ASCANIO",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098961"
+ },
+ "5098971": {
+  "any_deceased": false,
+  "case_id": "5098971",
+  "case_number": "T-1273-26-I",
+  "case_type": "Tax Cases (OCA)",
+  "court": "398th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "TORITO",
+    "last": "CARNICERIA",
+    "middle": "",
+    "raw": "Torito Carniceria"
+   }
+  ],
+  "plaintiffs": [
+   "South Texas College",
+   "Hidalgo County Drainage District #1",
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "City of McAllen",
+   "McAllen Independent School District",
+   "City of Edinburg",
+   "City of Pharr",
+   "Edinburg Consolidated Independent School District",
+   "Pharr - San Juan - Alamo Independent School District"
+  ],
+  "status": "Filed",
+  "style": "South Texas College, Hidalgo County Drainage District #1, Hidalgo County, South Texas Independent School District, City of McAllen, McAllen Independent School District, City of Edinburg, City of Pharr, Edinburg Consolidated Independent School District, Pharr - San Juan - Alamo Independent School District VS. Torito Carniceria, LLC",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098971"
+ },
+ "5098988": {
+  "any_deceased": false,
+  "case_id": "5098988",
+  "case_number": "T-1274-26-H",
+  "case_type": "Tax Cases (OCA)",
+  "court": "389th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [],
+  "plaintiffs": [
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "Hidalgo County Drainage District # 01",
+   "City of Donna",
+   "Donna Independent School District",
+   "South Texas College"
+  ],
+  "status": "Filed",
+  "style": "Hidalgo County, South Texas Independent School District, Hidalgo County Drainage District # 01, City of Donna, Donna Independent School District, South Texas College VS. Border Distribution Services, LLC",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098988"
+ },
+ "5099005": {
+  "any_deceased": true,
+  "case_id": "5099005",
+  "case_number": "P2-44280",
+  "case_type": "Determination of Heirship (OCA)",
+  "court": "Probate Court #2",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "probate",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "MATTHEW",
+    "last": "SHAW",
+    "middle": "",
+    "raw": "Matthew Shaw"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Matthew ShawDeceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099005"
+ },
+ "5099014": {
+  "any_deceased": true,
+  "case_id": "5099014",
+  "case_number": "P2-44281",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #2",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "probate",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [
+     "NAVARRETE"
+    ],
+    "deceased": true,
+    "first": "MANUEL",
+    "last": "TORRES",
+    "middle": "NAVARRETE",
+    "raw": "Manuel Navarrete Torres"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Manuel Navarrete Torres Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099014"
+ },
+ "5099015": {
+  "any_deceased": false,
+  "case_id": "5099015",
+  "case_number": "F-4059-26-L",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "464th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "divorce",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "MICHELLE",
+    "last": "YANEZ",
+    "middle": "",
+    "raw": "MICHELLE YANEZ"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "RODOLFO",
+    "last": "YANEZ",
+    "middle": "",
+    "raw": "RODOLFO YANEZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF MICHELLE YANEZ VS. RODOLFO YANEZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099015"
+ },
+ "5099021": {
+  "any_deceased": false,
+  "case_id": "5099021",
+  "case_number": "T-1275-26-A",
+  "case_type": "Tax Cases (OCA)",
+  "court": "92nd District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "MAGIC",
+    "last": "GROUP",
+    "middle": "",
+    "raw": "Magic Group"
+   }
+  ],
+  "plaintiffs": [
+   "South Texas College",
+   "Hidalgo County Drainage District #1",
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "City of McAllen",
+   "McAllen Independent School District"
+  ],
+  "status": "Filed",
+  "style": "South Texas College, Hidalgo County Drainage District #1, Hidalgo County, South Texas Independent School District, City of McAllen, McAllen Independent School District VS. Magic Group, LLC D/B/A Royal Enterprises",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099021"
+ },
+ "5099022": {
+  "any_deceased": false,
+  "case_id": "5099022",
+  "case_number": "T-1276-26-M",
+  "case_type": "Tax Cases (OCA)",
+  "court": "476th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [
+   {
+    "alt_lasts": [
+     "AND"
+    ],
+    "deceased": false,
+    "first": "BY",
+    "last": "HOPE",
+    "middle": "FAITH AND",
+    "raw": "By Faith and Hope"
+   }
+  ],
+  "plaintiffs": [
+   "South Texas College",
+   "Hidalgo County Drainage District #1",
+   "Hidalgo County",
+   "South Texas Independent School District",
+   "City of McAllen",
+   "McAllen Independent School District"
+  ],
+  "status": "Filed",
+  "style": "South Texas College, Hidalgo County Drainage District #1, Hidalgo County, South Texas Independent School District, City of McAllen, McAllen Independent School District VS. By Faith and Hope, LLC D/B/A J & L Hair Gallery",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099022"
+ },
+ "5099023": {
+  "any_deceased": false,
+  "case_id": "5099023",
+  "case_number": "F-4060-26-J",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "430th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "divorce",
+  "last_seen": "2026-10-22",
+  "parties": [
+   {
+    "alt_lasts": [
+     "GRANT"
+    ],
+    "deceased": false,
+    "first": "EVA",
+    "last": "CAMPBELL",
+    "middle": "STEPHANIE SANTOS GRANT",
+    "raw": "EVA STEPHANIE SANTOS GRANT CAMPBELL"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRAIGE OF CHARLES EDWARD GRANT, Jr. VS. EVA STEPHANIE SANTOS GRANT CAMPBELL",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099023"
+ },
+ "5099035": {
+  "any_deceased": false,
+  "case_id": "5099035",
+  "case_number": "T-1277-26-H",
+  "case_type": "Tax Cases (OCA)",
+  "court": "389th District Court",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-22",
+  "kind": "tax_suit",
+  "last_seen": "2026-10-22",
+  "open": true,
+  "parties": [],
+  "plaintiffs": [
+   "Hidalgo County",
+   "Progreso Independent School District",
+   "Hidalgo County Drainage District # 01",
+   "South Texas College",
+   "Hidalgo County Emergency Services District # 01",
    "South Texas Independent School District"
   ],
   "status": "Filed",
-  "style": "South Texas College, City of San Juan, Hidalgo County Drainage District # 01, Pharr -San Juan- Alamo Independent School District, Hidalgo County, South Texas Independent School District VS. Alianza Enterprises, Inc., D/B/A Just-A-Cut",
-  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5098835"
+  "style": "Hidalgo County, Progreso Independent School District, Hidalgo County Drainage District # 01, South Texas College, Hidalgo County Emergency Services District # 01, South Texas Independent School District VS. RGV Broker of South Texas, LLC",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099035"
  },
  "520303": {
   "any_deceased": false,

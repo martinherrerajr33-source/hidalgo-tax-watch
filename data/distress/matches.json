@@ -45493,6 +45493,103 @@
   "confidence": "none",
   "tried": "2026-10-22"
  },
+ "court:5098870": {
+  "candidates": [
+   "P3224-00-000-0007-00",
+   "T4100-00-003-0007-04",
+   "B4965-04-000-0371-00",
+   "I2000-02-000-0124-00",
+   "C7500-02-002-0025-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-22"
+ },
+ "court:5098884": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098902": {
+  "candidates": [
+   "C2180-00-000-0034-00",
+   "G5975-02-000-0106-00",
+   "G5975-02-000-0107-00",
+   "G5975-02-000-0108-00",
+   "C9380-00-000-0009-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-22"
+ },
+ "court:5098907": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098917": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098961": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098971": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098988": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5099005": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "E6290-00-000-0028-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "SHAW MATTHEW",
+  "tried": "2026-10-22"
+ },
+ "court:5099014": {
+  "candidates": [
+   "V1800-00-005-0010-00",
+   "W3800-00-412-0000-05",
+   "C4492-00-000-0059-00",
+   "P4401-00-000-0019-00",
+   "R1055-00-000-0043-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-22"
+ },
+ "court:5099015": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5099021": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5099022": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5099023": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5099035": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",

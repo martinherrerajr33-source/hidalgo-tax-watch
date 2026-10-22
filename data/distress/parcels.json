@@ -151749,6 +151749,16 @@
   "pid": "697484",
   "prop_type": "R"
  },
+ "C4492-00-000-0059-00": {
+  "address": "3114 MAGIC AVE",
+  "city": "EDINBURG",
+  "geo_id": "C4492-00-000-0059-00",
+  "legal": "CIRCUS CIRCUS ESTATES 2004 LOT 59",
+  "market_value": 28877.0,
+  "owner": "TORRES MANUEL",
+  "pid": "697491",
+  "prop_type": "R"
+ },
  "C4492-00-000-0060-00": {
   "address": "6225 ADVENTURE AVE",
   "city": "EDINBURG",
@@ -271337,6 +271347,16 @@
   "market_value": 78344.0,
   "owner": "SOTO GERARDO & FABIOLA",
   "pid": "674044",
+  "prop_type": "R"
+ },
+ "E6290-00-000-0028-00": {
+  "address": "11668 MILE 19 RD",
+  "city": "",
+  "geo_id": "E6290-00-000-0028-00",
+  "legal": "ENGELMAN LOT 28",
+  "market_value": 154658.0,
+  "owner": "SHAW MATTHEW JAMES",
+  "pid": "674046",
   "prop_type": "R"
  },
  "E6290-00-000-0030-00": {
@@ -521329,6 +521349,16 @@
   "pid": "672174",
   "prop_type": "R"
  },
+ "L6446-01-000-0157-00": {
+  "address": "20304 LOS VENADOS DR",
+  "city": "EDINBURG",
+  "geo_id": "L6446-01-000-0157-00",
+  "legal": "LOS VENADOS PH 1 'AMENDED' LOT 157",
+  "market_value": 685451.0,
+  "owner": "TORRES MANUEL JR & ANNA E",
+  "pid": "672185",
+  "prop_type": "R"
+ },
  "L6446-01-000-0160-00": {
   "address": "20219 LOS VENADOS DR",
   "city": "EDINBURG",
@@ -537947,6 +537977,16 @@
   "market_value": 168870.0,
   "owner": "MARTINEZ JOSE JR",
   "pid": "230379",
+  "prop_type": "R"
+ },
+ "M2150-00-006-0011-00": {
+  "address": "1104 S 27TH ST",
+  "city": "MCALLEN",
+  "geo_id": "M2150-00-006-0011-00",
+  "legal": "MCALLEN HEIGHTS LOT 11 BLK 6",
+  "market_value": 117973.0,
+  "owner": "TORRES MANUELA",
+  "pid": "230380",
   "prop_type": "R"
  },
  "M2150-00-006-0024-00": {
@@ -633159,6 +633199,16 @@
   "pid": "698770",
   "prop_type": "R"
  },
+ "P4401-00-000-0019-00": {
+  "address": "LOS PALOMOS ST",
+  "city": "",
+  "geo_id": "P4401-00-000-0019-00",
+  "legal": "PASEO DEL ANGEL (AMENDED) LOT 19",
+  "market_value": 68214.0,
+  "owner": "TORRES MANUEL",
+  "pid": "698780",
+  "prop_type": "R"
+ },
  "P4401-00-000-0020-00": {
   "address": "412 LOS PALOMOS ST",
   "city": "",
@@ -691099,6 +691149,16 @@
   "pid": "1180633",
   "prop_type": "R"
  },
+ "R1055-00-000-0043-00": {
+  "address": "7217 ELISA ST",
+  "city": "",
+  "geo_id": "R1055-00-000-0043-00",
+  "legal": "RANCHO EL POTRERO LOT 43",
+  "market_value": 249025.0,
+  "owner": "TORRES MANUEL",
+  "pid": "1180636",
+  "prop_type": "R"
+ },
  "R1055-00-000-0050-00": {
   "address": "ELISA ST",
   "city": "",
@@ -730297,6 +730357,16 @@
   "market_value": 100111.0,
   "owner": "TORRES JESUS",
   "pid": "275177",
+  "prop_type": "R"
+ },
+ "S0800-00-017-0004-00": {
+  "address": "704 ELMA ST",
+  "city": "",
+  "geo_id": "S0800-00-017-0004-00",
+  "legal": "COLONIA SAN JUAN BLK 17 LOT 4",
+  "market_value": 104227.0,
+  "owner": "TORRES MANUEL DE JESUS",
+  "pid": "275179",
   "prop_type": "R"
  },
  "S0800-00-017-0005-00": {
@@ -828639,6 +828709,16 @@
   "pid": "292547",
   "prop_type": "R"
  },
+ "S7280-02-000-0001-00": {
+  "address": "206 REBECCA DR",
+  "city": "EDINBURG",
+  "geo_id": "S7280-02-000-0001-00",
+  "legal": "SUNRISE ESTATES PH 2 LOT 1",
+  "market_value": 143911.0,
+  "owner": "TORRES MANUEL & TERESA OCANA",
+  "pid": "346408",
+  "prop_type": "R"
+ },
  "S7280-02-000-0004-00": {
   "address": "2216 REBECCA DR",
   "city": "EDINBURG",
@@ -838687,6 +838767,16 @@
   "market_value": 47654.0,
   "owner": "QUINTANA JENNIFER SARAHI GONZALEZ",
   "pid": "699701",
+  "prop_type": "R"
+ },
+ "T0945-18-000-0008-00": {
+  "address": "EL MANANTIAL",
+  "city": "",
+  "geo_id": "T0945-18-000-0008-00",
+  "legal": "TAURUS ESTATES NO. 18 LOT 8",
+  "market_value": 84431.0,
+  "owner": "TORRES MANUEL G & ROSA DELIA",
+  "pid": "699707",
   "prop_type": "R"
  },
  "T0945-18-000-0017-00": {
@@ -869267,6 +869357,16 @@
   "market_value": 169038.0,
   "owner": "CANTU ONESIMO JR",
   "pid": "349019",
+  "prop_type": "R"
+ },
+ "T3025-00-000-0031-03": {
+  "address": "3512 JESSICA LN",
+  "city": "",
+  "geo_id": "T3025-00-000-0031-03",
+  "legal": "THE COVES CONDOMINIUM (5TH AMND) UNIT 31-3",
+  "market_value": 146864.0,
+  "owner": "TORRES MANUEL ALEJANDRO",
+  "pid": "20833492",
   "prop_type": "R"
  },
  "T3025-00-000-0034-03": {
@@ -911967,6 +912067,16 @@
   "market_value": 345834.0,
   "owner": "BORJAS JUAN G",
   "pid": "313374",
+  "prop_type": "R"
+ },
+ "V1800-00-005-0010-00": {
+  "address": "1012 W 4TH ST",
+  "city": "WESLACO",
+  "geo_id": "V1800-00-005-0010-00",
+  "legal": "VALLEY VIEW HEIGHTS UT NO. 2 BLK 5 LOT 10",
+  "market_value": 138628.0,
+  "owner": "TORRES MANUEL",
+  "pid": "313378",
   "prop_type": "R"
  },
  "V1800-00-005-0016-00": {
@@ -981697,6 +981807,16 @@
   "market_value": 941600.0,
   "owner": "GUERRA RENE",
   "pid": "325615",
+  "prop_type": "R"
+ },
+ "W3800-00-412-0000-05": {
+  "address": "N FM 88",
+  "city": "",
+  "geo_id": "W3800-00-412-0000-05",
+  "legal": "WEST TRACT N 144'-S 456'-E 650' FT 412 2.15AC GR 2.05AC NET",
+  "market_value": 196480.0,
+  "owner": "TORRES MANUEL",
+  "pid": "325617",
   "prop_type": "R"
  },
  "W3800-00-412-0000-06": {
