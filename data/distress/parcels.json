@@ -93899,6 +93899,16 @@
   "pid": "1131722",
   "prop_type": "MH"
  },
+ "B3677-00-000-0002-00": {
+  "address": "94 ASHLYN ST",
+  "city": "",
+  "geo_id": "B3677-00-000-0002-00",
+  "legal": "BORDER HEIGHTS LOT 2",
+  "market_value": 139285.0,
+  "owner": "VILLAREAL JOSE G & IDALIA G",
+  "pid": "593693",
+  "prop_type": "R"
+ },
  "B3677-00-000-0003-00": {
   "address": "90 ASHLYN ST",
   "city": "",
@@ -180287,6 +180297,16 @@
   "market_value": 31048.0,
   "owner": "GARZA ISMAEL & YOLANDA",
   "pid": "153274",
+  "prop_type": "R"
+ },
+ "C7655-00-000-0025-00": {
+  "address": "410 W 10TH ST",
+  "city": "SULLIVAN CITY",
+  "geo_id": "C7655-00-000-0025-00",
+  "legal": "COLONIA RAFAEL LOT 25",
+  "market_value": 112170.0,
+  "owner": "MENDOZA ARMANDO & MARTHA S",
+  "pid": "153282",
   "prop_type": "R"
  },
  "C7655-00-000-0040-00": {
@@ -347499,6 +347519,16 @@
   "pid": "1472132",
   "prop_type": "R"
  },
+ "H1966-02-000-0145-00": {
+  "address": "4121 S CARTER AVE",
+  "city": "EDINBURG",
+  "geo_id": "H1966-02-000-0145-00",
+  "legal": "HEIGHTS ON TRENTON PH 2 LOT 145",
+  "market_value": 317309.0,
+  "owner": "MENDOZA ARMANDO SANCHEZ",
+  "pid": "1472136",
+  "prop_type": "R"
+ },
  "H1966-02-000-0151-00": {
   "address": "3509 E BARKLEY ST",
   "city": "EDINBURG",
@@ -377369,6 +377399,16 @@
   "pid": "194747",
   "prop_type": "R"
  },
+ "H4250-04-033-0006-03": {
+  "address": "TOM GILL RD",
+  "city": "",
+  "geo_id": "H4250-04-033-0006-03",
+  "legal": "HOMEVILLE ASSOCIATION D S382.52'-W80'-E489.18' LOT 6 BLK 33 4.29AC",
+  "market_value": 100714.0,
+  "owner": "VILLAREAL JOSE LUIS CHAVANA",
+  "pid": "588425",
+  "prop_type": "R"
+ },
  "H4250-04-033-0006-04": {
   "address": "1411 FOLLOW LN",
   "city": "",
@@ -378768,6 +378808,16 @@
   "owner": "GARCIA MARIA DOLORES",
   "pid": "659306",
   "prop_type": "R"
+ },
+ "H4841-97-000-0004-03": {
+  "address": "709 N GLASSCOCK RD",
+  "city": "MISSION",
+  "geo_id": "H4841-97-000-0004-03",
+  "legal": "HORSESHOE ACRES MOBILE PARK, SPACE 4 16X76 STONEBROOK, SERIAL # 12325794, LABEL # PFS0461837/ NEW ACCT 2013",
+  "market_value": 16912.0,
+  "owner": "VILLAREAL JOSE ALFREDO",
+  "pid": "1182770",
+  "prop_type": "MH"
  },
  "H4841-97-000-0011-01": {
   "address": "709 N GLASSCOCK RD",
@@ -429019,6 +429069,16 @@
   "pid": "543280",
   "prop_type": "R"
  },
+ "L0851-00-000-0033-00": {
+  "address": "2602 SAN MANUEL ST",
+  "city": "EDINBURG",
+  "geo_id": "L0851-00-000-0033-00",
+  "legal": "LA ESTANCIA LOT 33",
+  "market_value": 202053.0,
+  "owner": "MENDOZA ARMANDO GONZALEZ",
+  "pid": "543287",
+  "prop_type": "R"
+ },
  "L0851-00-000-0042-00": {
   "address": "2510 SAN GABRIEL ST",
   "city": "EDINBURG",
@@ -462617,6 +462677,16 @@
   "market_value": 75291.0,
   "owner": "PEREZ JOSE ANTONIIO RAMOS & JOSEFINA ALANIS DE RAMOS",
   "pid": "1562836",
+  "prop_type": "R"
+ },
+ "L2848-00-000-0065-00": {
+  "address": "1102 MAGNOLIA ST",
+  "city": "MISSION",
+  "geo_id": "L2848-00-000-0065-00",
+  "legal": "LANTANA LANDING LOT 65",
+  "market_value": 321460.0,
+  "owner": "MENDOZA ARMANDO JR",
+  "pid": "1562851",
   "prop_type": "R"
  },
  "L2848-00-000-0079-00": {
@@ -557399,6 +557469,16 @@
   "pid": "1309857",
   "prop_type": "R"
  },
+ "M4820-00-002-0048-00": {
+  "address": "1305 PLAYA DR",
+  "city": "",
+  "geo_id": "M4820-00-002-0048-00",
+  "legal": "MIRA VISTA LOT 48 BLK 2",
+  "market_value": 247958.0,
+  "owner": "MONSEBAIS MANUEL & JASMINE DIAMANTE",
+  "pid": "1309860",
+  "prop_type": "R"
+ },
  "M4820-00-002-0049-00": {
   "address": "1306 FRENTE AL MAR DR",
   "city": "",
@@ -608449,6 +608529,16 @@
   "pid": "250156",
   "prop_type": "R"
  },
+ "O0200-00-004-0011-00": {
+  "address": "402 J ST",
+  "city": "",
+  "geo_id": "O0200-00-004-0011-00",
+  "legal": "O & J BLK 4 LOT 11",
+  "market_value": 221819.0,
+  "owner": "MENDOZA ARMANDO",
+  "pid": "250157",
+  "prop_type": "R"
+ },
  "O0200-00-004-0029-00": {
   "address": "203 R ST",
   "city": "",
@@ -617707,6 +617797,16 @@
   "market_value": 334453.0,
   "owner": "RIVERA SERGIO V & PERLA R",
   "pid": "901835",
+  "prop_type": "R"
+ },
+ "O6900-00-017-0003-00": {
+  "address": "904 W JOHNNY VELA ST",
+  "city": "PROGRESO",
+  "geo_id": "O6900-00-017-0003-00",
+  "legal": "ORCHARD HOMES LOT 3,4 BLK 17",
+  "market_value": 232139.0,
+  "owner": "MENDOZA ARMANDO & OLIVIA MENDOZA",
+  "pid": "252421",
   "prop_type": "R"
  },
  "O6900-00-017-0010-00": {
@@ -666607,6 +666707,16 @@
   "market_value": 80176.0,
   "owner": "SOLIS JAVIER",
   "pid": "958524",
+  "prop_type": "R"
+ },
+ "P9276-03-000-0260-00": {
+  "address": "BRITTNEY ST",
+  "city": "",
+  "geo_id": "P9276-03-000-0260-00",
+  "legal": "PUEBLO DE PALMAS AT MILE 4 PH 3 LOT 260",
+  "market_value": 151162.0,
+  "owner": "MENDOZA ARMANDO JR",
+  "pid": "958525",
   "prop_type": "R"
  },
  "P9276-03-000-0262-00": {
@@ -731117,6 +731227,16 @@
   "market_value": 13443.0,
   "owner": "GONZALEZ JOSE M",
   "pid": "960460",
+  "prop_type": "MH"
+ },
+ "S0870-97-00D-013A-08": {
+  "address": "900 E US HWY 83",
+  "city": "SAN JUAN",
+  "geo_id": "S0870-97-00D-013A-08",
+  "legal": "SAN JUAN GARDENS PARK,SPACE D-13A 14X40 MANATEE, LABEL# TEX0121644, SERIAL# 2001550500/ NEW ACCT 2024",
+  "market_value": 14229.0,
+  "owner": "VILLAREAL JOSEFINA G",
+  "pid": "1566132",
   "prop_type": "MH"
  },
  "S0870-97-00G-0004-04": {

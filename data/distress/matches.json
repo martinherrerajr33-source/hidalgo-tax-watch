@@ -45433,6 +45433,66 @@
   "confidence": "none",
   "tried": "2026-10-21"
  },
+ "court:5098420": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "M4820-00-002-0048-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "MONSEBAIS MANUEL",
+  "tried": "2026-10-22"
+ },
+ "court:5098442": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "B3677-00-000-0002-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "VILLAREAL JOSE",
+  "tried": "2026-10-22"
+ },
+ "court:5098446": {
+  "candidates": [
+   "O0200-00-004-0011-00",
+   "C7655-00-000-0025-00",
+   "O6900-00-017-0003-00",
+   "N1200-01-000-0060-30",
+   "L0851-00-000-0033-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-22"
+ },
+ "court:5098700": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098821": {
+  "candidates": [
+   "R4700-00-006-0016-00",
+   "C1624-00-000-0026-00",
+   "T6353-00-000-0057-00",
+   "H1850-00-179-0010-00",
+   "S2150-00-002-0007-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-22"
+ },
+ "court:5098831": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098833": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
+ "court:5098835": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-22"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",
