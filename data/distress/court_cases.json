@@ -137910,14 +137910,14 @@
   "open": true,
   "parties": [],
   "plaintiffs": [
-   "Hidalgo County Drainage District # 01",
+   "Hidalgo County",
    "Edinburg Consolidated Independent School District",
-   "South Texas Independent School District",
    "South Texas College",
-   "Hidalgo County"
+   "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District"
   ],
   "status": "Filed",
-  "style": "Hidalgo County Drainage District # 01, Edinburg Consolidated Independent School District, South Texas Independent School District, South Texas College, Hidalgo County VS. R & Y Laundromat LLC",
+  "style": "Hidalgo County, Edinburg Consolidated Independent School District, South Texas College, Hidalgo County Drainage District # 01, South Texas Independent School District VS. R & Y Laundromat LLC",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099122"
  },
  "5099123": {
@@ -137944,15 +137944,15 @@
    }
   ],
   "plaintiffs": [
-   "Hidalgo County Drainage District # 01",
-   "South Texas Independent School District",
    "Hidalgo County",
-   "South Texas College",
    "City of Edinburg",
-   "Edinburg Consolidated Independent School District"
+   "Edinburg Consolidated Independent School District",
+   "South Texas College",
+   "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District"
   ],
   "status": "Filed",
-  "style": "Hidalgo County Drainage District # 01, South Texas Independent School District, Hidalgo County, South Texas College, City of Edinburg, Edinburg Consolidated Independent School District VS. Recuerdos Adult Daycare, LLC",
+  "style": "Hidalgo County, City of Edinburg, Edinburg Consolidated Independent School District, South Texas College, Hidalgo County Drainage District # 01, South Texas Independent School District VS. Recuerdos Adult Daycare, LLC",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099123"
  },
  "5099128": {
@@ -137979,16 +137979,16 @@
    }
   ],
   "plaintiffs": [
-   "City of Edinburg",
-   "Hidalgo County Drainage District # 01",
-   "South Texas College",
-   "South Texas Independent School District",
    "Hidalgo County",
+   "City of Edinburg",
    "Edinburg Consolidated Independent School District",
-   "Hidalgo County Emergency Services District # 03"
+   "South Texas College",
+   "Hidalgo County Drainage District # 01",
+   "Hidalgo County Emergency Services District # 03",
+   "South Texas Independent School District"
   ],
   "status": "Filed",
-  "style": "City of Edinburg, Hidalgo County Drainage District # 01, South Texas College, South Texas Independent School District, Hidalgo County, Edinburg Consolidated Independent School District, Hidalgo County Emergency Services District # 03 VS. Stephanie Rose Zuniga",
+  "style": "Hidalgo County, City of Edinburg, Edinburg Consolidated Independent School District, South Texas College, Hidalgo County Drainage District # 01, Hidalgo County Emergency Services District # 03, South Texas Independent School District VS. Stephanie Rose Zuniga",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099128"
  },
  "5099130": {
@@ -138576,21 +138576,31 @@
     "last": "SALINAS",
     "middle": "",
     "raw": "Nery Salinas"
+   },
+   {
+    "alt_lasts": [
+     "ALANIZ"
+    ],
+    "deceased": false,
+    "first": "HECTOR",
+    "last": "AMARO",
+    "middle": "JAVIER ALANIZ",
+    "raw": "Hector Javier Alaniz Amaro"
    }
   ],
   "plaintiffs": [
    "Hidalgo County Drainage District # 01",
+   "South Texas Independent School District",
+   "Mission Consolidated Independent School District",
+   "Hidalgo County",
+   "South Texas College",
    "City of Mission",
    "La Joya Independent School District",
    "Hidalgo County Emergency Services District # 05",
-   "South Texas College",
-   "Mission Consolidated Independent School District",
-   "Hidalgo County",
-   "South Texas Independent School District",
    "Hidalgo County Emergency Services District # 06"
   ],
   "status": "Filed",
-  "style": "Hidalgo County Drainage District # 01, City of Mission, La Joya Independent School District, Hidalgo County Emergency Services District # 05, South Texas College, Mission Consolidated Independent School District, Hidalgo County, South Texas Independent School District, Hidalgo County Emergency Services District # 06 VS. Nery Salinas, a/k/a Nery Orlando Salinas",
+  "style": "Hidalgo County Drainage District # 01, South Texas Independent School District, Mission Consolidated Independent School District, Hidalgo County, South Texas College, City of Mission, La Joya Independent School District, Hidalgo County Emergency Services District # 05, Hidalgo County Emergency Services District # 06 VS. Nery Salinas, a/k/a Nery Orlando Salinas, Hector Javier Alaniz Amaro",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099458"
  },
  "5099509": {
@@ -138673,6 +138683,254 @@
   "status": "Filed",
   "style": "Hidalgo County, Mission Consolidated Independent School District, South Texas College, Hidalgo County Drainage District # 01, South Texas Independent School District, City of Mission VS. Ricardo Hinojosa",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099510"
+ },
+ "5099552": {
+  "any_deceased": true,
+  "case_id": "5099552",
+  "case_number": "P2-44283",
+  "case_type": "Probate of Will - Independent (OCA)",
+  "court": "Probate Court #2",
+  "filed": "10/22/2026",
+  "first_seen": "2026-10-23",
+  "kind": "probate",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [
+     "VAZQUEZ"
+    ],
+    "deceased": true,
+    "first": "JORGE",
+    "last": "ANCONA",
+    "middle": "VAZQUEZ",
+    "raw": "Jorge Vazquez Ancona"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Jorge Vazquez Ancona, Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099552"
+ },
+ "5099595": {
+  "any_deceased": false,
+  "case_id": "5099595",
+  "case_number": "F-4067-26-B",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "93rd District Court",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "divorce",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "GIGLIOLA",
+    "last": "SANCHEZ",
+    "middle": "",
+    "raw": "GIGLIOLA SANCHEZ"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "HECTOR",
+    "last": "CEDILLO",
+    "middle": "",
+    "raw": "HECTOR CEDILLO"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF GIGLIOLA SANCHEZ VS. HECTOR CEDILLO",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099595"
+ },
+ "5099716": {
+  "any_deceased": false,
+  "case_id": "5099716",
+  "case_number": "F-4068-26-H",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "389th District Court",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "divorce",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "ADRIANA",
+    "last": "RODRIGUEZ",
+    "middle": "",
+    "raw": "ADRIANA RODRIGUEZ"
+   },
+   {
+    "alt_lasts": [
+     "RODRIGUEZ"
+    ],
+    "deceased": false,
+    "first": "AARON",
+    "last": "HERNANDEZ",
+    "middle": "RODRIGUEZ",
+    "raw": "AARON RODRIGUEZ HERNANDEZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF ADRIANA RODRIGUEZ AND AARON RODRIGUEZ HERNANDEZ",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099716"
+ },
+ "5099735": {
+  "any_deceased": true,
+  "case_id": "5099735",
+  "case_number": "P1-44284",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "probate",
+  "last_seen": "2026-10-23",
+  "parties": [],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of William Joseph Gonzalez, III Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099735"
+ },
+ "5099745": {
+  "any_deceased": false,
+  "case_id": "5099745",
+  "case_number": "F-4069-26-I",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "398th District Court",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "divorce",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [
+     "URDANETA"
+    ],
+    "deceased": false,
+    "first": "DILIBER",
+    "last": "CAMACHO",
+    "middle": "MARIA URDANETA",
+    "raw": "DILIBER MARIA URDANETA CAMACHO"
+   },
+   {
+    "alt_lasts": [
+     "GALUE"
+    ],
+    "deceased": false,
+    "first": "LANDER",
+    "last": "FUENMAYOR",
+    "middle": "JAVIER GALUE",
+    "raw": "LANDER JAVIER GALUE FUENMAYOR"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF DILIBER MARIA URDANETA CAMACHO AND LANDER JAVIER GALUE FUENMAYOR",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099745"
+ },
+ "5099778": {
+  "any_deceased": true,
+  "case_id": "5099778",
+  "case_number": "P1-44285",
+  "case_type": "Probate of Will - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "probate",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [
+     "LLYOD"
+    ],
+    "deceased": true,
+    "first": "DONALD",
+    "last": "CHARRON",
+    "middle": "LLYOD",
+    "raw": "DONALD LLYOD CHARRON"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of DONALD LLYOD CHARRON, Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099778"
+ },
+ "5099880": {
+  "any_deceased": false,
+  "case_id": "5099880",
+  "case_number": "F-4072-26-6",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #6",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "divorce",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [
+     "BERNABE"
+    ],
+    "deceased": false,
+    "first": "IN",
+    "last": "LOPEZ",
+    "middle": "THE MATTER OF THE MARRAIGE OF CIRPIANO BERNABE",
+    "raw": "IN THE MATTER OF THE MARRAIGE OF CIRPIANO BERNABE LOPEZ"
+   },
+   {
+    "alt_lasts": [
+     "LA",
+     "LA GARZA"
+    ],
+    "deceased": false,
+    "first": "NORMA",
+    "last": "GARZA",
+    "middle": "DE LA",
+    "raw": "NORMA DE LA GARZA"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRAIGE OF CIRPIANO BERNABE LOPEZ VS. NORMA DE LA GARZA",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099880"
+ },
+ "5099904": {
+  "any_deceased": false,
+  "case_id": "5099904",
+  "case_number": "F-4074-26-D",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "206th District Court",
+  "filed": "10/23/2026",
+  "first_seen": "2026-10-23",
+  "kind": "divorce",
+  "last_seen": "2026-10-23",
+  "parties": [
+   {
+    "alt_lasts": [
+     "ANGELES"
+    ],
+    "deceased": false,
+    "first": "MARIA",
+    "last": "LUJAN",
+    "middle": "DE LOS ANGELES",
+    "raw": "MARIA DE LOS ANGELES LUJAN"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "RICARDO",
+    "last": "LUJAN",
+    "middle": "",
+    "raw": "RICARDO III LUJAN"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF MARIA DE LOS ANGELES LUJAN VS. RICARDO III LUJAN",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5099904"
  },
  "520303": {
   "any_deceased": false,
