@@ -18019,6 +18019,16 @@
   "pid": "109429",
   "prop_type": "R"
  },
+ "A1200-00-000-0022-00": {
+  "address": "183 E 17TH ST",
+  "city": "",
+  "geo_id": "A1200-00-000-0022-00",
+  "legal": "AFTON PLACE LOTS 22 & 23",
+  "market_value": 248006.0,
+  "owner": "HINOJOSA RICARDO A & ROLANDO J",
+  "pid": "109434",
+  "prop_type": "R"
+ },
  "A1200-00-000-0025-00": {
   "address": "153 E 17TH ST",
   "city": "",
@@ -52799,6 +52809,16 @@
   "pid": "117396",
   "prop_type": "R"
  },
+ "A3100-00-009-0002-00": {
+  "address": "617 GRANJENO AVE",
+  "city": "MISSION",
+  "geo_id": "A3100-00-009-0002-00",
+  "legal": "ALTA VISTA LOTS 2 & 3 BLK 9",
+  "market_value": 118272.0,
+  "owner": "VITAL BENITO RAMIREZ ET AL",
+  "pid": "117399",
+  "prop_type": "R"
+ },
  "A3100-00-009-0004-00": {
   "address": "613 GRANJENO AVE",
   "city": "MISSION",
@@ -78617,6 +78637,16 @@
   "market_value": 162568.0,
   "owner": "DE LA CRUZ MARIA",
   "pid": "122584",
+  "prop_type": "R"
+ },
+ "B1900-02-000-0009-00": {
+  "address": "4201 RENE AVE",
+  "city": "MISSION",
+  "geo_id": "B1900-02-000-0009-00",
+  "legal": "BASHAM NO. 2 LOT 9",
+  "market_value": 162041.0,
+  "owner": "SALINAS NERY",
+  "pid": "122585",
   "prop_type": "R"
  },
  "B1900-03-000-0001-00": {
@@ -147339,6 +147369,16 @@
   "pid": "134623",
   "prop_type": "R"
  },
+ "C4040-00-000-0056-00": {
+  "address": "1211 W 23RD ST",
+  "city": "MISSION",
+  "geo_id": "C4040-00-000-0056-00",
+  "legal": "CHAPARRAL TERRACE LOT 56",
+  "market_value": 178995.0,
+  "owner": "CARRASCO YESENIA",
+  "pid": "134626",
+  "prop_type": "R"
+ },
  "C4040-00-000-0059-00": {
   "address": "1205 W 23RD ST",
   "city": "MISSION",
@@ -182077,6 +182117,16 @@
   "market_value": 112850.0,
   "owner": "GARCIA MARIA DOLORES",
   "pid": "958226",
+  "prop_type": "R"
+ },
+ "C7886-02-000-0041-00": {
+  "address": "4415 HARMONY LN",
+  "city": "EDINBURG",
+  "geo_id": "C7886-02-000-0041-00",
+  "legal": "CONCHO HEIGHTS UT 2 LOT 41",
+  "market_value": 115082.0,
+  "owner": "ZUNIGA STEPHANIE ROSE",
+  "pid": "958227",
   "prop_type": "R"
  },
  "C7886-02-000-0044-00": {
@@ -223069,6 +223119,16 @@
   "pid": "513599",
   "prop_type": "R"
  },
+ "E1700-02-000-0011-00": {
+  "address": "200 W EAGLE ST",
+  "city": "SAN JUAN",
+  "geo_id": "E1700-02-000-0011-00",
+  "legal": "EBANO HEIGHT PH 2 LOT 11",
+  "market_value": 166477.0,
+  "owner": "HINOJOSA RICARDO & VIRGINIA A CARDOSO",
+  "pid": "513601",
+  "prop_type": "R"
+ },
  "E1700-02-000-0012-00": {
   "address": "202 W EAGLE ST",
   "city": "SAN JUAN",
@@ -255497,6 +255557,16 @@
   "market_value": 162409.0,
   "owner": "FLORES MOISES & GLORIA",
   "pid": "167617",
+  "prop_type": "R"
+ },
+ "E4680-04-002-0009-00": {
+  "address": "833 E RIDGELAND AVE",
+  "city": "",
+  "geo_id": "E4680-04-002-0009-00",
+  "legal": "EL RANCHO SANTA CRUZ PH 4 LOT 9 BLK 2",
+  "market_value": 130358.0,
+  "owner": "MENDOZA ROLANDO & BELINDA",
+  "pid": "167618",
   "prop_type": "R"
  },
  "E4680-04-002-0011-00": {
@@ -299929,6 +299999,16 @@
   "pid": "651763",
   "prop_type": "R"
  },
+ "F7665-01-000-0047-00": {
+  "address": "7307 ITURBIDE ST",
+  "city": "",
+  "geo_id": "F7665-01-000-0047-00",
+  "legal": "FRONTERA HEIGHTS EAST PH 1 LOT 47",
+  "market_value": 146221.0,
+  "owner": "LUNA DELFINA LEAL",
+  "pid": "651767",
+  "prop_type": "R"
+ },
  "F7665-02-000-0008-00": {
   "address": "8004 ITURBIDE ST",
   "city": "",
@@ -305407,6 +305487,16 @@
   "market_value": 214000.0,
   "owner": "FLORES EDUARDO",
   "pid": "531486",
+  "prop_type": "R"
+ },
+ "G1200-22-000-0058-00": {
+  "address": "3009 FALCON AVE",
+  "city": "",
+  "geo_id": "G1200-22-000-0058-00",
+  "legal": "GARDENIA TERRACE NO. 22 LOT 58",
+  "market_value": 230371.0,
+  "owner": "HINOJOSA RICARDO & SAN JUANITA O",
+  "pid": "531497",
   "prop_type": "R"
  },
  "G1200-22-000-0061-00": {
@@ -340599,6 +340689,16 @@
   "pid": "186452",
   "prop_type": "R"
  },
+ "H0950-00-001-0009-00": {
+  "address": "709 N 7TH ST",
+  "city": "MCALLEN",
+  "geo_id": "H0950-00-001-0009-00",
+  "legal": "HAMPSHIRE HOMES LOT 9 BLK 1",
+  "market_value": 216599.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "186453",
+  "prop_type": "R"
+ },
  "H0950-00-001-0011-00": {
   "address": "719 N 7TH ST",
   "city": "MCALLEN",
@@ -349727,6 +349827,16 @@
   "market_value": 112941.0,
   "owner": "HERNANDEZ ROGELIO & ANET GARCIA AKA ANET HERNANDEZ",
   "pid": "705678",
+  "prop_type": "R"
+ },
+ "H2400-00-000-0002-00": {
+  "address": "937 N LOS EBANOS RD",
+  "city": "",
+  "geo_id": "H2400-00-000-0002-00",
+  "legal": "C.H. HERNANDEZ LOT 2",
+  "market_value": 191995.0,
+  "owner": "ALVARADO ABIGAIL & MARIA DE LA LUZ TREVINO",
+  "pid": "188911",
   "prop_type": "R"
  },
  "H2410-00-000-0001-00": {
@@ -374889,6 +374999,26 @@
   "pid": "547928",
   "prop_type": "R"
  },
+ "H3750-00-000-0005-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "H3750-00-000-0005-00",
+  "legal": "HINOJOSA F G N980.20' SHR 5 59.138 AC GR",
+  "market_value": 464233.0,
+  "owner": "HINOJOSA RICARDO NOE JR IND ADMIN",
+  "pid": "193476",
+  "prop_type": "R"
+ },
+ "H3750-00-000-0005-05": {
+  "address": "N PUERTO RICO RD",
+  "city": "",
+  "geo_id": "H3750-00-000-0005-05",
+  "legal": "HINOJOSA, F G S1647.04' SHR 5 98.08AC NET",
+  "market_value": 670403.0,
+  "owner": "HINOJOSA RICARDO N",
+  "pid": "637875",
+  "prop_type": "R"
+ },
  "H3765-00-000-0002-00": {
   "address": "700 VENTURA ST",
   "city": "PHARR",
@@ -390599,6 +390729,16 @@
   "pid": "343510",
   "prop_type": "R"
  },
+ "J1500-00-054-0050-10": {
+  "address": "4466 RANCHO TOLUCA RD",
+  "city": "",
+  "geo_id": "J1500-00-054-0050-10",
+  "legal": "J J Y DE BALLI, ABST 54 OF SHARE 5 & 6 LLANO GR GRANT 0.954 AC",
+  "market_value": 97871.0,
+  "owner": "HINOJOSA RICARDO & CELIA",
+  "pid": "198444",
+  "prop_type": "R"
+ },
  "J1500-00-054-046A-10": {
   "address": "MILITARY HWY",
   "city": "",
@@ -406067,6 +406207,16 @@
   "market_value": 178089.0,
   "owner": "PEREZ JOSE SANTOS & CRISTINA M",
   "pid": "201384",
+  "prop_type": "R"
+ },
+ "K0600-02-005-0011-00": {
+  "address": "1811 S BRIDGE AVE",
+  "city": "WESLACO",
+  "geo_id": "K0600-02-005-0011-00",
+  "legal": "KATHLEEN PARK UT NO. 2 LOT 11 BLK 5",
+  "market_value": 205498.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "201385",
   "prop_type": "R"
  },
  "K0600-02-005-0014-00": {
@@ -556249,6 +556399,16 @@
   "pid": "901878",
   "prop_type": "R"
  },
+ "M4731-00-000-0017-00": {
+  "address": "426 LA QUINTA LANE",
+  "city": "",
+  "geo_id": "M4731-00-000-0017-00",
+  "legal": "MIRAGE RANCHES LOT 17",
+  "market_value": 129026.0,
+  "owner": "LUNA DELILAH",
+  "pid": "901881",
+  "prop_type": "R"
+ },
  "M4731-00-000-0019-00": {
   "address": "LA QUINTA LANE",
   "city": "",
@@ -563069,6 +563229,26 @@
   "pid": "239682",
   "prop_type": "R"
  },
+ "M5200-00-157-0006-00": {
+  "address": "W 9TH ST",
+  "city": "",
+  "geo_id": "M5200-00-157-0006-00",
+  "legal": "MISSION ORIGINAL TOWNSITE LOTS 6 - 7 - 8 BLK 157",
+  "market_value": 86343.0,
+  "owner": "MENDOZA ROLANDO",
+  "pid": "239683",
+  "prop_type": "R"
+ },
+ "M5200-00-157-0009-00": {
+  "address": "W 9TH ST",
+  "city": "",
+  "geo_id": "M5200-00-157-0009-00",
+  "legal": "MISSION ORIGINAL TOWNSITE LOT 9 BLK 157",
+  "market_value": 102222.0,
+  "owner": "MENDOZA ROLANDO",
+  "pid": "239684",
+  "prop_type": "R"
+ },
  "M5200-00-157-0012-00": {
   "address": "306 W TOM LANDRY ST",
   "city": "MISSION",
@@ -564787,6 +564967,16 @@
   "market_value": 137605.0,
   "owner": "GARZA EDUARDO JR",
   "pid": "240970",
+  "prop_type": "R"
+ },
+ "M5300-00-001-0054-01": {
+  "address": "511 OREGON AVE",
+  "city": "WESLACO",
+  "geo_id": "M5300-00-001-0054-01",
+  "legal": "MISTLETOE PARK N35' LOT 53 & S5' LOT 54",
+  "market_value": 46800.0,
+  "owner": "HINOJOSA RICARDO & RANDALL RICHARD HINOJOSA",
+  "pid": "240985",
   "prop_type": "R"
  },
  "M5329-00-000-0004-00": {
@@ -575957,6 +576147,16 @@
   "market_value": 193876.0,
   "owner": "MARTINEZ MARIA DEL CARMEN",
   "pid": "244062",
+  "prop_type": "R"
+ },
+ "M6900-02-000-0014-00": {
+  "address": "1904 S 26TH ST",
+  "city": "MCALLEN",
+  "geo_id": "M6900-02-000-0014-00",
+  "legal": "MORRIS UT NO. 2 LOT 14",
+  "market_value": 219836.0,
+  "owner": "SALINAS NERY MIROSLAVA",
+  "pid": "244064",
   "prop_type": "R"
  },
  "M6900-02-000-0018-00": {
@@ -598209,6 +598409,16 @@
   "pid": "247607",
   "prop_type": "R"
  },
+ "N5200-00-002-0006-00": {
+  "address": "1115 REDBUD AVE",
+  "city": "MCALLEN",
+  "geo_id": "N5200-00-002-0006-00",
+  "legal": "NORTH MAIN PLACE TOWNHOUSES S85.15'-LOT 6 BLK 2",
+  "market_value": 173258.0,
+  "owner": "HINOJOSA RICARDO M JR",
+  "pid": "247643",
+  "prop_type": "R"
+ },
  "N5200-00-002-0007-00": {
   "address": "1113 REDBUD AVE",
   "city": "MCALLEN",
@@ -610477,6 +610687,16 @@
   "market_value": 209308.0,
   "owner": "LOPEZ JUANITA",
   "pid": "658761",
+  "prop_type": "R"
+ },
+ "O0630-00-000-0018-00": {
+  "address": "1636 OAK RIDGE DR",
+  "city": "",
+  "geo_id": "O0630-00-000-0018-00",
+  "legal": "OAK RIDGE LOTS 18 & 19",
+  "market_value": 318107.0,
+  "owner": "HINOJOSA RICARDO A & DALILA L",
+  "pid": "658764",
   "prop_type": "R"
  },
  "O0640-00-000-0012-00": {
@@ -668769,6 +668989,16 @@
   "pid": "727022",
   "prop_type": "R"
  },
+ "P9277-09-000-0800-00": {
+  "address": "CIRCLT 6 ST NORTH",
+  "city": "",
+  "geo_id": "P9277-09-000-0800-00",
+  "legal": "PUEBLO DE PALMAS PH 9 LOT 800",
+  "market_value": 151899.0,
+  "owner": "SALINAS NERY & HECTOR J ALANIZ AMARO",
+  "pid": "727025",
+  "prop_type": "R"
+ },
  "P9277-09-000-0801-00": {
   "address": "CIRCLE 6TH ST NORTH",
   "city": "",
@@ -671807,6 +672037,26 @@
   "market_value": 126000.0,
   "owner": "GARZA OSCAR JAVIER",
   "pid": "519726",
+  "prop_type": "R"
+ },
+ "P9280-02-000-0046-00": {
+  "address": "309 E 27TH ST",
+  "city": "MISSION",
+  "geo_id": "P9280-02-000-0046-00",
+  "legal": "PUEBLO DEL NORTE PH 2 LOT 46",
+  "market_value": 130477.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "519740",
+  "prop_type": "R"
+ },
+ "P9280-02-000-0047-00": {
+  "address": "307 E 27TH ST",
+  "city": "MISSION",
+  "geo_id": "P9280-02-000-0047-00",
+  "legal": "PUEBLO DEL NORTE PH 2 LOT 47",
+  "market_value": 253929.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "519741",
   "prop_type": "R"
  },
  "P9280-02-000-0052-00": {
@@ -676077,6 +676327,16 @@
   "market_value": 270000.0,
   "owner": "HERNANDEZ JAIME & LORENA O",
   "pid": "264063",
+  "prop_type": "R"
+ },
+ "Q1000-02-000-0108-00": {
+  "address": "1509 HAWK AVE",
+  "city": "MCALLEN",
+  "geo_id": "Q1000-02-000-0108-00",
+  "legal": "QUAIL RUN PH 2 LOT 108",
+  "market_value": 233181.0,
+  "owner": "HINOJOSA RICARDO D & DEBORAH K",
+  "pid": "264064",
   "prop_type": "R"
  },
  "Q1000-02-000-0109-00": {
@@ -741979,6 +742239,26 @@
   "pid": "276964",
   "prop_type": "R"
  },
+ "S1150-00-006-0000-02": {
+  "address": "FM 681",
+  "city": "",
+  "geo_id": "S1150-00-006-0000-02",
+  "legal": "SAN RAMON GRANT TR 1 129.35AC SH 3 & 4 R/S SH 6, 16A & 12A 129.35AC NET",
+  "market_value": 517715.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "276974",
+  "prop_type": "R"
+ },
+ "S1150-00-006-0000-03": {
+  "address": "FM 681",
+  "city": "",
+  "geo_id": "S1150-00-006-0000-03",
+  "legal": "SAN RAMON GRANT TR 2 128.52AC SH 3 & 4 R/S SH 6, 16A & 12A 128.52AC NET",
+  "market_value": 514080.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "276975",
+  "prop_type": "R"
+ },
  "S1150-00-006-0000-06": {
   "address": "FM 681",
   "city": "",
@@ -741995,7 +742275,7 @@
   "geo_id": "S1150-00-006-0000-10",
   "legal": "SAN RAMON GRANT TR B 13.08AC 9.72AC- PUBLIC RDS-SH 3 & 4 R/S SH 6 16A & 12A 22.80AC GR 13.08 NET",
   "market_value": 12426.0,
-  "owner": "HINOJOSA GUMARO (DEC)",
+  "owner": "HINOJOSA RICARDO",
   "pid": "791427",
   "prop_type": "R"
  },
@@ -742017,6 +742297,16 @@
   "market_value": 427560.0,
   "owner": "GARCIA JORGE LUIS",
   "pid": "276984",
+  "prop_type": "R"
+ },
+ "S1150-00-006-0000-32": {
+  "address": "FM 681",
+  "city": "",
+  "geo_id": "S1150-00-006-0000-32",
+  "legal": "SAN RAMON GRANT TR D-0.82AC-1.65AC SH 3 & 4 R/S SH 6, 16A & 12A 0.82AC NET",
+  "market_value": 26493.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "276986",
   "prop_type": "R"
  },
  "S1150-00-006-0000-86": {
@@ -798439,6 +798729,16 @@
   "pid": "1374715",
   "prop_type": "R"
  },
+ "S4025-02-000-0099-00": {
+  "address": "1328 E SONADOR DR S",
+  "city": "EDINBURG",
+  "geo_id": "S4025-02-000-0099-00",
+  "legal": "SONADOR COVES PH 2 LOT 99",
+  "market_value": 250774.0,
+  "owner": "LUNA DENAE & CESAR O",
+  "pid": "1374716",
+  "prop_type": "R"
+ },
  "S4025-02-000-0109-00": {
   "address": "1308 E SONADOR DR",
   "city": "",
@@ -808539,6 +808839,16 @@
   "pid": "570861",
   "prop_type": "R"
  },
+ "S4847-01-002-0042-00": {
+  "address": "1402 SOUTHGATE CIR",
+  "city": "",
+  "geo_id": "S4847-01-002-0042-00",
+  "legal": "SOUTHGATE WOODS PH 1 LOT 42 BLK 2 - AMENDED",
+  "market_value": 330126.0,
+  "owner": "HINOJOSA RICARDO & ROSA",
+  "pid": "570866",
+  "prop_type": "R"
+ },
  "S4847-02-003-0005-00": {
   "address": "502 14TH ST",
   "city": "",
@@ -815527,6 +815837,16 @@
   "market_value": 129885.0,
   "owner": "GARZA ARNOLDO & ANA L SERNA DE GARZA",
   "pid": "450582",
+  "prop_type": "R"
+ },
+ "S5921-00-000-0002-00": {
+  "address": "1009 LILIA DR",
+  "city": "",
+  "geo_id": "S5921-00-000-0002-00",
+  "legal": "STARLIGHT LOT 2",
+  "market_value": 280000.0,
+  "owner": "ALVARADO ABIGAIL (AKA MORENO) & MARCOS",
+  "pid": "611109",
   "prop_type": "R"
  },
  "S5950-00-000-0000-00": {
@@ -865799,6 +866119,16 @@
   "pid": "299639",
   "prop_type": "R"
  },
+ "T2200-00-033-0014-10": {
+  "address": "22760 N WESTERN RD",
+  "city": "",
+  "geo_id": "T2200-00-033-0014-10",
+  "legal": "TEXAN GARDENS SOUTH 5AC LOT 14 BLK 33",
+  "market_value": 137432.0,
+  "owner": "SALINAS NERY",
+  "pid": "539478",
+  "prop_type": "R"
+ },
  "T2200-00-033-0015-00": {
   "address": "WESTERN RD",
   "city": "",
@@ -878707,6 +879037,16 @@
   "market_value": 208607.0,
   "owner": "ZAMORA OSCAR",
   "pid": "303438",
+  "prop_type": "R"
+ },
+ "T5250-00-011-0005-00": {
+  "address": "116 CASTILLO & DIAMANTE",
+  "city": "MISSION",
+  "geo_id": "T5250-00-011-0005-00",
+  "legal": "TIERRA DORADA LOT 5 BLK 11",
+  "market_value": 102160.0,
+  "owner": "HINOJOSA RICARDO DLA & MARIA DLA",
+  "pid": "303441",
   "prop_type": "R"
  },
  "T5250-00-011-0008-00": {
@@ -895037,6 +895377,16 @@
   "market_value": 82626.0,
   "owner": "SALAZAR MARIA D ET AL",
   "pid": "308230",
+  "prop_type": "R"
+ },
+ "T7500-00-000-0014-00": {
+  "address": "8308 N DOOLITTLE RD",
+  "city": "EDINBURG",
+  "geo_id": "T7500-00-000-0014-00",
+  "legal": "TRIPLE C LOT 14",
+  "market_value": 88355.0,
+  "owner": "HINOJOSA RICARDO A",
+  "pid": "308242",
   "prop_type": "R"
  },
  "T7500-00-000-0016-00": {
@@ -920987,6 +921337,16 @@
   "market_value": 111817.0,
   "owner": "RUIZ JOSE DAVID & JUANITA MARIN",
   "pid": "314540",
+  "prop_type": "R"
+ },
+ "V3550-00-000-0077-00": {
+  "address": "1021 PALM CIR",
+  "city": "EDINBURG",
+  "geo_id": "V3550-00-000-0077-00",
+  "legal": "VILLA DEL MUNDO LOT 77",
+  "market_value": 101529.0,
+  "owner": "ZUNIGA STEPHANIE ROSE",
+  "pid": "314541",
   "prop_type": "R"
  },
  "V3550-00-000-0080-00": {
@@ -995787,6 +996147,16 @@
   "market_value": 108215.0,
   "owner": "ALVAREZ PEDRO",
   "pid": "330702",
+  "prop_type": "R"
+ },
+ "W7400-00-015-0014-00": {
+  "address": "1604 PEREZ RD",
+  "city": "PALMVIEW",
+  "geo_id": "W7400-00-015-0014-00",
+  "legal": "WOOD LOT 14 BLK 15",
+  "market_value": 99099.0,
+  "owner": "HINOJOSA RICARDO",
+  "pid": "330703",
   "prop_type": "R"
  },
  "W7400-00-015-0016-00": {

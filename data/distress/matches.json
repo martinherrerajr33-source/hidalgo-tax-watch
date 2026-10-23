@@ -45590,6 +45590,185 @@
   "confidence": "none",
   "tried": "2026-10-22"
  },
+ "court:5099053": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099059": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099088": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099099": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099111": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099121": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099122": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099123": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099128": {
+  "candidates": [
+   "C7886-02-000-0041-00",
+   "V3550-00-000-0077-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
+ "court:5099130": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099131": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099133": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099319": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099322": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099328": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "D4600-00-117-0005-00",
+  "method": "name+co-owner",
+  "n_candidates": 3,
+  "person": "ONTIVEROS JAVIER",
+  "tried": "2026-10-23"
+ },
+ "court:5099334": {
+  "candidates": [
+   "W7383-03-000-0202-00",
+   "M5261-00-000-0019-00",
+   "F7495-02-000-0093-00",
+   "L6710-0B-000-0065-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
+ "court:5099338": {
+  "candidates": [
+   "L6440-00-001-0005-00",
+   "P8115-04-000-0060-00",
+   "C1400-00-028-0013-00",
+   "C7500-07-002-0028-00",
+   "T2100-00-249-0009-40"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
+ "court:5099419": {
+  "candidates": [],
+  "confidence": "low",
+  "geo_id": "C4040-00-000-0056-00",
+  "method": "rejected-by-tax-office",
+  "n_candidates": 1,
+  "person": "CARRASCO YESENIA",
+  "tried": "2026-10-23"
+ },
+ "court:5099421": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "A3100-00-009-0002-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "VITAL BENITO",
+  "tried": "2026-10-23"
+ },
+ "court:5099424": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099427": {
+  "candidates": [
+   "M5200-00-157-0006-00",
+   "M5200-00-157-0009-00",
+   "E4680-04-002-0009-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
+ "court:5099431": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "B2330-00-000-0022-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "ALEMAN DORA",
+  "tried": "2026-10-23"
+ },
+ "court:5099447": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "H2400-00-000-0002-00",
+  "method": "name+co-owner",
+  "n_candidates": 28,
+  "person": "ALVARADO ABIGAIL",
+  "tried": "2026-10-23"
+ },
+ "court:5099458": {
+  "candidates": [
+   "B1900-02-000-0009-00",
+   "T2200-00-033-0014-10",
+   "P9277-09-000-0800-00",
+   "M6900-02-000-0014-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
+ "court:5099509": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-23"
+ },
+ "court:5099510": {
+  "candidates": [
+   "K0600-02-005-0011-00",
+   "W7400-00-015-0014-00",
+   "P9280-02-000-0046-00",
+   "P9280-02-000-0047-00",
+   "H0950-00-001-0009-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-23"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",
