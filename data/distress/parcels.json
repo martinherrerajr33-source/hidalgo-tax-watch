@@ -38509,6 +38509,26 @@
   "pid": "113439",
   "prop_type": "R"
  },
+ "A1800-00-056-0012-16": {
+  "address": "5432 E WISCONSIN RD",
+  "city": "",
+  "geo_id": "A1800-00-056-0012-16",
+  "legal": "ALAMO LAND & SUGAR CO E95.50'-W564.50'-N330' LOT 12 BLK 56 0.72AC GR 0.64AC NET",
+  "market_value": 273780.0,
+  "owner": "DELGADO MARIA ELVIA",
+  "pid": "558826",
+  "prop_type": "R"
+ },
+ "A1800-00-056-0012-22": {
+  "address": "5432 E WISCONSIN RD",
+  "city": "",
+  "geo_id": "A1800-00-056-0012-22",
+  "legal": "ALAMO LAND & SUGAR CO N132.47'-W19.50'-E756.15' LOT 12 BLK 56 0.06AC GR 0.05AC NET",
+  "market_value": 4714.0,
+  "owner": "DELGADO MARIA ELVIA",
+  "pid": "620754",
+  "prop_type": "R"
+ },
  "A1800-00-056-0014-01": {
   "address": "4117 S ALAMO RD",
   "city": "",
@@ -49319,6 +49339,16 @@
   "pid": "1642263",
   "prop_type": "MH"
  },
+ "A2120-97-000-0065-01": {
+  "address": "1513 W CROCKETT ST",
+  "city": "ALAMO",
+  "geo_id": "A2120-97-000-0065-01",
+  "legal": "ALAMO PARADISE ACRES,SPACE 65 12X56 LABEL# N/A, SERIAL# N/A / NEW ACCT 2024",
+  "market_value": 10993.0,
+  "owner": "DELGADO MARIA",
+  "pid": "1559690",
+  "prop_type": "MH"
+ },
  "A2120-97-00G-0051-03": {
   "address": "1513 W CROCKETT ST",
   "city": "ALAMO",
@@ -53269,6 +53299,16 @@
   "pid": "117554",
   "prop_type": "R"
  },
+ "A3300-00-002-0001-00": {
+  "address": "136 LAS PALMAS DR",
+  "city": "MERCEDES",
+  "geo_id": "A3300-00-002-0001-00",
+  "legal": "ALTAS PALMAS ESTATES BLK 2 LOT 1",
+  "market_value": 166654.0,
+  "owner": "GONZALEZ MARTIN G & CARLOS OMAR H LOZA",
+  "pid": "117557",
+  "prop_type": "R"
+ },
  "A3300-00-002-0003-00": {
   "address": "152 LAS PALMAS DR",
   "city": "",
@@ -53287,6 +53327,16 @@
   "market_value": 204465.0,
   "owner": "SALINAS DANIEL JR & MELINDA L",
   "pid": "117561",
+  "prop_type": "R"
+ },
+ "A3300-00-002-0006-01": {
+  "address": "164 LAS PALMAS DR",
+  "city": "",
+  "geo_id": "A3300-00-002-0006-01",
+  "legal": "ALTAS PALMAS ESTATES E1/2 LOT 6 & LOT 7 BLK 2",
+  "market_value": 129422.0,
+  "owner": "GONZALEZ MARTIN GONZALEZ",
+  "pid": "117563",
   "prop_type": "R"
  },
  "A3300-00-002-0010-00": {
@@ -54297,6 +54347,16 @@
   "market_value": 233354.0,
   "owner": "GONZALEZ JUANITA SAUCEDA",
   "pid": "833336",
+  "prop_type": "R"
+ },
+ "A3700-00-025-0009-00": {
+  "address": "114 S ALTON BLVD",
+  "city": "",
+  "geo_id": "A3700-00-025-0009-00",
+  "legal": "ALTON ORIGINAL TOWNSITE LOTS 9, 10 & 11 BLK 25",
+  "market_value": 135729.0,
+  "owner": "LOPEZ MELITON M & GRACIELA J",
+  "pid": "117731",
   "prop_type": "R"
  },
  "A3700-00-027-0013-00": {
@@ -63277,6 +63337,16 @@
   "market_value": 295000.0,
   "owner": "FLORES JOSUE SAMUEL & ALONDRA L",
   "pid": "668661",
+  "prop_type": "R"
+ },
+ "A6585-02-000-0093-00": {
+  "address": "3816 EVANGELINA ST",
+  "city": "EDINBURG",
+  "geo_id": "A6585-02-000-0093-00",
+  "legal": "AUTUMN RIDGE ESTATES PH 2 LOT 93",
+  "market_value": 247804.0,
+  "owner": "RODRIGUEZ JESSICA LYNN",
+  "pid": "668663",
   "prop_type": "R"
  },
  "A6585-02-000-0102-00": {
@@ -88679,6 +88749,16 @@
   "pid": "569291",
   "prop_type": "R"
  },
+ "B2629-03-000-0146-00": {
+  "address": "4713 JASMINE AVE",
+  "city": "",
+  "geo_id": "B2629-03-000-0146-00",
+  "legal": "BENTSEN HEIGHTS UT 3 LOT 146",
+  "market_value": 214892.0,
+  "owner": "LOPEZ NORBERTO",
+  "pid": "601154",
+  "prop_type": "R"
+ },
  "B2629-03-000-0149-00": {
   "address": "4725 JASMINE AVE",
   "city": "",
@@ -97929,6 +98009,16 @@
   "pid": "1235022",
   "prop_type": "R"
  },
+ "B4050-00-000-0001-00": {
+  "address": "2519 BRENTWOOD DR",
+  "city": "MISSION",
+  "geo_id": "B4050-00-000-0001-00",
+  "legal": "BRENTWOOD ESTATES LOT 1 EXC 677 SQ FT",
+  "market_value": 249415.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "127320",
+  "prop_type": "R"
+ },
  "B4050-00-000-0011-00": {
   "address": "1400 MOCKINGBIRD AVE",
   "city": "MISSION",
@@ -101337,6 +101427,16 @@
   "market_value": 140621.0,
   "owner": "MUNOZ ROSA LINDA & DAVID",
   "pid": "585694",
+  "prop_type": "R"
+ },
+ "B4443-02-000-0026-00": {
+  "address": "4113 ZINNIA AVE",
+  "city": "",
+  "geo_id": "B4443-02-000-0026-00",
+  "legal": "BROOKWOOD UT 2 LOT 26",
+  "market_value": 121721.0,
+  "owner": "DELGADO MARIA DEL SOCORRO TREVINO",
+  "pid": "585700",
   "prop_type": "R"
  },
  "B4443-02-000-0027-00": {
@@ -119999,6 +120099,16 @@
   "pid": "626939",
   "prop_type": "R"
  },
+ "C1120-02-000-0101-00": {
+  "address": "3314 GABBIE LN",
+  "city": "EDINBURG",
+  "geo_id": "C1120-02-000-0101-00",
+  "legal": "CANTERA RIDGE PH 2 LOT 101",
+  "market_value": 259001.0,
+  "owner": "DELGADO MARIA S",
+  "pid": "626944",
+  "prop_type": "R"
+ },
  "C1120-02-000-0103-00": {
   "address": "3404 GABBIE LN",
   "city": "EDINBURG",
@@ -132377,6 +132487,16 @@
   "market_value": 86357.0,
   "owner": "PEREZ MA ELENA RUIZ",
   "pid": "132463",
+  "prop_type": "R"
+ },
+ "C1500-00-004-0001-00": {
+  "address": "10925 QUESADA ST",
+  "city": "",
+  "geo_id": "C1500-00-004-0001-00",
+  "legal": "CAPISALLO PARK LOT 1 BLK 4",
+  "market_value": 101843.0,
+  "owner": "GONZALEZ MARTIN JR",
+  "pid": "132464",
   "prop_type": "R"
  },
  "C1500-00-004-0008-00": {
@@ -160257,6 +160377,16 @@
   "market_value": 116110.0,
   "owner": "GONZALEZ ANTONIO JR & OLGA",
   "pid": "137873",
+  "prop_type": "R"
+ },
+ "C5350-02-003-0007-00": {
+  "address": "213 PAISANO LN",
+  "city": "WESLACO",
+  "geo_id": "C5350-02-003-0007-00",
+  "legal": "CITRUS TERRACE UT NO. 2 BLK 3 LOT 7",
+  "market_value": 131381.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "137889",
   "prop_type": "R"
  },
  "C5350-02-004-0009-00": {
@@ -200979,6 +201109,16 @@
   "pid": "1306135",
   "prop_type": "R"
  },
+ "D3010-03-000-0087-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "D3010-03-000-0087-00",
+  "legal": "DEL REY ESTATES UT 3 LOT 87",
+  "market_value": 114670.0,
+  "owner": "RODRIGUEZ JESSICA J & JAVIER MALDONADO JR",
+  "pid": "1306149",
+  "prop_type": "R"
+ },
  "D3010-03-000-0093-00": {
   "address": "311 HUALAHUISES ST",
   "city": "",
@@ -212089,6 +212229,16 @@
   "pid": "799994",
   "prop_type": "R"
  },
+ "D6000-01-000-0048-00": {
+  "address": "6010 W MILE 5 RD",
+  "city": "MISSION",
+  "geo_id": "D6000-01-000-0048-00",
+  "legal": "NICK DOFFING CO. NO. 1 LOT 48 10.0AC NET",
+  "market_value": 754926.0,
+  "owner": "SALINAS BRADY H & CRISTINA",
+  "pid": "159852",
+  "prop_type": "R"
+ },
  "D6000-01-000-0051-02": {
   "address": "6363 DOFFING RD",
   "city": "",
@@ -213527,6 +213677,16 @@
   "market_value": 558386.0,
   "owner": "ALANIZ ENEDELIA F",
   "pid": "160220",
+  "prop_type": "R"
+ },
+ "D6000-04-000-0011-04": {
+  "address": "MILE 6 RD BTWD MN RD & DOFFING",
+  "city": "MISSION",
+  "geo_id": "D6000-04-000-0011-04",
+  "legal": "NICK DOFFING CO. NO. 4 1.04AC TRIANGLE TR-E254.32'- N356.54' LOT 1.04 AC GR 0.93 AC NET",
+  "market_value": 121388.0,
+  "owner": "DELGADO MARIA DE JESUS",
+  "pid": "160226",
   "prop_type": "R"
  },
  "D6000-04-000-0017-01": {
@@ -215917,6 +216077,16 @@
   "market_value": 175268.0,
   "owner": "LUGO SUE ELLEN",
   "pid": "790474",
+  "prop_type": "R"
+ },
+ "D6755-02-000-0033-00": {
+  "address": "903 S 28TH ST",
+  "city": "",
+  "geo_id": "D6755-02-000-0033-00",
+  "legal": "DONNA MEADOWS II LOT 33",
+  "market_value": 170504.0,
+  "owner": "GONZALEZ ELSA & JUAN P",
+  "pid": "790477",
   "prop_type": "R"
  },
  "D6755-02-000-0040-00": {
@@ -227337,6 +227507,16 @@
   "market_value": 200102.0,
   "owner": "PEREZ MARIA C",
   "pid": "646795",
+  "prop_type": "R"
+ },
+ "E3237-01-000-0034-00": {
+  "address": "805 THORA DR",
+  "city": "EDINBURG",
+  "geo_id": "E3237-01-000-0034-00",
+  "legal": "EDINBURG ESTATES PH 1 (AMENDED) LOT 34",
+  "market_value": 189710.0,
+  "owner": "RODRIGUEZ JESSICA & JOSE A",
+  "pid": "646801",
   "prop_type": "R"
  },
  "E3237-01-000-0036-00": {
@@ -240639,6 +240819,16 @@
   "pid": "839806",
   "prop_type": "R"
  },
+ "E3345-11-000-0026-00": {
+  "address": "6211 LAS PRIMAS ST",
+  "city": "MISSION",
+  "geo_id": "E3345-11-000-0026-00",
+  "legal": "EDUARDOS NO. 11 LOT 26",
+  "market_value": 130624.0,
+  "owner": "GONZALEZ MARTIN & SOFIA",
+  "pid": "839813",
+  "prop_type": "R"
+ },
  "E3345-12-000-0005-00": {
   "address": "3614 ZARKANA DR",
   "city": "MISSION",
@@ -242417,6 +242607,16 @@
   "market_value": 216589.0,
   "owner": "FLORES GABRIEL & JUANA L",
   "pid": "629067",
+  "prop_type": "R"
+ },
+ "E3710-01-000-0034-00": {
+  "address": "3203 SIERRA CIR",
+  "city": "EDINBURG",
+  "geo_id": "E3710-01-000-0034-00",
+  "legal": "EL CAMPANARIO PH 1 & 2 LOT 34",
+  "market_value": 214914.0,
+  "owner": "DELGADO MARIA",
+  "pid": "629068",
   "prop_type": "R"
  },
  "E3710-01-000-0040-00": {
@@ -245867,6 +246067,16 @@
   "market_value": 137150.0,
   "owner": "HERNANDEZ SARA O",
   "pid": "612180",
+  "prop_type": "R"
+ },
+ "E4350-01-000-0059-00": {
+  "address": "429 PUMA DR",
+  "city": "",
+  "geo_id": "E4350-01-000-0059-00",
+  "legal": "EL GATO ESTATES NO. 1 LOT 59",
+  "market_value": 190880.0,
+  "owner": "GONZALEZ MARTIN & MARIA D",
+  "pid": "612181",
   "prop_type": "R"
  },
  "E4350-01-000-0064-00": {
@@ -260829,6 +261039,16 @@
   "pid": "679156",
   "prop_type": "R"
  },
+ "E5038-03-000-0272-00": {
+  "address": "914 SAN MIGUEL ST",
+  "city": "SAN JUAN",
+  "geo_id": "E5038-03-000-0272-00",
+  "legal": "ELDORA HEIGHTS M/H PH 3 LOT 272",
+  "market_value": 96888.0,
+  "owner": "DELGADO MARIA ELENA",
+  "pid": "679169",
+  "prop_type": "R"
+ },
  "E5038-03-000-0277-00": {
   "address": "904 SAN MIGUEL ST",
   "city": "SAN JUAN",
@@ -269679,6 +269899,16 @@
   "pid": "700607",
   "prop_type": "R"
  },
+ "E5562-00-000-0087-00": {
+  "address": "4805 LA VISTA AVE",
+  "city": "MCALLEN",
+  "geo_id": "E5562-00-000-0087-00",
+  "legal": "EMERALD VALLEY AT PEREZ POINT LOT 87",
+  "market_value": 209067.0,
+  "owner": "GIL KARLA G & JOSE MARIA",
+  "pid": "700616",
+  "prop_type": "R"
+ },
  "E5562-00-000-0092-00": {
   "address": "4812 LA VISTA AVE",
   "city": "MCALLEN",
@@ -278299,6 +278529,26 @@
   "pid": "171569",
   "prop_type": "R"
  },
+ "E7800-00-001-0011-00": {
+  "address": "2407 GERONIMO MOLINA ST",
+  "city": "EDINBURG",
+  "geo_id": "E7800-00-001-0011-00",
+  "legal": "EVANGELINE GARDENS LOT 11 BLK 1",
+  "market_value": 371481.0,
+  "owner": "GONZALEZ MARTIN J",
+  "pid": "171572",
+  "prop_type": "R"
+ },
+ "E7800-00-001-0012-00": {
+  "address": "2401 GERONIMO MOLINA ST",
+  "city": "EDINBURG",
+  "geo_id": "E7800-00-001-0012-00",
+  "legal": "EVANGELINE GARDENS E87.54' OF LOT 12 BLK 1",
+  "market_value": 78432.0,
+  "owner": "GONZALEZ MARTIN J & IRENE M",
+  "pid": "171573",
+  "prop_type": "R"
+ },
  "E7800-00-002-0001-00": {
   "address": "2408 GERONIMO MOLINA ST",
   "city": "EDINBURG",
@@ -282077,6 +282327,16 @@
   "market_value": 231000.0,
   "owner": "SOLIS JOSE A SR & NITA M",
   "pid": "674266",
+  "prop_type": "R"
+ },
+ "E8250-01-000-0017-00": {
+  "address": "22228 N VALVERDE RD",
+  "city": "",
+  "geo_id": "E8250-01-000-0017-00",
+  "legal": "EVERGREEN VALLEY ESTATES PH 1 LOT 17",
+  "market_value": 523331.0,
+  "owner": "RODRIGUEZ JESSICA Y",
+  "pid": "674274",
   "prop_type": "R"
  },
  "E8250-01-000-0018-00": {
@@ -300787,6 +301047,16 @@
   "market_value": 223574.0,
   "owner": "OCHOA JOSE",
   "pid": "689291",
+  "prop_type": "R"
+ },
+ "F7550-00-000-0029-00": {
+  "address": "2009 HARVARD AVE",
+  "city": "MCALLEN",
+  "geo_id": "F7550-00-000-0029-00",
+  "legal": "FRONTERA ESTATES LOT 29",
+  "market_value": 308589.0,
+  "owner": "RODRIGUEZ JESSICA P",
+  "pid": "689292",
   "prop_type": "R"
  },
  "F7550-00-000-0030-00": {
@@ -356179,6 +356449,16 @@
   "pid": "733000",
   "prop_type": "R"
  },
+ "H2542-02-000-0063-00": {
+  "address": "303 N 15TH ST",
+  "city": "HIDALGO",
+  "geo_id": "H2542-02-000-0063-00",
+  "legal": "HIDALGO PALMS PH II LOT 63",
+  "market_value": 250720.0,
+  "owner": "RODRIGUEZ JESSICA CASAS & DAVID ALAN GONZALEZ",
+  "pid": "733003",
+  "prop_type": "R"
+ },
  "H2542-02-000-0067-00": {
   "address": "N 15TH ST",
   "city": "",
@@ -370379,6 +370659,16 @@
   "pid": "20835809",
   "prop_type": "R"
  },
+ "H3062-92-000-0050-00": {
+  "address": "1315 SIOUX RD",
+  "city": "ALAMO",
+  "geo_id": "H3062-92-000-0050-00",
+  "legal": "HIGHLAND MOBILE HOME PARK, (IMPROVEMENTS ONLY) SPACE 50 8X33, VIN: N/A / NEW ACCT 2025",
+  "market_value": 10947.0,
+  "owner": "DELGADO MARIA CRISTINA",
+  "pid": "1642467",
+  "prop_type": "MH"
+ },
  "H3062-97-000-0002-00": {
   "address": "1315 SIOUX RD",
   "city": "ALAMO",
@@ -376879,6 +377169,16 @@
   "pid": "1380365",
   "prop_type": "MH"
  },
+ "H3475-95-147-0000-01": {
+  "address": "717 EARLING RD",
+  "city": "",
+  "geo_id": "H3475-95-147-0000-01",
+  "legal": "HILL HALBERT .86AC H/S-TR 1 A 5.00AC TR BEING R/S-W 1/2-BLK 174 .86AC NET, IMPROVEMENTS ONLY-NEW FOR 2006;LOU048071",
+  "market_value": 12968.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "782330",
+  "prop_type": "MH"
+ },
  "H3475-95-147-0000-09": {
   "address": "701 W EARLING RD",
   "city": "DONNA",
@@ -378877,6 +379177,16 @@
   "market_value": 148274.0,
   "owner": "RAMIREZ ELSA YADIRA",
   "pid": "634202",
+  "prop_type": "R"
+ },
+ "H4190-02-000-0011-00": {
+  "address": "8004 SIN TACHA ST",
+  "city": "",
+  "geo_id": "H4190-02-000-0011-00",
+  "legal": "HOLLY ESTATES #2 LOT 11",
+  "market_value": 143768.0,
+  "owner": "CORTEZ ANGELICA M",
+  "pid": "634204",
   "prop_type": "R"
  },
  "H4190-02-000-0016-00": {
@@ -382769,6 +383079,16 @@
   "pid": "195471",
   "prop_type": "R"
  },
+ "H5000-00-001-0011-00": {
+  "address": "1708-1800 N CAGE BLVD",
+  "city": "PHARR",
+  "geo_id": "H5000-00-001-0011-00",
+  "legal": "HUB CITY ACRES E58.14' LOTS 11-17 BLK 1",
+  "market_value": 389665.0,
+  "owner": "RODRIGUEZ JESSICA ESQUIVEL & HECTOR EDUARDO",
+  "pid": "195476",
+  "prop_type": "R"
+ },
  "H5000-00-001-0018-00": {
   "address": "1700 N CAGE BLVD",
   "city": "",
@@ -384497,6 +384817,16 @@
   "market_value": 293760.0,
   "owner": "GOMEZ GUADALUPE ALANIZ",
   "pid": "715350",
+  "prop_type": "R"
+ },
+ "H5210-07-000-0029-00": {
+  "address": "JULIA ST",
+  "city": "",
+  "geo_id": "H5210-07-000-0029-00",
+  "legal": "HUISACHE ACRES NO. 7 LOT 29",
+  "market_value": 153139.0,
+  "owner": "DELGADO MARIA FERNANDA",
+  "pid": "715353",
   "prop_type": "R"
  },
  "H5210-07-000-0036-00": {
@@ -396137,6 +396467,16 @@
   "market_value": 152640.0,
   "owner": "MENDOZA MELISSA & MARIBEL",
   "pid": "713571",
+  "prop_type": "R"
+ },
+ "J2400-00-063-0003-05": {
+  "address": "10916 MOOREFIELD RD",
+  "city": "",
+  "geo_id": "J2400-00-063-0003-05",
+  "legal": "JACKSON TRACT LOT 3 BLK 63 10.00AC GR 9.81AC NET",
+  "market_value": 169000.0,
+  "owner": "GONZALEZ MARTIN H GOMEZ",
+  "pid": "702392",
   "prop_type": "R"
  },
  "J2400-00-063-0005-05": {
@@ -423619,6 +423959,16 @@
   "pid": "654623",
   "prop_type": "R"
  },
+ "K6910-06-000-0139-00": {
+  "address": "2500 XANTHISMA AVE",
+  "city": "",
+  "geo_id": "K6910-06-000-0139-00",
+  "legal": "KINGWOOD ESTATES PH 6 LOT 139",
+  "market_value": 250085.0,
+  "owner": "GONZALEZ MARTIN ORTEGA & MONICA LETICIA ORTEGA",
+  "pid": "654629",
+  "prop_type": "R"
+ },
  "K6910-06-000-0140-00": {
   "address": "2504 XANTHISMA AVE",
   "city": "",
@@ -424617,6 +424967,16 @@
   "market_value": 62854.0,
   "owner": "GARCIA JESUS & JUANA",
   "pid": "205696",
+  "prop_type": "R"
+ },
+ "L0070-01-000-0062-00": {
+  "address": "418 BLUE JAY DR",
+  "city": "",
+  "geo_id": "L0070-01-000-0062-00",
+  "legal": "L.J. NO. 1 LOT 62",
+  "market_value": 56534.0,
+  "owner": "GONZALEZ MARTIN ABRAHAM & MERARI I",
+  "pid": "205698",
   "prop_type": "R"
  },
  "L0070-01-000-0067-00": {
@@ -429507,6 +429867,26 @@
   "market_value": 140397.0,
   "owner": "RIVERA JOSE ALONSO & MARISOL SAILLE",
   "pid": "207736",
+  "prop_type": "R"
+ },
+ "L0540-00-000-0023-00": {
+  "address": "19124 EBONY AVE",
+  "city": "",
+  "geo_id": "L0540-00-000-0023-00",
+  "legal": "LA BLANCA ESTATES LOT 23",
+  "market_value": 334575.0,
+  "owner": "GONZALEZ MARTIN",
+  "pid": "207738",
+  "prop_type": "R"
+ },
+ "L0540-00-000-0024-00": {
+  "address": "19116 EBONY AVE",
+  "city": "",
+  "geo_id": "L0540-00-000-0024-00",
+  "legal": "LA BLANCA ESTATES LOT 24",
+  "market_value": 31562.0,
+  "owner": "GONZALEZ MARTIN & ALICIA",
+  "pid": "207739",
   "prop_type": "R"
  },
  "L0540-00-000-0028-00": {
@@ -437029,6 +437409,16 @@
   "pid": "700304",
   "prop_type": "R"
  },
+ "L1054-00-000-0070-00": {
+  "address": "2005 GISELLE ST",
+  "city": "MISSION",
+  "geo_id": "L1054-00-000-0070-00",
+  "legal": "LA HACIENDA ESTATES LOT 70",
+  "market_value": 313406.0,
+  "owner": "RODRIGUEZ JESSICA F",
+  "pid": "700313",
+  "prop_type": "R"
+ },
  "L1054-00-000-0079-00": {
   "address": "2103 GISELLE ST",
   "city": "MISSION",
@@ -439009,6 +439399,16 @@
   "pid": "537138",
   "prop_type": "R"
  },
+ "L1075-03-000-0011-00": {
+  "address": "2521 MEGAN ST",
+  "city": "",
+  "geo_id": "L1075-03-000-0011-00",
+  "legal": "LA HOMA HEIGHTS UT 3 LOT 11",
+  "market_value": 103112.0,
+  "owner": "GONZALEZ MARTIN & MARIA",
+  "pid": "537143",
+  "prop_type": "R"
+ },
  "L1075-03-000-0013-00": {
   "address": "2623 MEGAN ST",
   "city": "",
@@ -439017,6 +439417,16 @@
   "market_value": 134981.0,
   "owner": "LOPEZ JUAN",
   "pid": "537145",
+  "prop_type": "R"
+ },
+ "L1085-01-000-0006-00": {
+  "address": "5309 DAISY DR",
+  "city": "",
+  "geo_id": "L1085-01-000-0006-00",
+  "legal": "LA HOMA MEADOWS PH 1 LOT 6",
+  "market_value": 131576.0,
+  "owner": "GONZALEZ MARTIN & ALICIA",
+  "pid": "515723",
   "prop_type": "R"
  },
  "L1085-01-002-0001-00": {
@@ -446834,7 +447244,7 @@
   "city": "",
   "geo_id": "L1368-00-000-0005-00",
   "legal": "LA MARQUESA ESTATES LOT 5",
-  "market_value": 297000.0,
+  "market_value": 0.0,
   "owner": "SALINAS MIGUEL ANGEL JR",
   "pid": "1468527",
   "prop_type": "R"
@@ -454187,6 +454597,16 @@
   "market_value": 41203.0,
   "owner": "GARCIA MARTINIANO R & JOSEFA L CASTANEDA",
   "pid": "843272",
+  "prop_type": "R"
+ },
+ "L2025-01-000-0023-00": {
+  "address": "GETTYSBURG ST",
+  "city": "",
+  "geo_id": "L2025-01-000-0023-00",
+  "legal": "LA VICTORIA PH 1 LOT 23",
+  "market_value": 40532.0,
+  "owner": "DELGADO MARCO ANTONIO & SELENA TORRES",
+  "pid": "843273",
   "prop_type": "R"
  },
  "L2025-01-000-0031-00": {
@@ -476434,7 +476854,7 @@
   "city": "",
   "geo_id": "L3180-03-000-0318-00",
   "legal": "LAS ENCINITAS PH 3 LOT 318",
-  "market_value": 422707.0,
+  "market_value": 0.0,
   "owner": "ARBAIZA ANA D & MIGUEL BAUTISTA GALVAN",
   "pid": "1643386",
   "prop_type": "R"
@@ -478479,6 +478899,16 @@
   "pid": "498728",
   "prop_type": "R"
  },
+ "L3193-00-000-008B-00": {
+  "address": "331 W NAVARRO ST",
+  "city": "PHARR",
+  "geo_id": "L3193-00-000-008B-00",
+  "legal": "LAS FUENTES LOT 8-B",
+  "market_value": 229945.0,
+  "owner": "DELGADO MARCO ANTONIO",
+  "pid": "1238730",
+  "prop_type": "R"
+ },
  "L3194-02-000-0008-00": {
   "address": "7204 MARIPOSA LN",
   "city": "PHARR",
@@ -479307,6 +479737,16 @@
   "market_value": 103313.0,
   "owner": "CAVAZOS ANTONIO",
   "pid": "216527",
+  "prop_type": "R"
+ },
+ "L3200-00-005-0006-00": {
+  "address": "10TH ST",
+  "city": "",
+  "geo_id": "L3200-00-005-0006-00",
+  "legal": "LAS LOMAS LOT 6 BLK 5",
+  "market_value": 51415.0,
+  "owner": "DELGADO MARIA NORA",
+  "pid": "216534",
   "prop_type": "R"
  },
  "L3200-00-005-0008-00": {
@@ -501347,6 +501787,16 @@
   "market_value": 166439.0,
   "owner": "HERNANDEZ RUBEN JR",
   "pid": "221067",
+  "prop_type": "R"
+ },
+ "L5270-00-000-0043-00": {
+  "address": "2707 LOMA LINDA CIR NORTH",
+  "city": "PALMVIEW",
+  "geo_id": "L5270-00-000-0043-00",
+  "legal": "LOMA LINDA HEIGHTS LOT 43",
+  "market_value": 168897.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "221074",
   "prop_type": "R"
  },
  "L5270-00-000-0051-00": {
@@ -523879,6 +524329,16 @@
   "pid": "223610",
   "prop_type": "R"
  },
+ "L6360-03-000-0040-00": {
+  "address": "7608 S PLATA LN",
+  "city": "PHARR",
+  "geo_id": "L6360-03-000-0040-00",
+  "legal": "LOS RANCHITOS UT NO. 3 LOT 40",
+  "market_value": 90821.0,
+  "owner": "DELGADO MARIA A",
+  "pid": "223619",
+  "prop_type": "R"
+ },
  "L6360-03-000-0041-00": {
   "address": "7612 S PLATA LN",
   "city": "PHARR",
@@ -532979,6 +533439,16 @@
   "pid": "1012943",
   "prop_type": "R"
  },
+ "M0365-00-000-0049-00": {
+  "address": "3617 MAGDALENA CIR E",
+  "city": "EDINBURG",
+  "geo_id": "M0365-00-000-0049-00",
+  "legal": "MAGDALENA ESTATES LOT 49",
+  "market_value": 120693.0,
+  "owner": "RODRIGUEZ JESSICA JOANNA",
+  "pid": "1012947",
+  "prop_type": "R"
+ },
  "M0365-00-000-0051-00": {
   "address": "3711 MAGDALENA CIR E",
   "city": "EDINBURG",
@@ -535959,6 +536429,16 @@
   "pid": "1182692",
   "prop_type": "R"
  },
+ "M0952-02-000-0109-00": {
+  "address": "3701 AMATISTA ST",
+  "city": "DONNA",
+  "geo_id": "M0952-02-000-0109-00",
+  "legal": "MARAVILLAS ESTATES PH 2 LOT 109",
+  "market_value": 83104.0,
+  "owner": "GONZALEZ MARTINEZ ANDREW ROBERTO",
+  "pid": "1182704",
+  "prop_type": "R"
+ },
  "M0952-02-000-0118-00": {
   "address": "2304 RIO DEL CARMEN RD",
   "city": "DONNA",
@@ -536157,6 +536637,16 @@
   "market_value": 112901.0,
   "owner": "MARTINEZ CLAUDIA",
   "pid": "1183379",
+  "prop_type": "R"
+ },
+ "M0952-03-000-0192-00": {
+  "address": "2504 PERLA ST",
+  "city": "DONNA",
+  "geo_id": "M0952-03-000-0192-00",
+  "legal": "MARAVILLAS ESTATES PH 3 LOT 192",
+  "market_value": 153400.0,
+  "owner": "DELGADO MARIA DEL REFUGIO AYALA",
+  "pid": "1183382",
   "prop_type": "R"
  },
  "M0952-03-000-0196-00": {
@@ -544629,6 +545119,16 @@
   "pid": "232733",
   "prop_type": "R"
  },
+ "M3175-1B-012-0010-00": {
+  "address": "1916 MEADOW WAY DR",
+  "city": "",
+  "geo_id": "M3175-1B-012-0010-00",
+  "legal": "MEADOW CREEK COUNTRY CLB PH 1B BLK 12 LOT 10",
+  "market_value": 239588.0,
+  "owner": "GONZALEZ ELSA ORALIA",
+  "pid": "232748",
+  "prop_type": "R"
+ },
  "M3175-1B-012-0014-00": {
   "address": "1908 MEADOW WAY DR",
   "city": "",
@@ -547517,6 +548017,16 @@
   "market_value": 189162.0,
   "owner": "CANO JOSE G & MARY R",
   "pid": "233798",
+  "prop_type": "R"
+ },
+ "M3400-02-000-0114-00": {
+  "address": "139 E MELTON PARK DR",
+  "city": "",
+  "geo_id": "M3400-02-000-0114-00",
+  "legal": "MELTON PARK ESTATES UT 2 LOT 114",
+  "market_value": 111398.0,
+  "owner": "DELGADO MARIA S",
+  "pid": "233806",
   "prop_type": "R"
  },
  "M3450-00-000-0010-00": {
@@ -559009,6 +559519,26 @@
   "pid": "534741",
   "prop_type": "R"
  },
+ "M4659-00-000-0027-00": {
+  "address": "4902 QUALE DR",
+  "city": "",
+  "geo_id": "M4659-00-000-0027-00",
+  "legal": "MINNESOTA HEIGHTS LOT 27",
+  "market_value": 135625.0,
+  "owner": "GONZALEZ MARTIN J & MARIBEL",
+  "pid": "534744",
+  "prop_type": "R"
+ },
+ "M4659-00-000-0028-00": {
+  "address": "4900 QUALE DR",
+  "city": "",
+  "geo_id": "M4659-00-000-0028-00",
+  "legal": "MINNESOTA HEIGHTS LOT 28",
+  "market_value": 37625.0,
+  "owner": "GONZALEZ MARTIN",
+  "pid": "534745",
+  "prop_type": "R"
+ },
  "M4659-00-000-0030-00": {
   "address": "4802 QUALE DR",
   "city": "",
@@ -561657,6 +562187,16 @@
   "market_value": 158953.0,
   "owner": "VELIZ BELINDA",
   "pid": "726428",
+  "prop_type": "R"
+ },
+ "M4900-00-000-0010-03": {
+  "address": "905 WASHINGTON AVE",
+  "city": "MISSION",
+  "geo_id": "M4900-00-000-0010-03",
+  "legal": "MISSION ACRES S 60'-E 200' - LOT 10",
+  "market_value": 157544.0,
+  "owner": "DELGADO MARIA IRMA",
+  "pid": "237855",
   "prop_type": "R"
  },
  "M4900-00-000-0011-00": {
@@ -598949,6 +599489,16 @@
   "pid": "247232",
   "prop_type": "R"
  },
+ "N4200-01-004-0010-00": {
+  "address": "308 ROSE MARIE ST",
+  "city": "MISSION",
+  "geo_id": "N4200-01-004-0010-00",
+  "legal": "NORTH CONWAY NO. 1 LOT 10 BLK 4",
+  "market_value": 160000.0,
+  "owner": "DELGADO MARIA M",
+  "pid": "247240",
+  "prop_type": "R"
+ },
  "N4200-01-004-0013-00": {
   "address": "302 ROSE MARIE ST",
   "city": "MISSION",
@@ -604407,6 +604957,16 @@
   "market_value": 159000.0,
   "owner": "PEREZ JUAN RICARDO",
   "pid": "248814",
+  "prop_type": "R"
+ },
+ "N6650-00-004-0013-00": {
+  "address": "106 PEARL DR",
+  "city": "",
+  "geo_id": "N6650-00-004-0013-00",
+  "legal": "NORTH PARK TERRACE LOT 13 BLK 4;",
+  "market_value": 31680.0,
+  "owner": "RODRIGUEZ JESSICA F",
+  "pid": "248815",
   "prop_type": "R"
  },
  "N6720-00-000-0004-00": {
@@ -638239,6 +638799,16 @@
   "pid": "613209",
   "prop_type": "R"
  },
+ "P4403-03-000-0050-00": {
+  "address": "3921 XENOPS AVE",
+  "city": "",
+  "geo_id": "P4403-03-000-0050-00",
+  "legal": "PASEO DEL NORTE PH 3 LOT 50",
+  "market_value": 273573.0,
+  "owner": "DELGADO MARIA TIJERINA",
+  "pid": "613210",
+  "prop_type": "R"
+ },
  "P4403-03-000-0051-00": {
   "address": "3917 XENOPS AVE",
   "city": "",
@@ -639127,6 +639697,16 @@
   "market_value": 120608.0,
   "owner": "GONZALEZ JESSE WILLIAM III",
   "pid": "257385",
+  "prop_type": "R"
+ },
+ "P4500-00-009-0009-00": {
+  "address": "418 DATIL AVE",
+  "city": "",
+  "geo_id": "P4500-00-009-0009-00",
+  "legal": "PATE'S ADDITION BLK 9 LTS 9,10",
+  "market_value": 121282.0,
+  "owner": "RODRIGUEZ JESSICA YVETTE",
+  "pid": "257404",
   "prop_type": "R"
  },
  "P4500-00-009-0013-00": {
@@ -642267,6 +642847,16 @@
   "market_value": 367739.0,
   "owner": "RABE CLINTON B & BRENDA",
   "pid": "701920",
+  "prop_type": "R"
+ },
+ "P5322-01-000-0010-00": {
+  "address": "14417 N FM 493",
+  "city": "DONNA",
+  "geo_id": "P5322-01-000-0010-00",
+  "legal": "PECAN VILLAGE PH 1 LOT 10",
+  "market_value": 208499.0,
+  "owner": "GONZALEZ MARTIN JR & PERLA L CANALES",
+  "pid": "701925",
   "prop_type": "R"
  },
  "P5341-00-000-0001-00": {
@@ -653149,6 +653739,66 @@
   "pid": "846194",
   "prop_type": "R"
  },
+ "P6500-00-000-0000-00": {
+  "address": "ORANGE BLOSSOM",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0000-00",
+  "legal": "PHARR SOUTH UT NO. 1 OFFICE BLDG, REC AREA & NON-DEVELOPED STREETS/ALLEYS:HOMEOWNER ASSC",
+  "market_value": 147933.0,
+  "owner": "PHARR SOUTH PROPERTY OWNERS",
+  "pid": "260055",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0000-01": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0000-01",
+  "legal": "PHARR SOUTH UT NO. 2 NON-DEVELOPED STREETS/ALLEYS:HOMEOWNERS ASSC",
+  "market_value": 53312.0,
+  "owner": "PHARR SOUTH PROPERTY OWNERS",
+  "pid": "260056",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0001-01": {
+  "address": "1 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0001-01",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 1",
+  "market_value": 72454.0,
+  "owner": "KRAATZ RICKY",
+  "pid": "260057",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0001-02": {
+  "address": "1536 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0001-02",
+  "legal": "PHARR SOUTH UT NO. 1 S198' LOT 1C",
+  "market_value": 1336590.0,
+  "owner": "NEXTGEN INVESTMENTS LLC",
+  "pid": "260058",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0002-01": {
+  "address": "2 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0002-01",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 2",
+  "market_value": 28900.0,
+  "owner": "HANSEN DENISE M TRUSTEE",
+  "pid": "260059",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0003-00": {
+  "address": "3 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0003-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 3",
+  "market_value": 54000.0,
+  "owner": "THOMPSON JON E & BRENDA F",
+  "pid": "260061",
+  "prop_type": "R"
+ },
  "P6500-00-000-0004-00": {
   "address": "4 MISTLETOE",
   "city": "",
@@ -653167,6 +653817,76 @@
   "market_value": 28894.0,
   "owner": "GARZA OSCAR B & MARGARITA M",
   "pid": "260063",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0006-00": {
+  "address": "6 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0006-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 6",
+  "market_value": 36905.0,
+  "owner": "BLAYDES JUDITH L",
+  "pid": "260064",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0007-00": {
+  "address": "7 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0007-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 7",
+  "market_value": 35500.0,
+  "owner": "RODRIGUEZ MICHAEL RAY",
+  "pid": "260065",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0008-00": {
+  "address": "8 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0008-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 8",
+  "market_value": 35188.0,
+  "owner": "RINGLER EVELYN",
+  "pid": "260066",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0009-00": {
+  "address": "9 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0009-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 9",
+  "market_value": 25482.0,
+  "owner": "PIXLEY DALE BRUCE",
+  "pid": "260067",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0010-00": {
+  "address": "10 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0010-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 10",
+  "market_value": 35353.0,
+  "owner": "MENDEZ RODOLFO F",
+  "pid": "260068",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0011-00": {
+  "address": "11 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0011-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 11",
+  "market_value": 28516.0,
+  "owner": "WOOLLEY HOWARD",
+  "pid": "260069",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0012-00": {
+  "address": "12 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0012-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 12",
+  "market_value": 26390.0,
+  "owner": "TEAL ROBERT LEE",
+  "pid": "260070",
   "prop_type": "R"
  },
  "P6500-00-000-0013-00": {
@@ -653189,6 +653909,296 @@
   "pid": "260072",
   "prop_type": "R"
  },
+ "P6500-00-000-0015-00": {
+  "address": "15 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0015-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 15",
+  "market_value": 34167.0,
+  "owner": "CORTEZ MIGUEL ANGEL",
+  "pid": "260073",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0016-00": {
+  "address": "16 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0016-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 16",
+  "market_value": 26825.0,
+  "owner": "CAMPOS RAUL",
+  "pid": "260074",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0017-00": {
+  "address": "17 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0017-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 17",
+  "market_value": 31500.0,
+  "owner": "RODRIGUEZ MICHAEL RAY",
+  "pid": "260075",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0018-00": {
+  "address": "18 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0018-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 18",
+  "market_value": 29124.0,
+  "owner": "TEXAS REGIONAL BANK TRUST DIV",
+  "pid": "260076",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0019-00": {
+  "address": "19 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0019-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 19; IMPS ON 95 ACCT",
+  "market_value": 14700.0,
+  "owner": "RODRIGUEZ MICHAEL RAY",
+  "pid": "260077",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0020-00": {
+  "address": "20 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0020-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 20",
+  "market_value": 14700.0,
+  "owner": "KAY CELESTINO ALEX & YVETTE",
+  "pid": "260078",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0021-00": {
+  "address": "21 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0021-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 21",
+  "market_value": 30568.0,
+  "owner": "CASTILLO EVA",
+  "pid": "260079",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0022-00": {
+  "address": "22 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0022-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 22",
+  "market_value": 23180.0,
+  "owner": "THOMAS DONNA JEAN",
+  "pid": "260080",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0023-00": {
+  "address": "23 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0023-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 23",
+  "market_value": 14700.0,
+  "owner": "BEST ASSETS LLC",
+  "pid": "260081",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0024-00": {
+  "address": "24 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0024-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 24",
+  "market_value": 15260.0,
+  "owner": "YOON EUN-MEE ANN & JASANG",
+  "pid": "260082",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0025-00": {
+  "address": "25 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0025-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 25",
+  "market_value": 33505.0,
+  "owner": "MUNOZ ANTONIA",
+  "pid": "260083",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0026-00": {
+  "address": "26 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0026-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 26",
+  "market_value": 36973.0,
+  "owner": "CROWE LEONARD C & ANGELINE J TRSTS CROWE REV TRUST",
+  "pid": "260084",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0027-00": {
+  "address": "27 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0027-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 27",
+  "market_value": 26628.0,
+  "owner": "KRAATZ TERRY & ELLEN",
+  "pid": "260085",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0028-00": {
+  "address": "28 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0028-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 28",
+  "market_value": 27581.0,
+  "owner": "FONSECA JOSE L & MARIA G",
+  "pid": "260086",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0029-00": {
+  "address": "29 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0029-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 29",
+  "market_value": 84202.0,
+  "owner": "SINN KATHERINE R",
+  "pid": "260087",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0030-00": {
+  "address": "30 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0030-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 30",
+  "market_value": 30102.0,
+  "owner": "ABEL IVOR A",
+  "pid": "260088",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0031-00": {
+  "address": "31 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0031-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 31",
+  "market_value": 18749.0,
+  "owner": "SINN KATHERINE R",
+  "pid": "260089",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0032-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0032-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 32",
+  "market_value": 15650.0,
+  "owner": "ALMAZAN CLAUDIA P",
+  "pid": "260090",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0033-00": {
+  "address": "33 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0033-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 33",
+  "market_value": 26520.0,
+  "owner": "CHEENIBASS LALCHAN",
+  "pid": "260091",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0034-00": {
+  "address": "34 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0034-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 34",
+  "market_value": 26663.0,
+  "owner": "HOLSTE CLARENCE R",
+  "pid": "260092",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0035-00": {
+  "address": "35 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0035-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 35",
+  "market_value": 18490.0,
+  "owner": "JOHNSON RANDY L & MARY L",
+  "pid": "260093",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0036-00": {
+  "address": "36 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0036-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 36",
+  "market_value": 36047.0,
+  "owner": "WILLIS GALEN B & NANCY R ERICKSON",
+  "pid": "260094",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0037-00": {
+  "address": "37 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0037-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 37",
+  "market_value": 25392.0,
+  "owner": "KAY CELESTINO ALEX & YVETTE",
+  "pid": "260095",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0038-00": {
+  "address": "38 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0038-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 38",
+  "market_value": 41390.0,
+  "owner": "FALCON ROSALINDA",
+  "pid": "260096",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0039-00": {
+  "address": "39 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0039-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 39",
+  "market_value": 27045.0,
+  "owner": "WALLACE WILLIAM R & BETTY J",
+  "pid": "260097",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0040-00": {
+  "address": "40 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0040-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 40",
+  "market_value": 31114.0,
+  "owner": "CARDENAS JOSEFINA R",
+  "pid": "260098",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0041-00": {
+  "address": "41 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0041-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 41",
+  "market_value": 44657.0,
+  "owner": "MEDINA MELVA A",
+  "pid": "260099",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0042-00": {
+  "address": "42 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0042-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 42",
+  "market_value": 19856.0,
+  "owner": "HANSON RONALD W TRUSTEE REVOCABLE TRUST",
+  "pid": "260100",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0043-00": {
+  "address": "43 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0043-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 43",
+  "market_value": 48759.0,
+  "owner": "KRAUSMAN JOHN & KATHY ANN MICHEHL",
+  "pid": "260101",
+  "prop_type": "R"
+ },
  "P6500-00-000-0044-00": {
   "address": "44 MISTLETOE",
   "city": "PHARR",
@@ -653197,6 +654207,456 @@
   "market_value": 18675.0,
   "owner": "NIETO ANTONIO",
   "pid": "260102",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0045-00": {
+  "address": "45 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0045-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 45",
+  "market_value": 31637.0,
+  "owner": "BALOUSEK ROXANNE & ROBERT",
+  "pid": "260103",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0046-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0046-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 46",
+  "market_value": 15730.0,
+  "owner": "PRICE EVELYN M",
+  "pid": "260104",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0047-00": {
+  "address": "47 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0047-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 47",
+  "market_value": 34947.0,
+  "owner": "ROGERS DONNA J",
+  "pid": "260105",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0048-00": {
+  "address": "48 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0048-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 48",
+  "market_value": 29908.0,
+  "owner": "MACENAUER DEAN & DIANE CHICHIPPE",
+  "pid": "260106",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0049-00": {
+  "address": "49 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0049-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 49",
+  "market_value": 14700.0,
+  "owner": "CLARK AURORA",
+  "pid": "260107",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0050-00": {
+  "address": "50 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0050-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 50",
+  "market_value": 46331.0,
+  "owner": "FRITZ GENE LEO & JOELLEN",
+  "pid": "260108",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0051-00": {
+  "address": "51 MISTLETOE",
+  "city": "",
+  "geo_id": "P6500-00-000-0051-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 51",
+  "market_value": 18030.0,
+  "owner": "HERRINGTON GEORGE C & DAWN F",
+  "pid": "260109",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0052-00": {
+  "address": "52 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0052-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 52",
+  "market_value": 74541.0,
+  "owner": "WILES CARL L & MARGARET A",
+  "pid": "260110",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0053-00": {
+  "address": "53 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0053-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 53",
+  "market_value": 54960.0,
+  "owner": "NUSSEL AMY",
+  "pid": "260111",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0054-00": {
+  "address": "54 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0054-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 54",
+  "market_value": 47927.0,
+  "owner": "WEIR PRISCILLA KAY",
+  "pid": "260112",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0055-00": {
+  "address": "55 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0055-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 55",
+  "market_value": 54374.0,
+  "owner": "GARCIA-IRISARRI MARIA",
+  "pid": "260113",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0056-00": {
+  "address": "56 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0056-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 56",
+  "market_value": 74017.0,
+  "owner": "RAMIREZ PILAR N",
+  "pid": "260114",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0057-00": {
+  "address": "57 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0057-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 57",
+  "market_value": 53931.0,
+  "owner": "JOHNSTON DALE & MARSHA ANN",
+  "pid": "260115",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0058-00": {
+  "address": "58 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0058-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 58",
+  "market_value": 72726.0,
+  "owner": "LEVINE SANDRA S & MICHAEL L",
+  "pid": "260116",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0059-00": {
+  "address": "59 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0059-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 59",
+  "market_value": 72781.0,
+  "owner": "LEACH ALLAN & SHELLEY",
+  "pid": "260117",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0060-00": {
+  "address": "60 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0060-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 60",
+  "market_value": 52859.0,
+  "owner": "NELSON DEBORAH M",
+  "pid": "260118",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0061-00": {
+  "address": "61 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0061-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 61",
+  "market_value": 55635.0,
+  "owner": "MIRELES MARIO",
+  "pid": "260119",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0062-00": {
+  "address": "62 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0062-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 62",
+  "market_value": 61926.0,
+  "owner": "DANIELSON JOHN N & LAUREN A",
+  "pid": "260120",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0063-00": {
+  "address": "63 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0063-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 63",
+  "market_value": 70000.0,
+  "owner": "GRUHN NYLE",
+  "pid": "260121",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0064-00": {
+  "address": "64 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0064-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 64",
+  "market_value": 81817.0,
+  "owner": "HAYS MARIEL CONNIE",
+  "pid": "260122",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0065-00": {
+  "address": "65 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0065-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 65",
+  "market_value": 71996.0,
+  "owner": "BIERMAN LEONARD E & BARBARA A TRSTS",
+  "pid": "260123",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0066-00": {
+  "address": "66 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0066-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 66",
+  "market_value": 88499.0,
+  "owner": "DRISCOLL KRISTINE J",
+  "pid": "260124",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0067-00": {
+  "address": "67 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0067-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 67",
+  "market_value": 111942.0,
+  "owner": "WORLEY DENNIS M",
+  "pid": "260125",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0068-00": {
+  "address": "68 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0068-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 68",
+  "market_value": 82251.0,
+  "owner": "HAMPTON JAMES L & NORMA L",
+  "pid": "260126",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0069-00": {
+  "address": "69 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0069-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 69",
+  "market_value": 93444.0,
+  "owner": "YOUNG RICHARD BRADLEY & BARBARA NELLY ZOLOZABAL YOUNG",
+  "pid": "260127",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0070-00": {
+  "address": "70 CAMELLIA",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0070-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 70",
+  "market_value": 69000.0,
+  "owner": "ESTES DWAIN M & REBECCA CO-TRUSTEES",
+  "pid": "260128",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0071-00": {
+  "address": "71 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0071-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 71",
+  "market_value": 69674.0,
+  "owner": "ESTES DWAIN M & REBECCA J",
+  "pid": "260129",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0072-00": {
+  "address": "72 LAUREL RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0072-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 72",
+  "market_value": 86853.0,
+  "owner": "GROLL JIMMIE L",
+  "pid": "260130",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0073-00": {
+  "address": "73 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0073-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 73",
+  "market_value": 75229.0,
+  "owner": "POWELL WALTER & ALICE",
+  "pid": "260131",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0074-00": {
+  "address": "74 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0074-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 74",
+  "market_value": 81223.0,
+  "owner": "CULVER FLOYD F & RUTH ANN",
+  "pid": "260132",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0075-00": {
+  "address": "1402 S CAGE BLVD LOT 75",
+  "city": "",
+  "geo_id": "P6500-00-000-0075-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 75",
+  "market_value": 75992.0,
+  "owner": "LEWIS CANDACE S",
+  "pid": "260133",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0076-00": {
+  "address": "1402 S CAGE BLVD UNIT NO. 76",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0076-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 76",
+  "market_value": 69009.0,
+  "owner": "JOHNSTON EARL & JOYCE",
+  "pid": "260134",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0077-00": {
+  "address": "77 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0077-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 77",
+  "market_value": 77277.0,
+  "owner": "HOLMES MORGAN RODNEY",
+  "pid": "260135",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0078-00": {
+  "address": "78 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0078-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 78",
+  "market_value": 52716.0,
+  "owner": "WIERENGA KAREN K & TAMARA CORMIER",
+  "pid": "260136",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0079-00": {
+  "address": "79 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0079-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 79",
+  "market_value": 59504.0,
+  "owner": "TENNYSON ROGER H & SUSAN K",
+  "pid": "260137",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0080-00": {
+  "address": "80 BLUEBONNET ST",
+  "city": "",
+  "geo_id": "P6500-00-000-0080-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 80",
+  "market_value": 69604.0,
+  "owner": "MICHELSON ROBERT M & BONNIE G",
+  "pid": "260138",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0081-00": {
+  "address": "81 BLUEBONNET ST",
+  "city": "",
+  "geo_id": "P6500-00-000-0081-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 81",
+  "market_value": 73129.0,
+  "owner": "RIOS GUADALUPE",
+  "pid": "260139",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0082-00": {
+  "address": "82 BLUEBONNET ST",
+  "city": "",
+  "geo_id": "P6500-00-000-0082-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 82",
+  "market_value": 71001.0,
+  "owner": "CANALES RICARDO JR",
+  "pid": "260140",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0083-00": {
+  "address": "83 BLUEBONNET ST",
+  "city": "",
+  "geo_id": "P6500-00-000-0083-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 83",
+  "market_value": 72894.0,
+  "owner": "CORTEZ ANDRES & IGNACIA M",
+  "pid": "260141",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0084-00": {
+  "address": "84 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0084-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 84",
+  "market_value": 61225.0,
+  "owner": "BUSBY WENDEL",
+  "pid": "260142",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0085-00": {
+  "address": "85 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0085-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 85",
+  "market_value": 58931.0,
+  "owner": "THOMPSON JOHN EDWARD & MARTHA MABEL",
+  "pid": "260143",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0086-00": {
+  "address": "86 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0086-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 86",
+  "market_value": 73156.0,
+  "owner": "HUTCHINSON ROBERT & SANDRA REVOCABLE LIVING TRUST",
+  "pid": "260144",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0087-00": {
+  "address": "87 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0087-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 87",
+  "market_value": 42814.0,
+  "owner": "SAMANIEGO JUAN RAUL & THELMA BELEM",
+  "pid": "260145",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0088-00": {
+  "address": "88 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0088-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 88",
+  "market_value": 54503.0,
+  "owner": "FERNANDEZ JUAN M & SANJUANA",
+  "pid": "260146",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0089-00": {
+  "address": "89 BLUEBONNET ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0089-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 89",
+  "market_value": 68559.0,
+  "owner": "MCLEOD BRUCE & PATRICIA P",
+  "pid": "260147",
   "prop_type": "R"
  },
  "P6500-00-000-0090-00": {
@@ -653209,6 +654669,176 @@
   "pid": "260148",
   "prop_type": "R"
  },
+ "P6500-00-000-0091-00": {
+  "address": "91 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0091-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 91",
+  "market_value": 58659.0,
+  "owner": "BARRERA SAN JUANA SANCHEZ",
+  "pid": "260149",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0092-00": {
+  "address": "92 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0092-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 92",
+  "market_value": 47209.0,
+  "owner": "WAKEHOUSE BECKY",
+  "pid": "260150",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0093-00": {
+  "address": "93 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0093-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 93",
+  "market_value": 81288.0,
+  "owner": "SCHEDEL BETTY",
+  "pid": "260151",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0094-00": {
+  "address": "94 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0094-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 94",
+  "market_value": 73586.0,
+  "owner": "HUTCHINSON JESS M & CHEVELLE R TRUSTEES JESS & CHEVELLE HUTCHINSON REV LVNG TRUST",
+  "pid": "260152",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0095-00": {
+  "address": "95 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0095-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 95",
+  "market_value": 79553.0,
+  "owner": "THARP EVAN J & BARBARA JEAN",
+  "pid": "260153",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0096-00": {
+  "address": "96 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0096-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 96",
+  "market_value": 80947.0,
+  "owner": "ZAHN CARL H TRUSTEE REVOCABLE TRUST",
+  "pid": "260154",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0097-00": {
+  "address": "97 JASMINE CIR",
+  "city": "",
+  "geo_id": "P6500-00-000-0097-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 97",
+  "market_value": 72209.0,
+  "owner": "JACOBSON MARILYN",
+  "pid": "260155",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0098-00": {
+  "address": "1402 S CAGE BLVD UNIT 98",
+  "city": "",
+  "geo_id": "P6500-00-000-0098-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 98",
+  "market_value": 84910.0,
+  "owner": "BROWN CLIFFORD & BRENDA",
+  "pid": "260156",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0099-00": {
+  "address": "99 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0099-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 99",
+  "market_value": 102398.0,
+  "owner": "STERRY JAMES F & JAQUI",
+  "pid": "260157",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0100-00": {
+  "address": "100 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0100-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 100",
+  "market_value": 71635.0,
+  "owner": "MOLINE DAVID & CAROL",
+  "pid": "260158",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0101-00": {
+  "address": "101 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0101-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 101",
+  "market_value": 56944.0,
+  "owner": "O'HAIR ERNEST R & JUDITH R",
+  "pid": "260159",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0102-00": {
+  "address": "102 JASMINE CIR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0102-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 102",
+  "market_value": 78832.0,
+  "owner": "WALLACE THOMAS CHARLES",
+  "pid": "260160",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0103-00": {
+  "address": "103 JASMINE CIR",
+  "city": "",
+  "geo_id": "P6500-00-000-0103-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 103",
+  "market_value": 83011.0,
+  "owner": "CEARLEY RONALD L CO-TRSTEE",
+  "pid": "260161",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0104-00": {
+  "address": "104 HAWTHORN",
+  "city": "",
+  "geo_id": "P6500-00-000-0104-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 104",
+  "market_value": 65796.0,
+  "owner": "CARRIZALES CRUZ A & BEVERLY A",
+  "pid": "260162",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0105-00": {
+  "address": "105 HAWTHORN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0105-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 105",
+  "market_value": 55972.0,
+  "owner": "BALDERAS ERNESTO & ELIDA",
+  "pid": "260163",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0106-00": {
+  "address": "106 HAWTHORN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0106-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 106",
+  "market_value": 84714.0,
+  "owner": "NIETO WILFREDO J & TERESA A",
+  "pid": "260164",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0107-00": {
+  "address": "107 HAWTHORN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0107-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 107; IMPS ON 95 ACCT",
+  "market_value": 39993.0,
+  "owner": "KLUTE DARYL M & MARY A JOHNSON",
+  "pid": "260165",
+  "prop_type": "R"
+ },
  "P6500-00-000-0108-00": {
   "address": "108 HAWTHORN",
   "city": "PHARR",
@@ -653217,6 +654847,86 @@
   "market_value": 83443.0,
   "owner": "NIETO IRMA",
   "pid": "260166",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0109-00": {
+  "address": "109 HAWTHORN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0109-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 109",
+  "market_value": 109568.0,
+  "owner": "WOLFF DAVID L & SUSAN M",
+  "pid": "260167",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0110-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0110-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 110",
+  "market_value": 84316.0,
+  "owner": "MILLARD JEFFREY A & KATHLEEN M",
+  "pid": "260168",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0111-00": {
+  "address": "W LAUREL",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0111-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 111",
+  "market_value": 98053.0,
+  "owner": "FORSBERG ROBERT D & COLENE M TRUSTEES FORSBERG FAMILY TRUST",
+  "pid": "260169",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0112-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0112-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 112",
+  "market_value": 65772.0,
+  "owner": "FERDIG UTE",
+  "pid": "260170",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0113-00": {
+  "address": "1402 S CAGE BLVD LOT 113",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0113-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 113",
+  "market_value": 56360.0,
+  "owner": "NAGLE ROBERT J & JANICE E SVENDSEN",
+  "pid": "260171",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0114-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0114-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 114",
+  "market_value": 55368.0,
+  "owner": "GREEN WALTER E & ELIZABETH G",
+  "pid": "260172",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0115-00": {
+  "address": "115 LAUREL AVE",
+  "city": "",
+  "geo_id": "P6500-00-000-0115-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 115",
+  "market_value": 48000.0,
+  "owner": "ESTES DWAIN M & REBECCA",
+  "pid": "260173",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0116-00": {
+  "address": "116 LAUREL AVE",
+  "city": "",
+  "geo_id": "P6500-00-000-0116-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 116",
+  "market_value": 59724.0,
+  "owner": "GUILLEN JOSE T & MARIA M",
+  "pid": "260174",
   "prop_type": "R"
  },
  "P6500-00-000-0117-00": {
@@ -653229,6 +654939,126 @@
   "pid": "260175",
   "prop_type": "R"
  },
+ "P6500-00-000-0118-00": {
+  "address": "118 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0118-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 118",
+  "market_value": 59907.0,
+  "owner": "AMES ALVIN R & KATHLEEN",
+  "pid": "260176",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0119-00": {
+  "address": "119 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0119-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 119",
+  "market_value": 29692.0,
+  "owner": "WALETZKO RAYMOND & ESTHER",
+  "pid": "260177",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0120-00": {
+  "address": "120 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0120-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 120",
+  "market_value": 31258.0,
+  "owner": "MARTIN CECIL LEO & LINDAL FERN TRUSTEES REVOCABLE TRUST",
+  "pid": "260178",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0120-01": {
+  "address": "121 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0120-01",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 121",
+  "market_value": 36202.0,
+  "owner": "HAMMOND BILL O & DOLORES J",
+  "pid": "260179",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0122-00": {
+  "address": "122 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0122-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 122",
+  "market_value": 19216.0,
+  "owner": "HANSEN DENISE M TRUSTEE",
+  "pid": "260180",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0123-00": {
+  "address": "123 COLUMBINE",
+  "city": "",
+  "geo_id": "P6500-00-000-0123-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 123",
+  "market_value": 37651.0,
+  "owner": "WESTPHAL TODD ROBERT DEBORAH SUE",
+  "pid": "260181",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0124-00": {
+  "address": "124 COLUMBINE",
+  "city": "",
+  "geo_id": "P6500-00-000-0124-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 124",
+  "market_value": 48472.0,
+  "owner": "IVANOVICH STEPHEN G & JANE A",
+  "pid": "260182",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0125-00": {
+  "address": "125 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0125-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 125",
+  "market_value": 36249.0,
+  "owner": "HUTCHISON JANECE KISSNER",
+  "pid": "260183",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0126-00": {
+  "address": "126 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0126-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 126",
+  "market_value": 29486.0,
+  "owner": "GARDNER CARLTON K & BARBARA G GARDNER",
+  "pid": "260184",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0127-00": {
+  "address": "127 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0127-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 127",
+  "market_value": 28784.0,
+  "owner": "GARDNER CARLTON K & BARBARA G GARDNER",
+  "pid": "260185",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0128-00": {
+  "address": "128 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0128-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 128",
+  "market_value": 31402.0,
+  "owner": "HEATON LEWIS A",
+  "pid": "260186",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0129-00": {
+  "address": "129 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0129-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 129",
+  "market_value": 49443.0,
+  "owner": "KIENHOLZ GARY & MARSHA",
+  "pid": "260187",
+  "prop_type": "R"
+ },
  "P6500-00-000-0130-00": {
   "address": "130 COLUMBINE",
   "city": "PHARR",
@@ -653237,6 +655067,346 @@
   "market_value": 30385.0,
   "owner": "GARCIA ODILIA",
   "pid": "260188",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0131-00": {
+  "address": "131 COLUMBINE",
+  "city": "",
+  "geo_id": "P6500-00-000-0131-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 131",
+  "market_value": 40841.0,
+  "owner": "KOLLMAR WILLIAM E & RITA R",
+  "pid": "260189",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0132-00": {
+  "address": "132 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0132-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 132",
+  "market_value": 45484.0,
+  "owner": "CHERYL DESPATHY",
+  "pid": "260190",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0133-00": {
+  "address": "133 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0133-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 133 & N1/2 LOT 272",
+  "market_value": 53665.0,
+  "owner": "CHILES CHARLES R",
+  "pid": "260191",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0134-00": {
+  "address": "134 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0134-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 134",
+  "market_value": 16800.0,
+  "owner": "FOUQUETTE SANDRA K REV LVNG TRUST",
+  "pid": "260192",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0135-00": {
+  "address": "135 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0135-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 135",
+  "market_value": 28968.0,
+  "owner": "MEDINA PERFECTA GUTIERREZ & ELIZABETH SUAREZ G",
+  "pid": "260193",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0136-00": {
+  "address": "136 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0136-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 136",
+  "market_value": 25303.0,
+  "owner": "KOLLMAR WILLIAM E & RITA R MARTIN",
+  "pid": "260194",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0137-00": {
+  "address": "137 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0137-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 137",
+  "market_value": 32655.0,
+  "owner": "HUGHES GARY E & LOIS A",
+  "pid": "260195",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0138-00": {
+  "address": "138 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0138-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 138",
+  "market_value": 26677.0,
+  "owner": "MUNOZ RUBEN R",
+  "pid": "260196",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0139-00": {
+  "address": "139 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0139-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 139",
+  "market_value": 29118.0,
+  "owner": "ALMAGUER ELIO & MARIA ELENA",
+  "pid": "260197",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0140-00": {
+  "address": "140 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0140-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 140",
+  "market_value": 36249.0,
+  "owner": "JUAREZ JUAN HERNANDEZ",
+  "pid": "260198",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0141-00": {
+  "address": "141 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0141-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 141",
+  "market_value": 38372.0,
+  "owner": "NETHERY ROBERT G",
+  "pid": "260199",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0142-00": {
+  "address": "142 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0142-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 142",
+  "market_value": 28073.0,
+  "owner": "CRAIN RONALD L & BARBARA R FAMILY TRUST",
+  "pid": "260200",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0143-00": {
+  "address": "143 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0143-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 143",
+  "market_value": 29953.0,
+  "owner": "RADMAN CATHERINE A &",
+  "pid": "260201",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0144-00": {
+  "address": "144 COLUMBINE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0144-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 144",
+  "market_value": 20816.0,
+  "owner": "STANDLEY LESTER A & BEVERLY A",
+  "pid": "260202",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0145-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0145-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 145",
+  "market_value": 36946.0,
+  "owner": "STANDLEY LESTER A & BEVERLY A",
+  "pid": "260203",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0146-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "",
+  "geo_id": "P6500-00-000-0146-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 146",
+  "market_value": 56988.0,
+  "owner": "BORKOWSKI CARRIE LOU TRUSTEE REVOCABLE LIVING TRUST",
+  "pid": "260204",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0147-00": {
+  "address": "147 COLUMBINE",
+  "city": "",
+  "geo_id": "P6500-00-000-0147-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 147",
+  "market_value": 62702.0,
+  "owner": "MORELOS BALENTIN",
+  "pid": "260205",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0148-00": {
+  "address": "148 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0148-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 148",
+  "market_value": 22485.0,
+  "owner": "GETTINGER DEBORAH J TRUSTEE",
+  "pid": "260206",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0149-00": {
+  "address": "149 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0149-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 149",
+  "market_value": 38976.0,
+  "owner": "RNP ILS 14 LLC",
+  "pid": "260207",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0150-00": {
+  "address": "150 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0150-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 150",
+  "market_value": 36316.0,
+  "owner": "STEVENS JOHN F & AGNES E CO-TR",
+  "pid": "260208",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0151-00": {
+  "address": "151 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0151-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 151",
+  "market_value": 28255.0,
+  "owner": "BUBLITZ HAROLD W",
+  "pid": "260209",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0152-00": {
+  "address": "152 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0152-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 152",
+  "market_value": 31607.0,
+  "owner": "LORGE JASON & MELISSA HOULE",
+  "pid": "260210",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0153-00": {
+  "address": "153 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0153-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 153",
+  "market_value": 21628.0,
+  "owner": "KRAATZ LONNIE & APRIL",
+  "pid": "260211",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0154-00": {
+  "address": "154 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0154-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 154",
+  "market_value": 27455.0,
+  "owner": "MURPHY THOMAS J & ELIZABETH",
+  "pid": "260212",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0155-00": {
+  "address": "155 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0155-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 155",
+  "market_value": 27043.0,
+  "owner": "BUSBY REBECCA & RAUDEL GARZA",
+  "pid": "260213",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0156-00": {
+  "address": "156 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0156-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 156",
+  "market_value": 34691.0,
+  "owner": "GORE HELEN JEAN",
+  "pid": "260214",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0157-00": {
+  "address": "157 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0157-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 157",
+  "market_value": 14700.0,
+  "owner": "ZAHARA RICHARD JOHN",
+  "pid": "260215",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0158-00": {
+  "address": "158 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0158-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 158",
+  "market_value": 21621.0,
+  "owner": "CHILDS ARNOLD & JILL",
+  "pid": "260216",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0159-00": {
+  "address": "159 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0159-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 159",
+  "market_value": 33841.0,
+  "owner": "MARKHAM ROBERT M & SHIRLEY M REVOCABLE TRUST",
+  "pid": "260217",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0160-00": {
+  "address": "160 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0160-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 160",
+  "market_value": 28155.0,
+  "owner": "CHILDS ARNOLD & JILL",
+  "pid": "260218",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0161-00": {
+  "address": "161 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0161-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 161",
+  "market_value": 38765.0,
+  "owner": "CAMPOS LEONEL",
+  "pid": "260219",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0162-00": {
+  "address": "162 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0162-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 162",
+  "market_value": 32961.0,
+  "owner": "HEATON PERRY W & MARY JOAN CO-TRUSTEES",
+  "pid": "260220",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0163-00": {
+  "address": "163 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0163-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 163",
+  "market_value": 27148.0,
+  "owner": "BUBLITZ HAROLD & CATHY",
+  "pid": "260221",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0164-00": {
+  "address": "164 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0164-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 164",
+  "market_value": 35562.0,
+  "owner": "MAS EDWARD & ANN L",
+  "pid": "260222",
   "prop_type": "R"
  },
  "P6500-00-000-0165-00": {
@@ -653249,6 +655419,106 @@
   "pid": "260223",
   "prop_type": "R"
  },
+ "P6500-00-000-0166-00": {
+  "address": "166 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0166-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 166",
+  "market_value": 39744.0,
+  "owner": "RNP ILS 14 LLC",
+  "pid": "260224",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0167-00": {
+  "address": "167 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0167-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 167",
+  "market_value": 36662.0,
+  "owner": "HALL MICHAEL G & BONNIE M TRUSTEE HALL TRUST",
+  "pid": "260225",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0168-00": {
+  "address": "168 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0168-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 168",
+  "market_value": 16350.0,
+  "owner": "MCINTYRE DOUGLAS",
+  "pid": "260226",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0169-00": {
+  "address": "169 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0169-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 169",
+  "market_value": 11500.0,
+  "owner": "ESTES DWAIN M & REBECCA CO-TRUSTEES",
+  "pid": "260227",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0170-00": {
+  "address": "170 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0170-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 170",
+  "market_value": 18126.0,
+  "owner": "ESTES DWAIN M & REBECCA J",
+  "pid": "260228",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0171-00": {
+  "address": "171 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0171-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 171",
+  "market_value": 26323.0,
+  "owner": "ESTES DWAIN M & REBECCA CO-TRUSTEES",
+  "pid": "260229",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0172-00": {
+  "address": "172 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0172-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 172",
+  "market_value": 26218.0,
+  "owner": "JOHNSON MERVIN J & DEBORAH J",
+  "pid": "260230",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0173-00": {
+  "address": "173 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0173-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 173",
+  "market_value": 31920.0,
+  "owner": "GILFILLAN LYLE W & SUSAN M",
+  "pid": "260231",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0174-00": {
+  "address": "174 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0174-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 174",
+  "market_value": 28432.0,
+  "owner": "PROVOST CHARLES & NANCY J",
+  "pid": "260232",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0175-00": {
+  "address": "175 FERN RD",
+  "city": "",
+  "geo_id": "P6500-00-000-0175-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 175",
+  "market_value": 32749.0,
+  "owner": "SATTERLEE DEANNA F F/K/A ANDERSEN",
+  "pid": "260233",
+  "prop_type": "R"
+ },
  "P6500-00-000-0176-00": {
   "address": "176 MISTLETOE",
   "city": "PHARR",
@@ -653259,6 +655529,916 @@
   "pid": "260234",
   "prop_type": "R"
  },
+ "P6500-00-000-0177-00": {
+  "address": "177 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0177-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 177",
+  "market_value": 28985.0,
+  "owner": "MUEHLHAEUSLER FRED & DORIS COE",
+  "pid": "260235",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0178-00": {
+  "address": "178 MISTLETOE LN",
+  "city": "",
+  "geo_id": "P6500-00-000-0178-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 178",
+  "market_value": 73128.0,
+  "owner": "MURPHY CHARLES L & CHRISTABEL H",
+  "pid": "260236",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0179-00": {
+  "address": "179 MISTLETOE LN",
+  "city": "",
+  "geo_id": "P6500-00-000-0179-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 179 EXC W10'",
+  "market_value": 70010.0,
+  "owner": "CONLEY BOBBY L & NORENE D",
+  "pid": "260237",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0180-00": {
+  "address": "MISTLETOE LN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0180-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 180 & W10' LOT 179",
+  "market_value": 76513.0,
+  "owner": "ARLEN SCOTT T & NANCY A TRUSTEES ARLEN FAMILY TRUST",
+  "pid": "260238",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0181-00": {
+  "address": "181 MISTLETOE LN",
+  "city": "",
+  "geo_id": "P6500-00-000-0181-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 181",
+  "market_value": 72191.0,
+  "owner": "ULMER DONALD J & JULIE A",
+  "pid": "260239",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0182-00": {
+  "address": "MISTLETOE LANE",
+  "city": "",
+  "geo_id": "P6500-00-000-0182-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 182",
+  "market_value": 75105.0,
+  "owner": "SLADE FAMILY REVOCABLE LIVING TRUST",
+  "pid": "260240",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0183-00": {
+  "address": "183 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0183-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 183",
+  "market_value": 77545.0,
+  "owner": "LEOPARD DOUGLAS N & GUADALUPE A",
+  "pid": "260241",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0184-00": {
+  "address": "184 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0184-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 184",
+  "market_value": 65283.0,
+  "owner": "NOLEN MICHAEL S",
+  "pid": "260242",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0185-00": {
+  "address": "185 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0185-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 185",
+  "market_value": 43000.0,
+  "owner": "ESTES DWAIN M & REBECCA J",
+  "pid": "260243",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0186-00": {
+  "address": "186 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0186-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 186",
+  "market_value": 99929.0,
+  "owner": "FERA STEVEN C LAWRENCE&",
+  "pid": "260244",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0187-00": {
+  "address": "187 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0187-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 187",
+  "market_value": 89982.0,
+  "owner": "CROCKETT DEBORAH SUE & KATHERINE A PETTY",
+  "pid": "260245",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0188-00": {
+  "address": "188 SAGEBRUSH",
+  "city": "",
+  "geo_id": "P6500-00-000-0188-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 188",
+  "market_value": 84962.0,
+  "owner": "SCHULL RONALD ERNEST & MELVA JEAN",
+  "pid": "260246",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0189-00": {
+  "address": "189 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0189-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 189",
+  "market_value": 63824.0,
+  "owner": "VAN MOORLEHEM ROBERT R",
+  "pid": "260247",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0190-00": {
+  "address": "190 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0190-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 190",
+  "market_value": 50565.0,
+  "owner": "ELLINGSON DOUGLAS E & KATHLEEN M",
+  "pid": "260248",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0191-00": {
+  "address": "191 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0191-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 191",
+  "market_value": 52541.0,
+  "owner": "ESTES DWAIN M & REBECCA CO-TRUSTEES",
+  "pid": "260249",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0192-00": {
+  "address": "192 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0192-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 192",
+  "market_value": 58056.0,
+  "owner": "HEINEN RUSSELL D & JANE",
+  "pid": "260250",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0193-00": {
+  "address": "193 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0193-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 193",
+  "market_value": 69935.0,
+  "owner": "LAUZON TERRY & DOLLY",
+  "pid": "260251",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0194-00": {
+  "address": "194 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0194-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 194",
+  "market_value": 91394.0,
+  "owner": "MENDOZA EMILIANO",
+  "pid": "260252",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0195-00": {
+  "address": "195 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0195-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 195",
+  "market_value": 86073.0,
+  "owner": "MCQUALITY LARRY D",
+  "pid": "260253",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0196-00": {
+  "address": "196 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0196-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 196",
+  "market_value": 55000.0,
+  "owner": "SHAY MARTIN D & ELAINE M",
+  "pid": "260254",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0197-00": {
+  "address": "197 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0197-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 197",
+  "market_value": 60000.0,
+  "owner": "WATSON ROBERT J & MARY C",
+  "pid": "260255",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0198-00": {
+  "address": "198 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0198-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 198",
+  "market_value": 86861.0,
+  "owner": "GILBERT FAMILY REVOCABLE TRUST",
+  "pid": "260256",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0199-00": {
+  "address": "199 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0199-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 199",
+  "market_value": 58256.0,
+  "owner": "SCHULL RONALD J & NANCY J",
+  "pid": "260257",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0200-00": {
+  "address": "200 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0200-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 200",
+  "market_value": 109374.0,
+  "owner": "COTE ALLAN & BONITA TRUSTEES TRUST & DAVID T HOPSON",
+  "pid": "260258",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0201-00": {
+  "address": "201 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0201-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 201",
+  "market_value": 108778.0,
+  "owner": "MORENO ROMAN & MARIA RAQUEL PRAY",
+  "pid": "260259",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0202-00": {
+  "address": "202 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0202-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 202",
+  "market_value": 91889.0,
+  "owner": "WIDLOWSKI ROBERT F & PATRICIA CO-TSTS",
+  "pid": "260260",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0203-00": {
+  "address": "203 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0203-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 203",
+  "market_value": 55852.0,
+  "owner": "ALEXANDER MARK L & JESSICA L",
+  "pid": "260261",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0204-00": {
+  "address": "204 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0204-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 204",
+  "market_value": 73346.0,
+  "owner": "HIGGS JANET",
+  "pid": "260262",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0205-00": {
+  "address": "205 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0205-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 205",
+  "market_value": 77380.0,
+  "owner": "LOUGHAN SUE A",
+  "pid": "260263",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0206-00": {
+  "address": "206 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0206-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 206",
+  "market_value": 64990.0,
+  "owner": "SERRATOS IGNACIO & MA ELISA",
+  "pid": "260264",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0207-00": {
+  "address": "207 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0207-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 207",
+  "market_value": 89000.0,
+  "owner": "RASULA LINDA S REVOCABLE INTERVIVOS TRUST & MARTIN WILLIAM P",
+  "pid": "260265",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0208-00": {
+  "address": "208 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0208-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 208",
+  "market_value": 69919.0,
+  "owner": "HOELSCHER RANDALL CRAIG & MARY JANE JOHNSON",
+  "pid": "260266",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0209-00": {
+  "address": "209 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0209-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 209",
+  "market_value": 62599.0,
+  "owner": "GAUER JENNIFER S & LOIS A EASTERLY",
+  "pid": "260267",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0210-00": {
+  "address": "210 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0210-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 210",
+  "market_value": 82179.0,
+  "owner": "DALE JOHNC & MAXINE TRSTS",
+  "pid": "260268",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0211-00": {
+  "address": "211 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0211-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 211",
+  "market_value": 92892.0,
+  "owner": "REYNA MARIA DE JESUS",
+  "pid": "260269",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0212-00": {
+  "address": "212 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0212-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 212",
+  "market_value": 52088.0,
+  "owner": "ACKERMANN DEAN R & CONNIE S",
+  "pid": "260270",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0213-00": {
+  "address": "213 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0213-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 213",
+  "market_value": 58419.0,
+  "owner": "VECRUMBA ANDRIS SPELMANIS REV LVNG TRUST",
+  "pid": "260271",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0214-00": {
+  "address": "214 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0214-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 214",
+  "market_value": 50448.0,
+  "owner": "ESTES DWAIN M & REBECCA J",
+  "pid": "260272",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0215-00": {
+  "address": "215 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0215-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 215",
+  "market_value": 78046.0,
+  "owner": "SANTO KEITH T & DELANA C",
+  "pid": "260273",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0216-00": {
+  "address": "216 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0216-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 216",
+  "market_value": 71693.0,
+  "owner": "RICHMAN RONALD & JACQUELINE",
+  "pid": "260274",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0217-00": {
+  "address": "217 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0217-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 217",
+  "market_value": 59182.0,
+  "owner": "MAYBERRY ROBERT M & JEAN C DORSEY",
+  "pid": "260275",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0218-00": {
+  "address": "218 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0218-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 218",
+  "market_value": 59372.0,
+  "owner": "BRENWALL MICHAEL S & SUSAN A",
+  "pid": "260276",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0219-00": {
+  "address": "219 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0219-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 219",
+  "market_value": 72874.0,
+  "owner": "VIDEAN DONALD W & SANDRA A",
+  "pid": "260277",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0220-00": {
+  "address": "220 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0220-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 220",
+  "market_value": 77938.0,
+  "owner": "ORNELAS EVA L ELIZONDO",
+  "pid": "260278",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0221-00": {
+  "address": "221 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0221-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 221",
+  "market_value": 70606.0,
+  "owner": "GARRISON PATRICIA & VERNON",
+  "pid": "260279",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0222-00": {
+  "address": "1402 S CAGE BLVD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0222-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 222",
+  "market_value": 87329.0,
+  "owner": "ROBARDS DANIEL T & TERRY J",
+  "pid": "260280",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0223-00": {
+  "address": "223 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0223-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 223",
+  "market_value": 63000.0,
+  "owner": "NELSON ARVID M & BONITA C",
+  "pid": "260281",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0224-00": {
+  "address": "224 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0224-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 224",
+  "market_value": 72264.0,
+  "owner": "GARZA ADELA",
+  "pid": "260282",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0225-00": {
+  "address": "225 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0225-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 225",
+  "market_value": 58513.0,
+  "owner": "SARGENT BRIAN R & CYNTHIA D",
+  "pid": "260283",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0226-00": {
+  "address": "226 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0226-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 226",
+  "market_value": 86172.0,
+  "owner": "BONK ANTON",
+  "pid": "260284",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0227-00": {
+  "address": "227 SAGEBRUSH",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0227-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 227",
+  "market_value": 62873.0,
+  "owner": "LARSEN KENNETH W & DONNA F",
+  "pid": "260285",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0228-00": {
+  "address": "228 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0228-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 228",
+  "market_value": 55402.0,
+  "owner": "ESTES DWAIN M & REBECCA J CO - TRSTS",
+  "pid": "260286",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0229-00": {
+  "address": "229 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0229-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 229",
+  "market_value": 77026.0,
+  "owner": "TIEMAN TERRY W & WANDA R TRUSTEES TRUST",
+  "pid": "260287",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0230-00": {
+  "address": "230 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0230-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 230",
+  "market_value": 38500.0,
+  "owner": "LANG LINDA L TRUSTEE REVOCABLE TRUST",
+  "pid": "260288",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0231-00": {
+  "address": "231 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0231-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 231",
+  "market_value": 55445.0,
+  "owner": "WARE BRUCE E & CAROLYN",
+  "pid": "260289",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0232-00": {
+  "address": "232 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0232-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 232",
+  "market_value": 84412.0,
+  "owner": "SEXTON SUZANNE L",
+  "pid": "260290",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0233-00": {
+  "address": "233 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0233-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 233",
+  "market_value": 69700.0,
+  "owner": "HALL GREGORY L & MARY LOU",
+  "pid": "260291",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0234-00": {
+  "address": "234 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0234-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 234",
+  "market_value": 69684.0,
+  "owner": "PRICE EVELYN MARIE & BEN ALAN",
+  "pid": "260292",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0235-00": {
+  "address": "235 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0235-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 235",
+  "market_value": 66000.0,
+  "owner": "LUST ALVIN R & CAROLYN J CO-TRST",
+  "pid": "260293",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0236-00": {
+  "address": "236 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0236-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 236",
+  "market_value": 69414.0,
+  "owner": "ORTEGA ROMAN",
+  "pid": "260294",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0237-00": {
+  "address": "237 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0237-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 237",
+  "market_value": 69297.0,
+  "owner": "BULL MURTON H & LORRAINE C",
+  "pid": "260295",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0238-00": {
+  "address": "238 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0238-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 238",
+  "market_value": 83941.0,
+  "owner": "JOHNSON RANDY & MARY",
+  "pid": "260296",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0239-00": {
+  "address": "239 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0239-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 239",
+  "market_value": 110000.0,
+  "owner": "MICHALSKI LINDSAY C & DONNA S",
+  "pid": "260297",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0240-00": {
+  "address": "240 LAUREL AVE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0240-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 240",
+  "market_value": 71427.0,
+  "owner": "BJORGE BEN E & PATRICIA L",
+  "pid": "260298",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0241-00": {
+  "address": "FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0241-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 241",
+  "market_value": 75000.0,
+  "owner": "SWAGGER DAVID L & SHERRI D",
+  "pid": "260299",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0243-00": {
+  "address": "243 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0243-00",
+  "legal": "PHARR SOUTH UT NO. 2 E47' LOT 243 & ALL LOT 242",
+  "market_value": 95492.0,
+  "owner": "TEUNISSEN HARVEY & LORI LIVING TRUST",
+  "pid": "260300",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0244-00": {
+  "address": "1401 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0244-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 244 & W24' LOT 243",
+  "market_value": 75000.0,
+  "owner": "WEHR CHRIS",
+  "pid": "260301",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0245-00": {
+  "address": "245 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0245-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 245",
+  "market_value": 73462.0,
+  "owner": "OSTLUND ROGER A & BARBARA J",
+  "pid": "260302",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0246-00": {
+  "address": "246 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0246-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 246",
+  "market_value": 71759.0,
+  "owner": "HAIT GUY M & MARY JO",
+  "pid": "260303",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0247-00": {
+  "address": "247 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0247-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 247",
+  "market_value": 72013.0,
+  "owner": "SCHMIDT ANITA D",
+  "pid": "260304",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0248-00": {
+  "address": "ORANGE BLOSSOM BLVD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0248-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 248",
+  "market_value": 89363.0,
+  "owner": "BLACKLAWS ROY A & MARJORIE M FAMILY REV LVG TRUST",
+  "pid": "260305",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0249-00": {
+  "address": "249 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0249-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 249",
+  "market_value": 73074.0,
+  "owner": "SPOONER WILLIAM & KATHRYN",
+  "pid": "260306",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0250-00": {
+  "address": "250 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0250-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 250",
+  "market_value": 75703.0,
+  "owner": "HALL MICHAEL G TRUSTEE OF THE MICHAEL G HALL TRST",
+  "pid": "260307",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0251-00": {
+  "address": "251 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0251-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 251",
+  "market_value": 51503.0,
+  "owner": "GETTINGER DEBORAH J TRUSTEE",
+  "pid": "260308",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0252-00": {
+  "address": "252 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0252-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 252",
+  "market_value": 76618.0,
+  "owner": "ABEL JOHN W & KAY A TRUSTEES",
+  "pid": "260309",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0253-00": {
+  "address": "253 ORANGE BLOSSOM DR",
+  "city": "",
+  "geo_id": "P6500-00-000-0253-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 253",
+  "market_value": 55266.0,
+  "owner": "BROCK NANCY",
+  "pid": "260310",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0254-00": {
+  "address": "254 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0254-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 254",
+  "market_value": 66242.0,
+  "owner": "BLAZEK WILLIAM J & ALICE L",
+  "pid": "260311",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0255-00": {
+  "address": "255 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0255-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 255",
+  "market_value": 63210.0,
+  "owner": "WEAVER TARA ESTEL",
+  "pid": "260312",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0256-00": {
+  "address": "256 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0256-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 256; IMPS ON 95 ACCT",
+  "market_value": 35000.0,
+  "owner": "MCGILL EARL W & NANCY E",
+  "pid": "260313",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0257-00": {
+  "address": "257 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0257-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 257",
+  "market_value": 59241.0,
+  "owner": "ESTEP STEPHEN M & LORI M",
+  "pid": "260314",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0258-00": {
+  "address": "258 ORANGE BLOSSOM DR",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0258-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 258",
+  "market_value": 123239.0,
+  "owner": "MITCHELL JERRY",
+  "pid": "260315",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0259-00": {
+  "address": "259 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0259-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 259",
+  "market_value": 80168.0,
+  "owner": "MCGILL DENNIS L & LAUIRE A",
+  "pid": "260316",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0260-00": {
+  "address": "260 FERN RD",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0260-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 260",
+  "market_value": 81670.0,
+  "owner": "SAVAGE ROBIN M & CAROLYN K FINDLAY TRUSTEES",
+  "pid": "260317",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0261-00": {
+  "address": "261 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0261-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 261",
+  "market_value": 0.0,
+  "owner": "GARZA BEATRIZ O",
+  "pid": "260318",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0262-00": {
+  "address": "262 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0262-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 262",
+  "market_value": 65467.0,
+  "owner": "BENDER VIRGINIA M TRUSTEE TRUST",
+  "pid": "260319",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0263-00": {
+  "address": "263 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0263-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 263",
+  "market_value": 44955.0,
+  "owner": "ARNDT JEAN",
+  "pid": "260320",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0264-00": {
+  "address": "264 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0264-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 264",
+  "market_value": 65134.0,
+  "owner": "HOGEWEIDE DAVID J & GLORIA J",
+  "pid": "260321",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0265-00": {
+  "address": "265 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0265-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 265",
+  "market_value": 66073.0,
+  "owner": "HUGHES ROBERT NEIL & RICHARD HUGHES III AKA RICHARD OWEN",
+  "pid": "260322",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0266-00": {
+  "address": "266 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0266-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 266",
+  "market_value": 51217.0,
+  "owner": "JOHNSON RANDY & MARY",
+  "pid": "260323",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0267-00": {
+  "address": "267 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0267-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 267",
+  "market_value": 78296.0,
+  "owner": "DAHLE SHARON M TRUSTEE",
+  "pid": "260324",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0268-00": {
+  "address": "268 MISTLETOE",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0268-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 268",
+  "market_value": 69006.0,
+  "owner": "CRUMLEY CAROL A TRUSTEE",
+  "pid": "260325",
+  "prop_type": "R"
+ },
  "P6500-00-000-0269-00": {
   "address": "269 MISTLETOE",
   "city": "PHARR",
@@ -653267,6 +656447,86 @@
   "market_value": 72019.0,
   "owner": "GARCIA JUAN & LIVIDA",
   "pid": "260326",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0270-00": {
+  "address": "270 MAGNOLIA ST",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0270-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 270",
+  "market_value": 65158.0,
+  "owner": "ST AUBIN DONALD J & CONSTANCE ANN TRUSTEES",
+  "pid": "260327",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0271-00": {
+  "address": "271 MISTLETOE LN",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0271-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 271",
+  "market_value": 81282.0,
+  "owner": "ASKEVICS JOANN & DEANNA F SATTERLEE",
+  "pid": "260328",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0272-01": {
+  "address": "273 PAINTED CAP",
+  "city": "",
+  "geo_id": "P6500-00-000-0272-01",
+  "legal": "PHARR SOUTH UT NO. 2 S1/2 LOT 272 & ALL LOT 273",
+  "market_value": 82610.0,
+  "owner": "BROWN CLIFFORD & BRENDA",
+  "pid": "260329",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0274-00": {
+  "address": "274 PAINTED CUP",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0274-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 274",
+  "market_value": 43790.0,
+  "owner": "MAIER JAY & TAMMY GARRISON-MAIER",
+  "pid": "260330",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0275-00": {
+  "address": "275 PAINTED CUP",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0275-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 275",
+  "market_value": 62574.0,
+  "owner": "MORENO ROMAN VALLEJO",
+  "pid": "260331",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0276-00": {
+  "address": "276 PAINTED CUP",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0276-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 276",
+  "market_value": 97184.0,
+  "owner": "MAYES DERRICK C & HILDA GERONIMO",
+  "pid": "260332",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0277-00": {
+  "address": "277 PAINTED CUP",
+  "city": "PHARR",
+  "geo_id": "P6500-00-000-0277-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 277",
+  "market_value": 38500.0,
+  "owner": "ROLLER JEFFREY L & STEPHANIE",
+  "pid": "260333",
+  "prop_type": "R"
+ },
+ "P6500-00-000-0278-00": {
+  "address": "278 PAINTED CUP",
+  "city": "",
+  "geo_id": "P6500-00-000-0278-00",
+  "legal": "PHARR SOUTH UT NO. 2 LOT 278",
+  "market_value": 65284.0,
+  "owner": "HANSEN JACK ALLEN",
+  "pid": "260334",
   "prop_type": "R"
  },
  "P6500-03-000-0293-00": {
@@ -653288,6 +656548,16 @@
   "owner": "CANTU ARMANDO & OLGA GOMEZ",
   "pid": "260379",
   "prop_type": "R"
+ },
+ "P6500-95-000-0023-00": {
+  "address": "23 MISTLETOE",
+  "city": "ALBUERQUE",
+  "geo_id": "P6500-95-000-0023-00",
+  "legal": "PHARR SOUTH UT NO. 1 LOT 23-95' IMPROVEMENTS ONLY NEW FOR 2025",
+  "market_value": 54569.0,
+  "owner": "CHEENIBASS ASHA SANKAR",
+  "pid": "20854680",
+  "prop_type": "MH"
  },
  "P6560-00-000-0013-00": {
   "address": "1804 PIEDRAS NEGRAS AVE",
@@ -674207,6 +677477,16 @@
   "market_value": 78181.0,
   "owner": "GARZA CORNELIO SR & MARIA L LOPEZ SAENZ",
   "pid": "1014219",
+  "prop_type": "R"
+ },
+ "P9277-16-000-0084-00": {
+  "address": "6319 ALLEGIANT ST",
+  "city": "EDINBURG",
+  "geo_id": "P9277-16-000-0084-00",
+  "legal": "PUEBLO DE PALMAS PH 16 LOT 84",
+  "market_value": 92620.0,
+  "owner": "DELGADO MARIA FRANCISCA & ROXANA AURORA MACIAS-OLAGUE",
+  "pid": "1014221",
   "prop_type": "R"
  },
  "P9277-16-000-0095-00": {
@@ -711749,6 +715029,16 @@
   "pid": "622660",
   "prop_type": "R"
  },
+ "R3114-02-000-0114-00": {
+  "address": "1711 E ESPERANZA AVE",
+  "city": "",
+  "geo_id": "R3114-02-000-0114-00",
+  "legal": "RIO LARGO ESTATES 2 LOT 114",
+  "market_value": 199835.0,
+  "owner": "DELGADO MARIA GUADALUPE & JORGE ARMANDO DELGADO ACOSTA",
+  "pid": "622666",
+  "prop_type": "R"
+ },
  "R3114-02-000-0118-00": {
   "address": "1703 E ESPERANZA AVE",
   "city": "",
@@ -714519,6 +717809,16 @@
   "pid": "545527",
   "prop_type": "R"
  },
+ "R3280-00-000-0020-00": {
+  "address": "1925 SUMMER BREEZE ST",
+  "city": "MISSION",
+  "geo_id": "R3280-00-000-0020-00",
+  "legal": "RIVER OAKS ESTATES LOT 20",
+  "market_value": 351100.0,
+  "owner": "DELGADO MARIA E MARTINEZ",
+  "pid": "545537",
+  "prop_type": "R"
+ },
  "R3280-00-000-0028-00": {
   "address": "1909 SUMMER BREEZE ST",
   "city": "MISSION",
@@ -716517,6 +719817,16 @@
   "market_value": 198743.0,
   "owner": "GARCIA JORGE GARZA & NILDA S GONZALEZ",
   "pid": "20405593",
+  "prop_type": "R"
+ },
+ "R3485-00-000-0036-00": {
+  "address": "2410 FLAG STONE TERRACE",
+  "city": "",
+  "geo_id": "R3485-00-000-0036-00",
+  "legal": "ROCK SPRINGS RIDGE LOT 36",
+  "market_value": 288702.0,
+  "owner": "RODRIGUEZ JESSICA O & ROGELIO",
+  "pid": "20405599",
   "prop_type": "R"
  },
  "R3490-00-000-0009-00": {
@@ -727119,6 +730429,16 @@
   "pid": "582888",
   "prop_type": "R"
  },
+ "S0152-02-000-0008-00": {
+  "address": "MILE 7 N",
+  "city": "",
+  "geo_id": "S0152-02-000-0008-00",
+  "legal": "SALIDA DEL SOL ESTATES PH 2 LOT 8",
+  "market_value": 165220.0,
+  "owner": "SALINAS BRADY HOMER JR",
+  "pid": "582889",
+  "prop_type": "R"
+ },
  "S0152-02-000-0010-00": {
   "address": "17831 SALIDA DEL SOL AVE",
   "city": "",
@@ -730727,6 +734047,16 @@
   "market_value": 213293.0,
   "owner": "GONZALEZ JESUS",
   "pid": "687488",
+  "prop_type": "R"
+ },
+ "S0557-01-000-0041-00": {
+  "address": "7306 PETIRROJO",
+  "city": "",
+  "geo_id": "S0557-01-000-0041-00",
+  "legal": "SAN CRISTOBAL PH 1 LOT 41",
+  "market_value": 118600.0,
+  "owner": "RODRIGUEZ JESSICA & MAYRA K HERRERA",
+  "pid": "687490",
   "prop_type": "R"
  },
  "S0557-01-000-0043-00": {
@@ -734729,6 +738059,16 @@
   "pid": "1377846",
   "prop_type": "R"
  },
+ "S0669-10-001-0006-00": {
+  "address": "1614 EMMA ELIZABETH ST",
+  "city": "WESLACO",
+  "geo_id": "S0669-10-001-0006-00",
+  "legal": "SAN JACINTO ESTATES NO. 10 PH 1 LOT 6",
+  "market_value": 98684.0,
+  "owner": "GONZALEZ MARTIN EDUARDO & VERONICA",
+  "pid": "1377849",
+  "prop_type": "R"
+ },
  "S0669-10-001-0008-00": {
   "address": "1606 EMMA ELIZABETH ST",
   "city": "WESLACO",
@@ -735527,6 +738867,16 @@
   "market_value": 137173.0,
   "owner": "DE LA CRUZ JOSE VALENTIN JR",
   "pid": "1016798",
+  "prop_type": "R"
+ },
+ "S0670-02-000-0267-00": {
+  "address": "7506 RICHARD ST",
+  "city": "",
+  "geo_id": "S0670-02-000-0267-00",
+  "legal": "SAN JOAQUIN PH 2 LOT 267",
+  "market_value": 80585.0,
+  "owner": "GONZALEZ ELSA ELIDA",
+  "pid": "1016800",
   "prop_type": "R"
  },
  "S0670-02-000-0275-00": {
@@ -808679,6 +812029,16 @@
   "pid": "585641",
   "prop_type": "R"
  },
+ "S4265-00-001-0012-00": {
+  "address": "1555 TURKEY TROT",
+  "city": "",
+  "geo_id": "S4265-00-001-0012-00",
+  "legal": "SOUTH FORTY LOT 12 BLK 1",
+  "market_value": 144277.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "585642",
+  "prop_type": "R"
+ },
  "S4265-00-002-0006-00": {
   "address": "1655 TURKEY DR",
   "city": "",
@@ -815679,6 +819039,16 @@
   "pid": "288859",
   "prop_type": "R"
  },
+ "S5100-00-004-0018-00": {
+  "address": "600 S 28TH ST",
+  "city": "MCALLEN",
+  "geo_id": "S5100-00-004-0018-00",
+  "legal": "SOUTHWEST HEIGHTS NO. 2 LOT 18 BLK 4",
+  "market_value": 154495.0,
+  "owner": "GONZALEZ MARTIN",
+  "pid": "288862",
+  "prop_type": "R"
+ },
  "S5200-00-000-0003-00": {
   "address": "1113 W SPRAGUE ST",
   "city": "EDINBURG",
@@ -821177,6 +824547,16 @@
   "market_value": 919664.0,
   "owner": "GARZA RUFINO",
   "pid": "498744",
+  "prop_type": "R"
+ },
+ "S5830-00-000-0007-00": {
+  "address": "3011 PTJ DR",
+  "city": "PALMVIEW",
+  "geo_id": "S5830-00-000-0007-00",
+  "legal": "ST. PAUL ESTATES LOT 7",
+  "market_value": 249061.0,
+  "owner": "RODRIGUEZ JESSICA",
+  "pid": "687863",
   "prop_type": "R"
  },
  "S5830-00-000-0009-00": {
@@ -833889,6 +837269,16 @@
   "pid": "1013622",
   "prop_type": "R"
  },
+ "S7053-00-000-0046-00": {
+  "address": "BLUE STAR LN",
+  "city": "",
+  "geo_id": "S7053-00-000-0046-00",
+  "legal": "SUNFLOWER GARDENS LOT 46",
+  "market_value": 267019.0,
+  "owner": "GONZALEZ MARTIN A PERALES & SARAI ALBA-LUNA",
+  "pid": "1013630",
+  "prop_type": "R"
+ },
  "S7053-00-000-0050-00": {
   "address": "BLUE STAR LN",
   "city": "",
@@ -834677,6 +838067,16 @@
   "market_value": 116223.0,
   "owner": "SALINAS ANGELICA MARIA",
   "pid": "292437",
+  "prop_type": "R"
+ },
+ "S7250-02-003-0013-00": {
+  "address": "RAMIRO GUERRA ST",
+  "city": "",
+  "geo_id": "S7250-02-003-0013-00",
+  "legal": "SUNRISE LOT 13 BLK 3",
+  "market_value": 227055.0,
+  "owner": "GONZALEZ MARTIN & SILVIA",
+  "pid": "292440",
   "prop_type": "R"
  },
  "S7250-02-004-0009-00": {
@@ -846737,6 +850137,16 @@
   "market_value": 152194.0,
   "owner": "MORALES JUAN ARMANDO",
   "pid": "293993",
+  "prop_type": "R"
+ },
+ "T1100-02-000-0039-00": {
+  "address": "2825 FIR AVE",
+  "city": "",
+  "geo_id": "T1100-02-000-0039-00",
+  "legal": "TEJAS UT NO. 2 LOTS 39 & 40",
+  "market_value": 323796.0,
+  "owner": "GONZALEZ MARTIN G",
+  "pid": "294000",
   "prop_type": "R"
  },
  "T1100-02-000-0042-00": {
@@ -861739,6 +865149,16 @@
   "pid": "559998",
   "prop_type": "R"
  },
+ "T2100-00-260-0014-35": {
+  "address": "HOLMES RD",
+  "city": "",
+  "geo_id": "T2100-00-260-0014-35",
+  "legal": "TEX-MEX SURVEY S71.31'-W256.93'-E314.43 BEING AN IRR TR 0.29AC NET",
+  "market_value": 43582.0,
+  "owner": "CORTEZ ANGELICA",
+  "pid": "559999",
+  "prop_type": "R"
+ },
  "T2100-00-260-0015-10": {
   "address": "11200 E HWY 107",
   "city": "",
@@ -861897,6 +865317,26 @@
   "market_value": 213608.0,
   "owner": "GARCIA JESUS CARLOS",
   "pid": "296690",
+  "prop_type": "R"
+ },
+ "T2100-00-266-0003-10": {
+  "address": "10812 HWY 107",
+  "city": "",
+  "geo_id": "T2100-00-266-0003-10",
+  "legal": "TEX-MEX SURVEY N3.50AC-KEYWEST M/H SALES-E10AC LOT 3 SEC 266",
+  "market_value": 130096.0,
+  "owner": "CORTEZ ANGELICA",
+  "pid": "562313",
+  "prop_type": "R"
+ },
+ "T2100-00-266-0003-11": {
+  "address": "HWY 107",
+  "city": "",
+  "geo_id": "T2100-00-266-0003-11",
+  "legal": "TEX-MEX SURVEY E10AC EXC N3.50AC-KEYWEST M/H SALES LOT 3 SEC 266 6.50AC GR 5.90AC NET",
+  "market_value": 120950.0,
+  "owner": "CORTEZ ANGELICA",
+  "pid": "607670",
   "prop_type": "R"
  },
  "T2100-00-266-0004-02": {
@@ -866007,6 +869447,26 @@
   "market_value": 196615.0,
   "owner": "OCHOA FERNANDO",
   "pid": "298821",
+  "prop_type": "R"
+ },
+ "T2200-00-010-0025-01": {
+  "address": "WESTERN RD",
+  "city": "",
+  "geo_id": "T2200-00-010-0025-01",
+  "legal": "TEXAN GARDENS 0.50AC-SW COR FOR IMPS-S1/2 LOT 25 BLK 10 0.50AC",
+  "market_value": 272308.0,
+  "owner": "SALINAS BRADY HOMER JR & BRADY",
+  "pid": "528294",
+  "prop_type": "R"
+ },
+ "T2200-00-010-0025-05": {
+  "address": "WESTERN RD",
+  "city": "",
+  "geo_id": "T2200-00-010-0025-05",
+  "legal": "TEXAN GARDENS S1/2 LOT 25 BLK 10 EXC 0.50AC-SW COR FOR IMPS 4.50AC GR 4.40AC NET",
+  "market_value": 120767.0,
+  "owner": "SALINAS BRADY HOMER JR & BRADY",
+  "pid": "583682",
   "prop_type": "R"
  },
  "T2200-00-010-0026-00": {
@@ -877659,6 +881119,16 @@
   "pid": "709311",
   "prop_type": "R"
  },
+ "T3257-00-000-0069-00": {
+  "address": "3000 INDIAN CREEK AVE",
+  "city": "MCALLEN",
+  "geo_id": "T3257-00-000-0069-00",
+  "legal": "THE GARDENS AT TRINITY OAKS LOT 69",
+  "market_value": 232989.0,
+  "owner": "GONZALEZ MARTIN",
+  "pid": "709319",
+  "prop_type": "R"
+ },
  "T3257-00-000-0070-00": {
   "address": "2932 INDIAN CREEK AVE",
   "city": "MCALLEN",
@@ -877757,6 +881227,16 @@
   "market_value": 230540.0,
   "owner": "HERNANDEZ HECTOR G",
   "pid": "709357",
+  "prop_type": "R"
+ },
+ "T3257-00-000-0111-00": {
+  "address": "3001 INDIAN CREEK AVE",
+  "city": "MCALLEN",
+  "geo_id": "T3257-00-000-0111-00",
+  "legal": "THE GARDENS AT TRINITY OAKS LOT 111",
+  "market_value": 252108.0,
+  "owner": "BRIZUELA HECTOR & CLAUDIA",
+  "pid": "709360",
   "prop_type": "R"
  },
  "T3257-00-000-0114-00": {
@@ -877997,6 +881477,16 @@
   "market_value": 133351.0,
   "owner": "SAENZ OSCAR RUBEN & AGUSTINA",
   "pid": "301490",
+  "prop_type": "R"
+ },
+ "T3400-00-000-0004-05": {
+  "address": "7618 N MILE 4 WEST RD",
+  "city": "",
+  "geo_id": "T3400-00-000-0004-05",
+  "legal": "THE HIGHLANDS-N98.25'-S687.75'-W555.73' LOT 4 1.25AC GR 1.20AC NET",
+  "market_value": 237808.0,
+  "owner": "GONZALEZ MARTIN & ELIZABETH M",
+  "pid": "511823",
   "prop_type": "R"
  },
  "T3400-00-000-0004-10": {
@@ -878799,6 +882289,16 @@
   "pid": "700952",
   "prop_type": "R"
  },
+ "T3565-00-000-0027-00": {
+  "address": "926 BUNKER AVE",
+  "city": "EDINBURG",
+  "geo_id": "T3565-00-000-0027-00",
+  "legal": "THE LINKS LOT 27",
+  "market_value": 245826.0,
+  "owner": "GONZALEZ MARTIN",
+  "pid": "700954",
+  "prop_type": "R"
+ },
  "T3570-01-000-0001-00": {
   "address": "4105 CARNATION AVE",
   "city": "MCALLEN",
@@ -879267,6 +882767,16 @@
   "market_value": 221027.0,
   "owner": "MARTINEZ MARIA TERESA",
   "pid": "301657",
+  "prop_type": "R"
+ },
+ "T3630-01-000-0012-00": {
+  "address": "4600 N 6TH ST",
+  "city": "MCALLEN",
+  "geo_id": "T3630-01-000-0012-00",
+  "legal": "THE OAKS UT 1 LOT 12",
+  "market_value": 200000.0,
+  "owner": "RODRIGUEZ JESSICA LIZETTE",
+  "pid": "301659",
   "prop_type": "R"
  },
  "T3630-02-000-0005-00": {
@@ -882699,6 +886209,16 @@
   "pid": "302616",
   "prop_type": "R"
  },
+ "T4750-01-000-0011-00": {
+  "address": "3821 DUBERNEY BLVD",
+  "city": "EDINBURG",
+  "geo_id": "T4750-01-000-0011-00",
+  "legal": "TIERRA BUENA NO. 1 LOT 11",
+  "market_value": 122761.0,
+  "owner": "RAMOS NOELIA",
+  "pid": "302617",
+  "prop_type": "R"
+ },
  "T4750-01-000-0012-00": {
   "address": "3819 DUBERNEY BLVD",
   "city": "EDINBURG",
@@ -884827,6 +888347,16 @@
   "market_value": 62043.0,
   "owner": "GONZALEZ LUIS GERARDO GONZALEZ",
   "pid": "303336",
+  "prop_type": "R"
+ },
+ "T5200-00-002-0004-00": {
+  "address": "4008 W LOPEZ DR",
+  "city": "EDINBURG",
+  "geo_id": "T5200-00-002-0004-00",
+  "legal": "TIERRA DEL VALLE NO. 2 LOT 4",
+  "market_value": 156950.0,
+  "owner": "GONZALEZ MARTIN & OFELIA R",
+  "pid": "303337",
   "prop_type": "R"
  },
  "T5200-00-002-0005-00": {
@@ -895857,6 +899387,16 @@
   "market_value": 198304.0,
   "owner": "LOPEZ JOSE N & MARICELA",
   "pid": "562517",
+  "prop_type": "R"
+ },
+ "T6010-02-000-0154-00": {
+  "address": "1501 SAPPHIRE ST",
+  "city": "",
+  "geo_id": "T6010-02-000-0154-00",
+  "legal": "TOM GILL NO 2 LOT 154",
+  "market_value": 251761.0,
+  "owner": "DELGADO MARCO",
+  "pid": "562520",
   "prop_type": "R"
  },
  "T6010-02-000-0158-00": {
@@ -915019,6 +918559,16 @@
   "pid": "622197",
   "prop_type": "R"
  },
+ "V0563-06-000-0237-00": {
+  "address": "2906 E KUMQUAT ST",
+  "city": "",
+  "geo_id": "V0563-06-000-0237-00",
+  "legal": "VALLE ALTO NORTH UT 6 LOT 237",
+  "market_value": 139892.0,
+  "owner": "GONZALEZ MARTIN J & MARGARITA",
+  "pid": "622198",
+  "prop_type": "R"
+ },
  "V0563-06-000-0246-00": {
   "address": "3102 E KUMQUAT ST",
   "city": "",
@@ -923879,6 +927429,16 @@
   "pid": "313888",
   "prop_type": "R"
  },
+ "V2930-00-000-0002-00": {
+  "address": "302 N 1ST ST",
+  "city": "",
+  "geo_id": "V2930-00-000-0002-00",
+  "legal": "VEGA LOT 2",
+  "market_value": 268029.0,
+  "owner": "GONZALEZ MARTIN & TOMASITA",
+  "pid": "583420",
+  "prop_type": "R"
+ },
  "V2937-00-000-0002-00": {
   "address": "4515 HELEN ST",
   "city": "EDINBURG",
@@ -926837,6 +930397,16 @@
   "market_value": 177436.0,
   "owner": "RAMIREZ MARTHA ALICIA F",
   "pid": "632200",
+  "prop_type": "R"
+ },
+ "V3314-00-000-0026-00": {
+  "address": "2907 VIOLET DR",
+  "city": "DONNA",
+  "geo_id": "V3314-00-000-0026-00",
+  "legal": "VICTORIA GARDENS LOT 26",
+  "market_value": 175385.0,
+  "owner": "DELGADO MARIA DEL CARMEN",
+  "pid": "632207",
   "prop_type": "R"
  },
  "V3314-00-000-0027-00": {
@@ -936519,6 +940089,16 @@
   "pid": "716763",
   "prop_type": "R"
  },
+ "V3695-00-000-0042-00": {
+  "address": "1716 RELAXATION ST",
+  "city": "EDINBURG",
+  "geo_id": "V3695-00-000-0042-00",
+  "legal": "VILLA TRANQUILA LOT 42",
+  "market_value": 232871.0,
+  "owner": "SALINAS MARGARITO JR & NORMA I",
+  "pid": "716769",
+  "prop_type": "R"
+ },
  "V3695-00-000-0046-00": {
   "address": "1709 SERENITY DR",
   "city": "EDINBURG",
@@ -939067,6 +942647,16 @@
   "market_value": 200123.0,
   "owner": "GONZALEZ JORGE & PERLA",
   "pid": "720835",
+  "prop_type": "R"
+ },
+ "V3817-00-000-0041-00": {
+  "address": "801 S 6TH ST",
+  "city": "MCALLEN",
+  "geo_id": "V3817-00-000-0041-00",
+  "legal": "VILLAS DEL TESORO LOT 41",
+  "market_value": 243877.0,
+  "owner": "LOPEZ NORBERTO JR",
+  "pid": "720836",
   "prop_type": "R"
  },
  "V3817-00-000-023A-00": {
@@ -959519,6 +963109,16 @@
   "pid": "318140",
   "prop_type": "R"
  },
+ "W0100-00-039-0010-05": {
+  "address": "509 S BRYAN RD",
+  "city": "",
+  "geo_id": "W0100-00-039-0010-05",
+  "legal": "WEST ADDN. TO SHARYLAND S150'-N660'-E150' LOT 39-10 0.52AC NET",
+  "market_value": 127046.0,
+  "owner": "PRADO JESSICA G",
+  "pid": "318149",
+  "prop_type": "R"
+ },
  "W0100-00-039-0010-25": {
   "address": "1519 E FRANKLIN ST",
   "city": "",
@@ -961887,6 +965487,16 @@
   "market_value": 237962.0,
   "owner": "RODRIGUEZ MARIA HILDA",
   "pid": "585074",
+  "prop_type": "R"
+ },
+ "W0100-00-054-0003-09": {
+  "address": "13114 N LOS EBANOS RD",
+  "city": "",
+  "geo_id": "W0100-00-054-0003-09",
+  "legal": "WEST ADDN. TO SHARYLAND S6AC-W10AC-NW17.21AC LOT 54-3",
+  "market_value": 318913.0,
+  "owner": "DELGADO MARCOS A & CATALINA N",
+  "pid": "319209",
   "prop_type": "R"
  },
  "W0100-00-054-0005-21": {

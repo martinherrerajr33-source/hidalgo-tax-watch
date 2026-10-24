@@ -47811,6 +47811,39 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331701831"
  },
  "331703844": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Lucinda Tijerina",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Lucinda Tijerina",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Marilexza Tijerina",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Eric Thomas Attwood",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 9267,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {}
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331703844",
@@ -48082,6 +48115,41 @@
   "url": "https://hidalgo.tx.publicsearch.us/doc/331710892"
  },
  "331710894": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Maria Luisa Garcia",
+    "relationship": "friend"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Maria Luisa Garcia",
+     "relationship": "friend"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "824 Winterhaven Avenue, D-4 McAllen, Texas 78501",
+     "name": "Erik Abram Aguilar",
+     "relation": "child"
+    },
+    {
+     "address": "2009 Whitewing Avenue McAllen, Texas 78501",
+     "name": "Charles Jacob Aguilar",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3389,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {
+    "address": "2500 E BUS HWY 83 #217, MISSION TX 78572",
+    "name": "Joel Jose Gallardo"
+   }
+  },
   "category": "heirship",
   "department": "RP",
   "doc_id": "331710894",
@@ -48665,5 +48733,501 @@
   "legal": "Subdivision-  Name: LA LOMITA IRRIGATION & CONSTRUCTION Lot: 78",
   "recorded": "10/20/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/331720325"
+ },
+ "331726311": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Kristina Colunga Trevino",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Kristina Colunga Trevino",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Noelia Ramos",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Ricardo Antonio Garza",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Ricardo Aguilar",
+     "relation": "possible relative (named in affidavit)"
+    }
+   ],
+   "ocr_chars": 10156,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331726311",
+  "doc_number": "2026-3798550",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "AGUILAR GLORIA CECILIA DECEASED",
+  "grantor": "TREVINO KRISTINA COLUNGA; RAMOS NOELIA; GARZA DAVID; GARZA SALVADOR JR; GARZA RICARDO ANTONIO; AGUILAR GLORIA CECILIA DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: TIERRA BUENA SUBD I Lot: 30, Reference - 11 / 31",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331726311"
+ },
+ "331726940": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "331726940",
+  "doc_number": "2026-3798572",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-24",
+  "grantee": "VILLARREAL ISRAEL",
+  "grantor": "TEXAS STATE OF; PRADO JESSICA",
+  "keyword": "lien",
+  "legal": "4409 WARD ROAD MISSION TX 78574",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331726940"
+ },
+ "331728832": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "331728832",
+  "doc_number": "2026-3798615",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-24",
+  "grantee": "JCS HOME & CONSTRUCTION LLC; DE LA CRUZ MARIA GUADALUPE; CROSSCOUNTRY MORTGAGE LLC",
+  "grantor": "RODRIGUEZ JESSICA",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: LAS ENCINITAS SUBD III Lot: 270",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331728832"
+ },
+ "331730274": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Karla Rosario Garcia",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Karla Rosario Garcia",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Noemi Elvira Cantu",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Winston Mitchell Gonzalez",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Natalia Isabel Garcia",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Sofia Valentina Garcia",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 7445,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331730274",
+  "doc_number": "2026-3798643",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "GIL KARLA GUADALUPE DECEASED",
+  "grantor": "GARCIA KARLA ROSARIO; GARCIA KARLA R; GIL KARLA GUADALUPE DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: EMERALD VALLEY AT PEREZ POINT SUBD Lot: 87, Reference - 47 / 121",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331730274"
+ },
+ "331730282": {
+  "category": "tax_loan",
+  "department": "RP",
+  "doc_id": "331730282",
+  "doc_number": "2026-3798645",
+  "doc_type": "TRANSFER TX LIEN",
+  "first_seen": "2026-10-24",
+  "grantee": "JS FUNDING I LLC",
+  "grantor": "HIDALGO COUNTY ET AL; LOPEZ GUILLERMO PEREZ; PUGA BARBARA CORTEZ",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: BLUEBONNET VILLAGE 2 Lot: 24; Subdivision-  Name: BLUEBONNET VILLAGE 2 Lot: 33",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331730282"
+ },
+ "331732562": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [],
+   "ocr_chars": 3250,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {
+    "address": "1322 EVA, EDINBURG TX 78539",
+    "name": "Maria De Jesus Vargas"
+   }
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331732562",
+  "doc_number": "2026-3798708",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "RODRIGUEZ BELINDA ANN DECEASED",
+  "grantor": "RODRIGUEZ JOSE JR; RODRIGUEZ BELINDA ANN DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: ALAMO LAND & SUGAR CO Lot: 1 Block: 42",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331732562"
+ },
+ "331736439": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736439",
+  "doc_number": "2026-3798824",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "LOPEZ NORBERTO",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736439"
+ },
+ "331736441": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736441",
+  "doc_number": "2026-3798830",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "SENDEJO AURELIA S",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736441"
+ },
+ "331736442": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736442",
+  "doc_number": "2026-3798829",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "GUERRERO MARIA MATILDE S",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736442"
+ },
+ "331736443": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736443",
+  "doc_number": "2026-3798823",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "SALINAS BRADY",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736443"
+ },
+ "331736444": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Angelica Maria Cortez",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Angelica Maria Cortez",
+     "relationship": ""
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 4229,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {
+    "address": "13019 N TROSPER RD, MISSION TX 78573",
+    "name": "Faride Castillo"
+   }
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331736444",
+  "doc_number": "2026-3798820",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "MARTINEZ JUANA DECEASED",
+  "grantor": "CORTEZ ANGELICA MARIA; MARTINEZ JUANA DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: HOLLY ESTATES SUBD 2 Lot: 11",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736444"
+ },
+ "331736448": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736448",
+  "doc_number": "2026-3798826",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "DELGADO MARCO A",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062139.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736448"
+ },
+ "331736449": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736449",
+  "doc_number": "2026-3798832",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "SALINAS MIGUEL A",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736449"
+ },
+ "331736450": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736450",
+  "doc_number": "2026-3798831",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "DELGADO MARIA ELVA S",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736450"
+ },
+ "331736454": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736454",
+  "doc_number": "2026-3798827",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "LOPEZ MELITON",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736454"
+ },
+ "331736455": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736455",
+  "doc_number": "2026-3798825",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "SALINAS MARIA ROSA",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736455"
+ },
+ "331736457": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331736457",
+  "doc_number": "2026-3798828",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "ROBBINS LYDIA",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST TRS; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736457"
+ },
+ "331736892": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Iris Montes",
+    "relationship": "knows the family - not a relative"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Iris Montes",
+     "relationship": "knows the family - not a relative"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Florinda Cavazos de Gonzalez",
+     "relation": "heir"
+    },
+    {
+     "address": "",
+     "name": "Marcela Gonzalez",
+     "relation": "heir"
+    },
+    {
+     "address": "",
+     "name": "Martin Gonzalez Jr.",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Melissa Gonzalez",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 6155,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {
+    "address": "10225 N. 10th St., Mcallen TX 78504",
+    "name": "Joe Reyna"
+   }
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331736892",
+  "doc_number": "2026-3798840",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "GONZALEZ MARTIN DECEASED",
+  "grantor": "MONTES IRIS; BRIZUELA HECTOR; VALDEZ CHRISTINA; GONZALEZ MARTIN DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: GARDENS AT TRINITY OAKS SUBD Lot: 69, Reference - 29 / 192",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331736892"
+ },
+ "331737176": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "David Charles Murphy",
+    "relationship": "friend"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "David Charles Murphy",
+     "relationship": "friend"
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "David C Murphy",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Daniel C Murphy",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Douglas A Murphy",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Deanie C Murphy",
+     "relation": "child"
+    },
+    {
+     "address": "",
+     "name": "Dorthy Robin",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 9151,
+   "parser": 3,
+   "read_on": "2026-10-24",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "331737176",
+  "doc_number": "2026-3798842",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-24",
+  "grantee": "MURPHY CHRISTABEL H DECEASED",
+  "grantor": "MURPHY DAVID CHARLES; FLANNERY THERESA; GUTCHEN SAMUEL; MURPHY CHRISTABEL H DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: PHARR SOUTH SUBD 2 Lot: 178, Reference - 22 / 127",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331737176"
+ },
+ "331737376": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "331737376",
+  "doc_number": "2026-3798844",
+  "doc_type": "ABSTRACT JUDGEMT",
+  "first_seen": "2026-10-24",
+  "grantee": "SALINAS MARGARITO",
+  "grantor": "GARZA JUAN LINO JR TRUSTEE; GARZA JUAN LINO TRUST; GARZA ELMA IRENE TRUSTEE; GARZA JUAN LINO ENERGY TRUST A 1 & A 2",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: SHUNIOR SUBD Lot: 73; Subdivision-  Name: SHUNIOR SUBD Lot: 74; Subdivision-  Name: SHUNIOR SUBD Lot: 75; #-C-2647-05-B DC-93; $3062129.43",
+  "recorded": "10/21/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/331737376"
  }
 }
