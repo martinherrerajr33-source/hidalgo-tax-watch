@@ -82169,6 +82169,16 @@
   "pid": "557369",
   "prop_type": "R"
  },
+ "B1900-41-000-0004-00": {
+  "address": "6004 ELISE DR",
+  "city": "",
+  "geo_id": "B1900-41-000-0004-00",
+  "legal": "BASHAM NO. 41 LOT 4",
+  "market_value": 178227.0,
+  "owner": "ESPARZA PEDRO",
+  "pid": "557371",
+  "prop_type": "R"
+ },
  "B1900-41-000-0005-00": {
   "address": "6000 ELISE DR",
   "city": "",
@@ -84269,6 +84279,16 @@
   "pid": "123361",
   "prop_type": "R"
  },
+ "B2160-00-002-0011-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "B2160-00-002-0011-00",
+  "legal": "BELLAIRE LOT 11 BK 2",
+  "market_value": 207198.0,
+  "owner": "ESPARZA PEDRO & BRIAND L",
+  "pid": "123362",
+  "prop_type": "R"
+ },
  "B2160-00-002-0013-00": {
   "address": "2009 MEXICO AVE",
   "city": "",
@@ -85227,6 +85247,16 @@
   "market_value": 180000.0,
   "owner": "JACKSON ROBERTA",
   "pid": "714741",
+  "prop_type": "R"
+ },
+ "B2310-00-001-0105-00": {
+  "address": "416 CAVAZOS ST",
+  "city": "EDINBURG",
+  "geo_id": "B2310-00-001-0105-00",
+  "legal": "BELLA VISTA LOT 105 BLK 1",
+  "market_value": 139650.0,
+  "owner": "CHAPA JUAN DE JESUS",
+  "pid": "714744",
   "prop_type": "R"
  },
  "B2310-00-001-0113-00": {
@@ -176129,6 +176159,16 @@
   "pid": "151558",
   "prop_type": "R"
  },
+ "C7150-02-010-0026-00": {
+  "address": "2021 EL RANCHO RD",
+  "city": "MCALLEN",
+  "geo_id": "C7150-02-010-0026-00",
+  "legal": "COLONIA HERMOSA NO. 2 LOT 26 BLK 10",
+  "market_value": 91116.0,
+  "owner": "CHAPA JUAN MANUEL",
+  "pid": "151562",
+  "prop_type": "R"
+ },
  "C7150-02-010-0027-00": {
   "address": "2017 EL RANCHO RD",
   "city": "MCALLEN",
@@ -194449,6 +194489,16 @@
   "pid": "156293",
   "prop_type": "R"
  },
+ "C9600-02-004-0035-00": {
+  "address": "2001 25TH ST",
+  "city": "",
+  "geo_id": "C9600-02-004-0035-00",
+  "legal": "CUELLAR UT NO. 2 LOT 35 BLK 4",
+  "market_value": 145943.0,
+  "owner": "CHAPA JUAN & ORALIA",
+  "pid": "156298",
+  "prop_type": "R"
+ },
  "C9600-02-004-0037-00": {
   "address": "1913 E 25TH ST",
   "city": "",
@@ -204967,6 +205017,16 @@
   "market_value": 186110.0,
   "owner": "SANCHEZ JUAN F",
   "pid": "1379593",
+  "prop_type": "R"
+ },
+ "D3200-00-135-0000-18": {
+  "address": "16510 FM 490",
+  "city": "",
+  "geo_id": "D3200-00-135-0000-18",
+  "legal": "DEL TULE AN IRR TR S317.41-N2552.5'-E1401.57' TR 135 10.187AC NET",
+  "market_value": 243273.0,
+  "owner": "CHAPA JUAN GABRIEL",
+  "pid": "1379787",
   "prop_type": "R"
  },
  "D3200-00-135-0000-26": {
@@ -221597,6 +221657,16 @@
   "market_value": 250000.0,
   "owner": "SALINAS CARLOS & ARMANDINA",
   "pid": "162053",
+  "prop_type": "R"
+ },
+ "E0150-00-000-0003-00": {
+  "address": "1013 BARNES ST",
+  "city": "MISSION",
+  "geo_id": "E0150-00-000-0003-00",
+  "legal": "EAGLE HEIGHTS NORTH E1/2-LOT 3 & ALL LOT 4",
+  "market_value": 201718.0,
+  "owner": "CHAPA JUAN I",
+  "pid": "162064",
   "prop_type": "R"
  },
  "E0150-00-000-0008-00": {
@@ -345267,6 +345337,16 @@
   "market_value": 209805.0,
   "owner": "RODRIGUEZ ROBERTO",
   "pid": "1016210",
+  "prop_type": "R"
+ },
+ "H1230-01-000-0006-00": {
+  "address": "2009 PASEO ENCANTADO",
+  "city": "MISSION",
+  "geo_id": "H1230-01-000-0006-00",
+  "legal": "HARMONY ESTATES PH 1 LOT 6",
+  "market_value": 183872.0,
+  "owner": "CHAPA JUAN P VILLARREAL",
+  "pid": "630678",
   "prop_type": "R"
  },
  "H1230-01-000-0007-00": {
@@ -553079,6 +553159,16 @@
   "pid": "235970",
   "prop_type": "R"
  },
+ "M3730-00-000-0023-00": {
+  "address": "1403 MESQUITE LOOP",
+  "city": "",
+  "geo_id": "M3730-00-000-0023-00",
+  "legal": "MESQUITE RIDGE LOT 23",
+  "market_value": 199491.0,
+  "owner": "CHAPA JUAN ANGEL",
+  "pid": "235974",
+  "prop_type": "R"
+ },
  "M3730-00-000-0026-00": {
   "address": "1505 MESQUITE LOOP",
   "city": "",
@@ -579937,6 +580027,16 @@
   "market_value": 35964.0,
   "owner": "SAUCEDA JOSE & MIRNA DELGADO",
   "pid": "1179481",
+  "prop_type": "MH"
+ },
+ "M6662-97-000-0015-02": {
+  "address": "429 MORNING GLORY LN",
+  "city": "ALAMO",
+  "geo_id": "M6662-97-000-0015-02",
+  "legal": "MORNING GLORY,SPACE 15 16X56, RIVERBEND, LABEL# PFS0502574, SERIAL# MP224186/ NEW ACCT 2023",
+  "market_value": 13169.0,
+  "owner": "CHAPA JUAN GARCIA",
+  "pid": "1462086",
   "prop_type": "MH"
  },
  "M6662-97-000-0026-00": {
@@ -640807,6 +640907,16 @@
   "market_value": 250658.0,
   "owner": "SANCHEZ MARIA TRINIDAD",
   "pid": "458113",
+  "prop_type": "R"
+ },
+ "P5000-03-000-0026-00": {
+  "address": "124 CIRO DR",
+  "city": "SAN JUAN",
+  "geo_id": "P5000-03-000-0026-00",
+  "legal": "PECAN ESTATES NO. 3 LOT 26",
+  "market_value": 251060.0,
+  "owner": "GUAJARDO RAYMUNDO JR",
+  "pid": "458112",
   "prop_type": "R"
  },
  "P5000-03-000-0027-00": {
@@ -701999,6 +702109,16 @@
   "pid": "267373",
   "prop_type": "R"
  },
+ "R1150-95-000-0012-01": {
+  "address": "6108 BARRERDA CIR",
+  "city": "EDINBURG",
+  "geo_id": "R1150-95-000-0012-01",
+  "legal": "RANCHO NUEVO LOT 12;NEW IMPROVEMENTS ONLY-NEW FOR 2014;NTA0829051/52.",
+  "market_value": 33017.0,
+  "owner": "PONCE MARGARITO JR & SANDRA",
+  "pid": "902599",
+  "prop_type": "MH"
+ },
  "R1151-00-000-0001-00": {
   "address": "MOOREFIELD RD",
   "city": "",
@@ -721179,6 +721299,16 @@
   "pid": "272036",
   "prop_type": "R"
  },
+ "R3800-00-033-0007-00": {
+  "address": "JESUS BAZAN ST",
+  "city": "",
+  "geo_id": "R3800-00-033-0007-00",
+  "legal": "ROLLO LOT 7 BLK 33 ( AKA MONTE ALTO OT)",
+  "market_value": 11880.0,
+  "owner": "CHAPA JUAN MANUEL",
+  "pid": "272045",
+  "prop_type": "R"
+ },
  "R3800-00-033-0008-00": {
   "address": "8349 JESUS BAZAN ST",
   "city": "",
@@ -728807,6 +728937,16 @@
   "market_value": 230826.0,
   "owner": "KOHLER ROBERT & MARISOL",
   "pid": "660544",
+  "prop_type": "R"
+ },
+ "S0017-02-000-0121-00": {
+  "address": "2905 PROVIDENCE AVE",
+  "city": "",
+  "geo_id": "S0017-02-000-0121-00",
+  "legal": "SADDLE CREEK UT 2 LOT 121",
+  "market_value": 230889.0,
+  "owner": "CHAPA JUAN & AISSA",
+  "pid": "660550",
   "prop_type": "R"
  },
  "S0017-02-000-0124-00": {
@@ -817569,6 +817709,16 @@
   "pid": "605412",
   "prop_type": "R"
  },
+ "S4846-02-000-0133-00": {
+  "address": "1900 BARBARA ST",
+  "city": "",
+  "geo_id": "S4846-02-000-0133-00",
+  "legal": "SOUTHERN OAK PH 2 LOT 133",
+  "market_value": 235291.0,
+  "owner": "CHAPA JUAN J & ONEIDA",
+  "pid": "605414",
+  "prop_type": "R"
+ },
  "S4846-02-000-0134-00": {
   "address": "1902 BARBARA ST",
   "city": "",
@@ -822817,6 +822967,16 @@
   "market_value": 208514.0,
   "owner": "YANEZ CARLOS ET AL",
   "pid": "536992",
+  "prop_type": "R"
+ },
+ "S5451-02-000-0021-00": {
+  "address": "2216 MORNING LN",
+  "city": "MISSION",
+  "geo_id": "S5451-02-000-0021-00",
+  "legal": "SPRINGFIELD PH 2 LOT 21",
+  "market_value": 234223.0,
+  "owner": "CHAPA JUAN JOSE GARZA",
+  "pid": "536996",
   "prop_type": "R"
  },
  "S5451-02-000-0026-00": {
@@ -834677,6 +834837,16 @@
   "market_value": 615715.0,
   "owner": "CASTILLO JOSE LUIS JR & JUDITH",
   "pid": "1013504",
+  "prop_type": "R"
+ },
+ "S6856-00-000-0099-00": {
+  "address": "1412 MAY DR",
+  "city": "EDINBURG",
+  "geo_id": "S6856-00-000-0099-00",
+  "legal": "SUMMER FIELD MANOR LOT 99",
+  "market_value": 438000.0,
+  "owner": "CHAPA JUAN & ROSA NILDA GONZALEZ",
+  "pid": "1013517",
   "prop_type": "R"
  },
  "S6857-00-000-0003-00": {
@@ -849517,6 +849687,16 @@
   "market_value": 252055.0,
   "owner": "MARTINEZ JOSE G III & DANIELA",
   "pid": "684021",
+  "prop_type": "R"
+ },
+ "T1017-00-000-0033-00": {
+  "address": "5108 SYCAMORE AVE",
+  "city": "MCALLEN",
+  "geo_id": "T1017-00-000-0033-00",
+  "legal": "TAYLOR HEIGHTS LOT 33",
+  "market_value": 238829.0,
+  "owner": "CHAPA JUAN JOSE GONZALEZ & MARIA M BALBOA",
+  "pid": "684029",
   "prop_type": "R"
  },
  "T1040-00-000-0001-00": {
@@ -908629,6 +908809,16 @@
   "pid": "651598",
   "prop_type": "R"
  },
+ "T7920-02-000-0009-00": {
+  "address": "8309 PALMAS DR",
+  "city": "",
+  "geo_id": "T7920-02-000-0009-00",
+  "legal": "TROPICAL PALMS ESTATES NO. 2 LOT 9",
+  "market_value": 226803.0,
+  "owner": "PONCE SANDRA",
+  "pid": "651604",
+  "prop_type": "R"
+ },
  "T7920-02-000-0011-00": {
   "address": "2805 ISLAND DR",
   "city": "",
@@ -935619,6 +935809,16 @@
   "pid": "314647",
   "prop_type": "R"
  },
+ "V3580-00-000-0009-00": {
+  "address": "1109 SUNDANCE DR",
+  "city": "EDINBURG",
+  "geo_id": "V3580-00-000-0009-00",
+  "legal": "VILLA DEL SOL LOT 9",
+  "market_value": 82452.0,
+  "owner": "GUAJARDO RAYMUNDO & GRACIELA",
+  "pid": "314648",
+  "prop_type": "R"
+ },
  "V3580-00-000-0010-00": {
   "address": "1105 SUNDANCE DR",
   "city": "EDINBURG",
@@ -945017,6 +945217,16 @@
   "market_value": 115413.0,
   "owner": "VILLAS DE SAN GABRIEL HOMEOWNERS ASSOCIATION INC",
   "pid": "898528",
+  "prop_type": "R"
+ },
+ "V3851-00-000-0021-00": {
+  "address": "204 S MOCKINGBIRD",
+  "city": "MISSION",
+  "geo_id": "V3851-00-000-0021-00",
+  "legal": "VILLAS SAN GABRIEL LOT 21",
+  "market_value": 96537.0,
+  "owner": "CHAPA JUAN CARLOS RODRIGUEZ & GUADALUPE MARLENE TIRADO SALINAS",
+  "pid": "898503",
   "prop_type": "R"
  },
  "V3851-00-000-0028-00": {

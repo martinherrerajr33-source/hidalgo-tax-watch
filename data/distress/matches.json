@@ -46737,6 +46737,57 @@
   "confidence": "low",
   "tried": "2026-10-24"
  },
+ "court:5100471": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-26"
+ },
+ "court:5100489": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "S0017-02-000-0121-00",
+  "method": "name+co-owner",
+  "n_candidates": 4,
+  "person": "CHAPA JUAN",
+  "tried": "2026-10-26"
+ },
+ "court:5100494": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "R1150-95-000-0012-01",
+  "method": "name+co-owner",
+  "n_candidates": 2,
+  "person": "PONCE MARGARITO",
+  "tried": "2026-10-26"
+ },
+ "court:5100581": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-26"
+ },
+ "court:5100647": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "V3580-00-000-0009-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "ESCAMILLA RAYMUNDO",
+  "tried": "2026-10-26"
+ },
+ "court:5100660": {
+  "candidates": [
+   "B1900-41-000-0004-00",
+   "H2650-00-017-0018-00",
+   "B2160-00-002-0011-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-26"
+ },
+ "court:5100870": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-26"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",
