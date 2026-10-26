@@ -23353,6 +23353,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "S4255-00-000-0002-00": {
+  "checked": "2026-10-26",
+  "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 808 DONNA, TX 78537-0808",
+  "owner_name": "FLORES PIEDAD",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "S4255-00-000-0028-00": {
   "checked": "2026-10-22",
   "exemptions": "HOMESTEAD",
@@ -23605,6 +23617,18 @@
   "prior_year_due": 19439.96,
   "status": "delinquent",
   "total_due": 23271.03
+ },
+ "S5255-02-000-0002-00": {
+  "checked": "2026-10-26",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "2006 MESA DR EDINBURG, TX 78539-6650",
+  "owner_name": "CATES TERRY D & KATHERINE",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "S5278-00-000-0018-00": {
   "checked": "2026-10-23",
@@ -26761,6 +26785,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 4649.55
+ },
+ "V3320-97-000-0163-01": {
+  "checked": "2026-10-26",
+  "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "602 N VICTORIA RD LOT 163 DONNA, TX 78537",
+  "owner_name": "LEVERENZ MARILYN",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "V3425-00-000-0030-00": {
   "checked": "2026-10-24",

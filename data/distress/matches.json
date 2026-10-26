@@ -46788,6 +46788,51 @@
   "confidence": "none",
   "tried": "2026-10-26"
  },
+ "court:5100926": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "S5255-02-000-0002-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "CATES TERRY",
+  "tried": "2026-10-26"
+ },
+ "court:5100995": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "S4255-00-000-0002-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "FLORES PIEDAD",
+  "tried": "2026-10-26"
+ },
+ "court:5101000": {
+  "candidates": [
+   "C5550-00-000-0004-00",
+   "P3800-00-001-0003-00",
+   "B3827-97-000-0129-05",
+   "B4900-00-000-0013-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-26"
+ },
+ "court:5101013": {
+  "candidates": [
+   "G1665-00-000-0101-00",
+   "J1830-02-000-0013-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-26"
+ },
+ "court:5101126": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "V3320-97-000-0163-01",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "LEVERENZ MARILYN",
+  "tried": "2026-10-26"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",

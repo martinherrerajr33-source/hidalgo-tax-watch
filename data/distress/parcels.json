@@ -52469,6 +52469,16 @@
   "pid": "117131",
   "prop_type": "R"
  },
+ "A3000-00-017-0019-00": {
+  "address": "2506 BEAUMONT AVE UT 1/2",
+  "city": "",
+  "geo_id": "A3000-00-017-0019-00",
+  "legal": "ALTAMIRA E1/2 LOT 19 BLK 17",
+  "market_value": 102960.0,
+  "owner": "GARZA BERTHA ALICIA",
+  "pid": "117140",
+  "prop_type": "R"
+ },
  "A3000-00-017-0019-01": {
   "address": "2508 BEAUMONT AVE",
   "city": "MCALLEN",
@@ -96699,6 +96709,16 @@
   "pid": "1643945",
   "prop_type": "MH"
  },
+ "B3827-97-000-0129-05": {
+  "address": "801 E SIOUX RD",
+  "city": "PHARR",
+  "geo_id": "B3827-97-000-0129-05",
+  "legal": "BOULDER PARK WEST M/H,SPACE 129 16X70, LABEL# HWC0336441 & SERIAL# CLW020095TX/ NEW ACCT 2023",
+  "market_value": 23312.0,
+  "owner": "PALACIOS REBECCA",
+  "pid": "1569385",
+  "prop_type": "MH"
+ },
  "B3827-97-000-0134-04": {
   "address": "801 E SIOUX RD",
   "city": "PHARR",
@@ -103207,6 +103227,16 @@
   "market_value": 203324.0,
   "owner": "MARTINEZ JESUS JR & JUANITA",
   "pid": "127902",
+  "prop_type": "R"
+ },
+ "B4900-00-000-0013-00": {
+  "address": "2717 IRIS AVE",
+  "city": "MCALLEN",
+  "geo_id": "B4900-00-000-0013-00",
+  "legal": "BRYN - MAR TERRACE LOT 13",
+  "market_value": 230901.0,
+  "owner": "PALACIOS REBECCA A/K/A REBECCA BARRIOS",
+  "pid": "127909",
   "prop_type": "R"
  },
  "B4900-00-000-0018-00": {
@@ -161509,6 +161539,16 @@
   "pid": "138183",
   "prop_type": "R"
  },
+ "C5550-00-000-0004-00": {
+  "address": "909 W 13TH ST",
+  "city": "SAN JUAN",
+  "geo_id": "C5550-00-000-0004-00",
+  "legal": "CLARK TERRACE UT NO. 1 LOT 4",
+  "market_value": 158722.0,
+  "owner": "PALACIOS REBECCA",
+  "pid": "138202",
+  "prop_type": "R"
+ },
  "C5550-00-000-0010-00": {
   "address": "817 W 13TH ST",
   "city": "SAN JUAN",
@@ -196767,6 +196807,16 @@
   "market_value": 189000.0,
   "owner": "DE LA CRUZ RICARDO & PRISCILLA",
   "pid": "157212",
+  "prop_type": "R"
+ },
+ "D0697-00-000-0005-00": {
+  "address": "2218 ANNETTE AVE",
+  "city": "EDINBURG",
+  "geo_id": "D0697-00-000-0005-00",
+  "legal": "DANIELLE ESTATES LOT 5 & 6",
+  "market_value": 611555.0,
+  "owner": "GARZA BERTHA DALIA",
+  "pid": "556158",
   "prop_type": "R"
  },
  "D0697-00-000-0007-00": {
@@ -307759,6 +307809,16 @@
   "pid": "1232804",
   "prop_type": "MH"
  },
+ "G1665-00-000-0101-00": {
+  "address": "2420 N I ST APT",
+  "city": "",
+  "geo_id": "G1665-00-000-0101-00",
+  "legal": "GARZA CONDOMINIUMS UNIT 101",
+  "market_value": 172128.0,
+  "owner": "GARZA BERTHA",
+  "pid": "608467",
+  "prop_type": "R"
+ },
  "G1665-00-000-0103-00": {
   "address": "2420 N I ST APT",
   "city": "",
@@ -311207,6 +311267,16 @@
   "market_value": 537171.0,
   "owner": "ORTEGA RAFAEL & SHARON HERNANDEZ",
   "pid": "613451",
+  "prop_type": "R"
+ },
+ "G4053-00-000-0022-00": {
+  "address": "2011 ANGUS ST",
+  "city": "MISSION",
+  "geo_id": "G4053-00-000-0022-00",
+  "legal": "GLASSCOCK OAKS LOT 22",
+  "market_value": 330000.0,
+  "owner": "GARZA BERTHA A",
+  "pid": "613457",
   "prop_type": "R"
  },
  "G4055-00-000-0001-00": {
@@ -317117,6 +317187,16 @@
   "market_value": 106714.0,
   "owner": "CASTILLO JUAN DANIEL",
   "pid": "180820",
+  "prop_type": "R"
+ },
+ "G5700-00-003-0035-00": {
+  "address": "711 WATER ST",
+  "city": "SAN JUAN",
+  "geo_id": "G5700-00-003-0035-00",
+  "legal": "GONZALEZ-ZAMORA LOT 35",
+  "market_value": 93713.0,
+  "owner": "GARZA BERTHA SEGURA",
+  "pid": "20408093",
   "prop_type": "R"
  },
  "G5700-00-003-0036-00": {
@@ -342727,6 +342807,16 @@
   "market_value": 150000.0,
   "owner": "PEREZ CARLOS A & ISELA",
   "pid": "185992",
+  "prop_type": "R"
+ },
+ "H0900-00-016-0005-00": {
+  "address": "1901 EBONY AVE",
+  "city": "MCALLEN",
+  "geo_id": "H0900-00-016-0005-00",
+  "legal": "HAMMOND ADDITION LOT 5 BLK 16",
+  "market_value": 157970.0,
+  "owner": "GARZA BERTHA NELDA",
+  "pid": "185994",
   "prop_type": "R"
  },
  "H0900-00-016-0006-00": {
@@ -394857,6 +394947,16 @@
   "market_value": 125262.0,
   "owner": "SALINAS MIGUEL & MIRTHA",
   "pid": "198616",
+  "prop_type": "R"
+ },
+ "J1830-02-000-0013-00": {
+  "address": "1001 SAN FELICIANO ST",
+  "city": "",
+  "geo_id": "J1830-02-000-0013-00",
+  "legal": "J.O. UT 2 LOT 13",
+  "market_value": 49609.0,
+  "owner": "GARZA BERTHA",
+  "pid": "198618",
   "prop_type": "R"
  },
  "J1830-02-000-0016-00": {
@@ -637169,6 +637269,16 @@
   "pid": "351958",
   "prop_type": "R"
  },
+ "P3800-00-001-0003-00": {
+  "address": "125 W JONQUIL AVE",
+  "city": "MCALLEN",
+  "geo_id": "P3800-00-001-0003-00",
+  "legal": "PARKHILL ESTATES LOT 3 BLK. 1",
+  "market_value": 254329.0,
+  "owner": "PALACIOS REBECCA",
+  "pid": "256845",
+  "prop_type": "R"
+ },
  "P3800-00-001-0014-00": {
   "address": "136 IRIS AVE",
   "city": "MCALLEN",
@@ -811579,6 +811689,16 @@
   "pid": "286605",
   "prop_type": "R"
  },
+ "S4255-00-000-0002-00": {
+  "address": "1920 RUBY ST",
+  "city": "",
+  "geo_id": "S4255-00-000-0002-00",
+  "legal": "SOUTH DONNA ALL LOTS 2 & 3",
+  "market_value": 238290.0,
+  "owner": "FLORES PIEDAD",
+  "pid": "286615",
+  "prop_type": "R"
+ },
  "S4255-00-000-0004-00": {
   "address": "1928 RUBY ST",
   "city": "",
@@ -819867,6 +819987,16 @@
   "market_value": 127009.0,
   "owner": "LOPEZ JUAN & BELJICA V",
   "pid": "289183",
+  "prop_type": "R"
+ },
+ "S5255-02-000-0002-00": {
+  "address": "2006 MESA DR",
+  "city": "EDINBURG",
+  "geo_id": "S5255-02-000-0002-00",
+  "legal": "SOUTHWEST ESTATES PH 2 LOT 2",
+  "market_value": 318516.0,
+  "owner": "CATES TERRY D & KATHERINE",
+  "pid": "561055",
   "prop_type": "R"
  },
  "S5255-02-000-0005-00": {
@@ -849057,6 +849187,16 @@
   "market_value": 105557.0,
   "owner": "GARCIA MARIA GUADALUPE JASSO",
   "pid": "721706",
+  "prop_type": "R"
+ },
+ "T0945-21-000-0160-00": {
+  "address": "17909 EL POLVORIN DR",
+  "city": "",
+  "geo_id": "T0945-21-000-0160-00",
+  "legal": "TAURUS ESTATES NO. 21 LOT 160",
+  "market_value": 50005.0,
+  "owner": "GARZA BERTHA ALICIA",
+  "pid": "721715",
   "prop_type": "R"
  },
  "T0945-21-000-0164-00": {
@@ -910269,6 +910409,16 @@
   "pid": "703959",
   "prop_type": "R"
  },
+ "T8260-01-000-0018-00": {
+  "address": "3716 STEVENSON AVE",
+  "city": "",
+  "geo_id": "T8260-01-000-0018-00",
+  "legal": "TUSCANY VILLAGE UT 1 LOT 18",
+  "market_value": 350000.0,
+  "owner": "GARZA BERTHA ELOISA",
+  "pid": "703969",
+  "prop_type": "R"
+ },
  "T8260-01-000-0026-00": {
   "address": "3424 STEVENSON AVE",
   "city": "",
@@ -931387,6 +931537,16 @@
   "market_value": 42799.0,
   "owner": "GARZA MARIA GUADALUPE",
   "pid": "789265",
+  "prop_type": "MH"
+ },
+ "V3320-97-000-0163-01": {
+  "address": "602 N VICTORIA RD",
+  "city": "DONNA",
+  "geo_id": "V3320-97-000-0163-01",
+  "legal": "VICTORIA PALMS RESORT,SPACE 163 16X60 SCHULT, MH LABEL # TEX471522, SERIAL # 222055/ NEW ACCT 2025",
+  "market_value": 36329.0,
+  "owner": "LEVERENZ MARILYN",
+  "pid": "1640062",
   "prop_type": "MH"
  },
  "V3325-00-000-0001-00": {

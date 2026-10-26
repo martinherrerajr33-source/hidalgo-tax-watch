@@ -139175,6 +139175,141 @@
   "style": "IN THE MATTER OF THE MARRIAGE OF JERRY JOSEPH BEARD AND DORA BECKMAN",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5100870"
  },
+ "5100926": {
+  "any_deceased": true,
+  "case_id": "5100926",
+  "case_number": "P1-44288",
+  "case_type": "Probate of Will as Muniment of Title (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/26/2026",
+  "first_seen": "2026-10-26",
+  "kind": "probate",
+  "last_seen": "2026-10-26",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "TERRY",
+    "last": "CATES",
+    "middle": "",
+    "raw": "Terry Cates"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of Terry Cates Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5100926"
+ },
+ "5100995": {
+  "any_deceased": true,
+  "case_id": "5100995",
+  "case_number": "P1-44289",
+  "case_type": "Probate of Will - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/26/2026",
+  "first_seen": "2026-10-26",
+  "kind": "probate",
+  "last_seen": "2026-10-26",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "PIEDAD",
+    "last": "FLORES",
+    "middle": "",
+    "raw": "PIEDAD FLORES"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of PIEDAD FLORES, Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5100995"
+ },
+ "5101000": {
+  "any_deceased": false,
+  "case_id": "5101000",
+  "case_number": "F-4104-26-C",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "139th District Court",
+  "filed": "10/26/2026",
+  "first_seen": "2026-10-26",
+  "kind": "divorce",
+  "last_seen": "2026-10-26",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "REBECCA",
+    "last": "PALACIOS",
+    "middle": "",
+    "raw": "REBECCA PALACIOS"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "HERIBERTO",
+    "last": "PALACIOS",
+    "middle": "",
+    "raw": "HERIBERTO PALACIOS"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF REBECCA PALACIOS VS. HERIBERTO PALACIOS",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101000"
+ },
+ "5101013": {
+  "any_deceased": false,
+  "case_id": "5101013",
+  "case_number": "F-4105-26-10",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #10",
+  "filed": "10/26/2026",
+  "first_seen": "2026-10-26",
+  "kind": "divorce",
+  "last_seen": "2026-10-26",
+  "parties": [
+   {
+    "alt_lasts": [
+     "IRMA"
+    ],
+    "deceased": false,
+    "first": "BERTHA",
+    "last": "GARZA",
+    "middle": "IRMA",
+    "raw": "BERTHA IRMA GARZA"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF BERTHA IRMA GARZA VS. RODOLFO GARZA, Jr.",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101013"
+ },
+ "5101126": {
+  "any_deceased": true,
+  "case_id": "5101126",
+  "case_number": "P1-44290",
+  "case_type": "Administration - Independent (OCA)",
+  "court": "Probate Court #1",
+  "filed": "10/26/2026",
+  "first_seen": "2026-10-26",
+  "kind": "probate",
+  "last_seen": "2026-10-26",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": true,
+    "first": "MARILYN",
+    "last": "LEVERENZ",
+    "middle": "N",
+    "raw": "MARILYN N. LEVERENZ"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Estate of MARILYN N. LEVERENZ Deceased",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101126"
+ },
  "520303": {
   "any_deceased": false,
   "case_id": "520303",
