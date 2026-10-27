@@ -2,34 +2,230 @@
  "clerk": {
   "canary": {
    "department": "RP",
-   "end": "2026-10-21",
-   "keyword": "trustee",
-   "start": "2026-10-21"
+   "end": "2026-10-23",
+   "keyword": "lien",
+   "start": "2026-10-23"
   },
-  "certified_through": "2026-10-21",
+  "certified_through": "2026-10-23",
   "done_through": {
-   "bankruptcy": "2026-10-21",
-   "divorce": "2026-10-21",
-   "foreclosure": "2026-10-21",
-   "heirship": "2026-10-21",
-   "judgement": "2026-10-21",
-   "judgment": "2026-10-21",
-   "lien": "2026-10-21",
-   "pendens": "2026-10-21",
-   "probate": "2026-10-21",
-   "testament": "2026-10-21",
-   "trustee": "2026-10-21",
-   "will": "2026-10-21"
+   "bankruptcy": "2026-10-23",
+   "divorce": "2026-10-23",
+   "foreclosure": "2026-10-23",
+   "heirship": "2026-10-23",
+   "judgement": "2026-10-23",
+   "judgment": "2026-10-23",
+   "lien": "2026-10-23",
+   "pendens": "2026-10-23",
+   "probate": "2026-10-23",
+   "testament": "2026-10-23",
+   "trustee": "2026-10-23",
+   "will": "2026-10-23"
   },
-  "last_debug": [],
-  "last_run": "2026-10-26T23:03:44.623445+00:00",
-  "last_searches": 0,
+  "last_debug": [
+   {
+    "at": "2026-10-27T17:39:51+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "bankruptcy 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-27T17:40:15+00:00",
+    "rejected": "",
+    "rows": 25,
+    "search": "trustee 10/21/2026-10/21/2026",
+    "timedOut": false,
+    "total": 25,
+    "types": {
+     "ABSTRACT JUDGEMT": 11,
+     "ASGMT OF LIEN": 1,
+     "CERTIFICATE": 1,
+     "DEED": 1,
+     "DEED OF TRUST": 2,
+     "P/REL OF JUDGMNT": 1,
+     "RECONVEYANCE": 1,
+     "RELEASE OF LIEN": 1,
+     "TRANSFER OF LIEN": 1,
+     "TRUSTEES DEED": 1,
+     "WARRANTY DEED": 4
+    }
+   },
+   {
+    "at": "2026-10-27T17:40:36+00:00",
+    "rejected": "",
+    "rows": 5,
+    "search": "divorce 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 5,
+    "types": {
+     "C C DIVORCE": 5
+    }
+   },
+   {
+    "at": "2026-10-27T17:41:00+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "foreclosure 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-27T17:41:17+00:00",
+    "rejected": "",
+    "rows": 10,
+    "search": "heirship 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 10,
+    "types": {
+     "AFFIDVT HEIRSHIP": 10
+    }
+   },
+   {
+    "at": "2026-10-27T17:41:37+00:00",
+    "rejected": "",
+    "rows": 7,
+    "search": "judgement 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 7,
+    "types": {
+     "JUDGEMENT": 1,
+     "REL OF JUDGEMENT": 6
+    }
+   },
+   {
+    "at": "2026-10-27T17:41:57+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "judgment 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-27T17:42:22+00:00",
+    "rejected": "",
+    "rows": 7,
+    "search": "judgement 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 7,
+    "types": {
+     "JUDGEMENT": 1,
+     "REL OF JUDGEMENT": 6
+    }
+   },
+   {
+    "at": "2026-10-27T17:42:45+00:00",
+    "rejected": "",
+    "rows": 88,
+    "search": "lien 10/22/2026-10/22/2026",
+    "timedOut": false,
+    "total": 88,
+    "types": {
+     "ASGMT OF LIEN": 2,
+     "EXTENSN OF LIEN": 6,
+     "LIEN NOTICE": 5,
+     "P/REL OF LIEN": 12,
+     "REL LIEN CLAIM": 1,
+     "RELEASE OF LIEN": 58,
+     "TRANSFER OF LIEN": 3,
+     "TRANSFER TX LIEN": 1
+    }
+   },
+   {
+    "at": "2026-10-27T17:42:52+00:00",
+    "rejected": "",
+    "rows": 1,
+    "search": "pendens 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 1,
+    "types": {
+     "REL LIS PENDENS": 1
+    }
+   },
+   {
+    "at": "2026-10-27T17:43:14+00:00",
+    "rejected": "",
+    "rows": 1,
+    "search": "probate 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 1,
+    "types": {
+     "C C PROBATE": 1
+    }
+   },
+   {
+    "at": "2026-10-27T17:43:36+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "testament 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-10-27T17:43:55+00:00",
+    "rejected": "",
+    "rows": 32,
+    "search": "trustee 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 32,
+    "types": {
+     "AFFIDAVIT": 2,
+     "APPOINT SUB TTEE": 1,
+     "ASGMT OF LIEN": 2,
+     "CERTIFICATE": 1,
+     "CORRECTION": 1,
+     "DEED": 3,
+     "DEED OF TRUST": 2,
+     "OIL & GAS LEASE": 1,
+     "RELEASE": 1,
+     "RELEASE OF LIEN": 3,
+     "TRUSTEES DEED": 6,
+     "WARRANTY DEED": 9
+    }
+   },
+   {
+    "at": "2026-10-27T17:44:18+00:00",
+    "rejected": "",
+    "rows": 2,
+    "search": "will 10/22/2026-10/23/2026",
+    "timedOut": false,
+    "total": 2,
+    "types": {
+     "CORRECTION": 1,
+     "EXTENSN OF LIEN": 1
+    }
+   },
+   {
+    "at": "2026-10-27T17:44:47+00:00",
+    "rejected": "",
+    "rows": 71,
+    "search": "lien 10/23/2026-10/23/2026",
+    "timedOut": false,
+    "total": 71,
+    "types": {
+     "ASGMT OF LIEN": 4,
+     "EXTENSN OF LIEN": 1,
+     "MECHANICS LIEN NOTE": 4,
+     "P/REL OF LIEN": 6,
+     "PARTIAL RELEASE OF CHILD SUPPORT LIEN": 1,
+     "RELEASE OF LIEN": 45,
+     "TRANSFER OF LIEN": 9,
+     "TRANSFER TX LIEN": 1
+    }
+   }
+  ],
+  "last_run": "2026-10-27T17:48:36.875369+00:00",
+  "last_searches": 15,
   "last_status": "ok"
  },
  "court": {
   "last_error": "erificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 448, in main\n    run_court(args.full_taxsuits)\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 137, in run_court\n    found = fetch_open_tax_suits(client, date(2000, 1, 1), TODAY, window_days=92, log=log)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 264, in fetch_open_tax_suits\n    rows = client.business_party_search(\"HIDALGO COUNTY\", a, b, status=\"open\")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 224, in business_party_search\n    page = self._search({\n           ^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 200, in _search\n    self._open_session()\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 193, in _open_session\n    self.s.get(f\"{BASE}/default.aspx\", timeout=self.timeout)\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='pa.co.hidalgo.tx.us', port=443): Max retries exceeded with url: /default.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))\n",
   "last_error_at": "2026-10-15T18:06:18.206527+00:00",
-  "last_run": "2026-10-26T23:03:42.738893+00:00",
+  "last_run": "2026-10-27T17:39:44.739810+00:00",
   "taxsuits_full_walk": "2026-10-22"
  }
 }
