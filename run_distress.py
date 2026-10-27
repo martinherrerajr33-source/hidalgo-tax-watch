@@ -581,7 +581,7 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
             "parties": f'{rec.get("grantor","")} → {rec.get("grantee","")}',
             "deceased": bool(re.search(r"DECEASED", rec.get("grantee", "") + rec.get("grantor", ""), re.I))
                         and rec["category"] in ("heirship", "will_probate"),
-            "confidence": m["confidence"],
+            "confidence": m["confidence"], "first_seen": rec.get("first_seen", ""),
         })
     for cid, case in court.items():
         if case.get("kind") == "tax_suit" and not case.get("open", True):
@@ -596,6 +596,7 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
             "label": CATEGORIES[cat][2], "detail": f'{case["case_type"]} · {case["court"]}',
             "ref": case["case_number"], "url": case.get("url", ""), "parties": case["style"][:240],
             "deceased": bool(case.get("any_deceased")), "confidence": m["confidence"],
+            "first_seen": case.get("first_seen", ""),
         })
 
     for g, t in taxes.items():
@@ -628,6 +629,8 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
             "score": score, "breakdown": breakdown, "signals": sigs,
             "tax": t or None,
             "categories": sorted({s["category"] for s in sigs}),
+            # when this property last picked up a new filing / case (tax re-checks don't count)
+            "new_on": max((s.get("first_seen") or "" for s in sigs), default=""),
         })
     props.sort(key=lambda r: (-r["score"], r["geo_id"]))
 
@@ -697,6 +700,7 @@ def run_build(tax_budget: int, match_budget: int, year: str) -> None:
             "stacked": sum(1 for p in props if len({CATEGORIES[c][0] for c in p["categories"]}) >= 2),
             "open_tax_suits": len(tax_suits),
             "clerk_records": len(clerk),
+            "latest_pull": max((p["new_on"] for p in props), default=""),
             "court_cases": len(court),
             "match_rate": round(100 * sum(1 for m in matches.values() if m.get("confidence") in ("high", "medium"))
                                 / max(1, len(matches))),
