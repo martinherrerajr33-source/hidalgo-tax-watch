@@ -60579,6 +60579,16 @@
   "pid": "118908",
   "prop_type": "R"
  },
+ "A5800-00-000-0002-00": {
+  "address": "823 PARK RD",
+  "city": "",
+  "geo_id": "A5800-00-000-0002-00",
+  "legal": "ARROYO PARK LOT 2",
+  "market_value": 103724.0,
+  "owner": "MEDINA ADAN",
+  "pid": "118909",
+  "prop_type": "R"
+ },
  "A5800-00-000-0006-00": {
   "address": "815 PARK RD",
   "city": "",
@@ -677949,6 +677959,16 @@
   "pid": "895578",
   "prop_type": "R"
  },
+ "P8336-02-000-0016-00": {
+  "address": "1700 MONTEZUMA DR",
+  "city": "",
+  "geo_id": "P8336-02-000-0016-00",
+  "legal": "PRESIDIO ESTATES UT 2 LOT 16",
+  "market_value": 86872.0,
+  "owner": "MEDINA ADAN",
+  "pid": "1068423",
+  "prop_type": "R"
+ },
  "P8336-02-000-0018-00": {
   "address": "1811 MONTEZUMA DR",
   "city": "",
@@ -868807,6 +868827,16 @@
   "market_value": 145189.0,
   "owner": "QUINTANILLA LUIS G",
   "pid": "295235",
+  "prop_type": "R"
+ },
+ "T2100-00-239-0004-15": {
+  "address": "3232 N JACKSON RD",
+  "city": "",
+  "geo_id": "T2100-00-239-0004-15",
+  "legal": "TEX-MEX SURVEY N121'- S274.50' - W360' LOT 4 SEC 239 1.00AC 0.92AC NET AKA LOT 2 R/S LOT 4",
+  "market_value": 89060.0,
+  "owner": "OZUNA FRANCISCO",
+  "pid": "899601",
   "prop_type": "R"
  },
  "T2100-00-239-0005-01": {

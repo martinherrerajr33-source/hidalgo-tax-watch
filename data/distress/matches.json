@@ -47065,6 +47065,33 @@
   "person": "CRUZ GUADALUPE",
   "tried": "2026-10-27"
  },
+ "court:5101509": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "T2100-00-239-0004-15",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "OZUNA FRANCISCO",
+  "tried": "2026-10-27"
+ },
+ "court:5101568": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-27"
+ },
+ "court:5101659": {
+  "candidates": [
+   "A5800-00-000-0002-00",
+   "P8336-02-000-0016-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-10-27"
+ },
+ "court:5101753": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-10-27"
+ },
  "court:520303": {
   "candidates": [
    "R1325-00-000-0044-00",

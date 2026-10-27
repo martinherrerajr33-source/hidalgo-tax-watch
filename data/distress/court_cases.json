@@ -139384,6 +139384,146 @@
   "style": "Estate of Guadalupe C. Cruz Deceased",
   "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101412"
  },
+ "5101509": {
+  "any_deceased": false,
+  "case_id": "5101509",
+  "case_number": "F-4124-26-I",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "398th District Court",
+  "filed": "10/27/2026",
+  "first_seen": "2026-10-27",
+  "kind": "divorce",
+  "last_seen": "2026-10-27",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "FRANCISCO",
+    "last": "OZUNA",
+    "middle": "",
+    "raw": "FRANCISCO OZUNA JR"
+   },
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "ALYONA",
+    "last": "OZUNA",
+    "middle": "",
+    "raw": "ALYONA OZUNA"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF FRANCISCO OZUNA JR AND ALYONA OZUNA",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101509"
+ },
+ "5101568": {
+  "any_deceased": false,
+  "case_id": "5101568",
+  "case_number": "F-4125-26-E",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "275th District Court",
+  "filed": "10/27/2026",
+  "first_seen": "2026-10-27",
+  "kind": "divorce",
+  "last_seen": "2026-10-27",
+  "parties": [
+   {
+    "alt_lasts": [
+     "GLENN"
+    ],
+    "deceased": false,
+    "first": "JEREMY",
+    "last": "PEEBLES",
+    "middle": "GLENN",
+    "raw": "JEREMY GLENN PEEBLES"
+   },
+   {
+    "alt_lasts": [
+     "ALYSSA"
+    ],
+    "deceased": false,
+    "first": "APRIL",
+    "last": "AGUIRRE",
+    "middle": "ALYSSA",
+    "raw": "APRIL ALYSSA AGUIRRE"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF JEREMY GLENN PEEBLES VS. APRIL ALYSSA AGUIRRE",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101568"
+ },
+ "5101659": {
+  "any_deceased": false,
+  "case_id": "5101659",
+  "case_number": "F-4128-26-M",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "476th District Court",
+  "filed": "10/27/2026",
+  "first_seen": "2026-10-27",
+  "kind": "divorce",
+  "last_seen": "2026-10-27",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "ERASMO",
+    "last": "ACEVEDO",
+    "middle": "",
+    "raw": "ERASMO ACEVEDO"
+   },
+   {
+    "alt_lasts": [
+     "HERIBERTO"
+    ],
+    "deceased": false,
+    "first": "ADAN",
+    "last": "MEDINA",
+    "middle": "HERIBERTO",
+    "raw": "ADAN HERIBERTO MEDINA"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "IN THE MATTER OF THE MARRIAGE OF ERASMO ACEVEDO VS. ADAN HERIBERTO MEDINA",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101659"
+ },
+ "5101753": {
+  "any_deceased": false,
+  "case_id": "5101753",
+  "case_number": "F-4130-26-6",
+  "case_type": "Divorce - No Children (OCA)",
+  "court": "District County Court At Law #6",
+  "filed": "10/27/2026",
+  "first_seen": "2026-10-27",
+  "kind": "divorce",
+  "last_seen": "2026-10-27",
+  "parties": [
+   {
+    "alt_lasts": [],
+    "deceased": false,
+    "first": "GASPAR",
+    "last": "CORTEZ",
+    "middle": "",
+    "raw": "Gaspar Cortez"
+   },
+   {
+    "alt_lasts": [
+     "LOPEZ"
+    ],
+    "deceased": false,
+    "first": "CLARITA",
+    "last": "CORTEZ",
+    "middle": "LOPEZ",
+    "raw": "Clarita Lopez Cortez"
+   }
+  ],
+  "plaintiffs": [],
+  "status": "Filed",
+  "style": "Gaspar Cortez VS. Clarita Lopez Cortez",
+  "url": "https://pa.co.hidalgo.tx.us/CaseDetail.aspx?CaseID=5101753"
+ },
  "520303": {
   "any_deceased": false,
   "case_id": "520303",

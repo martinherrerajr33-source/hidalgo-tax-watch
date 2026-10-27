@@ -24682,6 +24682,18 @@
   "status": "delinquent",
   "total_due": 9621.29
  },
+ "T2100-00-239-0004-15": {
+  "checked": "2026-10-27",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "3306 N JACKSON RD EDINBURG, TX 78541-7986",
+  "owner_name": "OZUNA FRANCISCO",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "T2100-00-239-0011-48": {
   "checked": "2026-10-23",
   "exemptions": "HOMESTEAD",
