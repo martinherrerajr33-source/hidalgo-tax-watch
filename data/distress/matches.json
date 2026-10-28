@@ -46446,12 +46446,12 @@
  },
  "court:5098002": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "T2100-00-277-0012-15",
-  "method": "name",
+  "method": "tax-office",
   "n_candidates": 1,
-  "person": "GARCIA JACQUELINE",
-  "tried": "2026-10-21"
+  "person": "",
+  "tried": "2026-10-28"
  },
  "court:5098051": {
   "candidates": [
@@ -46525,12 +46525,12 @@
  },
  "court:5098201": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "V3314-00-000-0061-00",
-  "method": "name",
+  "method": "tax-office",
   "n_candidates": 1,
-  "person": "TREVINO RAFAEL",
-  "tried": "2026-10-21"
+  "person": "",
+  "tried": "2026-10-28"
  },
  "court:5098258": {
   "candidates": [],
