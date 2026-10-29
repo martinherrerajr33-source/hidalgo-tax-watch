@@ -49919,5 +49919,936 @@
   "legal": "Subdivision-  Name: LAKE JAMES SUBD 2 2 Lot: 13, Reference - 19 / 144",
   "recorded": "10/23/2026",
   "url": "https://hidalgo.tx.publicsearch.us/doc/331770711"
+ },
+ "332099480": {
+  "category": "pre_foreclosure",
+  "department": "RP",
+  "doc_id": "332099480",
+  "doc_number": "2026-3799749",
+  "doc_type": "APPOINT SUB TTEE",
+  "first_seen": "2026-10-29",
+  "grantee": "CRAFTS EASTON W TRUSTEE; AUCTION.COM LLC SUB TRUSTEE; COBB. CONNIE SUB TRUSTEE; COBB CLYDE SUB TRUSTEE; LEWIS CONSTANCE SUB TRUSTEE; LAREW W D SUB TRUSTEE; MARTIN JULIE SUB TRUSTEE; MENDOZA ARNOLD SUB TRUSTEE; KARLE DAVID SUB TRUSTEE; MENDOZA ALEXIS SUB TRUSTEE",
+  "grantor": "PLANET HOME LENDING LLC; MAR OMAR A",
+  "keyword": "trustee",
+  "legal": "Subdivision-  Name: MONTE GRANDE ESTATES II Lot: 118, Reference - 35 / 162",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332099480"
+ },
+ "332099484": {
+  "affidavit": {
+   "affiant": {
+    "address": "502 Champion Rd.. Mission TX 78574",
+    "is_heir": false,
+    "name": "Honorio Ramirez",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "502 Champion Rd.. Mission TX 78574",
+     "is_heir": false,
+     "name": "Honorio Ramirez",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Juan D Salinas",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "3725 Elm Ave., McAllen, TX 78504",
+     "name": "Eleazar Saenz",
+     "relation": "child"
+    }
+   ],
+   "ocr_chars": 3697,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {
+    "address": "3508 Katrina Ave, MCALLEN TX 78503",
+    "name": "Miguel Covarrubia"
+   }
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332099484",
+  "doc_number": "2026-3799750",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "SAENZ PRIMITIVO DECEASED",
+  "grantor": "RAMIREZ HONORIO; SALINAS JUAN D; SAENZ PRIMITIVO DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: L & R GARZA SUBD Lot: 26, Reference - 19 / 30",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332099484"
+ },
+ "332100112": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Marcos Mascorro",
+    "relationship": ""
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Marcos Mascorro",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Guadalupe Mascorro",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Rene Tamez",
+     "relationship": ""
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Oswalo Castaneda",
+     "relationship": ""
+    }
+   ],
+   "heirs": [
+    {
+     "address": "",
+     "name": "Alfredo Mascorro",
+     "relation": "child"
+    },
+    {
+     "address": "11735 Olive Ave, Mercedes, Texas 78570",
+     "name": "Temporo Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "803 Tangerine Ave., Mercedes, Texas 78570",
+     "name": "Emilio Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "",
+     "name": "Benita Portillo",
+     "relation": "parent"
+    },
+    {
+     "address": "1410 Marleen Street, Houston, Texas 77034",
+     "name": "Daniel Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "11735 Olive Ave., Mercedes, Texas 78570",
+     "name": "Noe Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "11735 Olive Ave., Mercedes, Texas 78570",
+     "name": "Elio Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "",
+     "name": "Rogelio Mascorro",
+     "relation": "parent"
+    },
+    {
+     "address": "",
+     "name": "Gilberto Mascorro",
+     "relation": "parent"
+    }
+   ],
+   "ocr_chars": 11625,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332100112",
+  "doc_number": "2026-3799785",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "MASCORRO SALVADOR DECEASED",
+  "grantor": "MASCORRO MARCOS; MASCORRO GUADALUPE; TAMEZ RENE; CASTANEDA OSWALDO; MASCORRO SALVADOR DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 63; Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 64; Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 65; Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 66; Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 67; Subdivision-  Name: HEIDELBERG TOWNSITE Lot: 68",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332100112"
+ },
+ "332102466": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Leslie Dwayne Johnson",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Leslie Dwayne Johnson",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Daniel Allen Mckee",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 8771,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332102466",
+  "doc_number": "2026-3799802",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "JOHNSON PATRICIA K DECEASED; JOHNSON PATRICIA KAY DECEASED; TERRY PATRICIA KAY DECEASED",
+  "grantor": "JOHNSON LESLIE DWAYNE; MC KEE DANIEL ALLEN; BISHOP REBECCA A; JOHNSON PATRICIA K DECEASED; JOHNSON PATRICIA KAY DECEASED; TERRY PATRICIA KAY DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: VILLAGE GROVE SUBD 2 Lot: 69, Reference - 20 / 4; Subdivision-  Name: VILLAGE GROVE SUBD 2 Lot: 70, Reference - 20 / 4",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332102466"
+ },
+ "332102467": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "Atzimba Lemus-pinero",
+    "relationship": "acquainted"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Atzimba Lemus-pinero",
+     "relationship": "acquainted"
+    },
+    {
+     "address": "",
+     "is_heir": false,
+     "name": "Eduardo Salas Flores",
+     "relationship": "acquainted"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 9305,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332102467",
+  "doc_number": "2026-3799799",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "PINERO JUAN A DECEASED; PINERO ALEJANDRO DECEASED",
+  "grantor": "LEMUS-PINERO ATZIMBA; PINERO JUAN A DECEASED; PINERO ALEJANDRO DECEASED; LEMUS ATZIMBA",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: VILLAGE EL JARDIN DE LAS FLORES Lot: 71, Reference - 34 / 188",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332102467"
+ },
+ "332105013": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": false,
+    "name": "",
+    "relationship": ""
+   },
+   "affiants": [],
+   "heirs": [
+    {
+     "address": "",
+     "name": "os Death",
+     "relation": "mother"
+    }
+   ],
+   "ocr_chars": 4802,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {
+    "address": "1542 S Virginia Ave, MERCEDES TX 78570",
+    "name": "Yolanda Martinez"
+   }
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332105013",
+  "doc_number": "2026-3799834",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "MARTINEZ AMADO DECEASED",
+  "grantor": "MARTINEZ YOLANDA; MARTINEZ AMADO DECEASED",
+  "keyword": "heirship",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332105013"
+ },
+ "332105593": {
+  "category": "tax_lien",
+  "department": "RP",
+  "doc_id": "332105593",
+  "doc_number": "2026-3799845",
+  "doc_type": "STATE TAX LIEN",
+  "first_seen": "2026-10-29",
+  "grantee": "AGUIRRE DANIEL",
+  "grantor": "TEXAS STATE OF",
+  "keyword": "lien",
+  "legal": "$175414.88",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332105593"
+ },
+ "332105600": {
+  "category": "tax_lien",
+  "department": "RP",
+  "doc_id": "332105600",
+  "doc_number": "2026-3799848",
+  "doc_type": "STATE TAX LIEN",
+  "first_seen": "2026-10-29",
+  "grantee": "GE VENTURES LLC",
+  "grantor": "TEXAS STATE OF",
+  "keyword": "lien",
+  "legal": "$788.45",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332105600"
+ },
+ "332105970": {
+  "category": "tax_lien",
+  "department": "RP",
+  "doc_id": "332105970",
+  "doc_number": "2026-3799854",
+  "doc_type": "STATE TAX LIEN",
+  "first_seen": "2026-10-29",
+  "grantee": "MEXICAN WEY LLC",
+  "grantor": "TEXAS STATE OF",
+  "keyword": "lien",
+  "legal": "$1062.56",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332105970"
+ },
+ "332106398": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "332106398",
+  "doc_number": "2026-3799876",
+  "doc_type": "JUDGEMENT",
+  "first_seen": "2026-10-29",
+  "grantee": "CHARLES ISAI; CHARLES NATALIE",
+  "grantor": "VALENZUELA NOELIA",
+  "keyword": "judgement",
+  "legal": "Subdivision-  Name: VILLA VERDE SUBD Lot: 7 Block: 9, Reference - 16 / 54",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332106398"
+ },
+ "332106784": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332106784",
+  "doc_number": "2026-3799886",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "SANTILLANA IRMA S; S & S COMPLETE SOLUTIONS",
+  "grantor": "SEGURA EMILY; RAMIREZ JULIAN",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: TIERRA NORTE SUBD Lot: 5, Reference - 52 / 145",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332106784"
+ },
+ "332106796": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332106796",
+  "doc_number": "2026-3799881",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "TRIPLE S HOMEBUILDERS LLC; CHAVEZ SAUL; UNION HOME MORTGAGE CORP",
+  "grantor": "VARGAS ALBERTO; REVERTE NEFTALI ALEJANDRA",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: LA HOMA GROVES SUBD 2 Lot: 43, Reference - 27 / 124",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332106796"
+ },
+ "332107589": {
+  "category": "lis_pendens",
+  "department": "RP",
+  "doc_id": "332107589",
+  "doc_number": "2026-3799911",
+  "doc_type": "LIS PENDENS",
+  "first_seen": "2026-10-29",
+  "grantee": "VILLANUEVA NORMA; HERNANDEZ CALIXTO; HERNANDEZ IRMA; HERNANDEZ-TWADDLE PATRICIA; LAWSON WILLIAM; HERNANDEZ CHRISTINA; HERNANDEZ JAKE PAUL; HERNANDEZ KYLE MATTHEW",
+  "grantor": "HERNANDEZ ESTELLA",
+  "keyword": "pendens",
+  "legal": "Subdivision-  Name: GARDENIA TERRACE 4 Lot: 1, Reference - 19 / 114",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332107589"
+ },
+ "332107590": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332107590",
+  "doc_number": "2026-3799909",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "BELLO CONSTRUCTION & DEVELOPMENT; BELLO EDUARDO MEMBER; TEXAS NATIONAL BANK",
+  "grantor": "TREVINO DANIEL RENE; TREVINO DALIA MARIA",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: GOLDEN ACRES SUBD Lot: 25",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332107590"
+ },
+ "332109773": {
+  "category": "will_probate",
+  "department": "RP",
+  "doc_id": "332109773",
+  "doc_number": "2026-3799936",
+  "doc_type": "WILL",
+  "first_seen": "2026-10-29",
+  "grantee": "PUBLIC",
+  "grantor": "OCHOA CONCEPCION",
+  "keyword": "will",
+  "legal": "Subdivision-  Name: RANCHETTES SUBD Lot: 3, Reference - 53 / 149; Subdivision-  Name: MONTE CHRISTO HEIGHTS SUBD Lot: 14, Reference - 18 / 1",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332109773"
+ },
+ "332110192": {
+  "category": "judgment",
+  "department": "RP",
+  "doc_id": "332110192",
+  "doc_number": "2026-3799946",
+  "doc_type": "JUDGEMENT",
+  "first_seen": "2026-10-29",
+  "grantee": "SANCHEZ AGAPITO DECEASED",
+  "grantor": "PENA JUAN MANUEL GONZALEZ; ELIZONDO MARIA MAGDALENA RODRIGUEZ",
+  "keyword": "judgement",
+  "legal": "Subdivision-  Name: SELENA HEIGHTS SUBD I Lot: 11, Reference - 44 / 101",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332110192"
+ },
+ "332110675": {
+  "category": "lis_pendens",
+  "department": "RP",
+  "doc_id": "332110675",
+  "doc_number": "2026-3799951",
+  "doc_type": "LIS PENDENS",
+  "first_seen": "2026-10-29",
+  "grantee": "CN HOLDINGS LLC; CASTELLANOS NANCY ZAPATA",
+  "grantor": "CANTU YESENIA LYNETT; CANTU RICARDO",
+  "keyword": "pendens",
+  "legal": "Subdivision-  Name: TURNER TRACT SUBD Lot: 16 Block: 96, Reference - 1 / 14; Subdivision-  Name: TURNER TRACT SUBD Lot: 13 Block: 95, Reference - 1 / 14",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332110675"
+ },
+ "332111246": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111246",
+  "doc_number": "2026-3799964",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "ALONZO PAULA A",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: EDINBURG TOWNSITE Lot: 8 Block: 331",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111246"
+ },
+ "332111250": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111250",
+  "doc_number": "2026-3799977",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "LIV PADEL CLUB LLC",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: JAMES COURT Lot: 81",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111250"
+ },
+ "332111251": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111251",
+  "doc_number": "2026-3799974",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "WASHINGTON MARIEL AUDRA",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: LOS LAGOS 5 A Lot: 82",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111251"
+ },
+ "332111253": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111253",
+  "doc_number": "2026-3799961",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "PAZ NORA ELIA",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: EDINBURG TOWNSITE Lot: 15 Block: 278; Subdivision-  Name: EDINBURG TOWNSITE Lot: 16 Block: 278; Subdivision-  Name: EDINBURG TOWNSITE Lot: 17 Block: 278",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111253"
+ },
+ "332111254": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111254",
+  "doc_number": "2026-3799966",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CAVAZOS HILARIO",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: EDINBURG TOWNSITE Lot: 14 Block: 278",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111254"
+ },
+ "332111255": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111255",
+  "doc_number": "2026-3799976",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "VILLARREAL MELISSA",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: TORRES DEL SOL 1 Lot: 20",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111255"
+ },
+ "332111257": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111257",
+  "doc_number": "2026-3799965",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CHUI MIREZ RGV HOLDINGS LLC",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: TEX MEX 275 Lot: 10",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111257"
+ },
+ "332111258": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111258",
+  "doc_number": "2026-3799973",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "GONZALEZ RICARDO JR",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: LANTANA ESTATES Lot: 56",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111258"
+ },
+ "332111260": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111260",
+  "doc_number": "2026-3799963",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CHMG LLC",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: TEX MEX Lot: 3 Block: 242",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111260"
+ },
+ "332111262": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111262",
+  "doc_number": "2026-3799972",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "DE MARIN BEATRIZ E BAUTISTA",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: SANTA CRUZ PALMS Lot: 32",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111262"
+ },
+ "332111263": {
+  "category": "code_lien",
+  "department": "RP",
+  "doc_id": "332111263",
+  "doc_number": "2026-3799975",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "HERNANDEZ MARIA R",
+  "grantor": "EDINBURG CITY OF",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: SEMREN Lot: 1",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332111263"
+ },
+ "332113147": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332113147",
+  "doc_number": "2026-3800027",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "SIEMPRE HOMES LLC; RODRIGUEZ SIGIFREDO; RALLY CREDIT UNION; AVENDANO LAURA RUTH REPRESENTATIVE",
+  "grantor": "DE LEON SERGIO; DE LEON ADRIANA G",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: COLONIA CAMARGO Lot: 47",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332113147"
+ },
+ "332113915": {
+  "affidavit": {
+   "affiant": {
+    "address": "",
+    "is_heir": true,
+    "name": "Amalia Gonzalez",
+    "relationship": "surviving spouse"
+   },
+   "affiants": [
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Amalia Gonzalez",
+     "relationship": "surviving spouse"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Michelle Ramirez",
+     "relationship": "surviving spouse"
+    },
+    {
+     "address": "",
+     "is_heir": true,
+     "name": "Celsa Christina Escalante",
+     "relationship": "surviving spouse"
+    }
+   ],
+   "heirs": [],
+   "ocr_chars": 12496,
+   "parser": 3,
+   "read_on": "2026-10-29",
+   "return_to": {}
+  },
+  "category": "heirship",
+  "department": "RP",
+  "doc_id": "332113915",
+  "doc_number": "2026-3800042",
+  "doc_type": "AFFIDVT HEIRSHIP",
+  "first_seen": "2026-10-29",
+  "grantee": "DE LEON ANDRES EMILIO TZUNUM DECEASED",
+  "grantor": "GONZALEZ AMALIA; RAMIREZ MICHELLE; ESCALANTE CELSA CHRISTINA; DE LEON ANDRES EMILIO TZUNUM DECEASED",
+  "keyword": "heirship",
+  "legal": "Subdivision-  Name: MISSION WEST ESTATES Lot: 7, Reference - 25 / 66",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332113915"
+ },
+ "332114597": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114597",
+  "doc_number": "2026-3800073",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "TORRES BORIS EDUARDO CARRILLO",
+  "grantor": "TEXAS STATE OF; TORRES YANCINI TAREK",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114597"
+ },
+ "332114598": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114598",
+  "doc_number": "2026-3800078",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "GARZA JORGE",
+  "grantor": "TEXAS STATE OF; PEREZ PRISCILLA MARIE",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114598"
+ },
+ "332114599": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114599",
+  "doc_number": "2026-3800072",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CANO OSCAR ALFONSO",
+  "grantor": "TEXAS STATE OF; AVALOS MA DE LOS ANGELES RESENDIZ",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114599"
+ },
+ "332114600": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114600",
+  "doc_number": "2026-3800071",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CANO OSCAR ALFONSO",
+  "grantor": "TEXAS STATE OF; RODRIGUEZ SELENA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114600"
+ },
+ "332114603": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114603",
+  "doc_number": "2026-3800075",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "DE LA CRUZ JOSE ANTONIO",
+  "grantor": "TEXAS STATE OF; ESPIRICUETA ABIGAIL",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114603"
+ },
+ "332114605": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114605",
+  "doc_number": "2026-3800074",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "PEARSON SARA",
+  "grantor": "TEXAS STATE OF; LOMAS JOSE FRANCISCO",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114605"
+ },
+ "332114607": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114607",
+  "doc_number": "2026-3800080",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "DE LEON ERIC",
+  "grantor": "TEXAS STATE OF; GONZALEZ BERTHA MELISSA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114607"
+ },
+ "332114608": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332114608",
+  "doc_number": "2026-3800067",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "CASITA HOME BUILDERS LLC; RIOS KEVIN; UNITED WHOLESALE MORTGAGE LLC",
+  "grantor": "REYES ADAN; REYES CASSANDRA LYNN",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: MAPACHE ESTATES I Lot: 11",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114608"
+ },
+ "332114609": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114609",
+  "doc_number": "2026-3800077",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "DE LA MORA JUAN RAFAEL",
+  "grantor": "TEXAS STATE OF; RANGEL YESENIA PAMELA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114609"
+ },
+ "332114610": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114610",
+  "doc_number": "2026-3800076",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "ESPINOZA-DELA GARZA LUIS LEONARDO",
+  "grantor": "TEXAS STATE OF; CASARES ANGELIQUE EZRA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114610"
+ },
+ "332114611": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332114611",
+  "doc_number": "2026-3800079",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "GARCIA GABRIEL",
+  "grantor": "TEXAS STATE OF; GARCIA KASSANDRA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332114611"
+ },
+ "332115118": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115118",
+  "doc_number": "2026-3800104",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "FLORES EDGAR ALEXIS",
+  "grantor": "TEXAS STATE OF; TAYLOR MARICRUZ",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115118"
+ },
+ "332115119": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115119",
+  "doc_number": "2026-3800111",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CHAVEZ OSBALDO",
+  "grantor": "TEXAS STATE OF; RODRIGUEZ ROSIE VANESSA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115119"
+ },
+ "332115120": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115120",
+  "doc_number": "2026-3800107",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "AVALOS ROLANDO",
+  "grantor": "TEXAS STATE OF; MATA LINDA MARITZA",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115120"
+ },
+ "332115123": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115123",
+  "doc_number": "2026-3800110",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "CORTEZ JULIAN ALEJANDRO",
+  "grantor": "TEXAS STATE OF; TRETO STEPHANIE",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115123"
+ },
+ "332115126": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115126",
+  "doc_number": "2026-3800105",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "LOPEZ GEORGE A",
+  "grantor": "TEXAS STATE OF; PEREZ MELINDA M",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115126"
+ },
+ "332115127": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115127",
+  "doc_number": "2026-3800109",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "BARRERA JOSE ERASMO JR",
+  "grantor": "TEXAS STATE OF; GONZALEZ ITZEL",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115127"
+ },
+ "332115129": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115129",
+  "doc_number": "2026-3800108",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "ARREAZOLA FRANCISCO RAMON",
+  "grantor": "TEXAS STATE OF; TAFOLLA RICHELLE",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115129"
+ },
+ "332115130": {
+  "category": "other_lien",
+  "department": "RP",
+  "doc_id": "332115130",
+  "doc_number": "2026-3800106",
+  "doc_type": "LIEN NOTICE",
+  "first_seen": "2026-10-29",
+  "grantee": "GARCIA CRISTINA",
+  "grantor": "TEXAS STATE OF; CASTELLANO ANDREW ROBERT",
+  "keyword": "lien",
+  "legal": "",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115130"
+ },
+ "332115132": {
+  "category": "mechanics_lien",
+  "department": "RP",
+  "doc_id": "332115132",
+  "doc_number": "2026-3800116",
+  "doc_type": "MECHANICS LIEN NOTE",
+  "first_seen": "2026-10-29",
+  "grantee": "GONZALEZ RAMIRO JR",
+  "grantor": "CANO ABEL; AHUMADA ELIZABETH; CANTU ELIZABETH AHUMADA",
+  "keyword": "lien",
+  "legal": "Subdivision-  Name: CARMEN AVILA SUBD VI Lot: 780",
+  "recorded": "10/26/2026",
+  "url": "https://hidalgo.tx.publicsearch.us/doc/332115132"
  }
 }
