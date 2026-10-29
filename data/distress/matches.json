@@ -25949,9 +25949,9 @@
  },
  "court:4624737": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "low",
   "geo_id": "L3340-02-000-0036-00",
-  "method": "name",
+  "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "PEDRAZA PEDRO",
   "tried": "2026-10-15"
@@ -32065,9 +32065,9 @@
  },
  "court:4834954": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "low",
   "geo_id": "M4173-03-000-0234-00",
-  "method": "name+co-owner",
+  "method": "rejected-by-tax-office",
   "n_candidates": 19,
   "person": "ALANIZ DANIEL",
   "tried": "2026-10-15"
@@ -37406,7 +37406,7 @@
  "court:4975293": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4976622": {
   "candidates": [],
@@ -37423,7 +37423,7 @@
    "M4657-00-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4978413": {
   "candidates": [
@@ -37433,7 +37433,7 @@
    "L3164-11-000-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4978418": {
   "candidates": [
@@ -37443,7 +37443,7 @@
    "O0651-00-000-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4978593": {
   "candidates": [],
@@ -37461,12 +37461,12 @@
    "T2200-00-033-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4978742": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979053": {
   "candidates": [
@@ -37477,7 +37477,7 @@
    "S1700-02-046-0014-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979054": {
   "candidates": [
@@ -37488,12 +37488,12 @@
    "L0833-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979056": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979057": {
   "candidates": [
@@ -37504,7 +37504,7 @@
    "E5400-00-027-0037-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979439": {
   "candidates": [
@@ -37515,7 +37515,7 @@
    "R1341-00-000-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979704": {
   "candidates": [
@@ -37526,7 +37526,7 @@
    "V3690-01-000-0090-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979734": {
   "candidates": [],
@@ -37545,7 +37545,7 @@
    "F2700-00-002-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979775": {
   "candidates": [],
@@ -37565,7 +37565,7 @@
    "S6853-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979878": {
   "candidates": [
@@ -37576,12 +37576,12 @@
    "P9255-01-000-0063-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979882": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979883": {
   "candidates": [
@@ -37589,7 +37589,7 @@
    "H1650-05-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979909": {
   "candidates": [],
@@ -37607,7 +37607,7 @@
    "E4350-01-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979950": {
   "candidates": [],
@@ -37621,7 +37621,7 @@
  "court:4979951": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4979956": {
   "candidates": [],
@@ -37638,7 +37638,7 @@
    "A2100-00-089-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4980086": {
   "candidates": [],
@@ -37647,7 +37647,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 5,
   "person": "VALLE JOSE",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4980122": {
   "candidates": [
@@ -37658,7 +37658,7 @@
    "S3592-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4980142": {
   "candidates": [
@@ -37669,7 +37669,7 @@
    "R3117-00-000-0044-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4981175": {
   "candidates": [
@@ -37680,7 +37680,7 @@
    "A6700-04-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4984048": {
   "candidates": [
@@ -37690,12 +37690,12 @@
    "L1600-00-001-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985296": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985297": {
   "candidates": [
@@ -37706,7 +37706,7 @@
    "S3975-08-000-0037-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985298": {
   "candidates": [
@@ -37714,7 +37714,7 @@
    "L3450-00-001-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985356": {
   "candidates": [
@@ -37725,12 +37725,12 @@
    "R1341-00-000-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985371": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985372": {
   "candidates": [],
@@ -37747,7 +37747,7 @@
    "S2950-00-000-0325-15"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985381": {
   "candidates": [
@@ -37758,7 +37758,7 @@
    "M1900-02-000-0052-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985383": {
   "candidates": [
@@ -37769,7 +37769,7 @@
    "V4340-12-000-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985385": {
   "candidates": [
@@ -37780,7 +37780,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985461": {
   "candidates": [],
@@ -37800,7 +37800,7 @@
    "T5265-00-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985587": {
   "candidates": [],
@@ -37814,7 +37814,7 @@
  "court:4985603": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985619": {
   "candidates": [
@@ -37825,7 +37825,7 @@
    "R0215-02-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985633": {
   "candidates": [],
@@ -37854,12 +37854,12 @@
    "S1100-00-009-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985693": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4985704": {
   "candidates": [
@@ -37868,7 +37868,7 @@
    "P5700-01-002-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986049": {
   "candidates": [
@@ -37877,7 +37877,7 @@
    "V3440-05-000-0547-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986058": {
   "candidates": [
@@ -37886,7 +37886,7 @@
    "L6265-01-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986062": {
   "candidates": [
@@ -37897,7 +37897,7 @@
    "T4521-00-000-000D-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986064": {
   "candidates": [
@@ -37908,7 +37908,7 @@
    "T0803-01-000-0183-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986181": {
   "candidates": [],
@@ -37928,7 +37928,7 @@
    "H1850-00-179-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4986217": {
   "candidates": [
@@ -37939,7 +37939,7 @@
    "P2500-00-004-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4987730": {
   "candidates": [
@@ -37948,17 +37948,17 @@
    "F7495-01-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4987738": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4989546": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4989550": {
   "candidates": [],
@@ -38032,7 +38032,7 @@
    "E5160-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4989874": {
   "candidates": [],
@@ -38061,7 +38061,7 @@
    "A6150-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4990719": {
   "candidates": [],
@@ -38084,7 +38084,7 @@
  "court:4991511": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991519": {
   "candidates": [],
@@ -38113,7 +38113,7 @@
    "R0650-00-014-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991835": {
   "candidates": [
@@ -38124,7 +38124,7 @@
    "S3594-01-000-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991865": {
   "candidates": [
@@ -38135,7 +38135,7 @@
    "L3950-00-00C-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991892": {
   "candidates": [
@@ -38146,7 +38146,7 @@
    "A1600-02-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991957": {
   "candidates": [],
@@ -38172,7 +38172,7 @@
    "D3200-00-096-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4991977": {
   "candidates": [],
@@ -38186,7 +38186,7 @@
  "court:4991986": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4992003": {
   "candidates": [],
@@ -38203,7 +38203,7 @@
    "A6870-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4994360": {
   "candidates": [],
@@ -38221,7 +38221,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 4,
   "person": "RIVERA EFRAIN",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4994429": {
   "candidates": [
@@ -38232,13 +38232,13 @@
    "B3000-00-001-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4994441": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "low",
   "geo_id": "A3481-00-000-0004-00",
-  "method": "name",
+  "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "ZEPEDA ERIKA",
   "tried": "2026-10-15"
@@ -38250,7 +38250,7 @@
    "V4055-03-000-0055-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4994451": {
   "candidates": [
@@ -38261,7 +38261,7 @@
    "L5806-02-000-0207-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4996138": {
   "candidates": [],
@@ -38287,7 +38287,7 @@
    "S6208-00-000-0043-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4996180": {
   "candidates": [
@@ -38298,7 +38298,7 @@
    "M5745-01-001-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4996181": {
   "candidates": [
@@ -38309,7 +38309,7 @@
    "G9300-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4996970": {
   "candidates": [
@@ -38320,7 +38320,7 @@
    "S3675-00-006-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4996972": {
   "candidates": [],
@@ -38334,7 +38334,7 @@
  "court:4997163": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997167": {
   "candidates": [],
@@ -38354,7 +38354,7 @@
    "L3152-00-000-0044-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997320": {
   "candidates": [
@@ -38365,7 +38365,7 @@
    "C4560-00-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997340": {
   "candidates": [
@@ -38376,7 +38376,7 @@
    "G9100-00-010-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997346": {
   "candidates": [],
@@ -38426,7 +38426,7 @@
  "court:4997823": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997825": {
   "candidates": [
@@ -38435,7 +38435,7 @@
    "B5400-00-001-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997830": {
   "candidates": [],
@@ -38455,7 +38455,7 @@
    "M4750-00-002-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997836": {
   "candidates": [
@@ -38463,12 +38463,12 @@
    "B4965-04-000-0335-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997840": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997842": {
   "candidates": [],
@@ -38486,17 +38486,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 104,
   "person": "GARCIA HELIODORO",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997899": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997901": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997903": {
   "candidates": [
@@ -38504,7 +38504,7 @@
    "M6050-00-001-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997904": {
   "candidates": [],
@@ -38518,17 +38518,17 @@
  "court:4997907": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997908": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997911": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4997976": {
   "candidates": [],
@@ -38569,7 +38569,7 @@
  "court:4998465": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4998744": {
   "candidates": [
@@ -38580,7 +38580,7 @@
    "V0807-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4998746": {
   "candidates": [
@@ -38589,7 +38589,7 @@
    "W2400-00-005-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:4999855": {
   "candidates": [
@@ -38599,7 +38599,7 @@
    "V3325-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000037": {
   "candidates": [
@@ -38610,7 +38610,7 @@
    "L3190-00-006-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000155": {
   "candidates": [
@@ -38621,7 +38621,7 @@
    "M2321-00-00C-0055-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000186": {
   "candidates": [],
@@ -38640,7 +38640,7 @@
    "P1000-02-000-0217-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000193": {
   "candidates": [],
@@ -38654,7 +38654,7 @@
  "court:5000197": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000220": {
   "candidates": [],
@@ -38671,12 +38671,12 @@
    "C4968-00-000-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000869": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000870": {
   "candidates": [],
@@ -38696,12 +38696,12 @@
    "A1300-00-001-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000874": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000877": {
   "candidates": [],
@@ -38718,7 +38718,7 @@
    "D6009-02-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5000993": {
   "candidates": [
@@ -38729,27 +38729,27 @@
    "W4660-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5005302": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5005576": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5005590": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5006326": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5006385": {
   "candidates": [
@@ -38760,12 +38760,12 @@
    "D2025-00-000-0050-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5006563": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5006851": {
   "candidates": [
@@ -38773,7 +38773,7 @@
    "W6555-00-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007469": {
   "candidates": [
@@ -38782,7 +38782,7 @@
    "D6755-02-000-0030-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007488": {
   "candidates": [
@@ -38793,12 +38793,12 @@
    "P8650-02-000-0094-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007489": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007490": {
   "candidates": [
@@ -38806,12 +38806,12 @@
    "L1710-00-0AN-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007491": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007493": {
   "candidates": [],
@@ -38820,17 +38820,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "SANCHEZ NESTOR",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007494": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007495": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007496": {
   "candidates": [
@@ -38840,7 +38840,7 @@
    "E5400-00-065-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007499": {
   "candidates": [
@@ -38851,7 +38851,7 @@
    "P5365-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007501": {
   "candidates": [],
@@ -38865,7 +38865,7 @@
  "court:5007515": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007537": {
   "candidates": [
@@ -38875,7 +38875,7 @@
    "L0320-00-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007572": {
   "candidates": [
@@ -38886,7 +38886,7 @@
    "A4800-00-003-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007587": {
   "candidates": [
@@ -38895,7 +38895,7 @@
    "E4645-00-000-0063-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007605": {
   "candidates": [],
@@ -38918,17 +38918,17 @@
  "court:5007680": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007689": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007712": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007714": {
   "candidates": [],
@@ -38937,12 +38937,12 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "RIVAS MARGARITA",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007722": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007758": {
   "candidates": [
@@ -38953,7 +38953,7 @@
    "A3000-00-006-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007761": {
   "candidates": [],
@@ -38970,7 +38970,7 @@
    "L3074-01-000-0062-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007788": {
   "candidates": [
@@ -38979,7 +38979,7 @@
    "H0900-00-020-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007789": {
   "candidates": [],
@@ -39008,17 +39008,17 @@
    "A2453-01-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007826": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007834": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5007847": {
   "candidates": [],
@@ -39036,7 +39036,7 @@
    "E5400-00-095-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008002": {
   "candidates": [],
@@ -39056,7 +39056,7 @@
    "E4552-00-000-0027-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008216": {
   "candidates": [],
@@ -39070,7 +39070,7 @@
  "court:5008318": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008349": {
   "candidates": [
@@ -39079,7 +39079,7 @@
    "R3950-00-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008350": {
   "candidates": [
@@ -39088,22 +39088,22 @@
    "P2360-01-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008355": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008384": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008416": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5008440": {
   "candidates": [],
@@ -39123,7 +39123,7 @@
    "E4949-97-000-0021-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010668": {
   "candidates": [
@@ -39134,12 +39134,12 @@
    "U3000-02-000-0112-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010686": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010706": {
   "candidates": [
@@ -39149,7 +39149,7 @@
    "M3550-00-174-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010707": {
   "candidates": [
@@ -39160,7 +39160,7 @@
    "S2950-00-000-0463-07"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010722": {
   "candidates": [
@@ -39171,7 +39171,7 @@
    "T6842-02-000-0180-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010743": {
   "candidates": [],
@@ -39206,16 +39206,16 @@
    "N3400-00-000-2206-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5010785": {
   "candidates": [],
-  "confidence": "low",
+  "confidence": "high",
   "geo_id": "E3100-00-021-0007-00",
-  "method": "rejected-by-tax-office",
-  "n_candidates": 4,
-  "person": "YBARRA HECTOR",
-  "tried": "2026-10-15"
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-29"
  },
  "court:5012587": {
   "candidates": [],
@@ -39238,12 +39238,12 @@
  "court:5012666": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012668": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012672": {
   "candidates": [
@@ -39253,7 +39253,7 @@
    "N4765-02-000-0078-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012711": {
   "candidates": [
@@ -39264,7 +39264,7 @@
    "S6853-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012761": {
   "candidates": [
@@ -39275,7 +39275,7 @@
    "M1191-04-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012762": {
   "candidates": [
@@ -39283,7 +39283,7 @@
    "L6441-00-000-000J-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012799": {
   "candidates": [
@@ -39294,7 +39294,7 @@
    "L1155-00-000-0094-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012939": {
   "candidates": [
@@ -39305,7 +39305,7 @@
    "N4855-02-000-0145-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5012940": {
   "candidates": [],
@@ -39319,7 +39319,7 @@
  "court:5012942": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5013002": {
   "candidates": [],
@@ -39328,7 +39328,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "TERRY RONNIE",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5013076": {
   "candidates": [],
@@ -39348,7 +39348,7 @@
    "V3820-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5013094": {
   "candidates": [
@@ -39357,7 +39357,7 @@
    "N3100-00-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5013106": {
   "candidates": [],
@@ -39366,7 +39366,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 25,
   "person": "SOLANO VICENTE",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5015871": {
   "candidates": [
@@ -39376,7 +39376,7 @@
    "C2200-00-002-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5015954": {
   "candidates": [
@@ -39387,7 +39387,7 @@
    "S6925-00-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5015997": {
   "candidates": [
@@ -39398,17 +39398,17 @@
    "R4670-00-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016012": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016013": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016026": {
   "candidates": [],
@@ -39444,7 +39444,7 @@
    "E5400-00-052-0001-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016174": {
   "candidates": [
@@ -39455,7 +39455,7 @@
    "O0480-01-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016205": {
   "candidates": [],
@@ -39484,7 +39484,7 @@
    "S6853-00-000-0067-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016348": {
   "candidates": [
@@ -39495,7 +39495,7 @@
    "M5500-00-094-0003-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016587": {
   "candidates": [
@@ -39504,12 +39504,12 @@
    "L6725-00-000-0085-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016589": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016591": {
   "candidates": [
@@ -39520,7 +39520,7 @@
    "J2400-00-064-0002-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016621": {
   "candidates": [
@@ -39528,12 +39528,12 @@
    "A2100-00-010-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016653": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016667": {
   "candidates": [
@@ -39543,12 +39543,12 @@
    "E8000-00-132-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016671": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016764": {
   "candidates": [],
@@ -39586,7 +39586,7 @@
    "N6750-01-000-0043-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016771": {
   "candidates": [
@@ -39596,7 +39596,7 @@
    "H2475-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016773": {
   "candidates": [
@@ -39605,7 +39605,7 @@
    "C4500-00-000-0003-25"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016775": {
   "candidates": [
@@ -39614,7 +39614,7 @@
    "C2675-02-000-0145-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016778": {
   "candidates": [
@@ -39625,7 +39625,7 @@
    "T0945-13-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016779": {
   "candidates": [
@@ -39636,7 +39636,7 @@
    "R2500-00-001-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016780": {
   "candidates": [
@@ -39646,7 +39646,7 @@
    "A0800-00-000-1147-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016781": {
   "candidates": [
@@ -39657,12 +39657,12 @@
    "M5200-00-055-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016783": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016786": {
   "candidates": [],
@@ -39682,7 +39682,7 @@
    "W3800-00-414-0000-08"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016847": {
   "candidates": [
@@ -39693,7 +39693,7 @@
    "D1600-00-000-0022-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016853": {
   "candidates": [],
@@ -39711,7 +39711,7 @@
    "V3845-01-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016921": {
   "candidates": [],
@@ -39729,7 +39729,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "CARDOZA ANGELICA",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016927": {
   "candidates": [],
@@ -39749,7 +39749,7 @@
    "V2660-05-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016950": {
   "candidates": [],
@@ -39766,7 +39766,7 @@
    "P0500-00-126-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016968": {
   "candidates": [],
@@ -39784,7 +39784,7 @@
    "P1000-04-000-0409-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5016985": {
   "candidates": [],
@@ -39793,7 +39793,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 26,
   "person": "TREVINO MARIA",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5017251": {
   "candidates": [
@@ -39804,7 +39804,7 @@
    "C7500-06-000-0071-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5017254": {
   "candidates": [],
@@ -39824,7 +39824,7 @@
    "C2850-00-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5017560": {
   "candidates": [
@@ -39835,7 +39835,7 @@
    "N4470-00-000-0084-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5017652": {
   "candidates": [],
@@ -39864,7 +39864,7 @@
    "M5660-00-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5019832": {
   "candidates": [],
@@ -39881,7 +39881,7 @@
    "P0650-00-00A-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5019968": {
   "candidates": [],
@@ -39901,7 +39901,7 @@
    "R0800-02-000-0100-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5019977": {
   "candidates": [],
@@ -39918,7 +39918,7 @@
    "T8285-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5019986": {
   "candidates": [
@@ -39929,7 +39929,7 @@
    "S1079-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5020133": {
   "candidates": [
@@ -39940,7 +39940,7 @@
    "G5970-00-000-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5020143": {
   "candidates": [],
@@ -39960,7 +39960,7 @@
    "W0100-00-049-0006-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5020385": {
   "candidates": [
@@ -39971,7 +39971,7 @@
    "M4400-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5020414": {
   "candidates": [],
@@ -40000,7 +40000,7 @@
    "T6353-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024333": {
   "candidates": [],
@@ -40038,7 +40038,7 @@
    "T2200-00-010-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024349": {
   "candidates": [],
@@ -40058,7 +40058,7 @@
    "B5015-00-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024370": {
   "candidates": [
@@ -40069,7 +40069,7 @@
    "D7530-00-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024373": {
   "candidates": [
@@ -40080,7 +40080,7 @@
    "S0630-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024489": {
   "candidates": [
@@ -40089,17 +40089,17 @@
    "E3465-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024611": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024807": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024982": {
   "candidates": [],
@@ -40118,7 +40118,7 @@
    "E7800-00-001-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024984": {
   "candidates": [],
@@ -40150,17 +40150,17 @@
  "court:5024987": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024988": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5024989": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5025043": {
   "candidates": [
@@ -40171,7 +40171,7 @@
    "L0833-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5025058": {
   "candidates": [],
@@ -40200,7 +40200,7 @@
    "C1625-00-004-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5025093": {
   "candidates": [],
@@ -40227,7 +40227,7 @@
    "C0050-00-000-0049-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5025177": {
   "candidates": [
@@ -40258,7 +40258,7 @@
    "W3770-00-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5025519": {
   "candidates": [],
@@ -40303,7 +40303,7 @@
    "M6450-00-015-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028113": {
   "candidates": [
@@ -40314,7 +40314,7 @@
    "W0100-00-060-0004-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028114": {
   "candidates": [
@@ -40325,7 +40325,7 @@
    "M3920-00-005-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028229": {
   "candidates": [],
@@ -40345,7 +40345,7 @@
    "W7360-05-000-0178-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028340": {
   "candidates": [],
@@ -40374,7 +40374,7 @@
    "T5300-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028385": {
   "candidates": [],
@@ -40383,7 +40383,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "TORO JOSE",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028407": {
   "candidates": [
@@ -40394,7 +40394,7 @@
    "T1250-03-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028416": {
   "candidates": [],
@@ -40414,7 +40414,7 @@
    "C4440-03-019-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5028439": {
   "candidates": [
@@ -40422,7 +40422,7 @@
    "T1700-00-004-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029477": {
   "candidates": [
@@ -40430,7 +40430,7 @@
    "L0800-00-010-0001-08"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029478": {
   "candidates": [],
@@ -40450,7 +40450,7 @@
    "V1230-97-000-0019-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029495": {
   "candidates": [],
@@ -40473,7 +40473,7 @@
  "court:5029573": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029669": {
   "candidates": [],
@@ -40491,7 +40491,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 100,
   "person": "HERNANDEZ DANIEL",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029747": {
   "candidates": [],
@@ -40505,7 +40505,7 @@
  "court:5029765": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029772": {
   "candidates": [
@@ -40516,7 +40516,7 @@
    "T6265-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5029818": {
   "candidates": [
@@ -40527,7 +40527,7 @@
    "C4961-00-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030218": {
   "candidates": [
@@ -40537,7 +40537,7 @@
    "E5200-00-005-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030536": {
   "candidates": [
@@ -40548,7 +40548,7 @@
    "S1352-00-000-0036-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030537": {
   "candidates": [
@@ -40559,7 +40559,7 @@
    "R0215-02-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030538": {
   "candidates": [],
@@ -40576,7 +40576,7 @@
    "S1753-02-000-0064-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030542": {
   "candidates": [],
@@ -40595,7 +40595,7 @@
    "A2900-00-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030583": {
   "candidates": [],
@@ -40633,7 +40633,7 @@
    "E4050-02-013-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030693": {
   "candidates": [
@@ -40644,7 +40644,7 @@
    "M5500-00-088-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030701": {
   "candidates": [],
@@ -40664,7 +40664,7 @@
    "S6853-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5030732": {
   "candidates": [],
@@ -40684,7 +40684,7 @@
    "J0030-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034327": {
   "candidates": [
@@ -40695,7 +40695,7 @@
    "C0950-00-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034329": {
   "candidates": [
@@ -40704,12 +40704,12 @@
    "T2200-00-001-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034361": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034365": {
   "candidates": [
@@ -40720,7 +40720,7 @@
    "J8700-00-005-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034573": {
   "candidates": [
@@ -40731,7 +40731,7 @@
    "P1900-00-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034939": {
   "candidates": [
@@ -40742,7 +40742,7 @@
    "R0800-01-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5034948": {
   "candidates": [
@@ -40751,7 +40751,7 @@
    "S4225-00-000-0118-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5035046": {
   "candidates": [],
@@ -40765,7 +40765,7 @@
  "court:5035966": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5035979": {
   "candidates": [],
@@ -40785,7 +40785,7 @@
    "L5332-01-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5035989": {
   "candidates": [
@@ -40796,7 +40796,7 @@
    "S2440-04-000-0028-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5036029": {
   "candidates": [],
@@ -40816,7 +40816,7 @@
    "L1200-00-003-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5036055": {
   "candidates": [],
@@ -40835,7 +40835,7 @@
    "A2100-00-078-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5036084": {
   "candidates": [],
@@ -40849,7 +40849,7 @@
  "court:5036085": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5036087": {
   "candidates": [
@@ -40860,12 +40860,12 @@
    "S2950-00-000-0456-70"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5038830": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5038995": {
   "candidates": [
@@ -40874,7 +40874,7 @@
    "P7170-07-016-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5039207": {
   "candidates": [
@@ -40882,7 +40882,7 @@
    "C0604-01-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5039282": {
   "candidates": [
@@ -40893,7 +40893,7 @@
    "G5900-01-005-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5040282": {
   "candidates": [],
@@ -40907,7 +40907,7 @@
  "court:5040366": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5040836": {
   "candidates": [],
@@ -40925,17 +40925,17 @@
    "G6955-01-000-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5041435": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5041446": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5041751": {
   "candidates": [
@@ -40944,7 +40944,7 @@
    "E4941-97-000-0017-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5042842": {
   "candidates": [
@@ -40955,12 +40955,12 @@
    "R0215-02-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5042849": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5042904": {
   "candidates": [],
@@ -40974,7 +40974,7 @@
  "court:5042932": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5043743": {
   "candidates": [
@@ -40985,12 +40985,12 @@
    "A2100-00-041-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5043838": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044195": {
   "candidates": [
@@ -41001,7 +41001,7 @@
    "H4250-03-000-0095-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044484": {
   "candidates": [],
@@ -41021,7 +41021,7 @@
    "N3025-02-000-0095-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044711": {
   "candidates": [
@@ -41032,7 +41032,7 @@
    "W3800-00-528-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044713": {
   "candidates": [],
@@ -41055,7 +41055,7 @@
  "court:5044717": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044718": {
   "candidates": [],
@@ -41072,7 +41072,7 @@
    "L0800-00-012-0001-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044724": {
   "candidates": [],
@@ -41086,7 +41086,7 @@
  "court:5044914": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044944": {
   "candidates": [
@@ -41097,7 +41097,7 @@
    "L3352-03-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044946": {
   "candidates": [],
@@ -41114,7 +41114,7 @@
    "R3315-00-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5044948": {
   "candidates": [],
@@ -41140,7 +41140,7 @@
    "C1260-01-000-0024-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045405": {
   "candidates": [
@@ -41151,7 +41151,7 @@
    "A1300-00-001-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045406": {
   "candidates": [
@@ -41162,17 +41162,17 @@
    "C0250-00-002-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045407": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045411": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045425": {
   "candidates": [
@@ -41183,7 +41183,7 @@
    "C2180-00-000-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045434": {
   "candidates": [
@@ -41194,7 +41194,7 @@
    "D7800-00-007-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5045817": {
   "candidates": [
@@ -41203,7 +41203,7 @@
    "S1150-00-006-0000-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046242": {
   "candidates": [
@@ -41211,7 +41211,7 @@
    "I8060-00-000-0071-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046244": {
   "candidates": [],
@@ -41220,16 +41220,18 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 6,
   "person": "TORRES SERGIO",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046262": {
-  "candidates": [],
+  "candidates": [
+   "M6450-00-015-0014-00",
+   "E5035-97-000-0155-02",
+   "V4358-01-000-0024-00",
+   "S6812-00-000-0055-00",
+   "M6860-00-000-0032-00"
+  ],
   "confidence": "low",
-  "geo_id": "M3550-00-141-0019-00",
-  "method": "rejected-by-tax-office",
-  "n_candidates": 37,
-  "person": "HERNANDEZ JOSE",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046263": {
   "candidates": [
@@ -41237,22 +41239,22 @@
    "E5740-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046272": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046364": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046656": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046658": {
   "candidates": [
@@ -41261,7 +41263,7 @@
    "H1500-00-003-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046666": {
   "candidates": [
@@ -41272,7 +41274,7 @@
    "S2950-00-000-0463-07"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046680": {
   "candidates": [
@@ -41283,12 +41285,12 @@
    "V4345-01-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046699": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5046746": {
   "candidates": [],
@@ -41308,17 +41310,17 @@
    "T0015-02-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047095": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047149": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047195": {
   "candidates": [
@@ -41329,12 +41331,12 @@
    "S7657-02-000-0054-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047362": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047598": {
   "candidates": [
@@ -41342,7 +41344,7 @@
    "G7850-00-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047632": {
   "candidates": [
@@ -41352,17 +41354,17 @@
    "B2400-02-007-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047675": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047887": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5047922": {
   "candidates": [],
@@ -41382,7 +41384,7 @@
    "M5000-00-003-0011-08"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048073": {
   "candidates": [],
@@ -41396,22 +41398,22 @@
  "court:5048074": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048077": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048079": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048080": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048081": {
   "candidates": [],
@@ -41420,7 +41422,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "VAZQUEZ NORMA",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048096": {
   "candidates": [
@@ -41431,7 +41433,7 @@
    "V4340-06-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048098": {
   "candidates": [
@@ -41439,7 +41441,7 @@
    "W3920-00-000-0072-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048104": {
   "candidates": [
@@ -41450,7 +41452,7 @@
    "L6225-03-000-0211-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048150": {
   "candidates": [
@@ -41461,7 +41463,7 @@
    "P1900-00-000-0038-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048162": {
   "candidates": [],
@@ -41488,7 +41490,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 46,
   "person": "RODRIGUEZ JUAN",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048188": {
   "candidates": [
@@ -41499,7 +41501,7 @@
    "B1900-10-000-0036-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048201": {
   "candidates": [],
@@ -41522,7 +41524,7 @@
  "court:5048267": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048334": {
   "candidates": [
@@ -41533,7 +41535,7 @@
    "B4450-00-004-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048337": {
   "candidates": [
@@ -41544,7 +41546,7 @@
    "B3650-00-006-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048339": {
   "candidates": [],
@@ -41564,7 +41566,7 @@
    "P9276-01-000-0054-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048342": {
   "candidates": [],
@@ -41587,7 +41589,7 @@
  "court:5048352": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048684": {
   "candidates": [],
@@ -41604,7 +41606,7 @@
    "M0312-01-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048686": {
   "candidates": [],
@@ -41624,12 +41626,12 @@
    "S1815-95-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048691": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048830": {
   "candidates": [
@@ -41638,7 +41640,7 @@
    "W3800-00-289-0000-45"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5048834": {
   "candidates": [],
@@ -41694,7 +41696,7 @@
    "M3849-4B-000-0438-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5049630": {
   "candidates": [
@@ -41703,7 +41705,7 @@
    "P2360-01-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5049689": {
   "candidates": [
@@ -41711,7 +41713,7 @@
    "T2100-00-233-0010-21"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5049691": {
   "candidates": [
@@ -41721,7 +41723,7 @@
    "S1550-00-000-0001-08"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5050434": {
   "candidates": [],
@@ -41738,12 +41740,12 @@
    "V3900-02-000-0050-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5050806": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5050974": {
   "candidates": [
@@ -41754,7 +41756,7 @@
    "W0100-00-060-0004-23"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5050992": {
   "candidates": [],
@@ -41777,7 +41779,7 @@
  "court:5050999": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051003": {
   "candidates": [
@@ -41785,7 +41787,7 @@
    "H4250-04-036-0001-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051005": {
   "candidates": [
@@ -41793,12 +41795,12 @@
    "S4847-01-001-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051006": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051007": {
   "candidates": [],
@@ -41812,7 +41814,7 @@
  "court:5051009": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051018": {
   "candidates": [
@@ -41820,7 +41822,7 @@
    "M1950-00-063-0006-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051113": {
   "candidates": [],
@@ -41840,7 +41842,7 @@
    "M5677-00-000-0102-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051211": {
   "candidates": [],
@@ -41854,7 +41856,7 @@
  "court:5051214": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051219": {
   "candidates": [
@@ -41865,7 +41867,7 @@
    "W3800-00-707-0000-80"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051223": {
   "candidates": [
@@ -41876,7 +41878,7 @@
    "R4570-02-000-0027-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051224": {
   "candidates": [
@@ -41887,7 +41889,7 @@
    "E3345-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051226": {
   "candidates": [],
@@ -41916,7 +41918,7 @@
    "M1883-00-000-0055-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051508": {
   "candidates": [],
@@ -41962,7 +41964,7 @@
    "T5600-00-000-0022-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051667": {
   "candidates": [],
@@ -41994,7 +41996,7 @@
  "court:5051761": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051774": {
   "candidates": [
@@ -42005,7 +42007,7 @@
    "S1352-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051776": {
   "candidates": [],
@@ -42019,7 +42021,7 @@
  "court:5051784": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051793": {
   "candidates": [],
@@ -42033,17 +42035,17 @@
  "court:5051796": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051813": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051814": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051815": {
   "candidates": [
@@ -42053,7 +42055,7 @@
    "H0750-00-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051816": {
   "candidates": [
@@ -42064,7 +42066,7 @@
    "T6840-00-000-0074-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5051819": {
   "candidates": [],
@@ -42111,7 +42113,7 @@
    "W1850-98-000-0007-21"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052071": {
   "candidates": [
@@ -42120,7 +42122,7 @@
    "L0800-00-008-0001-09"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052128": {
   "candidates": [],
@@ -42140,7 +42142,7 @@
    "C9520-01-000-0037-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052266": {
   "candidates": [
@@ -42148,7 +42150,7 @@
    "L2121-01-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052707": {
   "candidates": [
@@ -42159,7 +42161,7 @@
    "T2200-00-019-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052761": {
   "candidates": [
@@ -42169,7 +42171,7 @@
    "B3250-00-004-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052787": {
   "candidates": [
@@ -42180,7 +42182,7 @@
    "O4900-97-000-0003-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5052800": {
   "candidates": [
@@ -42188,7 +42190,7 @@
    "L2950-00-001-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5053243": {
   "candidates": [],
@@ -42207,17 +42209,17 @@
    "B1900-05-000-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5053359": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5053621": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5053985": {
   "candidates": [
@@ -42228,7 +42230,7 @@
    "A0800-00-000-1123-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5053991": {
   "candidates": [
@@ -42239,7 +42241,7 @@
    "P7040-01-000-0099-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5054003": {
   "candidates": [],
@@ -42262,17 +42264,17 @@
  "court:5054252": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5054253": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5054254": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5054603": {
   "candidates": [
@@ -42283,7 +42285,7 @@
    "C2675-02-000-0152-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5055238": {
   "candidates": [
@@ -42294,7 +42296,7 @@
    "M2650-00-005-0002-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5055861": {
   "candidates": [],
@@ -42314,12 +42316,12 @@
    "V0807-02-000-0096-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5057115": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5057118": {
   "candidates": [],
@@ -42333,7 +42335,7 @@
  "court:5057160": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5057223": {
   "candidates": [],
@@ -42347,7 +42349,7 @@
  "court:5057778": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5057857": {
   "candidates": [
@@ -42358,12 +42360,12 @@
    "D6000-03-000-0044-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5057975": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5058009": {
   "candidates": [],
@@ -42380,7 +42382,7 @@
    "Q1000-01-000-0091-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5058865": {
   "candidates": [
@@ -42391,7 +42393,7 @@
    "L0070-01-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5058875": {
   "candidates": [
@@ -42402,7 +42404,7 @@
    "W3800-00-376-0000-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5058968": {
   "candidates": [],
@@ -42431,7 +42433,7 @@
    "C2950-02-000-0067-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059284": {
   "candidates": [],
@@ -42478,7 +42480,7 @@
    "M2500-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059439": {
   "candidates": [],
@@ -42495,17 +42497,17 @@
    "M5945-00-000-0028-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059448": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059455": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059530": {
   "candidates": [],
@@ -42536,12 +42538,12 @@
  },
  "court:5059534": {
   "candidates": [],
-  "confidence": "low",
+  "confidence": "medium",
   "geo_id": "B1560-07-000-0005-00",
-  "method": "rejected-by-tax-office",
+  "method": "name+co-owner",
   "n_candidates": 8,
   "person": "LUNA ARNOLDO",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059538": {
   "candidates": [
@@ -42552,7 +42554,7 @@
    "C8600-01-001-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059539": {
   "candidates": [],
@@ -42570,7 +42572,7 @@
    "W2761-03-000-0124-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059778": {
   "candidates": [
@@ -42579,7 +42581,7 @@
    "E6450-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059783": {
   "candidates": [
@@ -42588,12 +42590,12 @@
    "R1400-03-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059798": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059973": {
   "candidates": [
@@ -42604,7 +42606,7 @@
    "F3450-00-157-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059981": {
   "candidates": [
@@ -42613,12 +42615,12 @@
    "E6290-00-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059989": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059992": {
   "candidates": [
@@ -42629,7 +42631,7 @@
    "A6870-03-000-0043-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059996": {
   "candidates": [
@@ -42638,7 +42640,7 @@
    "S1802-00-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5059998": {
   "candidates": [],
@@ -42658,32 +42660,32 @@
    "H5000-00-009-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5061060": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5061170": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5061395": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5062050": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5062056": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5062295": {
   "candidates": [
@@ -42692,12 +42694,12 @@
    "E3300-00-321-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5062635": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063027": {
   "candidates": [],
@@ -42711,12 +42713,12 @@
  "court:5063342": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063494": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063505": {
   "candidates": [
@@ -42727,7 +42729,7 @@
    "V4340-95-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063569": {
   "candidates": [],
@@ -42765,7 +42767,7 @@
    "T4370-00-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063703": {
   "candidates": [
@@ -42776,7 +42778,7 @@
    "S3979-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063809": {
   "candidates": [
@@ -42785,12 +42787,12 @@
    "T8260-02-000-0082-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063812": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063816": {
   "candidates": [
@@ -42798,7 +42800,7 @@
    "Q1000-02-000-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5063990": {
   "candidates": [
@@ -42809,7 +42811,7 @@
    "N5400-00-017-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5064034": {
   "candidates": [],
@@ -42832,7 +42834,7 @@
  "court:5064064": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5064067": {
   "candidates": [],
@@ -42861,22 +42863,22 @@
    "O8200-00-000-0070-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5065572": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5065573": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5065578": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5065579": {
   "candidates": [
@@ -42887,7 +42889,7 @@
    "V3652-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5065684": {
   "candidates": [],
@@ -42931,7 +42933,7 @@
    "A1765-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5066941": {
   "candidates": [
@@ -42942,7 +42944,7 @@
    "C7130-02-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5066958": {
   "candidates": [
@@ -42953,7 +42955,7 @@
    "G3300-00-004-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5066960": {
   "candidates": [],
@@ -42972,7 +42974,7 @@
    "E4830-01-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5066976": {
   "candidates": [],
@@ -42986,7 +42988,7 @@
  "court:5066978": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5066979": {
   "candidates": [
@@ -42997,7 +42999,7 @@
    "Q0910-00-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067056": {
   "candidates": [
@@ -43008,17 +43010,17 @@
    "G4900-00-002-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067057": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067058": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067060": {
   "candidates": [
@@ -43028,12 +43030,12 @@
    "W2950-02-000-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067062": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067064": {
   "candidates": [
@@ -43044,7 +43046,7 @@
    "M3225-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067065": {
   "candidates": [
@@ -43053,7 +43055,7 @@
    "D3010-03-000-0197-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067113": {
   "candidates": [],
@@ -43076,7 +43078,7 @@
  "court:5067128": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067129": {
   "candidates": [
@@ -43084,7 +43086,7 @@
    "P0070-00-000-0058-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067130": {
   "candidates": [],
@@ -43107,7 +43109,7 @@
  "court:5067135": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067152": {
   "candidates": [
@@ -43118,7 +43120,7 @@
    "C6760-00-000-0298-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5067155": {
   "candidates": [],
@@ -43186,7 +43188,7 @@
  "court:5068000": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5068772": {
   "candidates": [
@@ -43197,7 +43199,7 @@
    "B3252-00-000-0088-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5068773": {
   "candidates": [
@@ -43208,7 +43210,7 @@
    "L3398-00-001-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5068785": {
   "candidates": [],
@@ -43228,7 +43230,7 @@
    "V0568-00-000-0187-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5068791": {
   "candidates": [
@@ -43238,7 +43240,7 @@
    "B0450-02-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5068793": {
   "candidates": [],
@@ -43285,12 +43287,12 @@
    "P6200-00-00R-0000-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5069056": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5069110": {
   "candidates": [
@@ -43299,17 +43301,17 @@
    "H0350-00-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070372": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070405": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070758": {
   "candidates": [],
@@ -43329,12 +43331,12 @@
    "L3397-2B-000-0236-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070860": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070964": {
   "candidates": [
@@ -43343,7 +43345,7 @@
    "O3960-97-000-0070-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5070991": {
   "candidates": [
@@ -43354,12 +43356,12 @@
    "A1800-98-012-0012-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071019": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071026": {
   "candidates": [],
@@ -43406,12 +43408,12 @@
    "E5400-00-080-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071085": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071311": {
   "candidates": [],
@@ -43437,7 +43439,7 @@
    "P0650-00-00B-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071315": {
   "candidates": [
@@ -43445,7 +43447,7 @@
    "M5200-00-090-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071318": {
   "candidates": [
@@ -43456,7 +43458,7 @@
    "C4200-00-005-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071319": {
   "candidates": [
@@ -43467,7 +43469,7 @@
    "V3512-00-000-0060-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071321": {
   "candidates": [],
@@ -43486,7 +43488,7 @@
    "S3974-01-000-0085-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071515": {
   "candidates": [],
@@ -43503,7 +43505,7 @@
    "L3393-00-000-0291-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071524": {
   "candidates": [],
@@ -43520,7 +43522,7 @@
    "T4900-02-002-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071536": {
   "candidates": [
@@ -43531,7 +43533,7 @@
    "L3072-00-000-0056-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071539": {
   "candidates": [
@@ -43542,7 +43544,7 @@
    "L3164-08-000-0054-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071552": {
   "candidates": [
@@ -43553,7 +43555,7 @@
    "I4046-00-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071557": {
   "candidates": [
@@ -43561,12 +43563,12 @@
    "B3950-02-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071566": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071571": {
   "candidates": [],
@@ -43586,12 +43588,12 @@
    "T0803-01-000-0186-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071604": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071699": {
   "candidates": [],
@@ -43608,17 +43610,17 @@
    "K0860-02-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071940": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5071997": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072033": {
   "candidates": [],
@@ -43641,7 +43643,7 @@
  "court:5072180": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072290": {
   "candidates": [
@@ -43652,7 +43654,7 @@
    "F5100-00-000-0009-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072294": {
   "candidates": [
@@ -43663,7 +43665,7 @@
    "A1800-00-056-0001-07"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072296": {
   "candidates": [
@@ -43674,12 +43676,12 @@
    "A0225-00-003-0146-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072340": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072379": {
   "candidates": [
@@ -43690,7 +43692,7 @@
    "P8060-07-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072396": {
   "candidates": [
@@ -43701,7 +43703,7 @@
    "C6760-95-000-0310-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072420": {
   "candidates": [],
@@ -43721,17 +43723,17 @@
    "F1250-00-001-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5072519": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073126": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073129": {
   "candidates": [],
@@ -43745,12 +43747,12 @@
  "court:5073138": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073345": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073591": {
   "candidates": [],
@@ -43770,7 +43772,7 @@
    "V3054-00-000-0043-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073760": {
   "candidates": [
@@ -43781,7 +43783,7 @@
    "W7400-00-013-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5073866": {
   "candidates": [
@@ -43792,12 +43794,12 @@
    "R3310-00-000-0074-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074203": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074278": {
   "candidates": [
@@ -43808,7 +43810,7 @@
    "W3800-00-547-0000-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074479": {
   "candidates": [
@@ -43819,7 +43821,7 @@
    "A3100-00-003-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074549": {
   "candidates": [
@@ -43830,7 +43832,7 @@
    "A4133-00-003-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074554": {
   "candidates": [
@@ -43841,12 +43843,12 @@
    "L1500-00-000-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074616": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074866": {
   "candidates": [
@@ -43857,7 +43859,7 @@
    "R3310-00-000-0074-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5074953": {
   "candidates": [],
@@ -43880,12 +43882,12 @@
  "court:5075035": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5075229": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5075303": {
   "candidates": [
@@ -43896,7 +43898,7 @@
    "P3200-03-008-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5075568": {
   "candidates": [
@@ -43907,7 +43909,7 @@
    "A0230-00-000-0066-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5075653": {
   "candidates": [
@@ -43918,12 +43920,12 @@
    "J5700-00-001-0012-12"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5075780": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076175": {
   "candidates": [
@@ -43931,12 +43933,12 @@
    "D6435-01-004-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076207": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076256": {
   "candidates": [],
@@ -43950,7 +43952,7 @@
  "court:5076286": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076295": {
   "candidates": [
@@ -43961,17 +43963,17 @@
    "G6900-00-007-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076487": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076533": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5076536": {
   "candidates": [],
@@ -44000,12 +44002,12 @@
    "V3095-00-000-0065-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077015": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077133": {
   "candidates": [
@@ -44016,7 +44018,7 @@
    "V0563-07-000-0393-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077179": {
   "candidates": [
@@ -44027,22 +44029,22 @@
    "E4610-02-000-0064-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077262": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077555": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077567": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077604": {
   "candidates": [
@@ -44051,7 +44053,7 @@
    "L0400-00-017-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077646": {
   "candidates": [],
@@ -44065,7 +44067,7 @@
  "court:5077686": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077875": {
   "candidates": [
@@ -44076,7 +44078,7 @@
    "G1200-09-000-0084-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5077884": {
   "candidates": [],
@@ -44099,7 +44101,7 @@
  "court:5078075": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078089": {
   "candidates": [
@@ -44107,7 +44109,7 @@
    "V3450-06-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078288": {
   "candidates": [
@@ -44118,17 +44120,17 @@
    "H4250-01-000-0072-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078289": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078318": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078321": {
   "candidates": [
@@ -44138,7 +44140,7 @@
    "V2320-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078329": {
   "candidates": [],
@@ -44158,12 +44160,12 @@
    "L5300-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078356": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078364": {
   "candidates": [
@@ -44173,7 +44175,7 @@
    "W6896-01-000-0121-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078374": {
   "candidates": [
@@ -44181,7 +44183,7 @@
    "V4080-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078418": {
   "candidates": [],
@@ -44199,7 +44201,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 5,
   "person": "JUAREZ GUSTAVO",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078468": {
   "candidates": [
@@ -44208,7 +44210,7 @@
    "C4500-00-000-0009-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078473": {
   "candidates": [],
@@ -44222,7 +44224,7 @@
  "court:5078500": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078666": {
   "candidates": [],
@@ -44236,7 +44238,7 @@
  "court:5078682": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078691": {
   "candidates": [
@@ -44247,12 +44249,12 @@
    "L5650-01-000-0051-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078728": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078796": {
   "candidates": [
@@ -44263,12 +44265,12 @@
    "V3820-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078833": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5078836": {
   "candidates": [],
@@ -44288,7 +44290,7 @@
    "C7950-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079044": {
   "candidates": [],
@@ -44302,7 +44304,7 @@
  "court:5079097": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079115": {
   "candidates": [],
@@ -44316,12 +44318,12 @@
  "court:5079119": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079147": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079188": {
   "candidates": [
@@ -44329,7 +44331,7 @@
    "B3600-00-001-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079292": {
   "candidates": [
@@ -44339,7 +44341,7 @@
    "A0135-02-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079305": {
   "candidates": [
@@ -44347,7 +44349,7 @@
    "R3230-00-000-0195-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079351": {
   "candidates": [],
@@ -44376,7 +44378,7 @@
    "R1337-00-000-0078-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079781": {
   "candidates": [
@@ -44387,12 +44389,12 @@
    "S3425-00-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079794": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079798": {
   "candidates": [
@@ -44403,7 +44405,7 @@
    "H2050-02-000-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079799": {
   "candidates": [],
@@ -44429,7 +44431,7 @@
    "M3550-00-135-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079825": {
   "candidates": [
@@ -44440,7 +44442,7 @@
    "S6825-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079826": {
   "candidates": [
@@ -44449,7 +44451,7 @@
    "O5400-00-002-0030-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079828": {
   "candidates": [],
@@ -44476,12 +44478,12 @@
    "B5015-00-000-0059-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079834": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079843": {
   "candidates": [
@@ -44492,7 +44494,7 @@
    "V2500-00-003-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079844": {
   "candidates": [
@@ -44503,7 +44505,7 @@
    "10058-00-000-0000-36"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079852": {
   "candidates": [],
@@ -44522,7 +44524,7 @@
    "E4430-00-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079906": {
   "candidates": [],
@@ -44542,7 +44544,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079943": {
   "candidates": [
@@ -44550,7 +44552,7 @@
    "P9255-02-000-0155-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5079979": {
   "candidates": [
@@ -44558,7 +44560,7 @@
    "P4330-01-000-0092-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080044": {
   "candidates": [
@@ -44566,7 +44568,7 @@
    "L2035-01-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080183": {
   "candidates": [],
@@ -44589,27 +44591,27 @@
  "court:5080406": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080427": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080473": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080475": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080480": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080482": {
   "candidates": [],
@@ -44629,7 +44631,7 @@
    "F5700-00-000-0008-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080491": {
   "candidates": [
@@ -44640,7 +44642,7 @@
    "S6853-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080495": {
   "candidates": [],
@@ -44654,7 +44656,7 @@
  "court:5080504": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080519": {
   "candidates": [],
@@ -44674,32 +44676,32 @@
    "L5831-00-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080526": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080527": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080528": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080529": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080551": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080624": {
   "candidates": [
@@ -44710,32 +44712,32 @@
    "R5250-00-019-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080627": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080645": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080646": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080647": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080650": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080667": {
   "candidates": [
@@ -44744,7 +44746,7 @@
    "K0550-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080687": {
   "candidates": [],
@@ -44758,22 +44760,22 @@
  "court:5080703": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080704": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080709": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080730": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080740": {
   "candidates": [
@@ -44781,21 +44783,21 @@
    "C2300-00-002-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080741": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080742": {
   "candidates": [],
-  "confidence": "low",
+  "confidence": "medium",
   "geo_id": "P5672-00-000-0070-00",
-  "method": "rejected-by-tax-office",
+  "method": "name",
   "n_candidates": 1,
   "person": "FLORES C",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080764": {
   "candidates": [
@@ -44805,7 +44807,7 @@
    "W3950-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5080772": {
   "candidates": [],
@@ -44834,7 +44836,7 @@
    "L6550-00-001-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5081482": {
   "candidates": [
@@ -44842,7 +44844,7 @@
    "D3200-00-135-0000-27"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5081648": {
   "candidates": [],
@@ -44862,7 +44864,7 @@
    "C4750-00-049-0060-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5081870": {
   "candidates": [],
@@ -44876,7 +44878,7 @@
  "court:5081890": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082059": {
   "candidates": [
@@ -44887,12 +44889,12 @@
    "R3100-00-003-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082159": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082166": {
   "candidates": [
@@ -44903,7 +44905,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082213": {
   "candidates": [],
@@ -44923,7 +44925,7 @@
    "M4750-00-004-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082243": {
   "candidates": [
@@ -44934,37 +44936,37 @@
    "L1070-05-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082259": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082353": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082417": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082431": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082491": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082519": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082641": {
   "candidates": [],
@@ -44984,7 +44986,7 @@
    "E4363-00-000-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5082981": {
   "candidates": [
@@ -44995,7 +44997,7 @@
    "10058-00-000-0000-36"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083032": {
   "candidates": [
@@ -45004,17 +45006,17 @@
    "M3740-97-000-0019-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083164": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083254": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083264": {
   "candidates": [
@@ -45025,7 +45027,7 @@
    "G0800-00-011-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083277": {
   "candidates": [
@@ -45033,7 +45035,7 @@
    "L6125-00-000-0046-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083309": {
   "candidates": [
@@ -45042,12 +45044,12 @@
    "I6070-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083391": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083432": {
   "candidates": [
@@ -45058,7 +45060,7 @@
    "S0100-01-002-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5083466": {
   "candidates": [],
@@ -45072,7 +45074,7 @@
  "court:5083532": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084043": {
   "candidates": [
@@ -45083,7 +45085,7 @@
    "F3450-00-159-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084046": {
   "candidates": [],
@@ -45101,7 +45103,7 @@
    "M2150-00-004-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084328": {
   "candidates": [],
@@ -45121,7 +45123,7 @@
    "T2100-00-253-0011-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084614": {
   "candidates": [
@@ -45132,7 +45134,7 @@
    "S5443-00-000-0143-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084625": {
   "candidates": [
@@ -45141,7 +45143,7 @@
    "P8115-04-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084721": {
   "candidates": [
@@ -45150,7 +45152,7 @@
    "E5300-00-004-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084816": {
   "candidates": [
@@ -45161,7 +45163,7 @@
    "M3199-00-003-0089-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084845": {
   "candidates": [],
@@ -45178,7 +45180,7 @@
    "G7400-06-00A-0024-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084879": {
   "candidates": [
@@ -45189,7 +45191,7 @@
    "G5200-02-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5084884": {
   "candidates": [],
@@ -45216,7 +45218,7 @@
    "A2100-00-026-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5085252": {
   "candidates": [],
@@ -45242,7 +45244,7 @@
    "T6265-00-000-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5085862": {
   "candidates": [
@@ -45251,7 +45253,7 @@
    "W0100-00-049-0005-24"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5085978": {
   "candidates": [],
@@ -45265,22 +45267,22 @@
  "court:5085989": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086020": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086062": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086064": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086126": {
   "candidates": [
@@ -45291,7 +45293,7 @@
    "G5900-01-003-0050-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086304": {
   "candidates": [
@@ -45302,12 +45304,12 @@
    "C6760-00-000-0306-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086421": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086461": {
   "candidates": [
@@ -45318,7 +45320,7 @@
    "F4500-00-000-0047-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086524": {
   "candidates": [
@@ -45326,7 +45328,7 @@
    "A5770-01-000-0044-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086685": {
   "candidates": [],
@@ -45376,7 +45378,7 @@
  "court:5086849": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086855": {
   "candidates": [
@@ -45386,12 +45388,12 @@
    "W0100-00-045-0001-12"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086866": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086919": {
   "candidates": [
@@ -45402,7 +45404,7 @@
    "A3000-00-001-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086924": {
   "candidates": [],
@@ -45416,7 +45418,7 @@
  "court:5086935": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086943": {
   "candidates": [],
@@ -45436,7 +45438,7 @@
    "P9276-03-000-0259-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086945": {
   "candidates": [
@@ -45447,7 +45449,7 @@
    "E3300-00-119-0001-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086946": {
   "candidates": [
@@ -45458,7 +45460,7 @@
    "G0400-00-002-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086947": {
   "candidates": [
@@ -45469,7 +45471,7 @@
    "H1933-02-000-0080-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086949": {
   "candidates": [
@@ -45477,7 +45479,7 @@
    "L3356-00-000-0085-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086950": {
   "candidates": [
@@ -45488,7 +45490,7 @@
    "T5380-00-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086951": {
   "candidates": [
@@ -45499,7 +45501,7 @@
    "H3450-03-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-15"
+  "tried": "2026-10-29"
  },
  "court:5086981": {
   "candidates": [
