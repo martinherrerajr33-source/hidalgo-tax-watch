@@ -42847,12 +42847,12 @@
  },
  "court:5064164": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "S5950-00-001-0003-04",
-  "method": "name+co-owner",
-  "n_candidates": 89,
-  "person": "GARCIA JOSE",
-  "tried": "2026-10-15"
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5065260": {
   "candidates": [
@@ -46198,12 +46198,12 @@
  },
  "court:5092252": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "P8060-07-000-0006-00",
-  "method": "name+co-owner",
-  "n_candidates": 5,
-  "person": "PERALES SERGIO",
-  "tried": "2026-10-16"
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5092254": {
   "candidates": [],
