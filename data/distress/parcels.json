@@ -70454,7 +70454,7 @@
   "city": "MCALLEN",
   "geo_id": "B0300-00-016-0024-00",
   "legal": "BALBOA ACRES LOT 24 BLK 16",
-  "market_value": 0.0,
+  "market_value": 130958.0,
   "owner": "RAMIREZ ELIZABETH",
   "pid": "120579",
   "prop_type": "R"
@@ -92814,7 +92814,7 @@
   "city": "PALMVIEW",
   "geo_id": "B3332-92-000-0254-03",
   "legal": "BLUEBONNET RV PARK (IMPROVEMENTS ONLY),SPACE 254 11X36 BRECKENRIDGE, VIN: 5DJTBOU2375207457 / NEW ACCT 2026",
-  "market_value": 0.0,
+  "market_value": 6000.0,
   "owner": "RODRIGUEZ GUADALUPE P.",
   "pid": "365856",
   "prop_type": "MH"
@@ -130455,7 +130455,7 @@
   "geo_id": "C1400-00-064-0008-10",
   "legal": "CAPISALLO S15.53AC LOT 8 BLK 64",
   "market_value": 318365.0,
-  "owner": "VETERANS LAND BOARD C/O GILBERT JR & LINDA GAY MANCILLAS",
+  "owner": "MANCILLAS GILBERT JR & LINDA GAY",
   "pid": "131542",
   "prop_type": "R"
  },
@@ -233179,6 +233179,16 @@
   "pid": "163412",
   "prop_type": "R"
  },
+ "E3100-00-010-0013-00": {
+  "address": "221 SOUTHERN AVE",
+  "city": "",
+  "geo_id": "E3100-00-010-0013-00",
+  "legal": "EDCOUCH ORIGINAL TOWNSITE LOTS 13-15 BLK 10",
+  "market_value": 139156.0,
+  "owner": "LOPEZ ERICA A",
+  "pid": "163418",
+  "prop_type": "R"
+ },
  "E3100-00-010-0017-00": {
   "address": "216 SOUTHERN AVE",
   "city": "",
@@ -296309,6 +296319,16 @@
   "pid": "685251",
   "prop_type": "R"
  },
+ "F0900-00-000-0022-00": {
+  "address": "2608 COL ROWE BLVD",
+  "city": "McAllen",
+  "geo_id": "F0900-00-000-0022-00",
+  "legal": "FAIRWAY ACRES LOT 22",
+  "market_value": 392569.0,
+  "owner": "LOPEZ ERICA DE LA GARZA & MARCOS ANASTACIO",
+  "pid": "1568341",
+  "prop_type": "R"
+ },
  "F1050-01-000-0003-00": {
   "address": "3300 S CASA LINDA ST",
   "city": "MCALLEN",
@@ -348374,7 +348394,7 @@
   "city": "MCALLEN",
   "geo_id": "H0850-00-002-0101-04",
   "legal": "C.E. HAMMOND AN IRR TR S430.42'-N480.42'-W364'-E380' LOT 101 & E50'-S430' N480' LOT 100 3.66AC NET",
-  "market_value": 0.0,
+  "market_value": 2175000.0,
   "owner": "HG1 OPPORTUNITY LLC",
   "pid": "185469",
   "prop_type": "R"
@@ -432569,6 +432589,16 @@
   "pid": "204220",
   "prop_type": "R"
  },
+ "K3260-00-000-0001-00": {
+  "address": "1305 W 18TH ST",
+  "city": "WESLACO",
+  "geo_id": "K3260-00-000-0001-00",
+  "legal": "KEY WEST LOT 1",
+  "market_value": 350455.0,
+  "owner": "JUAREZ HECTOR L & MARIA L",
+  "pid": "520333",
+  "prop_type": "R"
+ },
  "K3260-00-000-0002-00": {
   "address": "1311 W 18TH ST",
   "city": "WESLACO",
@@ -432577,6 +432607,86 @@
   "market_value": 413519.0,
   "owner": "GARCIA GERARDO G & ELIZABETH & ALVARO C HUERTA &",
   "pid": "520334",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0003-00": {
+  "address": "1321 W 18TH ST",
+  "city": "",
+  "geo_id": "K3260-00-000-0003-00",
+  "legal": "KEY WEST LOT 3",
+  "market_value": 567361.0,
+  "owner": "GUZMAN ALBERTO & LIMA M",
+  "pid": "520335",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0004-00": {
+  "address": "1401 W 18TH ST",
+  "city": "WESLACO",
+  "geo_id": "K3260-00-000-0004-00",
+  "legal": "KEY WEST LOT 4",
+  "market_value": 560258.0,
+  "owner": "ELIZONDO ROBERT & YESENIA RAMIREZ",
+  "pid": "520336",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0005-00": {
+  "address": "1409 W 18TH ST",
+  "city": "",
+  "geo_id": "K3260-00-000-0005-00",
+  "legal": "KEY WEST LOT 5",
+  "market_value": 399824.0,
+  "owner": "HORTA HECTOR",
+  "pid": "520337",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0006-00": {
+  "address": "1421 W 18TH ST",
+  "city": "WESLACO",
+  "geo_id": "K3260-00-000-0006-00",
+  "legal": "KEY WEST LOT 6",
+  "market_value": 627456.0,
+  "owner": "ESPARZA LOUIS R",
+  "pid": "520338",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0007-00": {
+  "address": "1505 W 18TH ST",
+  "city": "",
+  "geo_id": "K3260-00-000-0007-00",
+  "legal": "KEY WEST LOT 7",
+  "market_value": 509402.0,
+  "owner": "BANUELOS XAVIER J & VERONICA A",
+  "pid": "520339",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0008-00": {
+  "address": "1519 W 18TH ST",
+  "city": "",
+  "geo_id": "K3260-00-000-0008-00",
+  "legal": "KEY WEST LOT 8",
+  "market_value": 498661.0,
+  "owner": "ESCAMILLA ERNIE THOMAS",
+  "pid": "520340",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0009-00": {
+  "address": "1803 S WESTGATE DR",
+  "city": "",
+  "geo_id": "K3260-00-000-0009-00",
+  "legal": "KEY WEST LOT 9",
+  "market_value": 196300.0,
+  "owner": "HALDER DONALD D",
+  "pid": "520342",
+  "prop_type": "R"
+ },
+ "K3260-00-000-0010-00": {
+  "address": "1807 S WESTGATE DR",
+  "city": "",
+  "geo_id": "K3260-00-000-0010-00",
+  "legal": "KEY WEST LOT 10",
+  "market_value": 266745.0,
+  "owner": "HALDER DONALD D",
+  "pid": "520345",
   "prop_type": "R"
  },
  "K3300-00-001-0004-02": {
@@ -443637,6 +443747,16 @@
   "market_value": 264341.0,
   "owner": "GONZALEZ JOSE & ANA MARIA T MONROY",
   "pid": "729384",
+  "prop_type": "R"
+ },
+ "L0920-01-000-0090-00": {
+  "address": "1921 RICE AVE",
+  "city": "MCALLEN",
+  "geo_id": "L0920-01-000-0090-00",
+  "legal": "LA FLORESTA PH 1 LOT 90",
+  "market_value": 301085.0,
+  "owner": "LOPEZ ERICA",
+  "pid": "729385",
   "prop_type": "R"
  },
  "L0920-01-000-0107-00": {
@@ -493457,6 +493577,16 @@
   "market_value": 81906.0,
   "owner": "TREVINO JENNIFER G & DAMIAN A CISNEROS",
   "pid": "1234748",
+  "prop_type": "R"
+ },
+ "L3373-00-000-0038-00": {
+  "address": "9617 ESTRELLA ST",
+  "city": "DONNA",
+  "geo_id": "L3373-00-000-0038-00",
+  "legal": "LAS TORONJAS LOT 38",
+  "market_value": 84162.0,
+  "owner": "LOPEZ ERICA YANETH G & VICTOR MANUEL URIBE",
+  "pid": "1234750",
   "prop_type": "R"
  },
  "L3373-00-000-0040-00": {
@@ -773515,7 +773645,7 @@
   "geo_id": "S1545-00-000-0046-00",
   "legal": "SANTA CRUZ PALMS LOT 46",
   "market_value": 180206.0,
-  "owner": "ALANIZ SAUL",
+  "owner": "GARCIA LINO & ELVIA",
   "pid": "1565430",
   "prop_type": "R"
  },
@@ -800224,7 +800354,7 @@
   "city": "MCALLEN",
   "geo_id": "S2950-00-000-0198-20",
   "legal": "JOHN H SHARY S108.88'-N217.76'-E650'-OLD EDINBURG C/R/W LOT 198 1.39 AC",
-  "market_value": 266261.0,
+  "market_value": 196271.0,
   "owner": "GARCIA TOMASITA L DE CORTEZ",
   "pid": "281089",
   "prop_type": "R"
@@ -854319,6 +854449,16 @@
   "pid": "1013497",
   "prop_type": "R"
  },
+ "S6856-00-000-0082-00": {
+  "address": "4808 JUNO DR",
+  "city": "EDINBURG",
+  "geo_id": "S6856-00-000-0082-00",
+  "legal": "SUMMER FIELD MANOR LOT 82",
+  "market_value": 430747.0,
+  "owner": "LOPEZ ERICA",
+  "pid": "1013500",
+  "prop_type": "R"
+ },
  "S6856-00-000-0083-00": {
   "address": "4812 JUNO DR",
   "city": "EDINBURG",
@@ -895825,7 +895965,7 @@
   "geo_id": "T2200-00-034-0012-00",
   "legal": "TEXAN GARDENS LOT 12 BLK 34 10.00 AC",
   "market_value": 260000.0,
-  "owner": "VETERANS LAND BOARD OF THE STATE",
+  "owner": "DICKERSON JEFFREY W ET AL",
   "pid": "299672",
   "prop_type": "R"
  },
@@ -897934,7 +898074,7 @@
   "city": "MCALLEN",
   "geo_id": "T2370-97-000-0012-01",
   "legal": "TEXAS CITRUS DEV M/H PARK,SPACE 12 16X78, LABEL# NTA1852818, SERIAL# JHW00275TX19/ NEW ACCT 2021",
-  "market_value": 0.0,
+  "market_value": 72322.0,
   "owner": "GARCIA FRANCISCO JR",
   "pid": "1313178",
   "prop_type": "MH"
@@ -1004725,7 +1004865,7 @@
   "geo_id": "W2500-00-147-0009-20",
   "legal": "WEST & ADAMS NW2.35AC LOT 9 BLK 147",
   "market_value": 199065.0,
-  "owner": "VETERANS LAND BOARD OF TEXAS",
+  "owner": "CAVAZOS DORA R",
   "pid": "323321",
   "prop_type": "R"
  },
@@ -1004755,7 +1004895,7 @@
   "geo_id": "W2500-00-147-0010-10",
   "legal": "WEST & ADAMS BLK 147 NE 7.59 AC OF LT 10",
   "market_value": 101911.0,
-  "owner": "VETERANS LAND BOARD OF TEXAS",
+  "owner": "CAVAZOS DORA R",
   "pid": "323325",
   "prop_type": "R"
  },

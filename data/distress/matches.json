@@ -29,7 +29,7 @@
  "clerk:321671911": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321671916": {
   "candidates": [
@@ -40,7 +40,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321671922": {
   "candidates": [],
@@ -69,7 +69,7 @@
    "B0023-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321674443": {
   "candidates": [
@@ -80,7 +80,7 @@
    "L1365-00-000-0130-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321686471": {
   "candidates": [
@@ -91,7 +91,7 @@
    "A1800-00-035-0009-11"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321686479": {
   "candidates": [],
@@ -186,7 +186,7 @@
  "clerk:321700523": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321700526": {
   "candidates": [],
@@ -227,17 +227,17 @@
  "clerk:321702197": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321768354": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321768355": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321769693": {
   "candidates": [],
@@ -251,7 +251,7 @@
  "clerk:321783053": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321784859": {
   "candidates": [],
@@ -265,7 +265,7 @@
  "clerk:321784860": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321792444": {
   "candidates": [],
@@ -360,12 +360,12 @@
  "clerk:321795628": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321795629": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321795638": {
   "candidates": [],
@@ -406,7 +406,7 @@
  "clerk:321795650": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321795651": {
   "candidates": [],
@@ -420,7 +420,7 @@
  "clerk:321795760": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321798825": {
   "candidates": [],
@@ -488,12 +488,12 @@
  "clerk:321803571": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321803573": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321803580": {
   "candidates": [
@@ -504,7 +504,7 @@
    "V0563-05-000-0186-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321804569": {
   "candidates": [],
@@ -522,7 +522,7 @@
    "M1240-00-000-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321804574": {
   "candidates": [],
@@ -545,22 +545,22 @@
  "clerk:321805374": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321805382": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321805385": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321805839": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321807884": {
   "candidates": [],
@@ -619,7 +619,7 @@
  "clerk:321808980": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321808982": {
   "candidates": [],
@@ -732,7 +732,7 @@
  "clerk:321809700": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321809709": {
   "candidates": [],
@@ -761,12 +761,12 @@
    "S6862-01-000-015B-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810695": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810698": {
   "candidates": [],
@@ -780,7 +780,7 @@
  "clerk:321810702": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810709": {
   "candidates": [
@@ -791,7 +791,7 @@
    "P3112-02-000-0084-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810711": {
   "candidates": [],
@@ -805,12 +805,12 @@
  "clerk:321810714": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810719": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321810720": {
   "candidates": [],
@@ -824,7 +824,7 @@
  "clerk:321810721": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321811695": {
   "candidates": [],
@@ -871,7 +871,7 @@
    "B2400-02-007-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321813545": {
   "candidates": [],
@@ -939,7 +939,7 @@
  "clerk:321820026": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321822526": {
   "candidates": [],
@@ -980,7 +980,7 @@
  "clerk:321827575": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321828568": {
   "candidates": [],
@@ -994,12 +994,12 @@
  "clerk:321828569": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321828576": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321829756": {
   "candidates": [],
@@ -1064,7 +1064,7 @@
    "S3567-00-000-0152-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321832430": {
   "candidates": [
@@ -1075,7 +1075,7 @@
    "T4065-00-000-0009-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321832431": {
   "candidates": [
@@ -1086,7 +1086,7 @@
    "M3749-95-000-0062-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321832432": {
   "candidates": [],
@@ -1136,7 +1136,7 @@
  "clerk:321978481": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321978483": {
   "candidates": [
@@ -1147,7 +1147,7 @@
    "R4180-00-000-0062-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321978485": {
   "candidates": [],
@@ -1179,12 +1179,12 @@
  "clerk:321980945": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321980948": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321981675": {
   "candidates": [
@@ -1195,12 +1195,12 @@
    "10052-00-000-0007-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321981680": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321982799": {
   "candidates": [],
@@ -1250,7 +1250,7 @@
  "clerk:321989571": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:321990519": {
   "candidates": [],
@@ -1444,7 +1444,7 @@
  "clerk:322005273": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322005275": {
   "candidates": [
@@ -1452,7 +1452,7 @@
    "S6065-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322005835": {
   "candidates": [],
@@ -1526,7 +1526,7 @@
    "L1300-00-000-0053-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322014450": {
   "candidates": [],
@@ -1552,22 +1552,22 @@
    "D8511-00-0EE-0051-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322014460": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322014462": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322014463": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322014465": {
   "candidates": [],
@@ -1590,7 +1590,7 @@
  "clerk:322014470": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322015273": {
   "candidates": [],
@@ -1635,7 +1635,7 @@
    "L6235-00-000-0070-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322021626": {
   "candidates": [],
@@ -1655,7 +1655,7 @@
    "T1813-00-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322022146": {
   "candidates": [
@@ -1666,7 +1666,7 @@
    "E5400-00-007-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322022450": {
   "candidates": [],
@@ -1698,7 +1698,7 @@
  "clerk:322030385": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322031324": {
   "candidates": [],
@@ -1712,17 +1712,17 @@
  "clerk:322032314": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322032318": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322032324": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322032327": {
   "candidates": [],
@@ -1736,17 +1736,17 @@
  "clerk:322032328": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322032331": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322032332": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322035766": {
   "candidates": [],
@@ -1760,12 +1760,12 @@
  "clerk:322035768": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322035783": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322035786": {
   "candidates": [],
@@ -1806,7 +1806,7 @@
  "clerk:322035799": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322035802": {
   "candidates": [],
@@ -1820,12 +1820,12 @@
  "clerk:322071582": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322072290": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322072292": {
   "candidates": [],
@@ -1839,7 +1839,7 @@
  "clerk:322072293": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322072294": {
   "candidates": [],
@@ -1925,7 +1925,7 @@
  "clerk:322072312": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322072314": {
   "candidates": [],
@@ -1939,7 +1939,7 @@
  "clerk:322072315": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322072317": {
   "candidates": [],
@@ -1998,12 +1998,12 @@
  "clerk:322073451": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322073460": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322075509": {
   "candidates": [],
@@ -2022,7 +2022,7 @@
    "H4195-98-000-0036-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322075519": {
   "candidates": [],
@@ -2041,7 +2041,7 @@
    "T3800-00-000-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322075523": {
   "candidates": [
@@ -2052,7 +2052,7 @@
    "V3450-08-000-0818-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322078629": {
   "candidates": [
@@ -2061,7 +2061,7 @@
    "C7900-00-000-0005-10"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:322080718": {
   "candidates": [],
@@ -2117,7 +2117,7 @@
    "W8100-00-00E-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323262410": {
   "candidates": [
@@ -2128,7 +2128,7 @@
    "W8100-00-00E-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323264614": {
   "candidates": [],
@@ -2151,7 +2151,7 @@
  "clerk:323265205": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265206": {
   "candidates": [
@@ -2162,7 +2162,7 @@
    "W2100-00-010-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265213": {
   "candidates": [
@@ -2173,12 +2173,12 @@
    "H3055-00-008-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265216": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265218": {
   "candidates": [
@@ -2189,7 +2189,7 @@
    "M4023-01-000-0071-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265219": {
   "candidates": [
@@ -2200,7 +2200,7 @@
    "C8850-00-022-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265221": {
   "candidates": [
@@ -2208,7 +2208,7 @@
    "S6054-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265224": {
   "candidates": [
@@ -2219,7 +2219,7 @@
    "G0302-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323265225": {
   "candidates": [],
@@ -2238,7 +2238,7 @@
    "W3785-02-000-0076-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323268022": {
   "candidates": [],
@@ -2288,17 +2288,17 @@
  "clerk:323270732": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323271850": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323271851": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323272817": {
   "candidates": [],
@@ -2381,7 +2381,7 @@
    "H1200-00-047-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323286903": {
   "candidates": [],
@@ -2525,7 +2525,7 @@
    "L6050-00-000-0272-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323292773": {
   "candidates": [
@@ -2536,7 +2536,7 @@
    "B4450-00-004-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323294935": {
   "candidates": [],
@@ -2550,7 +2550,7 @@
  "clerk:323295732": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323295764": {
   "candidates": [],
@@ -2675,7 +2675,7 @@
    "M3550-00-065-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305201": {
   "candidates": [],
@@ -2701,7 +2701,7 @@
    "G0800-00-004-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305204": {
   "candidates": [],
@@ -2757,7 +2757,7 @@
    "M5500-00-097-0013-08"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305212": {
   "candidates": [
@@ -2767,12 +2767,12 @@
    "B3810-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305213": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305968": {
   "candidates": [],
@@ -2786,7 +2786,7 @@
  "clerk:323305969": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305970": {
   "candidates": [],
@@ -2824,7 +2824,7 @@
    "W8100-00-00E-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305974": {
   "candidates": [],
@@ -2853,7 +2853,7 @@
    "L5805-01-000-0061-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305979": {
   "candidates": [],
@@ -2903,17 +2903,17 @@
  "clerk:323305985": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305986": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305987": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305989": {
   "candidates": [
@@ -2924,7 +2924,7 @@
    "W8100-00-00E-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305990": {
   "candidates": [
@@ -2933,7 +2933,7 @@
    "V3054-00-000-0041-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305992": {
   "candidates": [
@@ -2944,7 +2944,7 @@
    "T3130-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323305993": {
   "candidates": [],
@@ -2958,7 +2958,7 @@
  "clerk:323305995": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:323306005": {
   "candidates": [],
@@ -3050,7 +3050,7 @@
    "L5650-01-000-0044-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324806611": {
   "candidates": [],
@@ -3154,7 +3154,7 @@
  "clerk:324820304": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820306": {
   "candidates": [
@@ -3165,7 +3165,7 @@
    "L3130-02-000-0119-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820308": {
   "candidates": [
@@ -3175,7 +3175,7 @@
    "A3710-02-000-0101-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820311": {
   "candidates": [],
@@ -3189,7 +3189,7 @@
  "clerk:324820312": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820318": {
   "candidates": [
@@ -3197,7 +3197,7 @@
    "C0700-00-101-0014-30"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820322": {
   "candidates": [
@@ -3208,7 +3208,7 @@
    "B4965-04-000-0371-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820323": {
   "candidates": [
@@ -3217,7 +3217,7 @@
    "L6398-00-000-0079-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820841": {
   "candidates": [],
@@ -3231,7 +3231,7 @@
  "clerk:324820846": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324820856": {
   "candidates": [
@@ -3242,7 +3242,7 @@
    "P9277-22-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324823233": {
   "candidates": [],
@@ -3274,7 +3274,7 @@
  "clerk:324824292": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324826811": {
   "candidates": [],
@@ -3306,62 +3306,62 @@
  "clerk:324826817": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324829988": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324829989": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324829990": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324829996": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830001": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830003": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830004": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830008": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830009": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830011": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324830014": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:324832402": {
   "candidates": [],
@@ -3406,7 +3406,7 @@
    "M6250-00-00K-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326063390": {
   "candidates": [],
@@ -3483,7 +3483,7 @@
  "clerk:326074909": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326074910": {
   "candidates": [],
@@ -3614,7 +3614,7 @@
  "clerk:326074936": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326074938": {
   "candidates": [
@@ -3625,7 +3625,7 @@
    "S0017-03-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326074941": {
   "candidates": [],
@@ -3684,12 +3684,12 @@
  "clerk:326075910": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326075912": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326075914": {
   "candidates": [],
@@ -3708,7 +3708,7 @@
    "S2510-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326075926": {
   "candidates": [
@@ -3718,12 +3718,12 @@
    "L1069-06-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326075928": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326075930": {
   "candidates": [],
@@ -3737,7 +3737,7 @@
  "clerk:326075932": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326079019": {
   "candidates": [
@@ -3745,7 +3745,7 @@
    "M2450-00-002-0060-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326079024": {
   "candidates": [],
@@ -3763,7 +3763,7 @@
    "T3615-00-000-0024-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326088318": {
   "candidates": [],
@@ -3795,32 +3795,32 @@
  "clerk:326091219": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326091227": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326091975": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326091979": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326091981": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326091987": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326093497": {
   "candidates": [],
@@ -3879,7 +3879,7 @@
  "clerk:326100148": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326100150": {
   "candidates": [
@@ -3890,7 +3890,7 @@
    "S1070-00-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326100151": {
   "candidates": [],
@@ -3913,7 +3913,7 @@
  "clerk:326104283": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104285": {
   "candidates": [],
@@ -3933,7 +3933,7 @@
    "T6842-02-000-0180-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104292": {
   "candidates": [
@@ -3941,7 +3941,7 @@
    "B3655-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104293": {
   "candidates": [],
@@ -3961,17 +3961,17 @@
    "A2458-00-000-0051-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104297": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104300": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104305": {
   "candidates": [],
@@ -3985,7 +3985,7 @@
  "clerk:326104307": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104308": {
   "candidates": [
@@ -3993,7 +3993,7 @@
    "W3800-00-178-0000-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104310": {
   "candidates": [
@@ -4004,7 +4004,7 @@
    "A1800-00-066-0015-15"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104315": {
   "candidates": [
@@ -4015,12 +4015,12 @@
    "P7170-06-023-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326104324": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106317": {
   "candidates": [],
@@ -4034,7 +4034,7 @@
  "clerk:326106322": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106323": {
   "candidates": [
@@ -4042,7 +4042,7 @@
    "G8069-00-000-0105-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106324": {
   "candidates": [
@@ -4051,17 +4051,17 @@
    "W6680-02-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106335": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106338": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106341": {
   "candidates": [
@@ -4072,7 +4072,7 @@
    "T5300-00-000-0046-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106343": {
   "candidates": [
@@ -4083,7 +4083,7 @@
    "R2930-02-000-0055-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106344": {
   "candidates": [
@@ -4091,7 +4091,7 @@
    "A1700-04-000-0193-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106349": {
   "candidates": [],
@@ -4111,12 +4111,12 @@
    "V4342-15-000-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106642": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326106646": {
   "candidates": [
@@ -4127,12 +4127,12 @@
    "T6650-92-000-0176-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326471472": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326472521": {
   "candidates": [
@@ -4141,22 +4141,22 @@
    "E5038-01-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326472522": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326472523": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326472524": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326472525": {
   "candidates": [],
@@ -4170,17 +4170,17 @@
  "clerk:326472526": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326473070": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326473074": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:326476819": {
   "candidates": [],
@@ -4236,7 +4236,7 @@
    "M5200-00-068-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327265141": {
   "candidates": [],
@@ -4274,17 +4274,17 @@
    "M5200-00-106-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327389002": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327786623": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327786634": {
   "candidates": [],
@@ -4298,7 +4298,7 @@
  "clerk:327842702": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327899308": {
   "candidates": [],
@@ -4318,7 +4318,7 @@
    "H1200-00-081-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327921328": {
   "candidates": [],
@@ -4374,7 +4374,7 @@
    "R0942-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:327971842": {
   "candidates": [],
@@ -4455,7 +4455,7 @@
    "N1350-02-000-0150-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098085": {
   "candidates": [],
@@ -4508,7 +4508,7 @@
    "W3800-00-769-0000-50"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098196": {
   "candidates": [
@@ -4519,7 +4519,7 @@
    "C9100-00-000-0052-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098201": {
   "candidates": [],
@@ -4539,12 +4539,12 @@
    "S3567-00-000-0152-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098230": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098235": {
   "candidates": [],
@@ -4567,7 +4567,7 @@
  "clerk:329098237": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098241": {
   "candidates": [],
@@ -4617,7 +4617,7 @@
  "clerk:329098270": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098273": {
   "candidates": [],
@@ -4694,62 +4694,62 @@
  "clerk:329098370": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098371": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098376": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098379": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098380": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098382": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098383": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098384": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098385": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098391": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098393": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098394": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098395": {
   "candidates": [],
@@ -4772,17 +4772,17 @@
  "clerk:329098401": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098402": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098410": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098419": {
   "candidates": [],
@@ -4796,22 +4796,22 @@
  "clerk:329098421": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098434": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098455": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098457": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098514": {
   "candidates": [],
@@ -4834,7 +4834,7 @@
  "clerk:329098538": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098541": {
   "candidates": [],
@@ -4854,12 +4854,12 @@
    "L0935-00-000-0042-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098553": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098571": {
   "candidates": [
@@ -4870,7 +4870,7 @@
    "H1200-00-123-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329098573": {
   "candidates": [
@@ -4881,7 +4881,7 @@
    "P8600-00-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329112136": {
   "candidates": [],
@@ -4910,7 +4910,7 @@
    "E3200-00-00C-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113338": {
   "candidates": [],
@@ -5014,22 +5014,22 @@
  "clerk:329113356": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113357": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113359": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113362": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113363": {
   "candidates": [],
@@ -5043,7 +5043,7 @@
  "clerk:329113364": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329113365": {
   "candidates": [],
@@ -5090,17 +5090,17 @@
    "C1614-00-000-0038-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652146": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652147": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652148": {
   "candidates": [
@@ -5111,7 +5111,7 @@
    "T2200-00-033-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652150": {
   "candidates": [
@@ -5119,7 +5119,7 @@
    "L6115-00-000-0099-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652151": {
   "candidates": [
@@ -5130,17 +5130,17 @@
    "W0670-00-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652153": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652707": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329652709": {
   "candidates": [
@@ -5151,17 +5151,17 @@
    "L6451-02-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329653174": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329653182": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329653183": {
   "candidates": [],
@@ -5211,17 +5211,17 @@
  "clerk:329659161": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659162": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659166": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659169": {
   "candidates": [
@@ -5232,7 +5232,7 @@
    "W2350-97-000-0139-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659170": {
   "candidates": [
@@ -5240,12 +5240,12 @@
    "L5335-00-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659174": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659175": {
   "candidates": [
@@ -5256,27 +5256,27 @@
    "W3800-00-472-0000-26"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659177": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659182": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659184": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329659189": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329660100": {
   "candidates": [],
@@ -5329,7 +5329,7 @@
    "T5900-01-001-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329670278": {
   "candidates": [
@@ -5340,17 +5340,17 @@
    "M5757-95-000-0001-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329670279": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329670282": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329670285": {
   "candidates": [
@@ -5358,7 +5358,7 @@
    "D6800-00-042-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329670765": {
   "candidates": [],
@@ -5414,7 +5414,7 @@
    "C1400-00-024-0007-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329678487": {
   "candidates": [],
@@ -5464,12 +5464,12 @@
  "clerk:329690731": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329690733": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329691804": {
   "candidates": [
@@ -5480,7 +5480,7 @@
    "P4500-00-001-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329696192": {
   "candidates": [
@@ -5491,7 +5491,7 @@
    "E3345-21-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329696572": {
   "candidates": [],
@@ -5538,7 +5538,7 @@
    "L3186-01-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329701420": {
   "candidates": [
@@ -5549,7 +5549,7 @@
    "G5320-00-000-0001-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329701974": {
   "candidates": [],
@@ -5563,7 +5563,7 @@
  "clerk:329705408": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329706852": {
   "candidates": [],
@@ -5586,7 +5586,7 @@
  "clerk:329707376": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329707378": {
   "candidates": [],
@@ -5681,7 +5681,7 @@
  "clerk:329709510": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329709511": {
   "candidates": [],
@@ -5746,7 +5746,7 @@
    "E4363-00-000-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329711279": {
   "candidates": [],
@@ -5811,7 +5811,7 @@
    "W2400-00-006-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329713454": {
   "candidates": [],
@@ -5825,7 +5825,7 @@
  "clerk:329714289": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329714291": {
   "candidates": [],
@@ -5848,7 +5848,7 @@
  "clerk:329714298": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329714300": {
   "candidates": [],
@@ -5880,7 +5880,7 @@
  "clerk:329719660": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329722941": {
   "candidates": [
@@ -5891,42 +5891,42 @@
    "C1400-00-031-0015-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329722945": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329722948": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329723431": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329723433": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329723436": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329723440": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329723442": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329724044": {
   "candidates": [],
@@ -5961,7 +5961,7 @@
    "M0100-00-000-0000-23"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329728030": {
   "candidates": [],
@@ -6038,7 +6038,7 @@
  "clerk:329728043": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329728362": {
   "candidates": [],
@@ -6079,12 +6079,12 @@
  "clerk:329728373": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329728376": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329728380": {
   "candidates": [],
@@ -6185,12 +6185,12 @@
    "M7030-00-000-0072-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731192": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731193": {
   "candidates": [
@@ -6198,7 +6198,7 @@
    "L4500-01-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731195": {
   "candidates": [
@@ -6206,7 +6206,7 @@
    "S3006-00-000-0037-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731198": {
   "candidates": [
@@ -6217,7 +6217,7 @@
    "R0945-02-000-0090-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731207": {
   "candidates": [],
@@ -6244,7 +6244,7 @@
    "T4743-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329731645": {
   "candidates": [],
@@ -6261,7 +6261,7 @@
    "P9277-04-000-0353-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:329733960": {
   "candidates": [],
@@ -6299,7 +6299,7 @@
    "L1069-02-000-0045-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330330107": {
   "candidates": [],
@@ -6499,7 +6499,7 @@
    "V4340-10-000-002A-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330348449": {
   "candidates": [],
@@ -6582,7 +6582,7 @@
    "M4173-03-000-0290-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330358552": {
   "candidates": [],
@@ -6596,7 +6596,7 @@
  "clerk:330359023": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330359024": {
   "candidates": [],
@@ -6628,7 +6628,7 @@
  "clerk:330362962": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330362963": {
   "candidates": [],
@@ -6663,7 +6663,7 @@
    "W3800-00-769-0000-50"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365446": {
   "candidates": [],
@@ -6677,7 +6677,7 @@
  "clerk:330365448": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365449": {
   "candidates": [],
@@ -6695,32 +6695,32 @@
    "T6670-97-000-0049-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365454": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365455": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365456": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330365457": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366418": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366421": {
   "candidates": [
@@ -6729,22 +6729,22 @@
    "S4600-00-007-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366423": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366424": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366425": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366426": {
   "candidates": [
@@ -6755,32 +6755,32 @@
    "B4965-03-000-0306-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366430": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366431": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366434": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366891": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366893": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366894": {
   "candidates": [],
@@ -6794,7 +6794,7 @@
  "clerk:330366897": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366904": {
   "candidates": [
@@ -6805,32 +6805,32 @@
    "H4250-01-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366905": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366907": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366909": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366914": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330366915": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330367736": {
   "candidates": [],
@@ -6844,22 +6844,22 @@
  "clerk:330367738": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330367739": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330367740": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330367742": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330369687": {
   "candidates": [
@@ -6870,7 +6870,7 @@
    "D6435-01-006-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330371977": {
   "candidates": [],
@@ -6884,7 +6884,7 @@
  "clerk:330373327": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330374510": {
   "candidates": [],
@@ -6913,7 +6913,7 @@
    "L5050-00-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330430778": {
   "candidates": [],
@@ -6957,7 +6957,7 @@
    "W7360-05-000-0177-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330437626": {
   "candidates": [],
@@ -6977,7 +6977,7 @@
    "S3925-00-001-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438410": {
   "candidates": [],
@@ -6997,7 +6997,7 @@
    "E5055-03-000-0187-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438415": {
   "candidates": [
@@ -7007,7 +7007,7 @@
    "B4443-02-000-0027-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438416": {
   "candidates": [],
@@ -7021,7 +7021,7 @@
  "clerk:330438417": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438419": {
   "candidates": [
@@ -7032,7 +7032,7 @@
    "W2235-00-000-0052-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438420": {
   "candidates": [],
@@ -7049,7 +7049,7 @@
    "L3195-00-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330438425": {
   "candidates": [
@@ -7060,7 +7060,7 @@
    "O4900-97-000-0003-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330442014": {
   "candidates": [],
@@ -7078,7 +7078,7 @@
    "C6760-00-000-0027-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330443679": {
   "candidates": [],
@@ -7170,22 +7170,22 @@
    "S7657-02-000-0054-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330447753": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330447759": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330447761": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330468028": {
   "candidates": [],
@@ -7205,7 +7205,7 @@
    "T5340-00-000-0156-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330468048": {
   "candidates": [],
@@ -7237,7 +7237,7 @@
  "clerk:330468097": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330468098": {
   "candidates": [],
@@ -7251,12 +7251,12 @@
  "clerk:330468099": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330468102": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330468139": {
   "candidates": [],
@@ -7338,7 +7338,7 @@
    "P5260-00-000-0090-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330476252": {
   "candidates": [],
@@ -7478,7 +7478,7 @@
  "clerk:330485047": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485049": {
   "candidates": [],
@@ -7492,7 +7492,7 @@
  "clerk:330485050": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485051": {
   "candidates": [],
@@ -7539,7 +7539,7 @@
    "10048-00-000-0076-79"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485063": {
   "candidates": [],
@@ -7568,7 +7568,7 @@
    "O0900-02-005-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485365": {
   "candidates": [],
@@ -7660,7 +7660,7 @@
    "T5270-00-000-0077-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485762": {
   "candidates": [],
@@ -7692,7 +7692,7 @@
  "clerk:330485768": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330485769": {
   "candidates": [],
@@ -7847,7 +7847,7 @@
    "L0375-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330487596": {
   "candidates": [],
@@ -8056,7 +8056,7 @@
    "P6400-00-041-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330489878": {
   "candidates": [],
@@ -8106,12 +8106,12 @@
  "clerk:330490436": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330490444": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330492018": {
   "candidates": [],
@@ -8131,7 +8131,7 @@
    "T5650-92-000-0318-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330493408": {
   "candidates": [
@@ -8142,7 +8142,7 @@
    "G4035-00-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330493824": {
   "candidates": [],
@@ -8189,7 +8189,7 @@
    "C6760-00-000-0070-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506480": {
   "candidates": [
@@ -8200,7 +8200,7 @@
    "M5715-01-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506483": {
   "candidates": [
@@ -8211,17 +8211,17 @@
    "C6000-03-017-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506486": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506487": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506490": {
   "candidates": [
@@ -8232,7 +8232,7 @@
    "T6845-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506493": {
   "candidates": [
@@ -8243,7 +8243,7 @@
    "M0300-00-004-0002-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330506495": {
   "candidates": [],
@@ -8260,7 +8260,7 @@
    "C7867-00-000-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330508001": {
   "candidates": [],
@@ -8274,7 +8274,7 @@
  "clerk:330509348": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330509665": {
   "candidates": [],
@@ -8337,7 +8337,7 @@
    "V3054-00-000-0041-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330513986": {
   "candidates": [],
@@ -8360,7 +8360,7 @@
  "clerk:330513989": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330513991": {
   "candidates": [],
@@ -8527,7 +8527,7 @@
  "clerk:330523102": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330538429": {
   "candidates": [],
@@ -8682,7 +8682,7 @@
    "L6115-00-000-0216-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330541959": {
   "candidates": [],
@@ -8764,7 +8764,7 @@
    "L5831-02-000-0124-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330543708": {
   "candidates": [],
@@ -8827,7 +8827,7 @@
    "R3400-00-000-0013-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330546356": {
   "candidates": [],
@@ -8856,7 +8856,7 @@
    "N1005-01-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330589565": {
   "candidates": [],
@@ -8942,7 +8942,7 @@
  "clerk:330595256": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330595264": {
   "candidates": [],
@@ -8997,17 +8997,17 @@
    "W2600-00-263-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330597629": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330597630": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330600289": {
   "candidates": [],
@@ -9035,7 +9035,7 @@
    "B3520-03-000-0038-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330601340": {
   "candidates": [
@@ -9044,7 +9044,7 @@
    "F5265-00-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330601345": {
   "candidates": [],
@@ -9058,17 +9058,17 @@
  "clerk:330601346": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330601353": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330602333": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330604689": {
   "candidates": [],
@@ -9095,7 +9095,7 @@
    "H2100-01-00B-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330608762": {
   "candidates": [],
@@ -9193,7 +9193,7 @@
    "M4050-00-002-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330616217": {
   "candidates": [
@@ -9202,7 +9202,7 @@
    "R1520-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330616526": {
   "candidates": [],
@@ -9231,7 +9231,7 @@
    "P9255-01-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330621050": {
   "candidates": [],
@@ -9272,7 +9272,7 @@
  "clerk:330630433": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630435": {
   "candidates": [
@@ -9283,7 +9283,7 @@
    "H0405-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630436": {
   "candidates": [],
@@ -9303,12 +9303,12 @@
    "C1825-01-000-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630439": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630440": {
   "candidates": [
@@ -9319,12 +9319,12 @@
    "M5660-00-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630441": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630444": {
   "candidates": [
@@ -9335,7 +9335,7 @@
    "S0550-00-021-0000-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630445": {
   "candidates": [],
@@ -9364,7 +9364,7 @@
    "M5500-00-006-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630886": {
   "candidates": [
@@ -9374,7 +9374,7 @@
    "H2650-00-004-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330630893": {
   "candidates": [
@@ -9382,7 +9382,7 @@
    "R0942-00-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631286": {
   "candidates": [
@@ -9393,7 +9393,7 @@
    "E5820-00-000-0197-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631287": {
   "candidates": [],
@@ -9413,7 +9413,7 @@
    "W3920-00-000-0085-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631289": {
   "candidates": [
@@ -9424,7 +9424,7 @@
    "E6680-02-000-0212-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631290": {
   "candidates": [
@@ -9435,7 +9435,7 @@
    "B2310-00-001-0099-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631291": {
   "candidates": [],
@@ -9491,12 +9491,12 @@
    "V4080-00-000-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631298": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631299": {
   "candidates": [],
@@ -9522,7 +9522,7 @@
    "A5270-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330631304": {
   "candidates": [
@@ -9530,7 +9530,7 @@
    "G1200-11-000-0136-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330634066": {
   "candidates": [],
@@ -9580,7 +9580,7 @@
  "clerk:330639484": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330640023": {
   "candidates": [],
@@ -9600,7 +9600,7 @@
    "L3072-00-000-0056-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330644534": {
   "candidates": [],
@@ -9629,7 +9629,7 @@
    "M5810-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330648712": {
   "candidates": [],
@@ -9647,12 +9647,12 @@
    "B4045-00-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330651069": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330651454": {
   "candidates": [
@@ -9663,7 +9663,7 @@
    "C7150-02-005-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330653296": {
   "candidates": [
@@ -9674,12 +9674,12 @@
    "C2150-00-002-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330655074": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330656053": {
   "candidates": [
@@ -9690,7 +9690,7 @@
    "A1800-00-043-0005-07"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330656538": {
   "candidates": [],
@@ -9758,7 +9758,7 @@
  "clerk:330662761": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330662763": {
   "candidates": [],
@@ -9799,7 +9799,7 @@
  "clerk:330665920": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330665921": {
   "candidates": [
@@ -9810,7 +9810,7 @@
    "M4179-00-000-0071-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330665924": {
   "candidates": [],
@@ -9824,7 +9824,7 @@
  "clerk:330665925": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330665928": {
   "candidates": [],
@@ -9841,7 +9841,7 @@
    "E4254-02-000-0172-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330665933": {
   "candidates": [
@@ -9849,7 +9849,7 @@
    "L5830-03-000-0093-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330665934": {
   "candidates": [],
@@ -9926,7 +9926,7 @@
  "clerk:330672236": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672237": {
   "candidates": [
@@ -9937,22 +9937,22 @@
    "H2550-01-002-0002-57"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672238": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672239": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672241": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672245": {
   "candidates": [
@@ -9963,67 +9963,67 @@
    "W0100-00-053-0006-21"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672246": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672251": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672257": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330672259": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673288": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673289": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673291": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673292": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673293": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673296": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673299": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330673300": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330674742": {
   "candidates": [],
@@ -10064,7 +10064,7 @@
  "clerk:330674746": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330674748": {
   "candidates": [],
@@ -10087,7 +10087,7 @@
  "clerk:330674753": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330674754": {
   "candidates": [],
@@ -10110,7 +10110,7 @@
  "clerk:330676373": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330676375": {
   "candidates": [],
@@ -10133,17 +10133,17 @@
  "clerk:330676382": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330676538": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330676541": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330676599": {
   "candidates": [],
@@ -10206,7 +10206,7 @@
    "H4250-01-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330683660": {
   "candidates": [],
@@ -10316,12 +10316,12 @@
    "F1950-00-002-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330699788": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330699796": {
   "candidates": [],
@@ -10449,7 +10449,7 @@
    "L2121-95-000-0036-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330711681": {
   "candidates": [],
@@ -10463,17 +10463,17 @@
  "clerk:330711684": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330711686": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330711688": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330712842": {
   "candidates": [],
@@ -10487,7 +10487,7 @@
  "clerk:330712843": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713171": {
   "candidates": [],
@@ -10501,27 +10501,27 @@
  "clerk:330713172": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713174": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713829": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713842": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713848": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330713851": {
   "candidates": [],
@@ -10598,7 +10598,7 @@
  "clerk:330722971": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330724639": {
   "candidates": [
@@ -10609,7 +10609,7 @@
    "M2321-00-00B-0035-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330725033": {
   "candidates": [],
@@ -10629,7 +10629,7 @@
    "B1900-18-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330725511": {
   "candidates": [
@@ -10640,7 +10640,7 @@
    "T2350-97-000-0070-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330725516": {
   "candidates": [
@@ -10651,7 +10651,7 @@
    "B1900-18-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330725519": {
   "candidates": [
@@ -10662,7 +10662,7 @@
    "T2350-97-000-0070-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330727829": {
   "candidates": [],
@@ -10708,7 +10708,7 @@
    "L5831-02-000-0124-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330729850": {
   "candidates": [],
@@ -10803,17 +10803,17 @@
  "clerk:330729874": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330731617": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330732011": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330732557": {
   "candidates": [
@@ -10821,12 +10821,12 @@
    "T2100-00-235-0009-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330735117": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330735124": {
   "candidates": [
@@ -10837,7 +10837,7 @@
    "F3930-00-000-0059-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330735128": {
   "candidates": [
@@ -10847,7 +10847,7 @@
    "S1000-00-045-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330738426": {
   "candidates": [
@@ -10858,7 +10858,7 @@
    "M6860-00-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330741201": {
   "candidates": [],
@@ -10872,7 +10872,7 @@
  "clerk:330742953": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330742959": {
   "candidates": [
@@ -10883,12 +10883,12 @@
    "M2321-00-00B-0035-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330744651": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330747059": {
   "candidates": [],
@@ -10908,7 +10908,7 @@
    "L3190-00-005-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330748234": {
   "candidates": [
@@ -10917,7 +10917,7 @@
    "M4036-00-000-0041-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330748235": {
   "candidates": [],
@@ -10935,7 +10935,7 @@
    "M5947-02-000-0171-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330749658": {
   "candidates": [],
@@ -10958,7 +10958,7 @@
  "clerk:330750286": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750293": {
   "candidates": [
@@ -10969,7 +10969,7 @@
    "S2950-00-000-0524-55"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750295": {
   "candidates": [],
@@ -11046,7 +11046,7 @@
  "clerk:330750966": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750969": {
   "candidates": [],
@@ -11060,17 +11060,17 @@
  "clerk:330750972": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750973": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750974": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330750978": {
   "candidates": [],
@@ -11090,12 +11090,12 @@
    "N1350-03-000-0035-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330759327": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330759332": {
   "candidates": [
@@ -11105,7 +11105,7 @@
    "T0945-16-000-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330759835": {
   "candidates": [],
@@ -11125,7 +11125,7 @@
    "M3550-00-148-2004-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330761058": {
   "candidates": [],
@@ -11160,7 +11160,7 @@
    "S6065-00-000-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330764616": {
   "candidates": [],
@@ -11180,7 +11180,7 @@
    "K8670-01-000-0044-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330765039": {
   "candidates": [],
@@ -11230,32 +11230,32 @@
  "clerk:330772381": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772382": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772384": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772385": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772386": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772388": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772389": {
   "candidates": [],
@@ -11269,12 +11269,12 @@
  "clerk:330772392": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330772843": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330774481": {
   "candidates": [],
@@ -11330,7 +11330,7 @@
    "A4000-00-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330784919": {
   "candidates": [
@@ -11341,7 +11341,7 @@
    "T2100-00-239-0006-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330786857": {
   "candidates": [],
@@ -11418,7 +11418,7 @@
  "clerk:330793298": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330793956": {
   "candidates": [],
@@ -11456,7 +11456,7 @@
    "T4370-00-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330797216": {
   "candidates": [
@@ -11467,7 +11467,7 @@
    "T4370-00-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330799042": {
   "candidates": [],
@@ -11487,7 +11487,7 @@
    "A2170-00-000-0071-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330805303": {
   "candidates": [],
@@ -11501,7 +11501,7 @@
  "clerk:330808217": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330808876": {
   "candidates": [],
@@ -11515,12 +11515,12 @@
  "clerk:330810263": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330810264": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330810265": {
   "candidates": [
@@ -11528,7 +11528,7 @@
    "E4640-01-000-0043-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330810274": {
   "candidates": [
@@ -11539,12 +11539,12 @@
    "K2400-00-000-0080-41"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330810276": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330811487": {
   "candidates": [],
@@ -11558,7 +11558,7 @@
  "clerk:330812656": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330813612": {
   "candidates": [],
@@ -11578,7 +11578,7 @@
    "S5440-02-000-0102-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330815195": {
   "candidates": [
@@ -11589,22 +11589,22 @@
    "S5440-02-000-0102-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330817767": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330817769": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330819070": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330820371": {
   "candidates": [],
@@ -11645,7 +11645,7 @@
  "clerk:330821877": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330825863": {
   "candidates": [
@@ -11656,7 +11656,7 @@
    "C4020-00-000-0066-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330826329": {
   "candidates": [],
@@ -11679,7 +11679,7 @@
  "clerk:330826910": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330826911": {
   "candidates": [],
@@ -11783,7 +11783,7 @@
  "clerk:330826926": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330826927": {
   "candidates": [],
@@ -11884,7 +11884,7 @@
    "N7700-00-003-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330827499": {
   "candidates": [],
@@ -11940,7 +11940,7 @@
    "E3200-00-00C-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330827506": {
   "candidates": [],
@@ -12032,7 +12032,7 @@
    "M4753-00-000-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330832337": {
   "candidates": [],
@@ -12052,7 +12052,7 @@
    "D6435-01-006-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330833800": {
   "candidates": [],
@@ -12090,37 +12090,37 @@
    "P9340-00-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836878": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836879": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836881": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836882": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836884": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836886": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836887": {
   "candidates": [],
@@ -12134,17 +12134,17 @@
  "clerk:330836892": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836895": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330836896": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330837212": {
   "candidates": [],
@@ -12275,7 +12275,7 @@
  "clerk:330851451": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330851453": {
   "candidates": [],
@@ -12304,12 +12304,12 @@
    "A2688-02-000-0035-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330851458": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330851459": {
   "candidates": [],
@@ -12368,7 +12368,7 @@
  "clerk:330852259": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330854035": {
   "candidates": [],
@@ -12415,7 +12415,7 @@
    "S1815-95-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330856007": {
   "candidates": [],
@@ -12480,7 +12480,7 @@
    "L5025-00-000-0128-70"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330865633": {
   "candidates": [],
@@ -12584,7 +12584,7 @@
  "clerk:330875416": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330876112": {
   "candidates": [],
@@ -12658,7 +12658,7 @@
    "R0150-00-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330885546": {
   "candidates": [],
@@ -12757,7 +12757,7 @@
    "W2300-00-001-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330887599": {
   "candidates": [],
@@ -12793,7 +12793,7 @@
    "P3109-01-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330892058": {
   "candidates": [
@@ -12804,7 +12804,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330892847": {
   "candidates": [
@@ -12815,7 +12815,7 @@
    "E3345-03-000-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330892850": {
   "candidates": [
@@ -12824,7 +12824,7 @@
    "W2300-00-053-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330898532": {
   "candidates": [
@@ -12835,7 +12835,7 @@
    "C2380-00-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330904399": {
   "candidates": [],
@@ -12852,12 +12852,12 @@
    "L6700-00-001-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330909504": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330909505": {
   "candidates": [],
@@ -12880,7 +12880,7 @@
  "clerk:330909514": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910057": {
   "candidates": [],
@@ -12903,22 +12903,22 @@
  "clerk:330910545": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910546": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910548": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910551": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910554": {
   "candidates": [
@@ -12929,12 +12929,12 @@
    "C8210-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910558": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330910570": {
   "candidates": [],
@@ -12948,7 +12948,7 @@
  "clerk:330910572": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330912458": {
   "candidates": [
@@ -12959,7 +12959,7 @@
    "R0550-03-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330912917": {
   "candidates": [
@@ -12970,17 +12970,17 @@
    "C8353-00-000-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330913373": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330913838": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330913845": {
   "candidates": [],
@@ -13009,7 +13009,7 @@
    "P6200-00-00Q-0000-18"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330914242": {
   "candidates": [],
@@ -13029,7 +13029,7 @@
    "T7450-97-000-0068-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330920673": {
   "candidates": [],
@@ -13046,12 +13046,12 @@
    "T7650-92-000-0554-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330921229": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330921751": {
   "candidates": [],
@@ -13080,7 +13080,7 @@
    "W8100-00-00E-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330922375": {
   "candidates": [],
@@ -13127,7 +13127,7 @@
    "D1400-00-001-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330922383": {
   "candidates": [],
@@ -13168,7 +13168,7 @@
  "clerk:330922387": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330922391": {
   "candidates": [],
@@ -13182,7 +13182,7 @@
  "clerk:330922395": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330923455": {
   "candidates": [],
@@ -13421,7 +13421,7 @@
  "clerk:330924496": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330924497": {
   "candidates": [],
@@ -13612,7 +13612,7 @@
    "M3175-1B-013-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330925188": {
   "candidates": [],
@@ -13749,7 +13749,7 @@
    "G1800-00-000-0008-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330928414": {
   "candidates": [],
@@ -13763,27 +13763,27 @@
  "clerk:330932659": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932660": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932661": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932666": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932667": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932668": {
   "candidates": [],
@@ -13797,7 +13797,7 @@
  "clerk:330932672": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330932823": {
   "candidates": [],
@@ -13880,7 +13880,7 @@
    "S3975-05-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330937685": {
   "candidates": [],
@@ -13954,7 +13954,7 @@
    "S4276-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330941196": {
   "candidates": [
@@ -13965,7 +13965,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330941661": {
   "candidates": [],
@@ -13992,7 +13992,7 @@
    "C1113-04-000-0109-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330944125": {
   "candidates": [],
@@ -14012,7 +14012,7 @@
    "G9100-00-011-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330946467": {
   "candidates": [],
@@ -14032,7 +14032,7 @@
    "F3750-00-000-0030-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330947488": {
   "candidates": [
@@ -14043,7 +14043,7 @@
    "O8200-00-000-0070-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330947499": {
   "candidates": [
@@ -14054,7 +14054,7 @@
    "A3050-00-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330948024": {
   "candidates": [],
@@ -14110,12 +14110,12 @@
    "P9277-10-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330957856": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330957857": {
   "candidates": [],
@@ -14129,7 +14129,7 @@
  "clerk:330963625": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330964163": {
   "candidates": [],
@@ -14248,7 +14248,7 @@
    "G7850-00-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330996446": {
   "candidates": [],
@@ -14280,12 +14280,12 @@
  "clerk:330997315": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330997321": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:330997762": {
   "candidates": [],
@@ -14341,7 +14341,7 @@
    "D6000-03-000-0044-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331011787": {
   "candidates": [],
@@ -14370,7 +14370,7 @@
    "C7650-00-009-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331014386": {
   "candidates": [],
@@ -14597,7 +14597,7 @@
    "H2550-00-008-0010-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331022855": {
   "candidates": [],
@@ -14643,7 +14643,7 @@
    "R3118-00-000-0026-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331023415": {
   "candidates": [],
@@ -14688,7 +14688,7 @@
    "S6950-00-000-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331031573": {
   "candidates": [],
@@ -14731,7 +14731,7 @@
  "clerk:331035936": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331038431": {
   "candidates": [],
@@ -14902,7 +14902,7 @@
    "G5140-02-000-0073-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331040493": {
   "candidates": [],
@@ -15118,7 +15118,7 @@
    "S2440-95-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331358967": {
   "candidates": [],
@@ -15228,7 +15228,7 @@
    "M5840-01-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331366296": {
   "candidates": [],
@@ -15711,22 +15711,22 @@
    "C0830-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331581130": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331581135": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331581142": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331582681": {
   "candidates": [],
@@ -15791,7 +15791,7 @@
    "E3100-00-032-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331587316": {
   "candidates": [
@@ -15802,7 +15802,7 @@
    "N7330-00-000-0032-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331587830": {
   "candidates": [],
@@ -15870,12 +15870,12 @@
  "clerk:331595852": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595855": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595856": {
   "candidates": [],
@@ -15898,12 +15898,12 @@
  "clerk:331595860": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595861": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595862": {
   "candidates": [],
@@ -15917,7 +15917,7 @@
  "clerk:331595865": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595868": {
   "candidates": [
@@ -15928,7 +15928,7 @@
    "M1100-00-002-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331595869": {
   "candidates": [],
@@ -15957,7 +15957,7 @@
    "L6550-00-001-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331596146": {
   "candidates": [],
@@ -15977,17 +15977,17 @@
    "C0300-00-188-0028-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331596151": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331596157": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331596403": {
   "candidates": [
@@ -16090,7 +16090,7 @@
    "S1700-02-012-0006-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331603818": {
   "candidates": [
@@ -16101,7 +16101,7 @@
    "O8418-00-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331604453": {
   "candidates": [],
@@ -16199,12 +16199,12 @@
    "M5758-02-000-0040-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331617332": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331617335": {
   "candidates": [
@@ -16215,7 +16215,7 @@
    "B1750-98-114-0004-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331618619": {
   "candidates": [],
@@ -16301,7 +16301,7 @@
  "clerk:331620053": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "clerk:331620056": {
   "candidates": [],
@@ -25954,7 +25954,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "PEDRAZA PEDRO",
-  "tried": "2026-10-15"
+  "tried": "2026-10-30"
  },
  "court:4624748": {
   "candidates": [],
@@ -32065,12 +32065,12 @@
  },
  "court:4834954": {
   "candidates": [],
-  "confidence": "low",
-  "geo_id": "M4173-03-000-0234-00",
-  "method": "rejected-by-tax-office",
-  "n_candidates": 19,
-  "person": "ALANIZ DANIEL",
-  "tried": "2026-10-15"
+  "confidence": "high",
+  "geo_id": "M0350-00-010-0041-00",
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:4834968": {
   "candidates": [
@@ -38241,7 +38241,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "ZEPEDA ERIKA",
-  "tried": "2026-10-15"
+  "tried": "2026-10-30"
  },
  "court:4994444": {
   "candidates": [
@@ -45509,7 +45509,7 @@
    "T0410-95-000-0067-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5086983": {
   "candidates": [],
@@ -45526,7 +45526,7 @@
    "P9277-23-000-0137-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087012": {
   "candidates": [
@@ -45534,7 +45534,7 @@
    "T2662-02-000-0037-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087139": {
   "candidates": [
@@ -45545,12 +45545,12 @@
    "J4210-00-000-0038-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087408": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087500": {
   "candidates": [],
@@ -45564,7 +45564,7 @@
  "court:5087502": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087504": {
   "candidates": [
@@ -45575,7 +45575,7 @@
    "I7050-03-000-0152-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087505": {
   "candidates": [],
@@ -45604,7 +45604,7 @@
    "H3150-00-000-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087577": {
   "candidates": [
@@ -45613,7 +45613,7 @@
    "D4600-00-117-0006-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087580": {
   "candidates": [
@@ -45624,7 +45624,7 @@
    "L0930-00-007-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087582": {
   "candidates": [
@@ -45635,7 +45635,7 @@
    "10038-00-000-0268-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087629": {
   "candidates": [
@@ -45646,7 +45646,7 @@
    "T6845-00-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087640": {
   "candidates": [
@@ -45654,7 +45654,7 @@
    "B0500-00-004-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087677": {
   "candidates": [
@@ -45663,7 +45663,7 @@
    "L3205-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087699": {
   "candidates": [
@@ -45672,7 +45672,7 @@
    "S4770-00-000-0307-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5087990": {
   "candidates": [
@@ -45683,7 +45683,7 @@
    "P4070-97-000-0077-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088048": {
   "candidates": [
@@ -45694,7 +45694,7 @@
    "P5365-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088054": {
   "candidates": [
@@ -45703,7 +45703,7 @@
    "P8650-02-000-0063-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088210": {
   "candidates": [],
@@ -45723,12 +45723,12 @@
    "L3072-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088453": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088545": {
   "candidates": [],
@@ -45742,7 +45742,7 @@
  "court:5088549": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088552": {
   "candidates": [
@@ -45753,17 +45753,17 @@
    "T0015-00-000-0005-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088559": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088592": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088605": {
   "candidates": [
@@ -45774,7 +45774,7 @@
    "T6845-00-000-0053-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5088978": {
   "candidates": [
@@ -45785,7 +45785,7 @@
    "A6585-02-000-0091-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089041": {
   "candidates": [
@@ -45796,12 +45796,12 @@
    "B4443-02-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089195": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089275": {
   "candidates": [],
@@ -45821,12 +45821,12 @@
    "T1813-00-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089475": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089506": {
   "candidates": [],
@@ -45852,17 +45852,17 @@
    "K2400-00-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089842": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089846": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5089905": {
   "candidates": [],
@@ -45879,7 +45879,7 @@
    "W1300-00-002-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090139": {
   "candidates": [
@@ -45888,12 +45888,12 @@
    "P9277-12-000-0035-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090185": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090206": {
   "candidates": [
@@ -45904,7 +45904,7 @@
    "S6812-00-000-0042-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090268": {
   "candidates": [],
@@ -45918,12 +45918,12 @@
  "court:5090281": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090283": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090304": {
   "candidates": [
@@ -45934,12 +45934,12 @@
    "C0800-00-000-0122-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090313": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090423": {
   "candidates": [],
@@ -45959,7 +45959,7 @@
    "T5250-02-005-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090438": {
   "candidates": [
@@ -45970,7 +45970,7 @@
    "R5150-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090685": {
   "candidates": [
@@ -45981,7 +45981,7 @@
    "T5270-00-000-0069-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090875": {
   "candidates": [],
@@ -46004,7 +46004,7 @@
  "court:5090879": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090888": {
   "candidates": [
@@ -46012,12 +46012,12 @@
    "R2846-00-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5090961": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091237": {
   "candidates": [
@@ -46027,22 +46027,22 @@
    "S5440-02-000-0095-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091329": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091331": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091388": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091445": {
   "candidates": [
@@ -46053,7 +46053,7 @@
    "T3635-00-000-0108-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091494": {
   "candidates": [],
@@ -46067,7 +46067,7 @@
  "court:5091545": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091782": {
   "candidates": [],
@@ -46081,7 +46081,7 @@
  "court:5091923": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5091973": {
   "candidates": [],
@@ -46108,7 +46108,7 @@
    "A2100-00-006-0013-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092061": {
   "candidates": [],
@@ -46128,12 +46128,12 @@
    "C9120-02-000-0051-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092205": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092206": {
   "candidates": [
@@ -46144,26 +46144,26 @@
    "D3010-04-000-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092207": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "C0850-00-530-0025-00",
-  "method": "name",
+  "method": "tax-office",
   "n_candidates": 1,
-  "person": "HUMPHREYS DESIREE",
-  "tried": "2026-10-16"
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5092208": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092209": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092210": {
   "candidates": [
@@ -46174,27 +46174,27 @@
    "A2100-00-025-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092211": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092212": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092213": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092228": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092252": {
   "candidates": [],
@@ -46208,7 +46208,7 @@
  "court:5092254": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092484": {
   "candidates": [],
@@ -46228,7 +46228,7 @@
    "P9300-02-001-0027-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5092688": {
   "candidates": [
@@ -46239,7 +46239,7 @@
    "S1355-02-002-0025-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093372": {
   "candidates": [
@@ -46250,28 +46250,26 @@
    "P4409-00-000-0020-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093386": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093546": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093550": {
-  "candidates": [
-   "B2010-00-000-0004-00",
-   "E4255-00-000-0001-00",
-   "H4250-04-037-0005-00",
-   "F0300-00-008-0004-00",
-   "R3114-03-000-0079-00"
-  ],
+  "candidates": [],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "geo_id": "P3650-02-000-0007-00",
+  "method": "rejected-by-tax-office",
+  "n_candidates": 108,
+  "person": "VILLARREAL JUAN",
+  "tried": "2026-10-30"
  },
  "court:5093561": {
   "candidates": [
@@ -46282,7 +46280,7 @@
    "W7382-03-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093584": {
   "candidates": [
@@ -46293,7 +46291,7 @@
    "S0229-00-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093657": {
   "candidates": [
@@ -46304,7 +46302,7 @@
    "S6812-00-000-0042-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093669": {
   "candidates": [
@@ -46314,7 +46312,7 @@
    "T2950-01-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093673": {
   "candidates": [
@@ -46325,7 +46323,7 @@
    "O2005-00-000-0049-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093739": {
   "candidates": [],
@@ -46339,7 +46337,7 @@
  "court:5093756": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093774": {
   "candidates": [],
@@ -46353,7 +46351,7 @@
  "court:5093972": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093976": {
   "candidates": [
@@ -46364,7 +46362,7 @@
    "T3510-00-000-0041-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5093977": {
   "candidates": [],
@@ -46393,12 +46391,12 @@
    "H2550-01-002-0002-57"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094052": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094116": {
   "candidates": [],
@@ -46418,17 +46416,17 @@
    "C0700-00-114-0008-37"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094247": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094270": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094281": {
   "candidates": [
@@ -46439,17 +46437,17 @@
    "Q3000-00-001-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094286": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094295": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094309": {
   "candidates": [
@@ -46460,27 +46458,27 @@
    "H2550-00-008-0010-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094324": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094325": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094444": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094598": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5094784": {
   "candidates": [],
@@ -46494,7 +46492,7 @@
  "court:5094936": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095008": {
   "candidates": [],
@@ -46514,7 +46512,7 @@
    "D7201-00-000-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095278": {
   "candidates": [],
@@ -46533,7 +46531,7 @@
    "G8800-00-004-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095337": {
   "candidates": [
@@ -46541,7 +46539,7 @@
    "H2542-00-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095343": {
   "candidates": [
@@ -46552,7 +46550,7 @@
    "M6251-00-000-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095698": {
   "candidates": [
@@ -46563,7 +46561,7 @@
    "H4250-04-036-0004-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095847": {
   "candidates": [
@@ -46574,12 +46572,12 @@
    "P1000-00-000-0115-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095886": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095923": {
   "candidates": [],
@@ -46593,7 +46591,7 @@
  "court:5095934": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5095989": {
   "candidates": [
@@ -46602,7 +46600,7 @@
    "C2243-03-000-0299-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5096041": {
   "candidates": [
@@ -46613,7 +46611,7 @@
    "S2950-00-000-0376-25"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:5096053": {
   "candidates": [
@@ -47140,12 +47138,12 @@
  },
  "court:5099328": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "D4600-00-117-0005-00",
-  "method": "name+co-owner",
-  "n_candidates": 3,
-  "person": "ONTIVEROS JAVIER",
-  "tried": "2026-10-23"
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5099334": {
   "candidates": [
@@ -47179,12 +47177,12 @@
  },
  "court:5099421": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "A3100-00-009-0002-00",
-  "method": "name",
+  "method": "tax-office",
   "n_candidates": 1,
-  "person": "VITAL BENITO",
-  "tried": "2026-10-23"
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5099424": {
   "candidates": [],
@@ -47202,21 +47200,21 @@
  },
  "court:5099431": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "B2330-00-000-0022-00",
-  "method": "name",
+  "method": "tax-office",
   "n_candidates": 1,
-  "person": "ALEMAN DORA",
-  "tried": "2026-10-23"
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5099447": {
   "candidates": [],
-  "confidence": "medium",
+  "confidence": "high",
   "geo_id": "H2400-00-000-0002-00",
-  "method": "name+co-owner",
-  "n_candidates": 28,
-  "person": "ALVARADO ABIGAIL",
-  "tried": "2026-10-23"
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-10-30"
  },
  "court:5099458": {
   "candidates": [
@@ -47469,7 +47467,7 @@
    "E3900-02-000-0037-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:520964": {
   "candidates": [
@@ -47480,7 +47478,7 @@
    "C6600-00-006-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:521371": {
   "candidates": [],
@@ -47489,7 +47487,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "TREVINO RACHEL",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:521413": {
   "candidates": [],
@@ -47498,7 +47496,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 7,
   "person": "TIJERINA JAVIER",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:522480": {
   "candidates": [],
@@ -47507,7 +47505,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 21,
   "person": "LUNA MIGUEL",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:523950": {
   "candidates": [],
@@ -47516,17 +47514,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 55,
   "person": "SALINAS RENE",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:525525": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:525565": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:526405": {
   "candidates": [
@@ -47535,17 +47533,17 @@
    "V0885-00-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527225": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527234": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527965": {
   "candidates": [
@@ -47556,7 +47554,7 @@
    "W3800-00-415-0000-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527970": {
   "candidates": [],
@@ -47565,7 +47563,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "PATAG RAFAEL",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527974": {
   "candidates": [
@@ -47576,12 +47574,12 @@
    "C6760-00-000-0070-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:527979": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:528911": {
   "candidates": [
@@ -47591,12 +47589,12 @@
    "L5850-00-000-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:528980": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:529190": {
   "candidates": [
@@ -47604,17 +47602,17 @@
    "P7040-02-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:530037": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:532595": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:532763": {
   "candidates": [
@@ -47625,7 +47623,7 @@
    "T5000-01-004-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:534813": {
   "candidates": [
@@ -47636,7 +47634,7 @@
    "C8850-00-024-0015-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:535102": {
   "candidates": [
@@ -47647,12 +47645,12 @@
    "R0250-01-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:535745": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:535805": {
   "candidates": [
@@ -47660,7 +47658,7 @@
    "P0019-00-000-0059-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:536812": {
   "candidates": [],
@@ -47674,7 +47672,7 @@
  "court:537411": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:538498": {
   "candidates": [
@@ -47685,7 +47683,7 @@
    "V3652-00-000-0039-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:538596": {
   "candidates": [],
@@ -47699,7 +47697,7 @@
  "court:543153": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:546013": {
   "candidates": [
@@ -47710,7 +47708,7 @@
    "S4770-00-000-0353-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:546661": {
   "candidates": [],
@@ -47728,7 +47726,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "BRAVO FELIX",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:546998": {
   "candidates": [
@@ -47736,7 +47734,7 @@
    "C7150-02-008-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:547011": {
   "candidates": [],
@@ -47745,7 +47743,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "SOTELO JESUS",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:549493": {
   "candidates": [
@@ -47755,12 +47753,12 @@
    "B1585-04-000-0029-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:550544": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:551820": {
   "candidates": [],
@@ -47769,17 +47767,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 3,
   "person": "MONCIVAIS ELEAZAR",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:553836": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:553985": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:554000": {
   "candidates": [
@@ -47789,12 +47787,12 @@
    "A0800-00-000-1108-21"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:554001": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:554118": {
   "candidates": [],
@@ -47803,7 +47801,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "ALANIZ ENEDELIA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:554906": {
   "candidates": [
@@ -47814,7 +47812,7 @@
    "M5785-00-000-0080-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:556447": {
   "candidates": [],
@@ -47823,12 +47821,12 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "ARQUELLES ELDA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:556955": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:557258": {
   "candidates": [
@@ -47839,12 +47837,12 @@
    "C2750-00-004-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:557573": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:557602": {
   "candidates": [
@@ -47855,7 +47853,7 @@
    "C9550-00-001-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:557707": {
   "candidates": [
@@ -47865,7 +47863,7 @@
    "L3180-02-000-0216-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:557742": {
   "candidates": [],
@@ -47874,7 +47872,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "CASTRO HERIBERTO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:558575": {
   "candidates": [],
@@ -47883,12 +47881,12 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 21,
   "person": "CHAPA ALBERTO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:558928": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:559526": {
   "candidates": [
@@ -47896,12 +47894,12 @@
    "H1650-05-000-0079-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:559978": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:560449": {
   "candidates": [
@@ -47912,7 +47910,7 @@
    "L2300-00-00B-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:560605": {
   "candidates": [
@@ -47923,17 +47921,17 @@
    "V0563-03-000-0108-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:560613": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:560887": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:560908": {
   "candidates": [
@@ -47944,7 +47942,7 @@
    "R0215-01-000-0021-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:561107": {
   "candidates": [
@@ -47955,7 +47953,7 @@
    "B3000-00-001-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:561987": {
   "candidates": [
@@ -47964,7 +47962,7 @@
    "P4000-00-000-0024-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:563523": {
   "candidates": [
@@ -47972,16 +47970,16 @@
    "C1150-02-000-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:563654": {
   "candidates": [],
-  "confidence": "low",
+  "confidence": "medium",
   "geo_id": "A1800-00-033-0006-05",
-  "method": "rejected-by-tax-office",
+  "method": "name",
   "n_candidates": 1,
   "person": "CABRALES MAURO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:564108": {
   "candidates": [
@@ -47991,12 +47989,12 @@
    "R2731-02-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:564742": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:567114": {
   "candidates": [],
@@ -48005,7 +48003,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "VILLARREAL LOURDES",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:568891": {
   "candidates": [
@@ -48015,7 +48013,7 @@
    "S1700-02-041-0007-06"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:569672": {
   "candidates": [
@@ -48026,7 +48024,7 @@
    "S5279-02-000-0042-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:569755": {
   "candidates": [
@@ -48037,7 +48035,7 @@
    "T3425-97-00B-0007-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:569761": {
   "candidates": [
@@ -48047,7 +48045,7 @@
    "E4640-01-000-0022-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:570349": {
   "candidates": [],
@@ -48056,7 +48054,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "BARRAGAN JUAN",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:570537": {
   "candidates": [
@@ -48067,7 +48065,7 @@
    "N4855-02-000-0122-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:570693": {
   "candidates": [
@@ -48076,7 +48074,7 @@
    "P8500-00-000-0232-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:571527": {
   "candidates": [
@@ -48087,7 +48085,7 @@
    "B4080-00-000-0086-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:572030": {
   "candidates": [
@@ -48098,12 +48096,12 @@
    "B0300-00-030-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:572035": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:572305": {
   "candidates": [
@@ -48114,12 +48112,12 @@
    "E8500-00-005-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:573239": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:573505": {
   "candidates": [],
@@ -48128,12 +48126,12 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 28,
   "person": "LARA JUAN",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:573712": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:573746": {
   "candidates": [
@@ -48144,12 +48142,12 @@
    "S2950-00-000-0515-34"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:573829": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:574090": {
   "candidates": [
@@ -48160,7 +48158,7 @@
    "R3485-00-000-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:574168": {
   "candidates": [
@@ -48171,7 +48169,7 @@
    "N8600-00-002-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:574392": {
   "candidates": [
@@ -48182,7 +48180,7 @@
    "H2550-00-008-0010-03"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:574530": {
   "candidates": [
@@ -48193,7 +48191,7 @@
    "H1200-00-123-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:574878": {
   "candidates": [],
@@ -48213,7 +48211,7 @@
    "A0800-00-000-1019-07"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:575469": {
   "candidates": [],
@@ -48222,7 +48220,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "SCHIFFER JOSE",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:575914": {
   "candidates": [
@@ -48230,7 +48228,7 @@
    "K2700-02-000-0003-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:576027": {
   "candidates": [
@@ -48241,7 +48239,7 @@
    "O7760-02-000-0063-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:576097": {
   "candidates": [],
@@ -48258,7 +48256,7 @@
    "R1755-01-003-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577101": {
   "candidates": [],
@@ -48267,7 +48265,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 16,
   "person": "HERNANDEZ ROGER",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577102": {
   "candidates": [
@@ -48278,7 +48276,7 @@
    "S6447-00-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577255": {
   "candidates": [],
@@ -48287,7 +48285,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "YANCY MARISELDA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577704": {
   "candidates": [],
@@ -48296,7 +48294,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "GARCIA ZORAIDA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577707": {
   "candidates": [
@@ -48307,7 +48305,7 @@
    "S3575-00-000-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577746": {
   "candidates": [
@@ -48318,7 +48316,7 @@
    "L3165-03-000-0051-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577857": {
   "candidates": [
@@ -48329,7 +48327,7 @@
    "T1250-03-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577960": {
   "candidates": [
@@ -48340,7 +48338,7 @@
    "A1800-00-056-0009-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:577979": {
   "candidates": [
@@ -48351,12 +48349,12 @@
    "P0330-97-000-0126-04"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:578007": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:578059": {
   "candidates": [
@@ -48367,7 +48365,7 @@
    "T3257-00-000-0033-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:578555": {
   "candidates": [],
@@ -48376,7 +48374,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 9,
   "person": "PALOMO REYES",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:579058": {
   "candidates": [
@@ -48387,12 +48385,12 @@
    "A1800-00-054-0009-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:579323": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:579501": {
   "candidates": [],
@@ -48410,7 +48408,7 @@
    "H2550-00-008-0007-17"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:579772": {
   "candidates": [],
@@ -48419,7 +48417,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 13,
   "person": "TORRES RAFAEL",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:580231": {
   "candidates": [
@@ -48430,7 +48428,7 @@
    "H4250-05-009-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:580298": {
   "candidates": [
@@ -48441,7 +48439,7 @@
    "M1905-00-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:580489": {
   "candidates": [],
@@ -48455,22 +48453,22 @@
  "court:580733": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:581008": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:582198": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:582203": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:582219": {
   "candidates": [],
@@ -48479,7 +48477,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 5,
   "person": "DOMINGUEZ ALFREDO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:583288": {
   "candidates": [],
@@ -48488,12 +48486,12 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "MERRILL ROSALINDA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:583640": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:583643": {
   "candidates": [
@@ -48504,7 +48502,7 @@
    "O3300-00-024-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:584523": {
   "candidates": [],
@@ -48513,7 +48511,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 2,
   "person": "LOOKINGBILL JOHN",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:584586": {
   "candidates": [],
@@ -48542,12 +48540,12 @@
    "S6853-00-000-0068-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585510": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585515": {
   "candidates": [
@@ -48558,17 +48556,17 @@
    "C7500-02-001-0019-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585562": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585762": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585846": {
   "candidates": [],
@@ -48577,17 +48575,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 19,
   "person": "ROSALES FILIBERTO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:585978": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586350": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586437": {
   "candidates": [
@@ -48597,7 +48595,7 @@
    "T6011-03-000-0397-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586632": {
   "candidates": [
@@ -48608,7 +48606,7 @@
    "10041-00-03A-0005-35"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586648": {
   "candidates": [],
@@ -48617,21 +48615,21 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 1,
   "person": "CANTU FLORESTELA",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586725": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:586787": {
   "candidates": [],
-  "confidence": "low",
+  "confidence": "medium",
   "geo_id": "I7050-02-000-0053-00",
-  "method": "rejected-by-tax-office",
+  "method": "name+co-owner",
   "n_candidates": 2,
   "person": "GAONA SERGIO",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:587147": {
   "candidates": [],
@@ -48651,7 +48649,7 @@
    "W2300-00-049-0017-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:587242": {
   "candidates": [
@@ -48662,12 +48660,12 @@
    "H0900-00-033-0001-02"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:587905": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588122": {
   "candidates": [
@@ -48678,12 +48676,12 @@
    "L3190-00-006-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588138": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588359": {
   "candidates": [
@@ -48694,7 +48692,7 @@
    "E4430-00-000-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588426": {
   "candidates": [],
@@ -48708,22 +48706,22 @@
  "court:588445": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588890": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:588893": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589103": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589123": {
   "candidates": [],
@@ -48761,7 +48759,7 @@
    "S3975-09-000-0083-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589299": {
   "candidates": [],
@@ -48770,7 +48768,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 12,
   "person": "LUNA RAUL",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589310": {
   "candidates": [
@@ -48779,7 +48777,7 @@
    "G0800-00-004-0014-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589314": {
   "candidates": [
@@ -48787,7 +48785,7 @@
    "R4200-00-004-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589318": {
   "candidates": [
@@ -48798,7 +48796,7 @@
    "L5260-02-000-0064-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589326": {
   "candidates": [
@@ -48807,12 +48805,12 @@
    "C4439-02-000-0178-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589599": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589668": {
   "candidates": [
@@ -48823,7 +48821,7 @@
    "L3393-00-000-0214-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589695": {
   "candidates": [],
@@ -48840,7 +48838,7 @@
    "A5770-01-000-0011-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589773": {
   "candidates": [
@@ -48851,12 +48849,12 @@
    "L3354-00-001-0008-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589778": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589792": {
   "candidates": [
@@ -48867,12 +48865,12 @@
    "L0450-98-197-0000-01"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589798": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589807": {
   "candidates": [
@@ -48883,17 +48881,17 @@
    "D5200-03-002-0002-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589859": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589862": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:589950": {
   "candidates": [
@@ -48904,12 +48902,12 @@
    "R3280-00-000-0031-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590035": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590115": {
   "candidates": [
@@ -48920,7 +48918,7 @@
    "T1300-00-005-0004-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590117": {
   "candidates": [
@@ -48931,7 +48929,7 @@
    "G5975-03-000-0205-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590121": {
   "candidates": [
@@ -48942,27 +48940,27 @@
    "S6060-00-000-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590214": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590225": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590237": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590260": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:590958": {
   "candidates": [],
@@ -48971,17 +48969,17 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 3,
   "person": "ALAMIA LUIS",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591162": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591196": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591243": {
   "candidates": [
@@ -48990,7 +48988,7 @@
    "C8220-01-000-0048-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591269": {
   "candidates": [
@@ -48998,12 +48996,12 @@
    "P7040-02-000-0056-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591273": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591276": {
   "candidates": [
@@ -49012,12 +49010,12 @@
    "C6250-00-003-0001-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591366": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591378": {
   "candidates": [
@@ -49028,17 +49026,17 @@
    "O0557-02-000-0106-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591387": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591698": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:591899": {
   "candidates": [],
@@ -49047,7 +49045,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 13,
   "person": "FUENTES JOSE",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:592686": {
   "candidates": [
@@ -49055,7 +49053,7 @@
    "R3050-02-001-0010-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:592745": {
   "candidates": [],
@@ -49075,7 +49073,7 @@
    "K2800-00-000-0156-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:594132": {
   "candidates": [],
@@ -49089,12 +49087,12 @@
  "court:594529": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:594827": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:595460": {
   "candidates": [],
@@ -49103,7 +49101,7 @@
   "method": "rejected-by-tax-office",
   "n_candidates": 5,
   "person": "OCHOA JANIE",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:596218": {
   "candidates": [
@@ -49112,7 +49110,7 @@
    "R0409-00-000-0016-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:596385": {
   "candidates": [
@@ -49123,7 +49121,7 @@
    "O7500-00-000-0007-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:599483": {
   "candidates": [
@@ -49134,7 +49132,7 @@
    "S7658-05-000-0127-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:600207": {
   "candidates": [
@@ -49142,7 +49140,7 @@
    "R3170-97-000-0162-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:601362": {
   "candidates": [
@@ -49152,7 +49150,7 @@
    "G4100-00-004-0023-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:602594": {
   "candidates": [
@@ -49161,7 +49159,7 @@
    "J1839-01-000-0018-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:602852": {
   "candidates": [],
@@ -49190,7 +49188,7 @@
    "H3950-00-003-0009-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-16"
+  "tried": "2026-10-30"
  },
  "court:602930": {
   "candidates": [],
