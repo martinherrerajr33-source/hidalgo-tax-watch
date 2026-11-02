@@ -415,28 +415,28 @@
   "total_due": 23147.19
  },
  "A1295-01-000-0013-00": {
-  "checked": "2026-10-26",
-  "exemptions": "",
-  "found": false,
+  "checked": "2026-11-02",
+  "exemptions": "None",
+  "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "",
-  "owner_name": "",
+  "owner_mailing": "405 PUMA DR ALAMO, TX 78516-9499",
+  "owner_name": "TORRES FRANCISCO JAVIER BARRON & KASSAND",
   "prior_year_due": 0.0,
-  "status": "not_found",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 796.5
  },
  "A1295-01-000-0057-00": {
-  "checked": "2026-10-26",
-  "exemptions": "",
-  "found": false,
+  "checked": "2026-11-02",
+  "exemptions": "None",
+  "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "",
-  "owner_name": "",
+  "owner_mailing": "480 BRASHER RD BATESVILLE, MS 38606",
+  "owner_name": "MEDINA LESLIE DENISE",
   "prior_year_due": 0.0,
-  "status": "not_found",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 796.5
  },
  "A1460-00-000-0021-00": {
   "checked": "2026-10-30",
@@ -4092,16 +4092,16 @@
   "total_due": 7017.8
  },
  "C4135-00-000-0003-00": {
-  "checked": "2026-10-26",
-  "exemptions": "None",
+  "checked": "2026-11-02",
+  "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "3533 MORELAND DR STE A WESLACO, TX 78596-9132",
   "owner_name": "LF TRINITY DEVELOPMENT GROUP LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1449.46
  },
  "C4143-00-000-0024-00": {
   "checked": "2026-10-29",
@@ -4955,16 +4955,16 @@
   "total_due": 2942.04
  },
  "C7886-95-000-0008-01": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "4413 MELODY LN EDINBURG, TX 78542-3525",
   "owner_name": "MADEIRA RAVEN & NORMA D",
-  "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 502.72
+  "prior_year_due": 502.72,
+  "status": "delinquent",
+  "total_due": 819.62
  },
  "C7900-00-000-0008-36": {
   "checked": "2026-10-29",
@@ -5157,7 +5157,7 @@
   "total_due": 13449.74
  },
  "C9100-00-000-0063-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5165,8 +5165,8 @@
   "owner_mailing": "4506 W LOPEZ DR EDINBURG, TX 78542-2027",
   "owner_name": "HINOJOSA JOSE O",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 300.68
  },
  "C9200-00-000-0028-00": {
   "checked": "2026-10-29",
@@ -5693,7 +5693,7 @@
   "total_due": 1066.36
  },
  "D3010-04-000-0108-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5701,8 +5701,8 @@
   "owner_mailing": "7911 JAM SQUARE N EDINBURG, TX 78542-6870",
   "owner_name": "CANTU SERGIO & LONNY JOANNE REYES",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1359.6
  },
  "D3800-06-000-0043-00": {
   "checked": "2026-10-31",
@@ -6378,16 +6378,16 @@
   "total_due": 51296.28
  },
  "E2930-00-000-0100-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "1312 GEARHART DR ALAMO, TX 78516",
-  "owner_name": "STANLEY ROBERT GARLAND & AALIYAH MARIE D",
+  "owner_mailing": "3413 MAURICIO AVE EDINBURG, TX 78542",
+  "owner_name": "GOMEZ DANIEL & CLAUDIA JOHANA GALVAN",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1104.84
  },
  "E3000-00-000-0037-00": {
   "checked": "2026-10-30",
@@ -6983,16 +6983,16 @@
   "total_due": 1529.44
  },
  "E4254-00-000-0076-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "7721 IRMA ST EDINBURG, TX 78542-4194",
-  "owner_name": "GARZA PATRICIA GABRIELA",
+  "owner_mailing": "201 E LEE ST PHARR, TX 78577",
+  "owner_name": "MONTALVO JAIME E GUERRERO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 997.76
  },
  "E4254-00-000-0134-00": {
   "checked": "2026-10-30",
@@ -8445,7 +8445,7 @@
   "total_due": 8589.3
  },
  "F4683-00-000-0001-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8453,8 +8453,8 @@
   "owner_mailing": "C/O PILOT TRAVEL CENTERES STORE NO 727 PO BOX 54470 LEXINGTON, KY 40555-4470",
   "owner_name": "PILOT TRAVEL CENTERS LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 90371.6
  },
  "F5250-00-001-0013-00": {
   "checked": "2026-10-30",
@@ -9731,16 +9731,16 @@
   "total_due": 5180.11
  },
  "H0418-00-000-0063-00": {
-  "checked": "2026-10-26",
-  "exemptions": "None",
+  "checked": "2026-11-02",
+  "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "2406 OLMITOS AVE SAN JUAN, TX 78589",
   "owner_name": "SALAS CARLOS NAVARRO & KARINA CHAVEZ",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1691.83
  },
  "H0419-00-000-0002-00": {
   "checked": "2026-10-31",
@@ -13353,16 +13353,16 @@
   "total_due": 1443.92
  },
  "L3205-00-000-0033-00": {
-  "checked": "2026-10-26",
-  "exemptions": "",
-  "found": false,
+  "checked": "2026-11-02",
+  "exemptions": "None",
+  "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "",
-  "owner_name": "",
+  "owner_mailing": "1820 CORTEZ DR ALAMO, TX 78516",
+  "owner_name": "BARRIENTOS NOHEMI & MAURICIO DANIEL",
   "prior_year_due": 0.0,
-  "status": "not_found",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1735.48
  },
  "L3205-00-000-0049-00": {
   "checked": "2026-10-31",
@@ -13873,7 +13873,7 @@
   "total_due": 7265.55
  },
  "L5025-00-000-0141-07": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13881,8 +13881,8 @@
   "owner_mailing": "PO BOX 903 PROGRESO, TX 78579-0903",
   "owner_name": "CASARES JUAN GERARDO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 13.13
  },
  "L5040-00-000-3019-00": {
   "checked": "2026-10-31",
@@ -14171,7 +14171,7 @@
   "total_due": 23978.73
  },
  "L5845-00-000-0150-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14179,8 +14179,8 @@
   "owner_mailing": "803 S 9TH AVE EDINBURG, TX 78539",
   "owner_name": "AZUA DAVID PALACIOS",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1181.37
  },
  "L5860-00-000-0007-00": {
   "checked": "2026-10-30",
@@ -16094,7 +16094,7 @@
   "total_due": 0.0
  },
  "M4011-04-000-0039-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16102,8 +16102,8 @@
   "owner_mailing": "229 PIGEON BERRY PASS BUDA, TX 78610-2057",
   "owner_name": "PEREZ LOGISTICS SOLUTIONS LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 6299.78
  },
  "M4173-03-000-0218-00": {
   "checked": "2026-10-31",
@@ -18238,7 +18238,7 @@
   "total_due": 6187.16
  },
  "O2700-04-000-0035-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18246,8 +18246,8 @@
   "owner_mailing": "3001 SYCAMORE AVE MCALLEN, TX 78501-6671",
   "owner_name": "DE LA ROSA OLGA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2121.22
  },
  "O2700-04-000-0036-00": {
   "checked": "2026-10-28",
@@ -20148,16 +20148,16 @@
   "total_due": 2550.3
  },
  "P8110-00-000-0060-00": {
-  "checked": "2026-10-26",
-  "exemptions": "OVER 65\nHOMESTEAD",
+  "checked": "2026-11-02",
+  "exemptions": "None",
   "found": true,
-  "homestead": true,
+  "homestead": false,
   "lawsuits": [],
   "owner_mailing": "821 CEDAR ST SW ISANTI, MN 55040-7225",
   "owner_name": "LEWIS LORETTA L",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 5116.91
  },
  "P8115-02-000-0086-00": {
   "checked": "2026-10-30",
@@ -20332,16 +20332,16 @@
   "total_due": 6267.91
  },
  "P9110-01-000-0015-00": {
-  "checked": "2026-10-26",
-  "exemptions": "",
-  "found": false,
+  "checked": "2026-11-02",
+  "exemptions": "None",
+  "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "",
-  "owner_name": "",
+  "owner_mailing": "1706 JOSE ST W WESLACO, TX 78596",
+  "owner_name": "GONZALEZ NANCY CARINA & REYKEL PLASENCIA",
   "prior_year_due": 0.0,
-  "status": "not_found",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 563.12
  },
  "P9276-02-000-0154-00": {
   "checked": "2026-10-29",
@@ -20474,16 +20474,16 @@
   "total_due": 1033.17
  },
  "P9288-00-000-0088-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "PO BOX 1675 PHARR, TX 78577",
-  "owner_name": "PUENTE DEL SUR LTD",
+  "owner_mailing": "309 LILLY DR SAN JUAN, TX 78589",
+  "owner_name": "CASTAN KARLA IVONNE CASTAN",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 990.5
  },
  "P9288-00-000-0119-00": {
   "checked": "2026-10-30",
@@ -20570,7 +20570,7 @@
   "total_due": 2191.4
  },
  "P9540-00-000-0113-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20578,8 +20578,8 @@
   "owner_mailing": "3907 TORO AVE WESLACO, TX 78599",
   "owner_name": "MATA JOSE MANUEL & BRITTANY MICHELLE CON",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1268.18
  },
  "P9550-00-000-0002-00": {
   "checked": "2026-10-29",
@@ -21044,7 +21044,7 @@
   "total_due": 7951.16
  },
  "R1150-95-000-0012-01": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21052,8 +21052,8 @@
   "owner_mailing": "6108 BARREDA CIR EDINBURG, TX 78542-7171",
   "owner_name": "PONCE MARGARITO JR & SANDRA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 294.63
  },
  "R1155-00-000-0035-00": {
   "checked": "2026-10-30",
@@ -21486,16 +21486,16 @@
   "total_due": 2021.49
  },
  "R3146-03-000-0042-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "PO BOX 2604 EDINBURG, TX 78540-2604",
-  "owner_name": "RIO RICO DEVELOPERS LLC",
+  "owner_mailing": "400 S 25TH ST HIDALGO, TX 78557",
+  "owner_name": "GUERRERO ROBERTO RAMON",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1227.07
  },
  "R3200-03-142-0016-00": {
   "checked": "2026-10-30",
@@ -21942,7 +21942,7 @@
   "total_due": 2945.2
  },
  "R5610-00-001-0010-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21950,8 +21950,8 @@
   "owner_mailing": "913 DIEGO ST MERCEDES, TX 78570-2251",
   "owner_name": "SOTO MARTIN & CLAUDIA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1210.43
  },
  "R5610-00-001-0016-00": {
   "checked": "2026-10-31",
@@ -21978,7 +21978,7 @@
   "total_due": 1103.3
  },
  "S0017-02-000-0121-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21986,8 +21986,8 @@
   "owner_mailing": "2905 PROVIDENCE AVE MCALLEN, TX 78504-5490",
   "owner_name": "CHAPA JUAN & AISSA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2435.58
  },
  "S0040-01-000-0005-00": {
   "checked": "2026-10-29",
@@ -22730,7 +22730,7 @@
   "total_due": 3049.05
  },
  "S1753-04-00B-0167-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22738,8 +22738,8 @@
   "owner_mailing": "13235 MILE 1 1/2 W MERCEDES, TX 78570-4900",
   "owner_name": "DE LA CRUZ ADAN JR",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 3841.59
  },
  "S1753-04-00B-0175-00": {
   "checked": "2026-10-30",
@@ -24084,7 +24084,7 @@
   "total_due": 2938.2
  },
  "S4255-00-000-0002-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -24092,8 +24092,8 @@
   "owner_mailing": "PO BOX 808 DONNA, TX 78537-0808",
   "owner_name": "FLORES PIEDAD",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2200.29
  },
  "S4255-00-000-0028-00": {
   "checked": "2026-10-29",
@@ -24349,7 +24349,7 @@
   "total_due": 26485.35
  },
  "S5255-02-000-0002-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26629,7 +26629,7 @@
   "total_due": 13935.54
  },
  "T6863-01-000-0002-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26637,8 +26637,8 @@
   "owner_mailing": "1011 WESTWAY AVE MCALLEN, TX 78501",
   "owner_name": "OLIVARES EFREN CARLOS & KARLA ALEJANDRA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2123.89
  },
  "T6863-02-000-0064-00": {
   "checked": "2026-10-30",
@@ -27513,7 +27513,7 @@
   "total_due": 1241.9
  },
  "V2660-05-000-0118-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27521,8 +27521,8 @@
   "owner_mailing": "5808 BARBARA ST MERCEDES, TX 78570",
   "owner_name": "GUARDIOLA MARICELA BERMUDEZ & JUAN ALBER",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1161.43
  },
  "V2770-02-000-010A-00": {
   "checked": "2026-10-29",
@@ -27655,7 +27655,7 @@
   "total_due": 4649.55
  },
  "V3320-97-000-0163-01": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -27663,8 +27663,8 @@
   "owner_mailing": "602 N VICTORIA RD LOT 163 DONNA, TX 78537",
   "owner_name": "LEVERENZ MARILYN",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 386.09
  },
  "V3425-00-000-0030-00": {
   "checked": "2026-10-31",
@@ -27831,7 +27831,7 @@
   "total_due": 11954.78
  },
  "V3580-00-000-0009-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27839,8 +27839,8 @@
   "owner_mailing": "1109 SUNDANCE DR EDINBURG, TX 78542-8310",
   "owner_name": "GUAJARDO RAYMUNDO & GRACIELA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 475.8
  },
  "V3580-00-000-0012-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $53,378 \r\nLand Value: $50,400 \r\nImprovement Value: $2,978 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -28035,7 +28035,7 @@
   "total_due": 11566.78
  },
  "V3700-01-008-0008-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28043,8 +28043,8 @@
   "owner_mailing": "3921 TIERRA ESCONDIDA WESLACO, TX 78596-8577",
   "owner_name": "DE LEON JOSE & ELODIA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 261.04
  },
  "V3700-01-009-0007-00": {
   "checked": "2026-10-29",
@@ -28463,16 +28463,16 @@
   "total_due": 8177.53
  },
  "W0100-00-026-0011-00": {
-  "checked": "2026-10-26",
-  "exemptions": "None",
+  "checked": "2026-11-02",
+  "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "2602 N BRYAN RD MISSION, TX 78574-3553",
-  "owner_name": "J.S KAWAMOTO LLC",
+  "owner_name": "J.S. KAWAMOTO LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 5759.75
  },
  "W0100-00-030-0004-09": {
   "checked": "2026-10-29",
@@ -29477,7 +29477,7 @@
   "total_due": 2777.8
  },
  "W7400-00-015-0013-00": {
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29485,8 +29485,8 @@
   "owner_mailing": "1602 PEREZ RD PALMVIEW, TX 78572-2389",
   "owner_name": "ALVAREZ PEDRO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 572.01
  },
  "W7400-00-11B-0002-00": {
   "checked": "2026-10-30",

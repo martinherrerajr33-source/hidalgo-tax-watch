@@ -16366,7 +16366,7 @@
    "O4510-00-000-0080-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331630656": {
   "candidates": [],
@@ -16383,7 +16383,7 @@
    "O5400-00-002-0012-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331630659": {
   "candidates": [],
@@ -16446,7 +16446,7 @@
    "C9382-00-000-0000-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331631118": {
   "candidates": [
@@ -16457,7 +16457,7 @@
    "M5500-00-097-0014-05"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331631120": {
   "candidates": [],
@@ -16557,7 +16557,7 @@
    "L6225-03-000-0135-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331641146": {
   "candidates": [],
@@ -16607,7 +16607,7 @@
  "clerk:331642729": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331643177": {
   "candidates": [],
@@ -16630,7 +16630,7 @@
  "clerk:331643573": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331643819": {
   "candidates": [
@@ -16641,7 +16641,7 @@
    "T5340-00-000-0156-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "clerk:331643831": {
   "candidates": [],
@@ -46680,7 +46680,7 @@
    "G5770-01-000-0034-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096508": {
   "candidates": [
@@ -46690,12 +46690,12 @@
    "L0250-00-059-0003-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096535": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096860": {
   "candidates": [
@@ -46706,17 +46706,17 @@
    "S5308-00-000-0055-00"
   ],
   "confidence": "low",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096911": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096973": {
   "candidates": [],
   "confidence": "none",
-  "tried": "2026-10-19"
+  "tried": "2026-11-02"
  },
  "court:5096986": {
   "candidates": [
