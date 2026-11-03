@@ -2412,7 +2412,7 @@
   "total_due": 1445.61
  },
  "B3810-00-000-0013-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2420,8 +2420,8 @@
   "owner_mailing": "2705 S GOODWIN RD PALMVIEW, TX 78572",
   "owner_name": "RAMOS ROGELIO & SILVIA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1773.93
  },
  "B3960-01-000-0011-00": {
   "checked": "2026-10-31",
@@ -5489,7 +5489,7 @@
   "total_due": 28.24
  },
  "D1750-00-000-0008-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5497,8 +5497,8 @@
   "owner_mailing": "PO BOX 1675 ELSA, TX 78543-1675",
   "owner_name": "RODRIGUEZ JOSE L & MARGARITA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 925.38
  },
  "D1930-00-000-0003-00": {
   "checked": "2026-10-30",
@@ -7461,16 +7461,16 @@
   "total_due": 0.0
  },
  "E6250-01-000-0006-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "5701 DAVIS LN MISSION, TX 78574-2925",
   "owner_name": "REYES ARNULFO & ANITA",
-  "prior_year_due": 4686.46,
+  "prior_year_due": 7095.98,
   "status": "delinquent",
-  "total_due": 7042.79
+  "total_due": 8738.27
  },
  "E6270-00-000-0038-00": {
   "checked": "2026-10-31",
@@ -8773,7 +8773,7 @@
   "total_due": 14738.49
  },
  "G0800-00-012-0022-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8781,8 +8781,8 @@
   "owner_mailing": "625 N VERMONT AVE MERCEDES, TX 78570-2229",
   "owner_name": "MARTINEZ JOSE MARIA JR",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 372.37
  },
  "G0800-00-018-0006-00": {
   "checked": "2026-10-31",
@@ -10446,7 +10446,7 @@
   "total_due": 9131.86
  },
  "H2840-00-000-0172-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10454,8 +10454,8 @@
   "owner_mailing": "2240 LLANO GRANDE LN EDINBURG, TX 78542-2638",
   "owner_name": "BOCANEGRA JOSE S & ZEFERINA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 559.91
  },
  "H2840-00-000-0185-00": {
   "checked": "2026-10-29",
@@ -11232,16 +11232,16 @@
   "total_due": 1445.0
  },
  "J3325-00-000-0036-00": {
-  "checked": "2026-10-27",
-  "exemptions": "None",
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "8904 N 9TH MCALLEN, TX 78504-4696",
   "owner_name": "WALDO HOMES LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2049.79
  },
  "J3325-00-000-0081-00": {
   "checked": "2026-10-29",
@@ -12739,16 +12739,16 @@
   "total_due": 0.0
  },
  "L2450-02-000-0013-00": {
-  "checked": "2026-10-27",
-  "exemptions": "OVER 65\nHOMESTEAD",
+  "checked": "2026-11-03",
+  "exemptions": "None",
   "found": true,
-  "homestead": true,
+  "homestead": false,
   "lawsuits": [],
-  "owner_mailing": "3021 LAURIE LN EDINBURG, TX 78539-7716",
-  "owner_name": "SHAH RAMESH C & BERNADETTE",
+  "owner_mailing": "3021 LAURIE LN EDINBURG, TX 78539",
+  "owner_name": "GOWARTY JASMINE LIZETTE & MEDARDO PEREZ",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 12274.0
  },
  "L2490-01-002-0008-10": {
   "checked": "2026-10-30",
@@ -13391,7 +13391,7 @@
   "total_due": 14748.38
  },
  "L3300-00-000-0054-01": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "HOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -13399,8 +13399,8 @@
   "owner_mailing": "7812 S GONZALEZ ST PHARR, TX 78577-9245",
   "owner_name": "STREAM HEIDI LYNN & BRIAN EDWARD",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2275.9
  },
  "L3340-00-000-0043-00": {
   "checked": "2026-10-30",
@@ -17684,7 +17684,7 @@
   "total_due": 37420.37
  },
  "N4847-02-000-0045-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20110,7 +20110,7 @@
   "total_due": 13485.25
  },
  "P8060-06-000-0069-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20118,8 +20118,8 @@
   "owner_mailing": "3501 GERANIUM AVE MCALLEN, TX 78501-3392",
   "owner_name": "KISSI OSCAR R",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2593.83
  },
  "P8060-07-000-0006-00": {
   "checked": "2026-10-30",
@@ -24491,7 +24491,7 @@
   "total_due": 20097.39
  },
  "S5447-00-000-0229-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -24499,8 +24499,8 @@
   "owner_mailing": "2012 PAGE AVE WESLACO, TX 78596-9530",
   "owner_name": "HERNANDEZ HOMERO G & AMAIRANI S GARZA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 3851.8
  },
  "S5451-02-000-0093-00": {
   "checked": "2026-10-30",
@@ -25319,7 +25319,7 @@
   "total_due": 10192.94
  },
  "T2100-00-239-0004-15": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25327,8 +25327,8 @@
   "owner_mailing": "3306 N JACKSON RD EDINBURG, TX 78541-7986",
   "owner_name": "OZUNA FRANCISCO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2118.03
  },
  "T2100-00-239-0011-48": {
   "checked": "2026-10-30",
@@ -25641,7 +25641,7 @@
   "total_due": 223.84
  },
  "T2662-01-000-0031-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25649,8 +25649,8 @@
   "owner_mailing": "4800 OLD LA BLANCA RD DONNA, TX 78537-8177",
   "owner_name": "CRUZ GUADALUPE & MARTHA A",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1707.16
  },
  "T2662-02-000-0046-00": {
   "checked": "2026-10-29",
@@ -25867,7 +25867,7 @@
   "total_due": 6644.76
  },
  "T4040-02-000-0040-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25875,8 +25875,8 @@
   "owner_mailing": "4217 WHITEWING AVE MCALLEN, TX 78501-3456",
   "owner_name": "MARTINEZ GABRIEL",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 3330.07
  },
  "T4040-03-000-0058-00": {
   "checked": "2026-10-30",
@@ -26169,7 +26169,7 @@
   "total_due": 15608.35
  },
  "T5370-00-002-0028-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26177,8 +26177,8 @@
   "owner_mailing": "2624 ARIEL DR PALMVIEW, TX 78572-2058",
   "owner_name": "RODRIGUEZ TEODOMIRO & MARGARITA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 361.04
  },
  "T5380-00-000-0005-00": {
   "checked": "2026-10-29",
@@ -26920,7 +26920,7 @@
   "total_due": 16191.01
  },
  "U1050-00-000-0013-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26928,8 +26928,8 @@
   "owner_mailing": "1507 LARKSPUR AVE MCALLEN, TX 78501-3854",
   "owner_name": "AMILI REAL ESTATE SERVICES LLC",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 11069.38
  },
  "U3000-01-000-0023-00": {
   "checked": "2026-10-31",
@@ -28297,7 +28297,7 @@
   "total_due": 2028.37
  },
  "V4340-03-000-0019-00": {
-  "checked": "2026-10-27",
+  "checked": "2026-11-03",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28305,8 +28305,8 @@
   "owner_mailing": "5316 DAISY AVE EDINBURG, TX 78542-7337",
   "owner_name": "VASQUEZ DANIEL ENRIQUE",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 995.81
  },
  "V4340-08-000-0047-00": {
   "checked": "2026-10-29",
