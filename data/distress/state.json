@@ -2,33 +2,299 @@
  "clerk": {
   "canary": {
    "department": "RP",
-   "end": "2026-10-26",
-   "keyword": "lien",
-   "start": "2026-10-26"
+   "end": "2026-10-30",
+   "keyword": "trustee",
+   "start": "2026-10-30"
   },
-  "certified_through": "2026-10-26",
+  "certified_through": "2026-10-30",
   "done_through": {
-   "bankruptcy": "2026-10-26",
-   "divorce": "2026-10-26",
-   "foreclosure": "2026-10-26",
-   "heirship": "2026-10-26",
-   "judgement": "2026-10-26",
-   "judgment": "2026-10-26",
-   "lien": "2026-10-26",
-   "pendens": "2026-10-26",
-   "probate": "2026-10-26",
-   "testament": "2026-10-26",
-   "trustee": "2026-10-26",
-   "will": "2026-10-26"
+   "bankruptcy": "2026-10-30",
+   "divorce": "2026-10-30",
+   "foreclosure": "2026-10-30",
+   "heirship": "2026-10-30",
+   "judgement": "2026-10-30",
+   "judgment": "2026-10-30",
+   "lien": "2026-10-30",
+   "pendens": "2026-10-30",
+   "probate": "2026-10-30",
+   "testament": "2026-10-30",
+   "trustee": "2026-10-30",
+   "will": "2026-10-30"
   },
-  "last_debug": [],
-  "last_run": "2026-11-03T17:55:05.692239+00:00",
-  "last_searches": 0,
+  "last_debug": [
+   {
+    "at": "2026-11-03T22:03:20+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "bankruptcy 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-11-03T22:03:47+00:00",
+    "rejected": "",
+    "rows": 102,
+    "search": "lien 10/26/2026-10/26/2026",
+    "timedOut": false,
+    "total": 102,
+    "types": {
+     "ASGMT OF LIEN": 8,
+     "EXTENSN OF LIEN": 3,
+     "LIEN NOTICE": 31,
+     "MECHANICS LIEN NOTE": 6,
+     "P/REL OF LIEN": 13,
+     "REL LIEN CLAIM": 3,
+     "RELEASE OF LIEN": 28,
+     "STATE TAX LIEN": 3,
+     "TRANSFER OF LIEN": 7
+    }
+   },
+   {
+    "at": "2026-11-03T22:03:59+00:00",
+    "rejected": "",
+    "rows": 3,
+    "search": "divorce 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 3,
+    "types": {
+     "C C DIVORCE": 3
+    }
+   },
+   {
+    "at": "2026-11-03T22:04:23+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "foreclosure 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-11-03T22:04:37+00:00",
+    "rejected": "",
+    "rows": 24,
+    "search": "heirship 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 24,
+    "types": {
+     "AFFIDVT HEIRSHIP": 24
+    }
+   },
+   {
+    "at": "2026-11-03T22:04:58+00:00",
+    "rejected": "",
+    "rows": 10,
+    "search": "judgement 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 10,
+    "types": {
+     "JUDGEMENT": 2,
+     "REL OF JUDGEMENT": 8
+    }
+   },
+   {
+    "at": "2026-11-03T22:05:23+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "judgment 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-11-03T22:05:47+00:00",
+    "rejected": "",
+    "rows": 10,
+    "search": "judgement 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 10,
+    "types": {
+     "JUDGEMENT": 2,
+     "REL OF JUDGEMENT": 8
+    }
+   },
+   {
+    "at": "2026-11-03T22:06:24+00:00",
+    "rejected": "",
+    "rows": 196,
+    "search": "lien 10/27/2026-10/27/2026",
+    "timedOut": false,
+    "total": 196,
+    "types": {
+     "ASGMT OF LIEN": 11,
+     "EXTENSN OF LIEN": 2,
+     "HOSPITAL LIEN": 16,
+     "LIEN NOTICE": 1,
+     "MECHANICS LIEN NOTE": 1,
+     "NOTICE OF LIEN": 3,
+     "P/REL LIEN CLAIM": 25,
+     "P/REL OF LIEN": 23,
+     "REL LIEN CLAIM": 35,
+     "RELEASE OF LIEN": 65,
+     "TRANSFER OF LIEN": 14
+    }
+   },
+   {
+    "at": "2026-11-03T22:06:29+00:00",
+    "rejected": "",
+    "rows": 6,
+    "search": "pendens 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 6,
+    "types": {
+     "LIS PENDENS": 6
+    }
+   },
+   {
+    "at": "2026-11-03T22:06:53+00:00",
+    "rejected": "",
+    "rows": 3,
+    "search": "probate 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 3,
+    "types": {
+     "C C PROBATE": 3
+    }
+   },
+   {
+    "at": "2026-11-03T22:07:09+00:00",
+    "rejected": "",
+    "rows": 0,
+    "search": "testament 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 0,
+    "types": {}
+   },
+   {
+    "at": "2026-11-03T22:07:31+00:00",
+    "rejected": "",
+    "rows": 46,
+    "search": "trustee 10/27/2026-10/29/2026",
+    "timedOut": false,
+    "total": 46,
+    "types": {
+     "APPOINT SUB TTEE": 2,
+     "ASGMT OF LIEN": 7,
+     "CERTIFICATE": 2,
+     "CORRECTION": 4,
+     "DEED": 1,
+     "DEED OF TRUST": 5,
+     "HMSTD/NON-HMSTD": 1,
+     "MECHANICS LIEN NOTE": 1,
+     "MODIFICATION": 1,
+     "RELEASE OF LIEN": 2,
+     "TRANSFER OF LIEN": 1,
+     "TRUST AGREEMENT": 2,
+     "TRUSTEES DEED": 4,
+     "WARRANTY DEED": 13
+    }
+   },
+   {
+    "at": "2026-11-03T22:07:50+00:00",
+    "rejected": "",
+    "rows": 22,
+    "search": "will 10/27/2026-10/30/2026",
+    "timedOut": false,
+    "total": 22,
+    "types": {
+     "AFFIDVT HEIRSHIP": 4,
+     "ASGMT OF LIEN": 3,
+     "ASSUMED NAME": 1,
+     "C C DIVORCE": 1,
+     "CORRECTION": 1,
+     "DEED OF TRUST": 2,
+     "FINANCING STMT": 1,
+     "RELEASE OF LIEN": 3,
+     "WARRANTY DEED": 5,
+     "WILL": 1
+    }
+   },
+   {
+    "at": "2026-11-03T22:08:18+00:00",
+    "rejected": "",
+    "rows": 99,
+    "search": "lien 10/28/2026-10/28/2026",
+    "timedOut": false,
+    "total": 99,
+    "types": {
+     "ASGMT OF LIEN": 6,
+     "HOSPITAL LIEN": 28,
+     "LIEN NOTICE": 1,
+     "MECHANICS LIEN NOTE": 7,
+     "NOTICE OF LIEN": 4,
+     "P/REL LIEN CLAIM": 5,
+     "P/REL OF LIEN": 3,
+     "REL FED TAX LIEN": 5,
+     "REL LIEN CLAIM": 9,
+     "RELEASE OF LIEN": 25,
+     "TRANSFER OF LIEN": 5,
+     "TRANSFER TX LIEN": 1
+    }
+   },
+   {
+    "at": "2026-11-03T22:08:54+00:00",
+    "rejected": "",
+    "rows": 158,
+    "search": "lien 10/29/2026-10/29/2026",
+    "timedOut": false,
+    "total": 158,
+    "types": {
+     "ASGMT OF LIEN": 4,
+     "EXTENSN OF LIEN": 1,
+     "LIEN NOTICE": 43,
+     "MECHANICS LIEN NOTE": 1,
+     "P/REL OF LIEN": 12,
+     "REL LIEN CLAIM": 37,
+     "REL STATE TAX LIEN": 7,
+     "RELEASE OF LIEN": 24,
+     "STATE TAX LIEN": 15,
+     "TRANSFER OF LIEN": 14
+    }
+   },
+   {
+    "at": "2026-11-03T22:09:04+00:00",
+    "rejected": "",
+    "rows": 74,
+    "search": "lien 10/30/2026-10/30/2026",
+    "timedOut": false,
+    "total": 74,
+    "types": {
+     "ASGMT OF LIEN": 7,
+     "EXTENSN OF LIEN": 2,
+     "LIEN NOTICE": 2,
+     "MECHANICS LIEN NOTE": 2,
+     "P/REL OF LIEN": 7,
+     "REL LIEN CLAIM": 2,
+     "REL STATE TAX LIEN": 1,
+     "RELEASE OF LIEN": 36,
+     "STATE TAX LIEN": 4,
+     "TRANSFER OF LIEN": 11
+    }
+   },
+   {
+    "at": "2026-11-03T22:09:21+00:00",
+    "rejected": "",
+    "rows": 7,
+    "search": "trustee 10/30/2026-10/30/2026",
+    "timedOut": false,
+    "total": 7,
+    "types": {
+     "CERTIFICATE": 1,
+     "CORRECTION": 1,
+     "EASEMENT": 1,
+     "RELEASE OF LIEN": 2,
+     "WARRANTY DEED": 2
+    }
+   }
+  ],
+  "last_run": "2026-11-03T22:18:22.039076+00:00",
+  "last_searches": 18,
   "last_status": "ok"
  },
  "court": {
   "last_error": "Traceback (most recent call last):\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 742, in main\n    run_court(args.full_taxsuits)\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/run_distress.py\", line 251, in run_court\n    found = fetch_open_tax_suits(client, date(2000, 1, 1), TODAY, window_days=92, log=log)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 318, in fetch_open_tax_suits\n    rows = client.business_party_search(\"HIDALGO COUNTY\", a, b, status=\"open\")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 278, in business_party_search\n    page = self._search({\n           ^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 255, in _search\n    form_page = self._req(\"GET\", f\"{BASE}/Search.aspx?ID=200\").text\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 239, in _req\n    raise last\n  File \"/home/runner/work/hidalgo-tax-watch/hidalgo-tax-watch/distress/court.py\", line 230, in _req\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py\", line 1167, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 405 Client Error: Method Not Allowed for url: https://pa.co.hidalgo.tx.us/Search.aspx?ID=200\n",
-  "last_error_at": "2026-11-03T17:55:01.562743+00:00",
+  "last_error_at": "2026-11-03T22:03:12.549223+00:00",
   "last_run": "2026-10-28T21:31:50.623934+00:00",
   "taxsuits_full_walk": "2026-10-22"
  }

@@ -1146,6 +1146,18 @@
   "status": "current_due",
   "total_due": 1658.04
  },
+ "A3500-00-004-0011-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "304 N DALLAS ST ALTON, TX 78573-3904",
+  "owner_name": "ARJONA ZEFERINO & MARIA V",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 528.15
+ },
  "A3710-01-000-0047-00": {
   "checked": "2026-10-30",
   "exemptions": "HOMESTEAD",
@@ -1571,6 +1583,18 @@
   "status": "delinquent",
   "total_due": 11443.52
  },
+ "B0100-00-003-0002-00": {
+  "checked": "2026-11-03",
+  "exemptions": "HOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "1203 E ALAN ST PHARR, TX 78577-2715",
+  "owner_name": "FLORES IVAN",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1271.5
+ },
  "B0300-00-004-0001-00": {
   "checked": "2026-10-28",
   "exemptions": "None",
@@ -1781,6 +1805,18 @@
   "status": "delinquent",
   "total_due": 7510.1
  },
+ "B0950-00-000-0000-10": {
+  "checked": "2026-11-03",
+  "exemptions": "PRORATED-EXXV",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "C/O E J CONDELARIA PO BOX 1306 ALBUQUERQUE, NM 87103-1306",
+  "owner_name": "U S A FOR LOWER RGV NAT'L",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "B1500-00-000-0000-30": {
   "checked": "2026-10-30",
   "exemptions": "None",
@@ -1902,6 +1938,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 7363.27
+ },
+ "B1900-16-000-0036-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "6311 ALLIJANT EDINBURG, TX 78542",
+  "owner_name": "MORIN GLORIA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1503.21
  },
  "B1900-18-000-0005-00": {
   "checked": "2026-10-30",
@@ -3115,6 +3163,18 @@
   "status": "current_due",
   "total_due": 1084.69
  },
+ "C0300-00-197-0020-00": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "216 E SAENZ ST PHARR, TX 78577-1853",
+  "owner_name": "SALAZAR ROSA M ET AL",
+  "prior_year_due": 1767.74,
+  "status": "delinquent",
+  "total_due": 3931.9
+ },
  "C0348-00-000-0072-00": {
   "checked": "2026-10-30",
   "exemptions": "None",
@@ -3399,6 +3459,18 @@
   "status": "current_due",
   "total_due": 11275.99
  },
+ "C1400-00-030-0013-02": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD\nVETERAN",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "VENANCIO RODARTE JR 1914 MILE 4 N MERCEDES, TX 78570-4589",
+  "owner_name": "RODARTE VENANCIO SR & MARIA M",
+  "prior_year_due": 0.0,
+  "status": "paid_up",
+  "total_due": 0.0
+ },
  "C1400-00-032-0009-00": {
   "checked": "2026-10-30",
   "exemptions": "NHS CAP LOSS",
@@ -3600,6 +3672,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1848.14
+ },
+ "C1622-00-000-0017-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "BELINDA MORALES PO BOX 3988 EDINBURG, TX 78540-3988",
+  "owner_name": "QUINTANILLA ROBERTO",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 568.09
  },
  "C1622-00-000-0028-00": {
   "checked": "2026-10-29",
@@ -4333,6 +4417,18 @@
   "status": "delinquent",
   "total_due": 7510.89
  },
+ "C5353-00-000-0034-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "2705 WESTWARD TRL PHARR, TX 78577-7226",
+  "owner_name": "ROCHA GUADALUPE",
+  "prior_year_due": 28323.01,
+  "status": "delinquent",
+  "total_due": 28678.43
+ },
  "C5354-95-003-0014-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -4586,6 +4682,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 608.76
+ },
+ "C6870-00-000-0052-00": {
+  "checked": "2026-11-03",
+  "exemptions": "DEFERRAL",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "3033 E VALLEY BLVD SPC 17 WEST COVINA, CA 91792",
+  "owner_name": "PAZ ALFREDO",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 2604.31
  },
  "C6900-00-004-0001-00": {
   "checked": "2026-10-29",
@@ -4886,6 +4994,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1859.35
+ },
+ "C7550-00-001-0003-00": {
+  "checked": "2026-11-03",
+  "exemptions": "HOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "809 W JUAREZ PHARR, TX 78577-3647",
+  "owner_name": "RAMIREZ JOSE M & SANDRA L",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1116.8
  },
  "C7650-00-002-0024-00": {
   "checked": "2026-10-29",
@@ -5551,6 +5671,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 955.36
+ },
+ "D2400-00-000-0004-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 434 SAN JUAN, TX 78589-0434",
+  "owner_name": "SOLIS JESUS JOEL & CARMEN",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1033.51
  },
  "D2600-00-000-0015-00": {
   "checked": "2026-10-31",
@@ -6906,6 +7038,18 @@
   "status": "delinquent",
   "total_due": 21671.52
  },
+ "E3345-21-000-0018-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1513 KAREN DR APT 2 ALTON, TX 78573",
+  "owner_name": "BRAVO KASSANDRA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1088.45
+ },
  "E3345-95-000-0021-00": {
   "checked": "2026-10-30",
   "exemptions": "None",
@@ -7184,6 +7328,18 @@
   "status": "delinquent",
   "total_due": 1331.2
  },
+ "E4640-01-000-0004-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 412 GILROY, CA 95021-0412",
+  "owner_name": "VEGA RAQUEL & MICHAEL CANTU",
+  "prior_year_due": 11954.31,
+  "status": "delinquent",
+  "total_due": 12804.82
+ },
  "E4640-02-000-0005-00": {
   "checked": "2026-10-31",
   "exemptions": "HOMESTEAD",
@@ -7341,6 +7497,18 @@
   "prior_year_due": 7259.39,
   "status": "delinquent",
   "total_due": 9213.08
+ },
+ "E5370-00-000-0006-00": {
+  "checked": "2026-11-03",
+  "exemptions": "PRORATED-EXXV",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "102 DIANA ST ELSA, TX 78543",
+  "owner_name": "CITY OF ELSA ECONOMIC DEVELOPMENT CORPOR",
+  "prior_year_due": 5748.27,
+  "status": "delinquent",
+  "total_due": 5748.27
  },
  "E5400-00-008-0019-00": {
   "checked": "2026-10-29",
@@ -7772,6 +7940,18 @@
   "status": "delinquent",
   "total_due": 4683.73
  },
+ "E8000-00-113-0007-00": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2701 N MCCOLL RD TRLR A18 MCALLEN, TX 78501-5511",
+  "owner_name": "PEREZ SAUL",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1365.22
+ },
  "E8000-00-114-0014-00": {
   "checked": "2026-10-31",
   "exemptions": "NHS CAP LOSS",
@@ -8063,6 +8243,18 @@
   "prior_year_due": 6194.3,
   "status": "delinquent",
   "total_due": 16184.29
+ },
+ "F0770-00-000-0021-00": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1207 E PECAN PHARR, TX 78577-6157",
+  "owner_name": "GONZALEZ LUIS FLORES",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1236.55
  },
  "F1250-00-004-0001-00": {
   "checked": "2026-10-31",
@@ -8606,6 +8798,18 @@
   "status": "delinquent",
   "total_due": 7130.95
  },
+ "F7200-00-101-0001-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "617 W HAWK AVE PHARR, TX 78577-3763",
+  "owner_name": "TRETO MARIO A REYES & JUDITH GARCIA HERN",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1793.13
+ },
  "F7200-00-101-0005-00": {
   "checked": "2026-10-30",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
@@ -8913,6 +9117,18 @@
   "status": "delinquent",
   "total_due": 13394.1
  },
+ "G1200-14-000-0197-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "6005 N 33RD ST MCALLEN, TX 78504-5026",
+  "owner_name": "SUTTON LARRY VON",
+  "prior_year_due": 4171.7,
+  "status": "delinquent",
+  "total_due": 7684.1
+ },
  "G1210-00-000-0013-00": {
   "checked": "2026-10-30",
   "exemptions": "None",
@@ -9219,6 +9435,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "G5200-03-000-0009-00": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 766 MCALLEN, TX 78505",
+  "owner_name": "GARCIA SAM R JR",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 3691.59
+ },
  "G5200-03-000-0036-00": {
   "checked": "2026-10-30",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
@@ -9513,6 +9741,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1093.58
+ },
+ "G8400-00-000-0004-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "7713 MOULD DR PHARR, TX 78577-9458",
+  "owner_name": "TOVAR SAMUEL E",
+  "prior_year_due": 2408.33,
+  "status": "delinquent",
+  "total_due": 4299.45
  },
  "G8555-00-000-0055-00": {
   "checked": "2026-10-30",
@@ -9929,6 +10169,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1220.99
+ },
+ "H0900-00-019-0009-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "2108 CEDAR AVE MCALLEN, TX 78501-6959",
+  "owner_name": "FERNANDEZ-GARCIA ANGEL",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 425.84
  },
  "H0900-00-037-0014-02": {
   "checked": "2026-10-29",
@@ -11445,6 +11697,18 @@
   "status": "delinquent",
   "total_due": 13886.93
  },
+ "J9550-07-000-0007-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1308 E JASMINE AVE MCALLEN, TX 78501",
+  "owner_name": "LAS VILLITAS AT ELDORA LLC",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 43552.63
+ },
  "K0600-02-005-0006-00": {
   "checked": "2026-10-30",
   "exemptions": "OVER 65\nHOMESTEAD",
@@ -11496,6 +11760,20 @@
   "prior_year_due": 52738.91,
   "status": "delinquent",
   "total_due": 53904.31
+ },
+ "K2400-00-000-0073-13": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [
+   "T-0990-24-E"
+  ],
+  "owner_mailing": "PO BOX 3374 MCALLEN, TX 78502-3374",
+  "owner_name": "RIOS YOLANDA C",
+  "prior_year_due": 13857.11,
+  "status": "delinquent",
+  "total_due": 19555.35
  },
  "K2400-00-000-0112-01": {
   "checked": "2026-10-31",
@@ -11563,6 +11841,18 @@
   "status": "delinquent",
   "total_due": 9891.92
  },
+ "K2400-00-000-0236-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "8801 S STEVE LN PHARR, TX 78577-9306",
+  "owner_name": "VELEZ XOCHITL PABLOS",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 4587.19
+ },
  "K2400-00-000-0237-00": {
   "checked": "2026-10-30",
   "exemptions": "None",
@@ -11574,6 +11864,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 3722.85
+ },
+ "K2400-00-000-0252-03": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "701 N INTERNATIONAL BLVD STE 101 HIDALGO, TX 78557-2583",
+  "owner_name": "IBARRA GUILLERMO FLORES & REYNALDO GARZA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 6960.51
  },
  "K2400-00-000-0269-02": {
   "checked": "2026-10-31",
@@ -11610,6 +11912,18 @@
   "prior_year_due": 1635.72,
   "status": "delinquent",
   "total_due": 2796.12
+ },
+ "K2400-00-000-0325-17": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2406 MONTERREY ST HIDALGO, TX 78557-3579",
+  "owner_name": "ALANIZ JUAN A & PATRICIA RAMIREZ LOPEZ",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 4268.35
  },
  "K2400-00-000-0340-21": {
   "checked": "2026-10-30",
@@ -12157,6 +12471,18 @@
   "status": "current_due",
   "total_due": 1838.47
  },
+ "L1069-03-000-0071-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "2704 LIMON DR MISSION, TX 78574-3484",
+  "owner_name": "CERVANTES RITA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 786.96
+ },
  "L1069-03-000-0074-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -12335,6 +12661,18 @@
   "prior_year_due": 16873.58,
   "status": "delinquent",
   "total_due": 22257.14
+ },
+ "L1300-00-000-0078-03": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "IRMA FUENTES 4200 LARK AVE MCALLEN, TX 78504-5903",
+  "owner_name": "GUERRA REYES A JR",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1982.44
  },
  "L1300-00-000-0103-01": {
   "checked": "2026-10-30",
@@ -12648,6 +12986,20 @@
   "status": "delinquent",
   "total_due": 3021.93
  },
+ "L2121-02-000-0086-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [
+   "T-0634-23-C"
+  ],
+  "owner_mailing": "209 E UNIVERSITY DR EDINBURG, TX 78539-3547",
+  "owner_name": "MALDONADO SANTOS JR",
+  "prior_year_due": 15035.49,
+  "status": "delinquent",
+  "total_due": 17488.47
+ },
  "L2200-01-001-0016-00": {
   "checked": "2026-10-30",
   "exemptions": "HOMESTEAD",
@@ -12878,6 +13230,18 @@
   "status": "delinquent",
   "total_due": 9064.87
  },
+ "L2845-06-000-0038-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "25015 CALLE DE MONTE EDCOUCH, TX 78538",
+  "owner_name": "SANCHEZ FIDENCIO S & VERONICA RODRIGUEZ",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 3485.12
+ },
  "L2847-00-000-0056-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -12913,6 +13277,30 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1496.26
+ },
+ "L2848-00-000-0067-00": {
+  "checked": "2026-11-03",
+  "exemptions": "HOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "1014 MAGNOLIA ST MISSION, TX 78573-2852",
+  "owner_name": "WHITE DARRON WADE & LINDA LENAE",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 7798.29
+ },
+ "L2945-00-000-0054-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "2401 KIWI AVE MCALLEN, TX 78504-4287",
+  "owner_name": "VELA OSVALDO E & SYLVIA N",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1569.94
  },
  "L2950-00-004-0006-00": {
   "checked": "2026-10-30",
@@ -13141,6 +13529,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1598.12
+ },
+ "L3180-03-000-0256-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 118 EDINBURG, TX 78540-0118",
+  "owner_name": "CWL LIMITED",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1138.78
  },
  "L3180-03-000-0258-00": {
   "checked": "2026-10-30",
@@ -13922,6 +14322,18 @@
   "status": "current_due",
   "total_due": 2781.73
  },
+ "L5150-00-001-0019-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "PO BOX 954 DONNA, TX 78537-0954",
+  "owner_name": "ACEVEDO FELIPE JR & NORMA LINDA D",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 640.98
+ },
  "L5170-00-000-0014-00": {
   "checked": "2026-10-29",
   "exemptions": "OVER 65\nHOMESTEAD",
@@ -13947,6 +14359,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 3656.36
+ },
+ "L5250-00-002-0001-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1228 N CESAR CHAVEZ RD ALAMO, TX 78516-6828",
+  "owner_name": "MOLINA MARIA NOEMI",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 2317.65
  },
  "L5250-00-006-0012-00": {
   "checked": "2026-10-30",
@@ -14990,6 +15414,18 @@
   "status": "current_due",
   "total_due": 2144.86
  },
+ "M0350-00-010-0020-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "3937 PENA ST MISSION, TX 78572-1538",
+  "owner_name": "GUERRA GILBERTO",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 253.69
+ },
  "M0350-00-010-0041-00": {
   "checked": "2026-10-30",
   "exemptions": "NHS CAP LOSS",
@@ -15079,6 +15515,18 @@
   "prior_year_due": 8768.85,
   "status": "delinquent",
   "total_due": 11475.99
+ },
+ "M1035-00-000-0019-00": {
+  "checked": "2026-11-03",
+  "exemptions": "HOMESTEAD\nVETERAN",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "1736 CHRISTIAN CT WESLACO, TX 78596-8258",
+  "owner_name": "LUGO JOSE G & GRISELDA ESCALANTE",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 5831.59
  },
  "M1050-00-000-0011-00": {
   "checked": "2026-10-29",
@@ -18982,6 +19430,18 @@
   "status": "current_due",
   "total_due": 354.12
  },
+ "P3112-02-000-0026-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2212 TAXCO CT APT 4 EDINBURG, TX 78542",
+  "owner_name": "GONZALEZ OMERO",
+  "prior_year_due": 6151.43,
+  "status": "delinquent",
+  "total_due": 8914.47
+ },
  "P3112-03-000-0211-00": {
   "checked": "2026-10-30",
   "exemptions": "NHS CAP LOSS",
@@ -19434,6 +19894,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 6047.76
+ },
+ "P6400-00-006-0007-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "4432 EARLY MORN DR PLANO, TX 75093",
+  "owner_name": "LUCK GEORGEGINA GUERRA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 686.29
  },
  "P6400-00-008-0008-00": {
   "checked": "2026-10-29",
@@ -19918,6 +20390,20 @@
   "prior_year_due": 7568.45,
   "status": "delinquent",
   "total_due": 12884.42
+ },
+ "P7170-13-051-0009-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [
+   "T-0492-26-L"
+  ],
+  "owner_mailing": "ATZAVARES NO 5 P1-03 ALTAFULLA TARRAGONA, SPAIN 43893 00000",
+  "owner_name": "PICASSO CESAR",
+  "prior_year_due": 15093.07,
+  "status": "delinquent",
+  "total_due": 18583.7
  },
  "P7170-13-051-0010-00": {
   "checked": "2026-10-30",
@@ -21069,6 +21555,18 @@
   "status": "delinquent",
   "total_due": 279727.03
  },
+ "R1300-00-000-0024-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "500 N IRIS ST PHARR, TX 78577-3668",
+  "owner_name": "ESPARZA DOMINGO JR & JOSE RAMON",
+  "prior_year_due": 1011.57,
+  "status": "delinquent",
+  "total_due": 4728.05
+ },
  "R1321-01-000-0043-00": {
   "checked": "2026-10-31",
   "exemptions": "None",
@@ -22017,6 +22515,18 @@
   "status": "delinquent",
   "total_due": 8812.89
  },
+ "S0100-02-001-0009-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "118 W SALAZAR ST SAN JUAN, TX 78589-3607",
+  "owner_name": "CORTEZ REYNALDO & SAN JUANA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 543.91
+ },
  "S0152-02-000-0006-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -22092,6 +22602,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 4093.9
+ },
+ "S0353-01-000-0015-00": {
+  "checked": "2026-11-03",
+  "exemptions": "VETERAN",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "1107 CARDINAL ST ALAMO, TX 78516-9466",
+  "owner_name": "MARES YULIANA",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1823.18
  },
  "S0353-01-000-0025-00": {
   "checked": "2026-10-30",
@@ -22997,6 +23519,18 @@
   "status": "paid_up",
   "total_due": 0.0
  },
+ "S2461-00-000-0025-00": {
+  "checked": "2026-11-03",
+  "exemptions": "HOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "5303 N 47TH LN MCALLEN, TX 78504-4870",
+  "owner_name": "MEGIAS EMILIO",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 2925.96
+ },
  "S2462-01-000-0004-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -23237,6 +23771,18 @@
   "status": "current_due",
   "total_due": 734.48
  },
+ "S2950-00-00H-0000-20": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "6588 S FM 494 MISSION, TX 78572-1512",
+  "owner_name": "ANZALDUA EMILIA ROBLEDO",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1080.27
+ },
  "S2973-03-000-0090-00": {
   "checked": "2026-10-31",
   "exemptions": "None",
@@ -23326,6 +23872,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 5299.16
+ },
+ "S3090-00-000-0038-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "5702 N 3RD LN MCALLEN, TX 78504-2862",
+  "owner_name": "HERRMAN LINUS J & GLORIA G",
+  "prior_year_due": 28305.73,
+  "status": "delinquent",
+  "total_due": 32746.99
  },
  "S3090-00-000-0042-00": {
   "checked": "2026-10-29",
@@ -24333,6 +24891,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 3792.54
+ },
+ "S5100-00-001-0010-00": {
+  "checked": "2026-11-03",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "416 S 28TH ST MCALLEN, TX 78501-7604",
+  "owner_name": "TELLO ROSALVA IND EXECUTIX FOR JESUS TEL",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 2773.51
  },
  "S5250-01-46A-0001-00": {
   "checked": "2026-10-29",
@@ -25954,6 +26524,18 @@
   "status": "delinquent",
   "total_due": 4092.11
  },
+ "T4710-00-000-0003-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2914 W 34 ST WESLACO, TX 78599",
+  "owner_name": "ORTIZ MELBERTO MEL JR & MELBERTO MEL III",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 14179.72
+ },
  "T4745-02-000-0054-00": {
   "checked": "2026-10-29",
   "exemptions": "None",
@@ -26651,6 +27233,30 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1940.25
+ },
+ "T7200-00-000-0006-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "2303 S PARKWOOD HARLINGEN, TX 78550",
+  "owner_name": "ARIA ENCLAVE 1 LLC",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 15627.87
+ },
+ "T7200-00-000-0012-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "301 E PARK AVE STE 2 PHARR, TX 78577-4840",
+  "owner_name": "CVA REAL ESTATE LLC",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 5103.84
  },
  "T7353-00-000-0006-00": {
   "checked": "2026-10-31",
@@ -27728,6 +28334,18 @@
   "status": "current_due",
   "total_due": 708.9
  },
+ "V3515-00-000-0119-00": {
+  "checked": "2026-11-03",
+  "exemptions": "OVER 65\nHOMESTEAD",
+  "found": true,
+  "homestead": true,
+  "lawsuits": [],
+  "owner_mailing": "4117 GOLDENROD AVE MCALLEN, TX 78501-3441",
+  "owner_name": "PORRAS CARLOS I & RAQUEL N",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 704.0
+ },
  "V3555-00-000-0004-00": {
   "checked": "2026-10-31",
   "exemptions": "None",
@@ -27993,6 +28611,18 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 3613.29
+ },
+ "V3690-01-000-0088-00": {
+  "checked": "2026-11-03",
+  "exemptions": "None",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [],
+  "owner_mailing": "6802 VASQUEZ ST PHARR, TX 78577-9065",
+  "owner_name": "GONZALEZ EVA V SOLIS (MINOR)",
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 1588.19
  },
  "V3690-01-000-0097-00": {
   "checked": "2026-10-30",
