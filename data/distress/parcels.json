@@ -2259,6 +2259,16 @@
   "pid": "101238",
   "prop_type": "R"
  },
+ "10046-00-000-0000-22": {
+  "address": "S OF EXPWY 83",
+  "city": "",
+  "geo_id": "10046-00-000-0000-22",
+  "legal": "PORCION 46 2.0 ACRES",
+  "market_value": 34742.0,
+  "owner": "MORENO DECIDERIO",
+  "pid": "101258",
+  "prop_type": "R"
+ },
  "10046-00-000-0000-24": {
   "address": "41864 W MILITARY RD",
   "city": "",
@@ -2337,6 +2347,16 @@
   "market_value": 37565.0,
   "owner": "RODRIGUEZ ANDRES",
   "pid": "101288",
+  "prop_type": "R"
+ },
+ "10046-00-000-0000-54": {
+  "address": "11094 SAN PATRICIO PEREZ RD",
+  "city": "",
+  "geo_id": "10046-00-000-0000-54",
+  "legal": "PORCION 46 0.29 AC AT HAVANA J M TIJERINA ABST 74",
+  "market_value": 43542.0,
+  "owner": "MORENO DECIDERIO",
+  "pid": "101290",
   "prop_type": "R"
  },
  "10046-00-000-0000-57": {
@@ -4359,6 +4379,16 @@
   "pid": "1235386",
   "prop_type": "R"
  },
+ "A0116-00-000-0001-00": {
+  "address": "2801 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0001-00",
+  "legal": "A & M HEIGHTS LOT 1",
+  "market_value": 193043.0,
+  "owner": "LLANAS JOSE DE JESUS & MARIA ISABEL QUIREZ L",
+  "pid": "676724",
+  "prop_type": "R"
+ },
  "A0116-00-000-0002-00": {
   "address": "2803 CAMELIA AVE",
   "city": "",
@@ -4367,6 +4397,16 @@
   "market_value": 162140.0,
   "owner": "GUERRA MARIA",
   "pid": "676725",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0003-00": {
+  "address": "2805 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0003-00",
+  "legal": "A & M HEIGHTS LOT 3",
+  "market_value": 166872.0,
+  "owner": "AGUILAR JORGE GILBERTO",
+  "pid": "676726",
   "prop_type": "R"
  },
  "A0116-00-000-0004-00": {
@@ -4379,6 +4419,116 @@
   "pid": "676727",
   "prop_type": "R"
  },
+ "A0116-00-000-0005-00": {
+  "address": "2809 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0005-00",
+  "legal": "A & M HEIGHTS LOT 5",
+  "market_value": 167250.0,
+  "owner": "GARZA ROSALINDA",
+  "pid": "676728",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0006-00": {
+  "address": "2811 E CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0006-00",
+  "legal": "A & M HEIGHTS LOT 6",
+  "market_value": 158662.0,
+  "owner": "LANDIN MARIA ESTHER TRUSTEE OF THE",
+  "pid": "676729",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0007-00": {
+  "address": "2813 CAMELIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0007-00",
+  "legal": "A & M HEIGHTS LOT 7",
+  "market_value": 180622.0,
+  "owner": "GOMEZ JULIO C",
+  "pid": "676730",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0008-00": {
+  "address": "2815 CAMELIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0008-00",
+  "legal": "A & M HEIGHTS LOT 8",
+  "market_value": 213669.0,
+  "owner": "ESTRADA MARIA ALICIA",
+  "pid": "676731",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0009-00": {
+  "address": "2901 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0009-00",
+  "legal": "A & M HEIGHTS LOT 9",
+  "market_value": 172124.0,
+  "owner": "CANTU JAIME H SALINAS & FABIOLA GONZALEZ RUBIO",
+  "pid": "676732",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0010-00": {
+  "address": "2903 CAMELIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0010-00",
+  "legal": "A & M HEIGHTS LOT 10",
+  "market_value": 170688.0,
+  "owner": "FISCAL ELENA",
+  "pid": "676733",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0011-00": {
+  "address": "2905 CAMELIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0011-00",
+  "legal": "A & M HEIGHTS LOT 11",
+  "market_value": 169008.0,
+  "owner": "FISCAL MARIA DE LOURDES",
+  "pid": "676734",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0012-00": {
+  "address": "2907 CAMELIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0012-00",
+  "legal": "A & M HEIGHTS LOT 12",
+  "market_value": 167250.0,
+  "owner": "MEDELLIN YUDEL SALVADOR REYES",
+  "pid": "676735",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0013-00": {
+  "address": "2909 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0013-00",
+  "legal": "A & M HEIGHTS LOT 13",
+  "market_value": 147227.0,
+  "owner": "SALAZAR MAGDALENO RAMIREZ & YOLANDA",
+  "pid": "676736",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0014-00": {
+  "address": "2911 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0014-00",
+  "legal": "A & M HEIGHTS LOT 14",
+  "market_value": 169353.0,
+  "owner": "MONTERROSA ELVA V CANCINO",
+  "pid": "676737",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0015-00": {
+  "address": "3001 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0015-00",
+  "legal": "A & M HEIGHTS LOT 15",
+  "market_value": 183095.0,
+  "owner": "MEJIA JUAN ANTONIO",
+  "pid": "676738",
+  "prop_type": "R"
+ },
  "A0116-00-000-0016-00": {
   "address": "3003 CAMELIA AVE",
   "city": "",
@@ -4389,6 +4539,86 @@
   "pid": "676739",
   "prop_type": "R"
  },
+ "A0116-00-000-0017-00": {
+  "address": "3005 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0017-00",
+  "legal": "A & M HEIGHTS LOT 17",
+  "market_value": 165527.0,
+  "owner": "LOPEZ SOFIA A & VICTOR R",
+  "pid": "676740",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0018-00": {
+  "address": "3007 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0018-00",
+  "legal": "A & M HEIGHTS LOT 18",
+  "market_value": 173797.0,
+  "owner": "GALLEGOS MARIA A & JUAN L",
+  "pid": "676741",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0019-00": {
+  "address": "3009 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0019-00",
+  "legal": "A & M HEIGHTS LOT 19",
+  "market_value": 162956.0,
+  "owner": "SANDOVAL GLORIA S & MANUEL DE JESUS",
+  "pid": "676742",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0020-00": {
+  "address": "3101 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0020-00",
+  "legal": "A & M HEIGHTS LOT 20",
+  "market_value": 163628.0,
+  "owner": "QUINTERO JONATHAN J & STEPHANIE FRAIRE",
+  "pid": "676743",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0021-00": {
+  "address": "3103 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0021-00",
+  "legal": "A & M HEIGHTS LOT 21",
+  "market_value": 168055.0,
+  "owner": "TRUJILLO FERNANDO & MERCEDES A",
+  "pid": "676744",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0022-00": {
+  "address": "3105 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0022-00",
+  "legal": "A & M HEIGHTS LOT 22",
+  "market_value": 155318.0,
+  "owner": "AMEZCUA IGNACIO",
+  "pid": "676745",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0023-00": {
+  "address": "3107 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0023-00",
+  "legal": "A & M HEIGHTS LOT 23",
+  "market_value": 178998.0,
+  "owner": "OLIVARES RUBEN PRADO",
+  "pid": "676746",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0024-00": {
+  "address": "3109 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0024-00",
+  "legal": "A & M HEIGHTS LOT 24",
+  "market_value": 157229.0,
+  "owner": "COBOS CONSUELO RODRIGUEZ",
+  "pid": "676747",
+  "prop_type": "R"
+ },
  "A0116-00-000-0025-00": {
   "address": "3111 CAMELIA AVE",
   "city": "",
@@ -4397,6 +4627,36 @@
   "market_value": 149531.0,
   "owner": "GARCIA JUAN M & NIDIA M",
   "pid": "676748",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0026-00": {
+  "address": "3201 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0026-00",
+  "legal": "A & M HEIGHTS LOT 26",
+  "market_value": 198214.0,
+  "owner": "RUIZ NUBIA Y & JOSUE",
+  "pid": "676749",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0027-00": {
+  "address": "3203 CAMELIA AVE",
+  "city": "",
+  "geo_id": "A0116-00-000-0027-00",
+  "legal": "A & M HEIGHTS LOT 27",
+  "market_value": 157810.0,
+  "owner": "ALMAGUER MIGUEL A",
+  "pid": "676750",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0028-00": {
+  "address": "401 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0028-00",
+  "legal": "A & M HEIGHTS LOT 28",
+  "market_value": 209946.0,
+  "owner": "MONTOYA GILBERTO",
+  "pid": "676751",
   "prop_type": "R"
  },
  "A0116-00-000-0029-00": {
@@ -4419,6 +4679,86 @@
   "pid": "676753",
   "prop_type": "R"
  },
+ "A0116-00-000-0031-00": {
+  "address": "407 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0031-00",
+  "legal": "A & M HEIGHTS LOT 31",
+  "market_value": 157759.0,
+  "owner": "GUAJARDO JESUS & CLAUDIA E",
+  "pid": "676754",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0032-00": {
+  "address": "409 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0032-00",
+  "legal": "A & M HEIGHTS LOT 32",
+  "market_value": 164085.0,
+  "owner": "CANTU MAGDA",
+  "pid": "676755",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0033-00": {
+  "address": "411 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0033-00",
+  "legal": "A & M HEIGHTS LOT 33",
+  "market_value": 175278.0,
+  "owner": "PERRETT MARIA DE LOS ANGELES",
+  "pid": "676756",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0034-00": {
+  "address": "413 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0034-00",
+  "legal": "A & M HEIGHTS LOT 34",
+  "market_value": 186439.0,
+  "owner": "CASTRO ROBERT D & YAJAIRA VILLARREAL",
+  "pid": "676757",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0035-00": {
+  "address": "415 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0035-00",
+  "legal": "A & M HEIGHTS LOT 35",
+  "market_value": 170853.0,
+  "owner": "VEGA RAMON M",
+  "pid": "676758",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0036-00": {
+  "address": "417 S 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0036-00",
+  "legal": "A & M HEIGHTS LOT 36",
+  "market_value": 182954.0,
+  "owner": "ANDRADE MATTHEW HUMBERTO & JUAN H ANDRADE",
+  "pid": "676759",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0037-00": {
+  "address": "416 S 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0037-00",
+  "legal": "A & M HEIGHTS LOT 37",
+  "market_value": 170473.0,
+  "owner": "SEGURA HERMES V & PAULA Q",
+  "pid": "676760",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0038-00": {
+  "address": "414 S 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0038-00",
+  "legal": "A & M HEIGHTS LOT 38",
+  "market_value": 156856.0,
+  "owner": "SALAZAR LETICIA GOMEZ",
+  "pid": "676761",
+  "prop_type": "R"
+ },
  "A0116-00-000-0039-00": {
   "address": "412 32ND ST",
   "city": "",
@@ -4439,6 +4779,16 @@
   "pid": "676763",
   "prop_type": "R"
  },
+ "A0116-00-000-0041-00": {
+  "address": "408 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0041-00",
+  "legal": "A & M HEIGHTS LOT 41",
+  "market_value": 142074.0,
+  "owner": "QUINTANILLA DINORAH",
+  "pid": "676764",
+  "prop_type": "R"
+ },
  "A0116-00-000-0042-00": {
   "address": "406 32ND ST",
   "city": "",
@@ -4447,6 +4797,26 @@
   "market_value": 155006.0,
   "owner": "RODRIGUEZ BEATRIZ",
   "pid": "676765",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0043-00": {
+  "address": "404 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0043-00",
+  "legal": "A & M HEIGHTS LOT 43",
+  "market_value": 167345.0,
+  "owner": "AGUIRRE ANIZETO R",
+  "pid": "676766",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0044-00": {
+  "address": "402 32ND ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0044-00",
+  "legal": "A & M HEIGHTS LOT 44",
+  "market_value": 162956.0,
+  "owner": "ESTEVEZ FRANCISCO JR & SANDRA L RIVERA",
+  "pid": "676767",
   "prop_type": "R"
  },
  "A0116-00-000-0045-00": {
@@ -4459,6 +4829,36 @@
   "pid": "676768",
   "prop_type": "R"
  },
+ "A0116-00-000-0046-00": {
+  "address": "401 31 ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0046-00",
+  "legal": "A & M HEIGHTS LOT 46",
+  "market_value": 168680.0,
+  "owner": "LERMA GUSTAVO",
+  "pid": "676769",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0047-00": {
+  "address": "403 31 ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0047-00",
+  "legal": "A & M HEIGHTS LOT 47",
+  "market_value": 177365.0,
+  "owner": "TREJO GUADALUPE D JR & RENEE GARZA",
+  "pid": "676770",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0048-00": {
+  "address": "405 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0048-00",
+  "legal": "A & M HEIGHTS LOT 48",
+  "market_value": 170510.0,
+  "owner": "RIOS JAIME & MARIA",
+  "pid": "676771",
+  "prop_type": "R"
+ },
  "A0116-00-000-0049-00": {
   "address": "407 31ST",
   "city": "",
@@ -4467,6 +4867,26 @@
   "market_value": 166241.0,
   "owner": "RODRIGUEZ JOSE GERARDO",
   "pid": "676772",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0050-00": {
+  "address": "409 31ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0050-00",
+  "legal": "A & M HEIGHTS LOT 50",
+  "market_value": 170387.0,
+  "owner": "GUTIERREZ MARISOL & CARLOS",
+  "pid": "676773",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0051-00": {
+  "address": "411 31ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0051-00",
+  "legal": "A & M HEIGHTS LOT 51",
+  "market_value": 173883.0,
+  "owner": "GARZA VERONICA TIJERINA",
+  "pid": "676774",
   "prop_type": "R"
  },
  "A0116-00-000-0052-00": {
@@ -4479,6 +4899,46 @@
   "pid": "676775",
   "prop_type": "R"
  },
+ "A0116-00-000-0053-00": {
+  "address": "415 31ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0053-00",
+  "legal": "A & M HEIGHTS LOT 53",
+  "market_value": 170087.0,
+  "owner": "NEAVE JOSUE & LORENA M",
+  "pid": "676776",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0054-00": {
+  "address": "417 31 ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0054-00",
+  "legal": "A & M HEIGHTS LOT 54",
+  "market_value": 143538.0,
+  "owner": "SANDOVAL OMAR",
+  "pid": "676777",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0055-00": {
+  "address": "3014 DALIA CIR",
+  "city": "",
+  "geo_id": "A0116-00-000-0055-00",
+  "legal": "A & M HEIGHTS LOT 55",
+  "market_value": 188000.0,
+  "owner": "SANCHEZ LIZETH AURORA",
+  "pid": "676778",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0056-00": {
+  "address": "3012 DALIA CIR",
+  "city": "",
+  "geo_id": "A0116-00-000-0056-00",
+  "legal": "A & M HEIGHTS LOT 56",
+  "market_value": 163796.0,
+  "owner": "LEAL JOSE CUTTLAHUAC",
+  "pid": "676779",
+  "prop_type": "R"
+ },
  "A0116-00-000-0057-00": {
   "address": "3010 DALIA CIR",
   "city": "",
@@ -4487,6 +4947,46 @@
   "market_value": 163093.0,
   "owner": "GUTIERREZ JOSE MARTIN & NOEMI MONTEJANO",
   "pid": "676780",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0058-00": {
+  "address": "3008 DALIA CIR",
+  "city": "",
+  "geo_id": "A0116-00-000-0058-00",
+  "legal": "A & M HEIGHTS LOT 58",
+  "market_value": 176558.0,
+  "owner": "LUGO ALEXIS",
+  "pid": "676781",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0059-00": {
+  "address": "3006 DALIA CIR",
+  "city": "HIDALGO",
+  "geo_id": "A0116-00-000-0059-00",
+  "legal": "A & M HEIGHTS LOT 59",
+  "market_value": 171774.0,
+  "owner": "VASQUEZ HECTOR JAVIER & DENISSE ANAHI TREVINO",
+  "pid": "676782",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0060-00": {
+  "address": "3004 DALIA CIR",
+  "city": "",
+  "geo_id": "A0116-00-000-0060-00",
+  "legal": "A & M HEIGHTS LOT 60",
+  "market_value": 147364.0,
+  "owner": "LOPEZ VICTOR H & YADIRA",
+  "pid": "676783",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0061-00": {
+  "address": "3002 DALIA CIR",
+  "city": "",
+  "geo_id": "A0116-00-000-0061-00",
+  "legal": "A & M HEIGHTS LOT 61",
+  "market_value": 169127.0,
+  "owner": "CORONEL ARELI TORRES",
+  "pid": "676784",
   "prop_type": "R"
  },
  "A0116-00-000-0062-00": {
@@ -4499,6 +4999,36 @@
   "pid": "676785",
   "prop_type": "R"
  },
+ "A0116-00-000-0063-00": {
+  "address": "416 30TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0063-00",
+  "legal": "A & M HEIGHTS LOT 63",
+  "market_value": 203486.0,
+  "owner": "FUENTES EDGAR ELIER",
+  "pid": "676786",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0064-00": {
+  "address": "414 30TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0064-00",
+  "legal": "A & M HEIGHTS LOT 64",
+  "market_value": 163147.0,
+  "owner": "PALACIOS DONATO",
+  "pid": "676787",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0065-00": {
+  "address": "412 30TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0065-00",
+  "legal": "A & M HEIGHTS LOT 65",
+  "market_value": 150579.0,
+  "owner": "LEAL ELIAS ESPINO",
+  "pid": "676788",
+  "prop_type": "R"
+ },
  "A0116-00-000-0066-00": {
   "address": "410 30TH ST",
   "city": "",
@@ -4507,6 +5037,16 @@
   "market_value": 153860.0,
   "owner": "GARCIA MARICELA",
   "pid": "676789",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0067-00": {
+  "address": "408 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0067-00",
+  "legal": "A & M HEIGHTS LOT 67",
+  "market_value": 207028.0,
+  "owner": "GUZMAN CLAUDIA I",
+  "pid": "676790",
   "prop_type": "R"
  },
  "A0116-00-000-0068-00": {
@@ -4519,6 +5059,86 @@
   "pid": "676791",
   "prop_type": "R"
  },
+ "A0116-00-000-0069-00": {
+  "address": "404 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0069-00",
+  "legal": "A & M HEIGHTS LOT 69",
+  "market_value": 153645.0,
+  "owner": "GUTIERREZ RUBEN",
+  "pid": "676792",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0070-00": {
+  "address": "402 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0070-00",
+  "legal": "A & M HEIGHTS LOT 70",
+  "market_value": 161007.0,
+  "owner": "VILLARREAL ELISEO Jr",
+  "pid": "676793",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0071-00": {
+  "address": "400 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0071-00",
+  "legal": "A & M HEIGHTS LOT 71",
+  "market_value": 164682.0,
+  "owner": "MARTINEZ ORLANDO",
+  "pid": "676794",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0072-00": {
+  "address": "400 31 ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0072-00",
+  "legal": "A & M HEIGHTS LOT 72",
+  "market_value": 188989.0,
+  "owner": "CRUZ GERONIMO SANTIAGO & NINFA MEDINA",
+  "pid": "676795",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0073-00": {
+  "address": "402 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0073-00",
+  "legal": "A & M HEIGHTS LOT 73",
+  "market_value": 188000.0,
+  "owner": "COVARRUBIAS JOSE M",
+  "pid": "676796",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0074-00": {
+  "address": "404 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0074-00",
+  "legal": "A & M HEIGHTS LOT 74",
+  "market_value": 172023.0,
+  "owner": "TODARO CHARLES & AMADA",
+  "pid": "676797",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0075-00": {
+  "address": "406 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0075-00",
+  "legal": "A & M HEIGHTS LOT 75",
+  "market_value": 174786.0,
+  "owner": "TALON ANGELITA GARZA & MIGUEL",
+  "pid": "676798",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0076-00": {
+  "address": "408 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0076-00",
+  "legal": "A & M HEIGHTS LOT 76",
+  "market_value": 195966.0,
+  "owner": "VALLES JUAN MANUEL & MARIA JULIE",
+  "pid": "676799",
+  "prop_type": "R"
+ },
  "A0116-00-000-0077-00": {
   "address": "410 31ST ST",
   "city": "",
@@ -4527,6 +5147,16 @@
   "market_value": 127071.0,
   "owner": "GOMEZ JOSE ANTONIO & JULIA M BAEZ",
   "pid": "676800",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0078-00": {
+  "address": "412 31ST ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0078-00",
+  "legal": "A & M HEIGHTS LOT 78",
+  "market_value": 160882.0,
+  "owner": "SOLIS LUCRECIA BARRERA",
+  "pid": "676801",
   "prop_type": "R"
  },
  "A0116-00-000-0079-00": {
@@ -4549,6 +5179,26 @@
   "pid": "676803",
   "prop_type": "R"
  },
+ "A0116-00-000-0081-00": {
+  "address": "409 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0081-00",
+  "legal": "A & M HEIGHTS LOT 81",
+  "market_value": 149136.0,
+  "owner": "RODRIGUEZ SUSANA",
+  "pid": "676804",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0082-00": {
+  "address": "407 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0082-00",
+  "legal": "A & M HEIGHTS LOT 82",
+  "market_value": 182332.0,
+  "owner": "GALLEGOS SERGIO & ANNA S",
+  "pid": "676805",
+  "prop_type": "R"
+ },
  "A0116-00-000-0083-00": {
   "address": "405 30TH ST",
   "city": "",
@@ -4557,6 +5207,86 @@
   "market_value": 162956.0,
   "owner": "GUTIERREZ JOSE A",
   "pid": "676806",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0084-00": {
+  "address": "403 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0084-00",
+  "legal": "A & M HEIGHTS LOT 84",
+  "market_value": 219962.0,
+  "owner": "ESQUIVEL JUAN C",
+  "pid": "676807",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0085-00": {
+  "address": "401 30TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0085-00",
+  "legal": "A & M HEIGHTS LOT 85",
+  "market_value": 170319.0,
+  "owner": "VILLA-RODRIGUEZ ANGELICA",
+  "pid": "676808",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0086-00": {
+  "address": "401 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0086-00",
+  "legal": "A & M HEIGHTS LOT 86",
+  "market_value": 163256.0,
+  "owner": "TORRES MARICELA",
+  "pid": "676809",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0087-00": {
+  "address": "403 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0087-00",
+  "legal": "A & M HEIGHTS LOT 87",
+  "market_value": 156508.0,
+  "owner": "MEJIA IRVING EDUARDO CANCHOLA",
+  "pid": "676810",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0088-00": {
+  "address": "405 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0088-00",
+  "legal": "A & M HEIGHTS LOT 88",
+  "market_value": 172528.0,
+  "owner": "VERA GUADALUPE ESTEBAN JR",
+  "pid": "676811",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0089-00": {
+  "address": "407 S 29TH ST",
+  "city": "HIDALGO",
+  "geo_id": "A0116-00-000-0089-00",
+  "legal": "A & M HEIGHTS LOT 89",
+  "market_value": 214358.0,
+  "owner": "ROCHA RUBEN ROSALES & CLAUDIA CEJA PRADO",
+  "pid": "676812",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0090-00": {
+  "address": "409 29TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0090-00",
+  "legal": "A & M HEIGHTS LOT 90",
+  "market_value": 171995.0,
+  "owner": "GALVAN KARLA ELIZABETH",
+  "pid": "676813",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0091-00": {
+  "address": "411 29TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0091-00",
+  "legal": "A & M HEIGHTS LOT 91",
+  "market_value": 159883.0,
+  "owner": "ALDAY SAN JUANITA & MARIO A JR",
+  "pid": "676814",
   "prop_type": "R"
  },
  "A0116-00-000-0092-00": {
@@ -4569,6 +5299,36 @@
   "pid": "676815",
   "prop_type": "R"
  },
+ "A0116-00-000-0093-00": {
+  "address": "415 29TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0093-00",
+  "legal": "A & M HEIGHTS LOT 93",
+  "market_value": 177093.0,
+  "owner": "DELEON ANGELBERTO CANTU",
+  "pid": "676816",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0094-00": {
+  "address": "2902 DALIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0094-00",
+  "legal": "A & M HEIGHTS LOT 94",
+  "market_value": 203486.0,
+  "owner": "BARBERENA MARLON J & MARIA DE JESUS MATA",
+  "pid": "676817",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0095-00": {
+  "address": "2900 DALIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0095-00",
+  "legal": "A & M HEIGHTS LOT 95",
+  "market_value": 212930.0,
+  "owner": "TINSLEY GARRY D & BLANCA A",
+  "pid": "676818",
+  "prop_type": "R"
+ },
  "A0116-00-000-0096-00": {
   "address": "2814 DALIA",
   "city": "",
@@ -4577,6 +5337,86 @@
   "market_value": 141587.0,
   "owner": "MARTINEZ MARIA NORMA",
   "pid": "676819",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0097-00": {
+  "address": "2812 DALIA ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0097-00",
+  "legal": "A & M HEIGHTS LOT 97",
+  "market_value": 167363.0,
+  "owner": "MENDEZ MARCO A MARTINEZ & CORAL",
+  "pid": "676820",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0098-00": {
+  "address": "2810 DALIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0098-00",
+  "legal": "A & M HEIGHTS LOT 98",
+  "market_value": 181908.0,
+  "owner": "NAVARRO AMERICA ITZEL & YONATHAN CASTRO HERNANDEZ",
+  "pid": "676821",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0099-00": {
+  "address": "2808 DALIA",
+  "city": "",
+  "geo_id": "A0116-00-000-0099-00",
+  "legal": "A & M HEIGHTS LOT 99",
+  "market_value": 167366.0,
+  "owner": "ADAME SONIA",
+  "pid": "676822",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0100-00": {
+  "address": "2806 DALIA ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0100-00",
+  "legal": "A & M HEIGHTS LOT 100",
+  "market_value": 100000.0,
+  "owner": "CAVAZOS PABLO G",
+  "pid": "676823",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0101-00": {
+  "address": "2804 DALIA ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0101-00",
+  "legal": "A & M HEIGHTS LOT 101",
+  "market_value": 150149.0,
+  "owner": "TAMEZ NANCY N RODRIGUEZ",
+  "pid": "676824",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0102-00": {
+  "address": "2802 DALIA ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0102-00",
+  "legal": "A & M HEIGHTS LOT 102",
+  "market_value": 170735.0,
+  "owner": "DE LEON SERGIO CANTU",
+  "pid": "676826",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0103-00": {
+  "address": "2800 DALIA ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0103-00",
+  "legal": "A & M HEIGHTS LOT 103",
+  "market_value": 175621.0,
+  "owner": "BERNAL EDUARDO JR & ELIZABETH SOLIS",
+  "pid": "676827",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0104-00": {
+  "address": "412 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0104-00",
+  "legal": "A & M HEIGHTS LOT 104",
+  "market_value": 203883.0,
+  "owner": "ESPINOZA OZIEL OCHOA",
+  "pid": "676828",
   "prop_type": "R"
  },
  "A0116-00-000-0105-00": {
@@ -4599,6 +5439,106 @@
   "pid": "676830",
   "prop_type": "R"
  },
+ "A0116-00-000-0107-00": {
+  "address": "406 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0107-00",
+  "legal": "A & M HEIGHTS LOT 107",
+  "market_value": 158705.0,
+  "owner": "SERIES 1-408 HIDALGO 28 STREET A SERIES OF DELMAT A SERIES LLC",
+  "pid": "676831",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0108-00": {
+  "address": "404 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0108-00",
+  "legal": "A & M HEIGHTS LOT 108",
+  "market_value": 139429.0,
+  "owner": "VIVIAN MARIA NORA",
+  "pid": "676832",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0109-00": {
+  "address": "402 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0109-00",
+  "legal": "A & M HEIGHTS LOT 109",
+  "market_value": 157035.0,
+  "owner": "GUTIERREZ GUADALUPE",
+  "pid": "676833",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0110-00": {
+  "address": "400 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0110-00",
+  "legal": "A & M HEIGHTS LOT 110",
+  "market_value": 157657.0,
+  "owner": "CASTILLO RICARDO A & ILSE P ROSALES",
+  "pid": "676834",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0111-00": {
+  "address": "401 28TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0111-00",
+  "legal": "A & M HEIGHTS LOT 111",
+  "market_value": 151573.0,
+  "owner": "OSBORNE SARA R",
+  "pid": "676835",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0112-00": {
+  "address": "403 28TH STREET",
+  "city": "",
+  "geo_id": "A0116-00-000-0112-00",
+  "legal": "A & M HEIGHTS LOT 112",
+  "market_value": 153500.0,
+  "owner": "HERNANDEZ JESUS & ALMA L HERNANDEZ",
+  "pid": "676836",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0113-00": {
+  "address": "405 28TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0113-00",
+  "legal": "A & M HEIGHTS LOT 113",
+  "market_value": 165819.0,
+  "owner": "MANZANARES JULIO CESAR GARCIA",
+  "pid": "676837",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0114-00": {
+  "address": "407 28TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0114-00",
+  "legal": "A & M HEIGHTS LOT 114",
+  "market_value": 158662.0,
+  "owner": "GOMEZ ELIA & OZIEL T ADAME",
+  "pid": "676838",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0115-00": {
+  "address": "409 28TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0115-00",
+  "legal": "A & M HEIGHTS LOT 115",
+  "market_value": 136194.0,
+  "owner": "GARZA FELIX & NANCY",
+  "pid": "676839",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0116-00": {
+  "address": "411 S 28TH",
+  "city": "HIDALGO",
+  "geo_id": "A0116-00-000-0116-00",
+  "legal": "A & M HEIGHTS LOT 116",
+  "market_value": 166496.0,
+  "owner": "TORRES FELIX R & LEONOR",
+  "pid": "676840",
+  "prop_type": "R"
+ },
  "A0116-00-000-0117-00": {
   "address": "413 S 28TH ST",
   "city": "",
@@ -4609,6 +5549,46 @@
   "pid": "676841",
   "prop_type": "R"
  },
+ "A0116-00-000-0118-00": {
+  "address": "412 S 29TH ST",
+  "city": "HIDALGO",
+  "geo_id": "A0116-00-000-0118-00",
+  "legal": "A & M HEIGHTS LOT 118",
+  "market_value": 206242.0,
+  "owner": "VARGAS JORGE RAFAEL T & LAURA ANGELICA CORTES BACILIO",
+  "pid": "676842",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0119-00": {
+  "address": "410 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0119-00",
+  "legal": "A & M HEIGHTS LOT 119",
+  "market_value": 165929.0,
+  "owner": "GARZA ROSA ELIA BERNAL",
+  "pid": "676843",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0120-00": {
+  "address": "408 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0120-00",
+  "legal": "A & M HEIGHTS LOT 120",
+  "market_value": 164762.0,
+  "owner": "PERALES ELVIRA S ET AL",
+  "pid": "676844",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0121-00": {
+  "address": "406 29TH",
+  "city": "",
+  "geo_id": "A0116-00-000-0121-00",
+  "legal": "A & M HEIGHTS LOT 121",
+  "market_value": 154220.0,
+  "owner": "FRATIANNI WILLIAM I & ROSA M MACIAS",
+  "pid": "676845",
+  "prop_type": "R"
+ },
  "A0116-00-000-0122-00": {
   "address": "404 29TH ST",
   "city": "",
@@ -4617,6 +5597,26 @@
   "market_value": 157229.0,
   "owner": "PEREZ MARIA",
   "pid": "676846",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0123-00": {
+  "address": "402 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0123-00",
+  "legal": "A & M HEIGHTS LOT 123",
+  "market_value": 162956.0,
+  "owner": "DIAZ EPIFANIO",
+  "pid": "676847",
+  "prop_type": "R"
+ },
+ "A0116-00-000-0124-00": {
+  "address": "400 29TH ST",
+  "city": "",
+  "geo_id": "A0116-00-000-0124-00",
+  "legal": "A & M HEIGHTS LOT 124",
+  "market_value": 155289.0,
+  "owner": "GONZALEZ BEATRIZ EUGENIA RODRIGUEZ",
+  "pid": "676848",
   "prop_type": "R"
  },
  "A0117-00-000-0001-00": {
@@ -75389,6 +76389,16 @@
   "pid": "121179",
   "prop_type": "R"
  },
+ "B0450-02-000-0031-00": {
+  "address": "1917 FIGUEROA ST",
+  "city": "",
+  "geo_id": "B0450-02-000-0031-00",
+  "legal": "BALLI NO. 2 LOT 31",
+  "market_value": 122436.0,
+  "owner": "RIOS BERTHA ALICIA",
+  "pid": "121181",
+  "prop_type": "R"
+ },
  "B0450-02-000-0033-00": {
   "address": "2119 FIGUEROA ST",
   "city": "",
@@ -102419,6 +103429,16 @@
   "pid": "1564695",
   "prop_type": "R"
  },
+ "B4240-02-000-0053-00": {
+  "address": "CAMILLE STREET",
+  "city": "",
+  "geo_id": "B4240-02-000-0053-00",
+  "legal": "BRIDGE CROSSING PH 2 LOT 53",
+  "market_value": 163132.0,
+  "owner": "DE LEON JACOB",
+  "pid": "1564738",
+  "prop_type": "R"
+ },
  "B4250-00-000-0017-00": {
   "address": "2419 BRIARWOOD DR",
   "city": "MISSION",
@@ -111719,6 +112739,16 @@
   "pid": "128979",
   "prop_type": "R"
  },
+ "C0200-00-000-0027-00": {
+  "address": "1110 W FRONTAGE RD",
+  "city": "ALAMO",
+  "geo_id": "C0200-00-000-0027-00",
+  "legal": "C AND S LOT 27",
+  "market_value": 127577.0,
+  "owner": "MORENO DOMINGO",
+  "pid": "128998",
+  "prop_type": "R"
+ },
  "C0200-00-000-0028-00": {
   "address": "1122 W FRONTAGE RD",
   "city": "ALAMO",
@@ -111867,6 +112897,16 @@
   "market_value": 107811.0,
   "owner": "AGUILAR JOSE A",
   "pid": "129025",
+  "prop_type": "R"
+ },
+ "C0250-00-001-0005-00": {
+  "address": "1001 E HACKBERRY ST",
+  "city": "ALAMO",
+  "geo_id": "C0250-00-001-0005-00",
+  "legal": "CABANA SOUTH LOT 5 BLK 1",
+  "market_value": 136414.0,
+  "owner": "MORENO DELFINA",
+  "pid": "129028",
   "prop_type": "R"
  },
  "C0250-00-001-0006-00": {
@@ -137599,6 +138639,16 @@
   "pid": "707331",
   "prop_type": "R"
  },
+ "C1617-00-000-0086-00": {
+  "address": "7905 GEMINI AVE",
+  "city": "",
+  "geo_id": "C1617-00-000-0086-00",
+  "legal": "CARDINAL GARDENS LOT 86",
+  "market_value": 165412.0,
+  "owner": "MORENO DENNIS",
+  "pid": "707334",
+  "prop_type": "R"
+ },
  "C1617-00-000-0090-00": {
   "address": "8007 GEMINI AVE",
   "city": "",
@@ -138687,6 +139737,16 @@
   "market_value": 381543.0,
   "owner": "PEREZ ALFREDO",
   "pid": "688039",
+  "prop_type": "R"
+ },
+ "C1628-00-000-0008-00": {
+  "address": "6716 LA HOMA DR",
+  "city": "",
+  "geo_id": "C1628-00-000-0008-00",
+  "legal": "CARDINAL MEADOWS LOT 8",
+  "market_value": 228492.0,
+  "owner": "RAMIREZ SOCORRO",
+  "pid": "688045",
   "prop_type": "R"
  },
  "C1630-00-000-0001-00": {
@@ -149789,6 +150849,16 @@
   "pid": "133940",
   "prop_type": "R"
  },
+ "C2610-00-000-0049-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "C2610-00-000-0049-00",
+  "legal": "CEDAR RIDGE SOUTH LOT 49",
+  "market_value": 63160.0,
+  "owner": "MORENO DAMIAN",
+  "pid": "1464076",
+  "prop_type": "R"
+ },
  "C2610-00-000-0053-00": {
   "address": "",
   "city": "",
@@ -152359,6 +153429,16 @@
   "pid": "134269",
   "prop_type": "R"
  },
+ "C2950-03-001-0018-00": {
+  "address": "8011 OVALLES ST",
+  "city": "",
+  "geo_id": "C2950-03-001-0018-00",
+  "legal": "CHAPA NO. 3 BLK 1 LOT 18",
+  "market_value": 174764.0,
+  "owner": "LAGUNA ARACELI",
+  "pid": "134270",
+  "prop_type": "R"
+ },
  "C2950-03-002-0014-00": {
   "address": "8006 OVALLES ST",
   "city": "",
@@ -154749,6 +155829,16 @@
   "pid": "713174",
   "prop_type": "R"
  },
+ "C4053-00-000-0043-00": {
+  "address": "2411 AMBASSADOR ST",
+  "city": "EDINBURG",
+  "geo_id": "C4053-00-000-0043-00",
+  "legal": "CHAPIN CROSSING LOT 43",
+  "market_value": 236763.0,
+  "owner": "RODRIGUEZ ELDA S",
+  "pid": "713178",
+  "prop_type": "R"
+ },
  "C4053-00-000-0048-00": {
   "address": "2315 AMBASSADOR ST",
   "city": "EDINBURG",
@@ -155957,6 +157047,16 @@
   "market_value": 157484.0,
   "owner": "GONZALEZ JULIO C & NORMA",
   "pid": "135266",
+  "prop_type": "R"
+ },
+ "C4370-01-000-0123-00": {
+  "address": "404 CHULA VISTA DR",
+  "city": "SAN JUAN",
+  "geo_id": "C4370-01-000-0123-00",
+  "legal": "CHULA VISTA ESTATES PH 1 LOT 123",
+  "market_value": 180072.0,
+  "owner": "MORENO DULCE MARIBEL",
+  "pid": "135269",
   "prop_type": "R"
  },
  "C4370-01-000-0128-00": {
@@ -157547,6 +158647,16 @@
   "market_value": 297088.0,
   "owner": "GUERRA FLORENCIA",
   "pid": "135412",
+  "prop_type": "R"
+ },
+ "C4440-01-016-0004-00": {
+  "address": "2107 COLORADO ST",
+  "city": "",
+  "geo_id": "C4440-01-016-0004-00",
+  "legal": "CIMARRON COUNTRY CLUB SECTION 1 PHASE 1 LOT 4 BLK 16 - AMENDED",
+  "market_value": 382946.0,
+  "owner": "MORENO DELIA EVELYN DE GARZA",
+  "pid": "135413",
   "prop_type": "R"
  },
  "C4440-01-016-0012-00": {
@@ -185459,6 +186569,16 @@
   "pid": "152298",
   "prop_type": "R"
  },
+ "C7450-00-000-0014-00": {
+  "address": "1303 BUENAVISTA ST",
+  "city": "PENITAS",
+  "geo_id": "C7450-00-000-0014-00",
+  "legal": "COLONIA MARTINEZ LT 14",
+  "market_value": 109406.0,
+  "owner": "RIOS BERTHA ALICIA",
+  "pid": "152307",
+  "prop_type": "R"
+ },
  "C7450-00-000-0016-00": {
   "address": "1205 ENCINO ST",
   "city": "",
@@ -189607,6 +190727,16 @@
   "market_value": 542120.0,
   "owner": "GARCIA ARACELI & MANUEL",
   "pid": "674239",
+  "prop_type": "R"
+ },
+ "C7882-02-000-0035-00": {
+  "address": "1106 RIO CONCHO",
+  "city": "MISSION",
+  "geo_id": "C7882-02-000-0035-00",
+  "legal": "CONCHO ESTATES PH 2 LOT 35",
+  "market_value": 402523.0,
+  "owner": "CANALES EDMUNDO & ANN M",
+  "pid": "674244",
   "prop_type": "R"
  },
  "C7886-00-000-0001-00": {
@@ -206319,6 +207449,26 @@
   "pid": "157212",
   "prop_type": "R"
  },
+ "D0695-00-000-0005-00": {
+  "address": "7111 TEX-MEX RD",
+  "city": "",
+  "geo_id": "D0695-00-000-0005-00",
+  "legal": "DANIEL & GUMARO E104.38' LOT 5 0.50AC GR 0.43AC NET",
+  "market_value": 152597.0,
+  "owner": "MORENO DORA",
+  "pid": "157213",
+  "prop_type": "R"
+ },
+ "D0695-00-000-0005-01": {
+  "address": "7105 TEX-MEX RD",
+  "city": "",
+  "geo_id": "D0695-00-000-0005-01",
+  "legal": "DANIEL & GUMARO W104.38'-LOT 5 0.50AC GR 0.43AC NET",
+  "market_value": 191487.0,
+  "owner": "MORENO DORA H",
+  "pid": "539680",
+  "prop_type": "R"
+ },
  "D0697-00-000-0005-00": {
   "address": "2218 ANNETTE AVE",
   "city": "EDINBURG",
@@ -209017,6 +210167,16 @@
   "market_value": 153735.0,
   "owner": "CANTU MARIO HUMBERTO MARTINEZ &",
   "pid": "157713",
+  "prop_type": "R"
+ },
+ "D2800-00-011-0000-50": {
+  "address": "1116 S SCHUERBACH",
+  "city": "",
+  "geo_id": "D2800-00-011-0000-50",
+  "legal": "DEL MONTE BLK 11 0.50AC 50X368.95'-7.33AC TR",
+  "market_value": 83205.0,
+  "owner": "RODRIGUEZ ELDA",
+  "pid": "554063",
   "prop_type": "R"
  },
  "D2800-00-011-0000-60": {
@@ -224819,6 +225979,16 @@
   "pid": "671918",
   "prop_type": "R"
  },
+ "D6435-01-005-0013-00": {
+  "address": "2903 SAMANTHA DR",
+  "city": "SAN JUAN",
+  "geo_id": "D6435-01-005-0013-00",
+  "legal": "DOMINION PLACE PH 1 LOT 13 BLK 5",
+  "market_value": 180000.0,
+  "owner": "MORENO DEYANIRA & LUIS E",
+  "pid": "671925",
+  "prop_type": "R"
+ },
  "D6435-01-006-0001-00": {
   "address": "601 SONNY DR",
   "city": "SAN JUAN",
@@ -235707,6 +236877,16 @@
   "market_value": 134674.0,
   "owner": "BARRERA JOSE LUIS & VICTORIA VASQUEZ",
   "pid": "163064",
+  "prop_type": "R"
+ },
+ "E2500-00-00B-0019-00": {
+  "address": "416 S MAIN ST",
+  "city": "DONNA",
+  "geo_id": "E2500-00-00B-0019-00",
+  "legal": "EBONY PARK ADDN LOT 19 BLK B",
+  "market_value": 117166.0,
+  "owner": "MORENO SAUL",
+  "pid": "163068",
   "prop_type": "R"
  },
  "E2600-00-00A-0009-00": {
@@ -255169,6 +256349,16 @@
   "pid": "1565578",
   "prop_type": "R"
  },
+ "E4254-00-000-0126-00": {
+  "address": "RISUENO AVE",
+  "city": "",
+  "geo_id": "E4254-00-000-0126-00",
+  "legal": "EL ENCANTADO LOT 126",
+  "market_value": 57156.0,
+  "owner": "ONTIVEROS MIGUEL ROBERTO",
+  "pid": "1565596",
+  "prop_type": "R"
+ },
  "E4254-00-000-0130-00": {
   "address": "311 RISUENO AVE",
   "city": "",
@@ -267887,6 +269077,16 @@
   "market_value": 254412.0,
   "owner": "FLORES RICHARD & DIANA E",
   "pid": "167871",
+  "prop_type": "R"
+ },
+ "E4820-00-000-0001-00": {
+  "address": "3702 N OKEECHOBEE LN",
+  "city": "EDINBURG",
+  "geo_id": "E4820-00-000-0001-00",
+  "legal": "EL SECO LOT 1",
+  "market_value": 112483.0,
+  "owner": "MORENO DOMINGO JR & ELDA",
+  "pid": "167875",
   "prop_type": "R"
  },
  "E4820-00-000-0003-00": {
@@ -325059,6 +326259,16 @@
   "pid": "711401",
   "prop_type": "R"
  },
+ "G4510-01-000-0052-00": {
+  "address": "2711 GRAYBIRCH AVE",
+  "city": "",
+  "geo_id": "G4510-01-000-0052-00",
+  "legal": "GLORIA VISTA PH 1 LOT 52",
+  "market_value": 217632.0,
+  "owner": "MORENO DANIEL ALBERTO",
+  "pid": "711402",
+  "prop_type": "R"
+ },
  "G4510-01-000-0057-00": {
   "address": "3000 N 27TH ST",
   "city": "",
@@ -340667,6 +341877,16 @@
   "market_value": 180000.0,
   "owner": "RODRIGUEZ JOSE SAMUEL",
   "pid": "183962",
+  "prop_type": "R"
+ },
+ "G9100-00-010-0001-00": {
+  "address": "200 PAT CANNON AVE",
+  "city": "WESLACO",
+  "geo_id": "G9100-00-010-0001-00",
+  "legal": "COLONIA GUADALUPE LOTS 1-2 BLK 10",
+  "market_value": 240930.0,
+  "owner": "MORENO DENISSE & HECTOR A GALOANDREA R PEREZ",
+  "pid": "183964",
   "prop_type": "R"
  },
  "G9100-00-010-0009-00": {
@@ -385219,6 +386439,16 @@
   "pid": "629798",
   "prop_type": "R"
  },
+ "H2692-00-000-0027-00": {
+  "address": "2106 E 25TH ST",
+  "city": "MISSION",
+  "geo_id": "H2692-00-000-0027-00",
+  "legal": "HIDDEN VILLAGE LOT 27",
+  "market_value": 270523.0,
+  "owner": "ONTIVEROS MIGUEL",
+  "pid": "629805",
+  "prop_type": "R"
+ },
  "H2692-00-000-0029-00": {
   "address": "2102 E 25TH ST",
   "city": "MISSION",
@@ -398447,6 +399677,16 @@
   "market_value": 40434.0,
   "owner": "GARCIA FLOR ESTELA",
   "pid": "588430",
+  "prop_type": "R"
+ },
+ "H4250-04-033-0006-07": {
+  "address": "1509 FOLLOW",
+  "city": "",
+  "geo_id": "H4250-04-033-0006-07",
+  "legal": "HOMEVILLE ASSOCIATION D S382.52'-W80'-E169.18' LOT 6 BLK 33 0.70AC",
+  "market_value": 66890.0,
+  "owner": "CANALES ARMANDO & OFELIA",
+  "pid": "588433",
   "prop_type": "R"
  },
  "H4250-04-036-0001-03": {
@@ -411708,6 +412948,16 @@
   "owner": "PEREZ JOSE A",
   "pid": "786330",
   "prop_type": "MH"
+ },
+ "J0450-00-000-0001-00": {
+  "address": "MILE 6 RD",
+  "city": "",
+  "geo_id": "J0450-00-000-0001-00",
+  "legal": "J. C. MOBILE PARK LOT 1-3",
+  "market_value": 1412043.0,
+  "owner": "MORENO DELIA",
+  "pid": "505355",
+  "prop_type": "R"
  },
  "J0620-00-000-0001-00": {
   "address": "4610 N MINNESOTA RD",
@@ -437439,6 +438689,16 @@
   "pid": "203144",
   "prop_type": "R"
  },
+ "K2400-00-000-0285-06": {
+  "address": "S CAGE BLVD (LEVY)",
+  "city": "",
+  "geo_id": "K2400-00-000-0285-06",
+  "legal": "KELLY PHARR TRACT SOUTH 30AC EXC E791.48'-W920.06'-S226.69' OF LT 285 30.0AC GR 23.55AC NET",
+  "market_value": 482775.0,
+  "owner": "CANALES ARMANDO B & EDMUNDO C & DUANE R & JOEL A & CARLA G CANALES",
+  "pid": "527127",
+  "prop_type": "R"
+ },
  "K2400-00-000-0286-01": {
   "address": "PECINA RD",
   "city": "",
@@ -447379,6 +448639,16 @@
   "pid": "20854523",
   "prop_type": "R"
  },
+ "L0450-00-082-0010-00": {
+  "address": "FM 493",
+  "city": "",
+  "geo_id": "L0450-00-082-0010-00",
+  "legal": "LA BLANCA 'B' S 130'-N 660'-E315' LT 82 0.94AC GR 0.84AC NET",
+  "market_value": 175264.0,
+  "owner": "ONTIVEROS MIGUEL C & MARTHA ELENA PEREZ",
+  "pid": "207050",
+  "prop_type": "R"
+ },
  "L0450-00-082-0011-00": {
   "address": "1822 E ROOSEVELT RD",
   "city": "DONNA",
@@ -451189,6 +452459,16 @@
   "pid": "707536",
   "prop_type": "R"
  },
+ "L0810-00-000-0025-00": {
+  "address": "2506 CARNATION CIRCLE",
+  "city": "DONNA",
+  "geo_id": "L0810-00-000-0025-00",
+  "legal": "LA DONNA GARDENS LOT 25",
+  "market_value": 186118.0,
+  "owner": "ONTIVEROS MIGUEL ANGEL",
+  "pid": "707540",
+  "prop_type": "R"
+ },
  "L0810-00-000-0029-00": {
   "address": "2434 CARNATION CIRCLE",
   "city": "DONNA",
@@ -452187,6 +453467,16 @@
   "market_value": 297904.0,
   "owner": "GONZALEZ ARMANDO A",
   "pid": "729367",
+  "prop_type": "R"
+ },
+ "L0920-01-000-0078-00": {
+  "address": "1721 RICE AVE",
+  "city": "MCALLEN",
+  "geo_id": "L0920-01-000-0078-00",
+  "legal": "LA FLORESTA PH 1 LOT 78",
+  "market_value": 340000.0,
+  "owner": "MORENO SAUL JR & ROCHELLE LEAH SINDER",
+  "pid": "729373",
   "prop_type": "R"
  },
  "L0920-01-000-0089-00": {
@@ -483749,6 +485039,16 @@
   "pid": "726744",
   "prop_type": "R"
  },
+ "L2555-02-000-0034-00": {
+  "address": "410 KATRINA DR",
+  "city": "",
+  "geo_id": "L2555-02-000-0034-00",
+  "legal": "LAKE VIEW AT PALMSHORES UT 2 LOT 34",
+  "market_value": 264808.0,
+  "owner": "CANALES ARMANDO III",
+  "pid": "726745",
+  "prop_type": "R"
+ },
  "L2555-02-000-0044-00": {
   "address": "627 PALM SHORES BLVD",
   "city": "LA JOYA",
@@ -484667,6 +485967,16 @@
   "market_value": 162237.0,
   "owner": "GARCIA SANDRA E",
   "pid": "215307",
+  "prop_type": "R"
+ },
+ "L2800-00-002-0014-00": {
+  "address": "904 N 28TH ST",
+  "city": "MCALLEN",
+  "geo_id": "L2800-00-002-0014-00",
+  "legal": "LANGRIDGE ADDITION LOT 14 BLK 2",
+  "market_value": 143324.0,
+  "owner": "MORENO DIANE NORMA",
+  "pid": "215308",
   "prop_type": "R"
  },
  "L2800-00-002-0016-00": {
@@ -543309,6 +544619,16 @@
   "pid": "712894",
   "prop_type": "R"
  },
+ "L6115-03-000-0097-00": {
+  "address": "2701 URSULA AVE",
+  "city": "MCALLEN",
+  "geo_id": "L6115-03-000-0097-00",
+  "legal": "LOS ENCINOS 3 LOT 97",
+  "market_value": 154945.0,
+  "owner": "RIOS BERTHA ALICIA",
+  "pid": "712897",
+  "prop_type": "R"
+ },
  "L6115-03-000-0099-00": {
   "address": "2808 VANESSA AVE",
   "city": "MCALLEN",
@@ -559409,6 +560729,16 @@
   "pid": "716561",
   "prop_type": "R"
  },
+ "M0312-01-000-0073-00": {
+  "address": "3206 PELICAN LAKE AVE",
+  "city": "EDINBURG",
+  "geo_id": "M0312-01-000-0073-00",
+  "legal": "MADISON PARK PH 1 LOT 73",
+  "market_value": 379928.0,
+  "owner": "MORENO DEBORAH LEE",
+  "pid": "716567",
+  "prop_type": "R"
+ },
  "M0312-01-000-0089-00": {
   "address": "3311 CRYSTAL FALLS AVE",
   "city": "EDINBURG",
@@ -574629,6 +575959,16 @@
   "pid": "233680",
   "prop_type": "R"
  },
+ "M3400-01-000-0036-00": {
+  "address": "POCO LN",
+  "city": "",
+  "geo_id": "M3400-01-000-0036-00",
+  "legal": "MELTON PARK ESTATES UT 1 LOT 36",
+  "market_value": 29825.0,
+  "owner": "MORENO DIANA M VILLALOBOS & REYNALDO MORENO",
+  "pid": "233687",
+  "prop_type": "R"
+ },
  "M3400-01-000-0050-00": {
   "address": "220 PEPE LN",
   "city": "",
@@ -577579,6 +578919,16 @@
   "pid": "235110",
   "prop_type": "R"
  },
+ "M3550-00-147-0004-00": {
+  "address": "1027 S MISSOURI AVE",
+  "city": "MERCEDES",
+  "geo_id": "M3550-00-147-0004-00",
+  "legal": "MERCEDES ORIGINAL TOWNSITE LOT 4 BLK 147",
+  "market_value": 84528.0,
+  "owner": "MORENO DOMINGO",
+  "pid": "235111",
+  "prop_type": "R"
+ },
  "M3550-00-147-0010-00": {
   "address": "1113 S MISSOURI AVE",
   "city": "",
@@ -579347,6 +580697,16 @@
   "market_value": 131928.0,
   "owner": "HERNANDEZ ROSA MARIA & RAYMUNDO REGALADO",
   "pid": "235944",
+  "prop_type": "R"
+ },
+ "M3710-01-000-0003-00": {
+  "address": "111 JESSICA JANE AVE",
+  "city": "",
+  "geo_id": "M3710-01-000-0003-00",
+  "legal": "MESQUITE ESTATES UT 1 LOT 3",
+  "market_value": 217295.0,
+  "owner": "CANALES ARMANDO JR & MARLENE",
+  "pid": "457015",
   "prop_type": "R"
  },
  "M3710-01-000-0004-00": {
@@ -584799,6 +586159,26 @@
   "pid": "20832793",
   "prop_type": "R"
  },
+ "M4173-02-000-0170-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "M4173-02-000-0170-00",
+  "legal": "MILANOS ESTATES PH 2 LOT 170",
+  "market_value": 46200.0,
+  "owner": "CORTEZ SAUL",
+  "pid": "20832797",
+  "prop_type": "R"
+ },
+ "M4173-02-000-0171-00": {
+  "address": "",
+  "city": "",
+  "geo_id": "M4173-02-000-0171-00",
+  "legal": "MILANOS ESTATES PH 2 LOT 171",
+  "market_value": 46200.0,
+  "owner": "CORTEZ SAUL",
+  "pid": "20832798",
+  "prop_type": "R"
+ },
  "M4173-02-000-0181-00": {
   "address": "",
   "city": "",
@@ -586309,6 +587689,16 @@
   "pid": "526337",
   "prop_type": "R"
  },
+ "M4658-00-000-0023-00": {
+  "address": "4305 MARSHALL ST",
+  "city": "",
+  "geo_id": "M4658-00-000-0023-00",
+  "legal": "MINNESOTA ESTATES LOT 23",
+  "market_value": 122905.0,
+  "owner": "VASQUEZ SAMUEL & CLAUDIA L",
+  "pid": "526338",
+  "prop_type": "R"
+ },
  "M4658-00-000-0026-00": {
   "address": "4310 MARSHALL ST",
   "city": "",
@@ -587627,6 +589017,16 @@
   "market_value": 199625.0,
   "owner": "RIOS ROBERTO JORGE JR & ERICA A",
   "pid": "611643",
+  "prop_type": "R"
+ },
+ "M4730-00-000-0010-00": {
+  "address": "7701 N 27TH LN",
+  "city": "",
+  "geo_id": "M4730-00-000-0010-00",
+  "legal": "MIRA-BELLA PARK LOT 10",
+  "market_value": 243161.0,
+  "owner": "MORENO DIEGO & ELODIA M",
+  "pid": "611645",
   "prop_type": "R"
  },
  "M4730-00-000-0015-00": {
@@ -606389,6 +607789,16 @@
   "pid": "243425",
   "prop_type": "R"
  },
+ "M6410-00-000-0004-00": {
+  "address": "1408 MORENO ST",
+  "city": "MISSION",
+  "geo_id": "M6410-00-000-0004-00",
+  "legal": "MORENO LOT 4",
+  "market_value": 64607.0,
+  "owner": "MORENO DIEGO ADRIAN",
+  "pid": "243426",
+  "prop_type": "R"
+ },
  "M6410-00-000-0010-00": {
   "address": "1305 MORENO ST",
   "city": "MISSION",
@@ -609049,6 +610459,16 @@
   "pid": "621138",
   "prop_type": "R"
  },
+ "M7015-01-000-0009-00": {
+  "address": "5413 MOUNTAIN VIEW LN WES",
+  "city": "",
+  "geo_id": "M7015-01-000-0009-00",
+  "legal": "MT. DAVIS ESTATES PH 1 LOT 9 - AMENDED",
+  "market_value": 190002.0,
+  "owner": "CANALES JESUS & ROSA",
+  "pid": "621143",
+  "prop_type": "R"
+ },
  "M7015-01-000-0016-00": {
   "address": "5408 MOUNTAIN VIEW LN WES",
   "city": "",
@@ -610517,6 +611937,16 @@
   "market_value": 146000.0,
   "owner": "RAMOS RODRIGO RENE & IRMA",
   "pid": "583292",
+  "prop_type": "R"
+ },
+ "N0340-00-000-0068-00": {
+  "address": "827 N 7 1/2 ST",
+  "city": "",
+  "geo_id": "N0340-00-000-0068-00",
+  "legal": "NEBRASKA VILLAGE LOT 68",
+  "market_value": 144334.0,
+  "owner": "RODRIGUEZ ELDA",
+  "pid": "583307",
   "prop_type": "R"
  },
  "N0340-00-000-0079-00": {
@@ -627299,6 +628729,16 @@
   "pid": "697306",
   "prop_type": "R"
  },
+ "N4470-00-000-0028-00": {
+  "address": "3708 WOLF DR",
+  "city": "EDINBURG",
+  "geo_id": "N4470-00-000-0028-00",
+  "legal": "NORTHBROOK ESTATES LOT 28",
+  "market_value": 253775.0,
+  "owner": "MORENO DIEGO",
+  "pid": "697310",
+  "prop_type": "R"
+ },
  "N4470-00-000-0031-00": {
   "address": "3732 WOLF DR",
   "city": "EDINBURG",
@@ -627317,6 +628757,16 @@
   "market_value": 307432.0,
   "owner": "AGUILAR NANCY S",
   "pid": "697335",
+  "prop_type": "R"
+ },
+ "N4470-00-000-0060-00": {
+  "address": "3821 RIPPLE DR",
+  "city": "EDINBURG",
+  "geo_id": "N4470-00-000-0060-00",
+  "legal": "NORTHBROOK ESTATES LOT 60",
+  "market_value": 284793.0,
+  "owner": "MORENO DIEGO GUADALUPE III",
+  "pid": "697342",
   "prop_type": "R"
  },
  "N4470-00-000-0064-00": {
@@ -647339,6 +648789,16 @@
   "pid": "251430",
   "prop_type": "R"
  },
+ "O3000-05-00A-0001-01": {
+  "address": "1210 S AIRPORT DR",
+  "city": "WESLACO",
+  "geo_id": "O3000-05-00A-0001-01",
+  "legal": "OLIVAREZ #5 W1/2 LOT 1-A FT 695 0.2725AC",
+  "market_value": 227899.0,
+  "owner": "OLIVAREZ LAZARO G JR",
+  "pid": "251432",
+  "prop_type": "R"
+ },
  "O3000-05-00D-0000-00": {
   "address": "1222 TIO AVE",
   "city": "",
@@ -650157,6 +651617,16 @@
   "market_value": 1160502.0,
   "owner": "GARCIA NORMA ALEJANDRA & FERNANDO JAVIER OTERO",
   "pid": "562724",
+  "prop_type": "R"
+ },
+ "O6510-00-000-0032-00": {
+  "address": "709 E BURNS DR",
+  "city": "MCALLEN",
+  "geo_id": "O6510-00-000-0032-00",
+  "legal": "ORANGEWOOD EAST ADDITION LOT 32",
+  "market_value": 1498439.0,
+  "owner": "CANALES JESUS EDUARDO",
+  "pid": "670095",
   "prop_type": "R"
  },
  "O6510-00-000-0033-00": {
@@ -744179,6 +745649,16 @@
   "pid": "622621",
   "prop_type": "R"
  },
+ "R3114-02-000-0075-00": {
+  "address": "1604 PIRATE DR",
+  "city": "",
+  "geo_id": "R3114-02-000-0075-00",
+  "legal": "RIO LARGO ESTATES 2 LOT 75",
+  "market_value": 145013.0,
+  "owner": "MORENO DE PENA GLORIA",
+  "pid": "622627",
+  "prop_type": "R"
+ },
  "R3114-02-000-0078-00": {
   "address": "1610 E ESPERANZA AVE",
   "city": "",
@@ -762269,6 +763749,16 @@
   "pid": "1308808",
   "prop_type": "R"
  },
+ "S0353-02-000-0227-00": {
+  "address": "820 BLUE QUAIL ST",
+  "city": "ALAMO",
+  "geo_id": "S0353-02-000-0227-00",
+  "legal": "SAN AGUSTIN PH 2 LOT 227",
+  "market_value": 215317.0,
+  "owner": "MORENO DANIEL AGUIRRE & GUILLERMINA RODRIGUEZ PINEDA",
+  "pid": "1308814",
+  "prop_type": "R"
+ },
  "S0353-02-000-0229-00": {
   "address": "816 BLUE QUAIL ST",
   "city": "ALAMO",
@@ -768667,6 +770157,16 @@
   "market_value": 128347.0,
   "owner": "PEREZ FRANCISCO D COLUNGA & ARIANA G SANCHEZ GUERRERO",
   "pid": "1017268",
+  "prop_type": "R"
+ },
+ "S0670-03-000-0332-00": {
+  "address": "7305 RUSSELL ST",
+  "city": "",
+  "geo_id": "S0670-03-000-0332-00",
+  "legal": "SAN JOAQUIN PH 3 LOT 332",
+  "market_value": 125504.0,
+  "owner": "RAMIREZ SOCORRO MERAZ &",
+  "pid": "1017278",
   "prop_type": "R"
  },
  "S0670-03-000-0333-00": {
@@ -803269,6 +804769,16 @@
   "pid": "559496",
   "prop_type": "R"
  },
+ "S2440-00-000-0015-00": {
+  "address": "5507 GERONIMO DR",
+  "city": "EDINBURG",
+  "geo_id": "S2440-00-000-0015-00",
+  "legal": "SEMINOLE VALLEY LOT 15",
+  "market_value": 318308.0,
+  "owner": "MORENO DEBORA",
+  "pid": "559498",
+  "prop_type": "R"
+ },
  "S2440-00-000-0016-00": {
   "address": "5421 GERONIMO DR",
   "city": "EDINBURG",
@@ -824939,6 +826449,16 @@
   "pid": "514382",
   "prop_type": "R"
  },
+ "S3230-02-000-0063-00": {
+  "address": "7701 N 25TH LN",
+  "city": "MCALLEN",
+  "geo_id": "S3230-02-000-0063-00",
+  "legal": "SHERWOOD PH 2 LOT 63",
+  "market_value": 169573.0,
+  "owner": "MORENO SAUL & HERLINDA",
+  "pid": "514384",
+  "prop_type": "R"
+ },
  "S3230-02-000-0064-00": {
   "address": "7709 N 25TH LN",
   "city": "MCALLEN",
@@ -837907,6 +839427,16 @@
   "market_value": 163272.0,
   "owner": "HERNANDEZ DANIEL & VICTORIA",
   "pid": "621253",
+  "prop_type": "R"
+ },
+ "S3982-02-000-0129-00": {
+  "address": "2908 TREY ST",
+  "city": "EDINBURG",
+  "geo_id": "S3982-02-000-0129-00",
+  "legal": "SOLANA PH 2 LOT 129",
+  "market_value": 148638.0,
+  "owner": "MORENO DELIA",
+  "pid": "621256",
   "prop_type": "R"
  },
  "S3983-00-000-0002-00": {
@@ -853579,6 +855109,16 @@
   "pid": "584997",
   "prop_type": "R"
  },
+ "S5440-04-000-0022-00": {
+  "address": "1104 BASS BLVD",
+  "city": "EDINBURG",
+  "geo_id": "S5440-04-000-0022-00",
+  "legal": "SPRAGUE MEADOWS PH 4 LOT 22",
+  "market_value": 215181.0,
+  "owner": "MORENO DIANA",
+  "pid": "584999",
+  "prop_type": "R"
+ },
  "S5440-04-000-0027-00": {
   "address": "1808 PIKE BLVD",
   "city": "EDINBURG",
@@ -854857,6 +856397,16 @@
   "market_value": 270000.0,
   "owner": "GONZALEZ DAMIAN",
   "pid": "713412",
+  "prop_type": "R"
+ },
+ "S5477-00-000-0051-00": {
+  "address": "2015 CHIPPEWA AVE",
+  "city": "EDINBURG",
+  "geo_id": "S5477-00-000-0051-00",
+  "legal": "SPRING VALLEY LOT 51",
+  "market_value": 227118.0,
+  "owner": "MORENO DANIEL & ELIZABETH CAVAZOS",
+  "pid": "713415",
   "prop_type": "R"
  },
  "S5477-00-000-0055-00": {
@@ -862459,6 +864009,26 @@
   "pid": "290797",
   "prop_type": "R"
  },
+ "S6250-00-000-0042-01": {
+  "address": "S STEWART",
+  "city": "",
+  "geo_id": "S6250-00-000-0042-01",
+  "legal": "STEWARTS ADDITION TO THE CONWAY GARDENS S660'-W820' LOT 42 12.42AC GR 12.04AC NET",
+  "market_value": 246820.0,
+  "owner": "CANALES ARMANDO B & EDMUNDO C",
+  "pid": "290878",
+  "prop_type": "R"
+ },
+ "S6250-00-000-0042-10": {
+  "address": "4616 S STEWART RD",
+  "city": "SAN JUAN",
+  "geo_id": "S6250-00-000-0042-10",
+  "legal": "STEWARTS ADDITION TO THE CONWAY GARDENS E500'-S660' LOT 42 7.58AC GR 6.91AC NET",
+  "market_value": 141655.0,
+  "owner": "CANALES ARMANDO B & EDMUNDO C",
+  "pid": "567285",
+  "prop_type": "R"
+ },
  "S6250-00-000-0048-02": {
   "address": "5010 S STEWART RD",
   "city": "SAN JUAN",
@@ -862987,6 +864557,16 @@
   "market_value": 382872.0,
   "owner": "VASQUEZ JUAN FRANCISCO JR & ARIANA",
   "pid": "1464456",
+  "prop_type": "R"
+ },
+ "S6420-00-000-0041-00": {
+  "address": "STONE OAK DR",
+  "city": "",
+  "geo_id": "S6420-00-000-0041-00",
+  "legal": "STONE OAKS LOT 41",
+  "market_value": 375665.0,
+  "owner": "CORTEZ SAUL",
+  "pid": "1464463",
   "prop_type": "R"
  },
  "S6420-00-000-0043-00": {
@@ -865669,6 +867249,16 @@
   "pid": "291409",
   "prop_type": "R"
  },
+ "S6830-00-000-0138-00": {
+  "address": "2714 CARNATION LN",
+  "city": "PHARR",
+  "geo_id": "S6830-00-000-0138-00",
+  "legal": "SUGAR PALMS LOT 138",
+  "market_value": 53647.0,
+  "owner": "MORENO DELIA",
+  "pid": "291423",
+  "prop_type": "R"
+ },
  "S6830-00-000-0140-00": {
   "address": "2718 CARNATION LN",
   "city": "PHARR",
@@ -867637,6 +869227,16 @@
   "market_value": 515000.0,
   "owner": "CANTU ELIZABETH A/K/A ELIZABETH ADAMSON & EVAN ADAMSON",
   "pid": "895682",
+  "prop_type": "R"
+ },
+ "S6900-00-001-0008-00": {
+  "address": "1605 JUDI ST",
+  "city": "WESLACO",
+  "geo_id": "S6900-00-001-0008-00",
+  "legal": "SUN COUNTRY ESTATES LOT 8 BLK 1",
+  "market_value": 89382.0,
+  "owner": "RIOS BERTHA ALICIA & RAFAEL REYNA JR",
+  "pid": "291682",
   "prop_type": "R"
  },
  "S6900-00-001-0013-00": {
@@ -874747,6 +876347,16 @@
   "market_value": 43633.0,
   "owner": "COMPEAN MARIA A",
   "pid": "1375391",
+  "prop_type": "R"
+ },
+ "S7700-00-000-0002-10": {
+  "address": "955 W BUS HWY 83",
+  "city": "",
+  "geo_id": "S7700-00-000-0002-10",
+  "legal": "SURESWEET AN IRR TR W110'-N120' LOT 2 0.275AC NET",
+  "market_value": 92127.0,
+  "owner": "ONTIVEROS MIGUEL",
+  "pid": "1375392",
   "prop_type": "R"
  },
  "S7700-00-000-0008-01": {
@@ -947979,6 +949589,16 @@
   "pid": "310593",
   "prop_type": "R"
  },
+ "U0500-01-002-0089-00": {
+  "address": "7006 MOON LN",
+  "city": "",
+  "geo_id": "U0500-01-002-0089-00",
+  "legal": "UNIVERSAL ESTATES UT NO. 1 LOT 89 BLK 2",
+  "market_value": 50087.0,
+  "owner": "GUERRERO CALIXTRO",
+  "pid": "310600",
+  "prop_type": "R"
+ },
  "U0500-01-002-0091-00": {
   "address": "7002 MOON LN",
   "city": "",
@@ -950437,6 +952057,26 @@
   "market_value": 112351.0,
   "owner": "CORONADO MARIA GUADALUPE",
   "pid": "311256",
+  "prop_type": "R"
+ },
+ "V0200-00-001-0000-02": {
+  "address": "502 N VALVERDE RD",
+  "city": "DONNA",
+  "geo_id": "V0200-00-001-0000-02",
+  "legal": "VAL VERDE NE 1.65AC BLK 1 1.65AC GR 0.74AC NET",
+  "market_value": 339765.0,
+  "owner": "ONTIVEROS MIGUEL & MARTHA P",
+  "pid": "311268",
+  "prop_type": "R"
+ },
+ "V0200-00-006-0003-00": {
+  "address": "805 W BUS 83",
+  "city": "",
+  "geo_id": "V0200-00-006-0003-00",
+  "legal": "VAL VERDE ALL LOT 3 BLK 6 8.25AC NET",
+  "market_value": 1361637.0,
+  "owner": "ONTIVEROS MIGUEL & MARTHA PEREZ",
+  "pid": "311289",
   "prop_type": "R"
  },
  "V0200-00-012-0000-00": {
@@ -962447,6 +964087,16 @@
   "market_value": 320424.0,
   "owner": "GARCIA ALICIA CASTELLEJA",
   "pid": "313730",
+  "prop_type": "R"
+ },
+ "V2200-00-005-0000-02": {
+  "address": "777 W BUS 83",
+  "city": "DONNA",
+  "geo_id": "V2200-00-005-0000-02",
+  "legal": "VALLEY VIEW PLANTATION AN IRR TR W158'-E1101.59'-S824.37'-N854.37' BLK 5 2.71AC NET",
+  "market_value": 514945.0,
+  "owner": "ONTIVEROS MIGUEL & MARTHA PEREZ",
+  "pid": "313731",
   "prop_type": "R"
  },
  "V2200-00-005-0000-05": {
@@ -984339,6 +985989,106 @@
   "pid": "1464883",
   "prop_type": "R"
  },
+ "V3933-00-000-0001-00": {
+  "address": "10302 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0001-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 1",
+  "market_value": 35551.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178735",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0002-00": {
+  "address": "10306 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0002-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 2",
+  "market_value": 275000.0,
+  "owner": "MONTOYA JOSE JR & LESLY MARIE DE LOS SANTOS",
+  "pid": "1178741",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0003-00": {
+  "address": "10300 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0003-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 3",
+  "market_value": 240208.0,
+  "owner": "DIAZ MANUEL ALEJANDRO",
+  "pid": "1178742",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0004-00": {
+  "address": "10304 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0004-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 4",
+  "market_value": 277915.0,
+  "owner": "HANLEY JENNIFER & ABRAHAM ALBERTO PEREZ HERNANDEZ",
+  "pid": "1178743",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0005-00": {
+  "address": "10308 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0005-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 5",
+  "market_value": 280000.0,
+  "owner": "BENITEZ FELICIA LORRAINE",
+  "pid": "1178744",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0006-00": {
+  "address": "10312 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0006-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 6",
+  "market_value": 252824.0,
+  "owner": "TURRUBIARTEZ JUSTIN LEE",
+  "pid": "1178745",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0007-00": {
+  "address": "10316 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0007-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 7",
+  "market_value": 208303.0,
+  "owner": "COMPEAN ABRAHAM DAVID & CHRISTIAN",
+  "pid": "1178746",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0008-00": {
+  "address": "10320 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0008-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 8",
+  "market_value": 232473.0,
+  "owner": "CARRIZALES VALENTE & DEANNA MENDOZA",
+  "pid": "1178747",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0009-00": {
+  "address": "10324 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0009-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 9",
+  "market_value": 214346.0,
+  "owner": "LUEVANO ALICIA",
+  "pid": "1178748",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0010-00": {
+  "address": "10328 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0010-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 10",
+  "market_value": 219484.0,
+  "owner": "HERNANDEZ ANA YADIRA",
+  "pid": "1178749",
+  "prop_type": "R"
+ },
  "V3933-00-000-0011-00": {
   "address": "10332 N 31ST ST",
   "city": "MCALLEN",
@@ -984349,6 +986099,46 @@
   "pid": "1178750",
   "prop_type": "R"
  },
+ "V3933-00-000-0012-00": {
+  "address": "10336 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0012-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 12",
+  "market_value": 254486.0,
+  "owner": "FONSECA OSCAR ALEJANDRO & GRACIE FONSECA",
+  "pid": "1178751",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0013-00": {
+  "address": "10340 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0013-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 13",
+  "market_value": 237738.0,
+  "owner": "GARCIA PRISCILLA LY",
+  "pid": "1178752",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0014-00": {
+  "address": "10344 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0014-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 14",
+  "market_value": 249123.0,
+  "owner": "JIMENEZ EDGAR ADELAIDO & MARIA DOLORES EGUIA",
+  "pid": "1178753",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0015-00": {
+  "address": "10400 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0015-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 15",
+  "market_value": 260792.0,
+  "owner": "MANCHA JESSICA & MANUEL TREVINO JR",
+  "pid": "1178754",
+  "prop_type": "R"
+ },
  "V3933-00-000-0016-00": {
   "address": "10404 N 31ST ST",
   "city": "MCALLEN",
@@ -984357,6 +986147,26 @@
   "market_value": 234204.0,
   "owner": "LOPEZ JORGE LUIS JR & KARLA LIZETH LOPEZ",
   "pid": "1178755",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0017-00": {
+  "address": "10408 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0017-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 17",
+  "market_value": 231090.0,
+  "owner": "MALDONADO EZRA",
+  "pid": "1178756",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0018-00": {
+  "address": "10412 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0018-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 18",
+  "market_value": 305052.0,
+  "owner": "RAMIREZ ELIAS & BRENDA JAIME",
+  "pid": "1178757",
   "prop_type": "R"
  },
  "V3933-00-000-0019-00": {
@@ -984379,6 +986189,26 @@
   "pid": "1178759",
   "prop_type": "R"
  },
+ "V3933-00-000-0021-00": {
+  "address": "10424 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0021-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 21",
+  "market_value": 234846.0,
+  "owner": "VAZQUEZ JESUS R CASTILLO & SOPHIA IVANNA SPENCER",
+  "pid": "1178760",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0022-00": {
+  "address": "10428 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0022-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 22",
+  "market_value": 200760.0,
+  "owner": "GARCIA LORENZO LOPEZ",
+  "pid": "1178761",
+  "prop_type": "R"
+ },
  "V3933-00-000-0023-00": {
   "address": "10432 N 31ST ST",
   "city": "MCALLEN",
@@ -984387,6 +986217,26 @@
   "market_value": 203064.0,
   "owner": "GOMEZ DAVID ANTHONY",
   "pid": "1178762",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0024-00": {
+  "address": "10500 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0024-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 24",
+  "market_value": 223925.0,
+  "owner": "CORONADO CYNTHIA KARELI LOZANO & ANGEL HUMBERTO MARTINEZ LURIA",
+  "pid": "1178763",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0025-00": {
+  "address": "10504 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0025-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 25",
+  "market_value": 238773.0,
+  "owner": "GARCIA SATURNINO VAZQUEZ",
+  "pid": "1178764",
   "prop_type": "R"
  },
  "V3933-00-000-0027-00": {
@@ -984399,6 +986249,46 @@
   "pid": "1178766",
   "prop_type": "R"
  },
+ "V3933-00-000-0031-00": {
+  "address": "3120 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0031-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 31",
+  "market_value": 183750.0,
+  "owner": "FLORES JESSICA VANESSA & ANDRES",
+  "pid": "1178770",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0032-00": {
+  "address": "3124 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0032-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 32",
+  "market_value": 241965.0,
+  "owner": "URGILES MARIA JOSE GARCIA",
+  "pid": "1178771",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0033-00": {
+  "address": "3128 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0033-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 33",
+  "market_value": 268284.0,
+  "owner": "GUERRERO MELISSA & MARIA DE LOS ANGELES",
+  "pid": "1178772",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0042-00": {
+  "address": "10355 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0042-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 42",
+  "market_value": 241812.0,
+  "owner": "MCDOWELL ANGELO JULIAN",
+  "pid": "1178781",
+  "prop_type": "R"
+ },
  "V3933-00-000-0048-00": {
   "address": "10331 N 32ND LN",
   "city": "MCALLEN",
@@ -984407,6 +986297,46 @@
   "market_value": 227000.0,
   "owner": "SANDOVAL MARIA S",
   "pid": "1178787",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0055-00": {
+  "address": "10303 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0055-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 55",
+  "market_value": 183340.0,
+  "owner": "BENITEZ STEPHANIE VILLANUEVA",
+  "pid": "1178794",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0056-00": {
+  "address": "10322 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0056-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 56",
+  "market_value": 243404.0,
+  "owner": "GUERRA DEREK",
+  "pid": "1178795",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0057-00": {
+  "address": "10326 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0057-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 57",
+  "market_value": 226636.0,
+  "owner": "RAMIREZ GENESIS PADILLA & JESSE VARGAS",
+  "pid": "1178796",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0058-00": {
+  "address": "10330 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0058-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 58",
+  "market_value": 259029.0,
+  "owner": "ANGULO EDGAR OVIER GARCIA & ELIZABETH GARCIA",
+  "pid": "1178797",
   "prop_type": "R"
  },
  "V3933-00-000-0059-00": {
@@ -984419,6 +986349,56 @@
   "pid": "1178798",
   "prop_type": "R"
  },
+ "V3933-00-000-0060-00": {
+  "address": "10338 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0060-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 60",
+  "market_value": 234228.0,
+  "owner": "SALDANA MYRNA A VALERO",
+  "pid": "1178799",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0061-00": {
+  "address": "10333 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0061-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 61",
+  "market_value": 251634.0,
+  "owner": "GARCIA ELIODORO",
+  "pid": "1178800",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0062-00": {
+  "address": "10321 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0062-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 62",
+  "market_value": 57718.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178801",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0063-00": {
+  "address": "3132 YORK AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0063-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 63",
+  "market_value": 321346.0,
+  "owner": "RINCON GILBERTO",
+  "pid": "1178802",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0064-00": {
+  "address": "3124 YORK AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0064-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 64",
+  "market_value": 250821.0,
+  "owner": "BAJRAKTARI ILIR & VANEZA ITZEL FERNANDEZ",
+  "pid": "1178803",
+  "prop_type": "R"
+ },
  "V3933-00-000-0065-00": {
   "address": "3116 YORK AVE",
   "city": "MCALLEN",
@@ -984427,6 +986407,76 @@
   "market_value": 262263.0,
   "owner": "GARCIA GLORIA & FELIPE",
   "pid": "1178804",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0066-00": {
+  "address": "3108 YORK AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0066-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 66",
+  "market_value": 297728.0,
+  "owner": "ARELLANO GABRIELA & ENRIQUE",
+  "pid": "1178805",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0067-00": {
+  "address": "3100 YORK AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0067-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 67",
+  "market_value": 68141.0,
+  "owner": "ABRO REAL ESTATE LLC",
+  "pid": "1178806",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0068-00": {
+  "address": "10345 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0068-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 68",
+  "market_value": 42401.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178807",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0069-00": {
+  "address": "3103 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0069-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 69",
+  "market_value": 78257.0,
+  "owner": "MAKERS DESIGNER HOMES LLC",
+  "pid": "1178808",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0070-00": {
+  "address": "3109 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0070-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 70",
+  "market_value": 257033.0,
+  "owner": "BARAJAS ONEIDA HINOJOSA",
+  "pid": "1178809",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0071-00": {
+  "address": "3117 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0071-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 71",
+  "market_value": 250750.0,
+  "owner": "MORA JOSE ANTONIO HERNANDEZ",
+  "pid": "1178810",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0072-00": {
+  "address": "3121 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0072-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 72",
+  "market_value": 261332.0,
+  "owner": "ARELLANO CHRISTOPHER Z & ALYSSA M",
+  "pid": "1178811",
   "prop_type": "R"
  },
  "V3933-00-000-0073-00": {
@@ -984439,6 +986489,16 @@
   "pid": "1178812",
   "prop_type": "R"
  },
+ "V3933-00-000-0074-00": {
+  "address": "3129 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0074-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 74",
+  "market_value": 204000.0,
+  "owner": "VALDEZ VICTOR ALONSO",
+  "pid": "1178813",
+  "prop_type": "R"
+ },
  "V3933-00-000-0075-00": {
   "address": "3133 ZURICH AVE",
   "city": "MCALLEN",
@@ -984447,6 +986507,16 @@
   "market_value": 249769.0,
   "owner": "GARCIA JESUS & ANABELL",
   "pid": "1178814",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0076-00": {
+  "address": "3132 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0076-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 76",
+  "market_value": 207000.0,
+  "owner": "ALMAZAN DIANA ALBA",
+  "pid": "1178815",
   "prop_type": "R"
  },
  "V3933-00-000-0077-00": {
@@ -984459,6 +986529,36 @@
   "pid": "1178816",
   "prop_type": "R"
  },
+ "V3933-00-000-0078-00": {
+  "address": "3124 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0078-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 78",
+  "market_value": 204447.0,
+  "owner": "RANGEL DANIEL & SUMMER",
+  "pid": "1178817",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0079-00": {
+  "address": "3120 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0079-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 79",
+  "market_value": 249541.0,
+  "owner": "ERAC INVESTMENTS LLC",
+  "pid": "1178818",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0080-00": {
+  "address": "3116 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0080-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 80",
+  "market_value": 228308.0,
+  "owner": "ALVAREZ ROBERT RENE",
+  "pid": "1178819",
+  "prop_type": "R"
+ },
  "V3933-00-000-0081-00": {
   "address": "3112 ZURICH AVE",
   "city": "MCALLEN",
@@ -984467,6 +986567,16 @@
   "market_value": 239463.0,
   "owner": "PEREZ MONICA",
   "pid": "1178820",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0082-00": {
+  "address": "3108 ZURICH AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0082-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 82",
+  "market_value": 237736.0,
+  "owner": "MONTEMAYOR RAMIRO",
+  "pid": "1178821",
   "prop_type": "R"
  },
  "V3933-00-000-0083-00": {
@@ -984489,6 +986599,16 @@
   "pid": "1178823",
   "prop_type": "R"
  },
+ "V3933-00-000-0085-00": {
+  "address": "3101 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0085-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 85",
+  "market_value": 264000.0,
+  "owner": "MEDELLIN EDUARDO & TANIA MARTINEZ",
+  "pid": "1178824",
+  "prop_type": "R"
+ },
  "V3933-00-000-0086-00": {
   "address": "3105 ARROYO AVE",
   "city": "MCALLEN",
@@ -984497,6 +986617,46 @@
   "market_value": 292908.0,
   "owner": "GARZA SANTOS ULISES",
   "pid": "1178825",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0087-00": {
+  "address": "3109 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0087-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 87",
+  "market_value": 266329.0,
+  "owner": "SAUCEDA PABLO DE JESUS GONZALEZ & HAYDE W BENITEZ CARBAJAL",
+  "pid": "1178826",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0088-00": {
+  "address": "3113 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0088-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 88",
+  "market_value": 252633.0,
+  "owner": "VILLAFANA LUIS ANTONIO ORTIZ & MARSELA ALESA SEPULVEDA",
+  "pid": "1178827",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0089-00": {
+  "address": "3117 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0089-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 89",
+  "market_value": 281289.0,
+  "owner": "HINOJOSA EDGAR AARON & SANDRA GOMEZ",
+  "pid": "1178828",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0090-00": {
+  "address": "3121 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0090-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 90",
+  "market_value": 287023.0,
+  "owner": "MENDEZ JORGE A",
+  "pid": "1178829",
   "prop_type": "R"
  },
  "V3933-00-000-0091-00": {
@@ -984509,6 +986669,26 @@
   "pid": "1178830",
   "prop_type": "R"
  },
+ "V3933-00-000-0092-00": {
+  "address": "3129 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0092-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 92",
+  "market_value": 284392.0,
+  "owner": "CASAS RAQUEL AMANDA",
+  "pid": "1178831",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0093-00": {
+  "address": "10601 N 32ND ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0093-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 93",
+  "market_value": 292497.0,
+  "owner": "RODRIGUEZ WAYLAND RUSSELL",
+  "pid": "1178832",
+  "prop_type": "R"
+ },
  "V3933-00-000-0094-00": {
   "address": "10605 N 32ND ST",
   "city": "MCALLEN",
@@ -984519,6 +986699,66 @@
   "pid": "1178833",
   "prop_type": "R"
  },
+ "V3933-00-000-0095-00": {
+  "address": "10609 N 32ND ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0095-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 95",
+  "market_value": 264116.0,
+  "owner": "NIETO DANIEL JESUS & ANGELICA YVETTE GONZALEZ",
+  "pid": "1178834",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0096-00": {
+  "address": "10613 N 32ND ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0096-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 96",
+  "market_value": 267462.0,
+  "owner": "DIAZ EMMANUEL FERNANDO & DELIA PATRICIA",
+  "pid": "1178835",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0097-00": {
+  "address": "10617 N 32ND ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0097-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 97",
+  "market_value": 55723.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178836",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0098-00": {
+  "address": "3116 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0098-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 98",
+  "market_value": 53874.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178837",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0099-00": {
+  "address": "3112 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0099-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 99",
+  "market_value": 251297.0,
+  "owner": "HART ALMA AURORA & DAVID ANDREW",
+  "pid": "1178838",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0100-00": {
+  "address": "3108 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0100-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 100",
+  "market_value": 276976.0,
+  "owner": "ARELLANO STEPHEN & AMBER R",
+  "pid": "1178839",
+  "prop_type": "R"
+ },
  "V3933-00-000-0101-00": {
   "address": "3104 COLORADO AVE",
   "city": "MCALLEN",
@@ -984527,6 +986767,96 @@
   "market_value": 246309.0,
   "owner": "GARZA MONICA A",
   "pid": "1178840",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0102-00": {
+  "address": "3100 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0102-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 102",
+  "market_value": 50299.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178841",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0103-00": {
+  "address": "10713 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0103-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 103",
+  "market_value": 38634.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1178842",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0104-00": {
+  "address": "10709 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0104-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 104",
+  "market_value": 61060.0,
+  "owner": "GARNICA FELIPE & ROSA MARIA",
+  "pid": "1178843",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0105-00": {
+  "address": "10705 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0105-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 105",
+  "market_value": 310833.0,
+  "owner": "PLUMBLY STEPHANIE LEE & JASON",
+  "pid": "1178844",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0106-00": {
+  "address": "10701 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0106-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 106",
+  "market_value": 266868.0,
+  "owner": "RODRIGUEZ XAVIER A",
+  "pid": "1178845",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0107-00": {
+  "address": "10609 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0107-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 107",
+  "market_value": 61177.0,
+  "owner": "KALIDAD HOMES BUILDER & REMODELING SERVICES LLC",
+  "pid": "1178846",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0108-00": {
+  "address": "10605 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0108-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 108",
+  "market_value": 61177.0,
+  "owner": "KALIDAD HOMES BUILDER & REMODELING SERVICES LLC",
+  "pid": "1178847",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0109-00": {
+  "address": "10601 N 31ST ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0109-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 109",
+  "market_value": 332131.0,
+  "owner": "AREVALO AMANDA RACINE",
+  "pid": "1178848",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0110-00": {
+  "address": "10600 N 32ND ST",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0110-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 110",
+  "market_value": 268506.0,
+  "owner": "MORENO EDWARDO",
+  "pid": "1178849",
   "prop_type": "R"
  },
  "V3933-00-000-0111-00": {
@@ -984549,6 +986879,86 @@
   "pid": "1178851",
   "prop_type": "R"
  },
+ "V3933-00-000-0113-00": {
+  "address": "3105 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0113-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 113",
+  "market_value": 223234.0,
+  "owner": "BANDA JACOB NATHANIEL & CLARISSA LAYLA",
+  "pid": "1178852",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0114-00": {
+  "address": "3109 COLORADO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0114-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 114",
+  "market_value": 277517.0,
+  "owner": "ALONZO LISA MARIE & ROMAN GABRIEL",
+  "pid": "1178853",
+  "prop_type": "R"
+ },
+ "V3933-00-000-0115-00": {
+  "address": "3200 BRAZOS AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-0115-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 115 DETENTION POND",
+  "market_value": 23348.0,
+  "owner": "VILLANUEVA ESTATES AT TRINITY OAKS HOMEOWNERS ASSOCIATION",
+  "pid": "1178854",
+  "prop_type": "R"
+ },
+ "V3933-00-000-026A-00": {
+  "address": "3100 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-026A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 26A",
+  "market_value": 251858.0,
+  "owner": "CASTILLO ALEJANDRO JR & ISLA KARINA",
+  "pid": "1371473",
+  "prop_type": "R"
+ },
+ "V3933-00-000-028A-00": {
+  "address": "3108 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-028A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 28A",
+  "market_value": 274885.0,
+  "owner": "AGUIRRE GLENDA MARIE",
+  "pid": "1371474",
+  "prop_type": "R"
+ },
+ "V3933-00-000-029A-00": {
+  "address": "3112 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-029A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 29A",
+  "market_value": 233502.0,
+  "owner": "ORTIZ JAVIER IVAN & JESSICA SUAREZ",
+  "pid": "1371475",
+  "prop_type": "R"
+ },
+ "V3933-00-000-030A-00": {
+  "address": "3116 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-030A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 30A",
+  "market_value": 250454.0,
+  "owner": "LOPEZ MARIBELL CORTEZ & ADRIAN",
+  "pid": "1371476",
+  "prop_type": "R"
+ },
+ "V3933-00-000-034A-00": {
+  "address": "3132 ARROYO AVE",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-034A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 34A",
+  "market_value": 240018.0,
+  "owner": "HURLA CHRISTIAN JOSEPH & SHANA JEAN CHALEFF",
+  "pid": "1371477",
+  "prop_type": "R"
+ },
  "V3933-00-000-035A-00": {
   "address": "3136 ARROYO AVE",
   "city": "MCALLEN",
@@ -984557,6 +986967,16 @@
   "market_value": 267445.0,
   "owner": "MARTINEZ JESUS E FLORES & ALYSSA MICHELLE",
   "pid": "1371478",
+  "prop_type": "R"
+ },
+ "V3933-00-000-036A-00": {
+  "address": "10419 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-036A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 36A",
+  "market_value": 47882.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1371479",
   "prop_type": "R"
  },
  "V3933-00-000-037A-00": {
@@ -984569,6 +986989,66 @@
   "pid": "1371480",
   "prop_type": "R"
  },
+ "V3933-00-000-038A-00": {
+  "address": "10411 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-038A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 38A",
+  "market_value": 263627.0,
+  "owner": "BARRIENTO JUAN M & NANCY J GONZALEZ",
+  "pid": "1371481",
+  "prop_type": "R"
+ },
+ "V3933-00-000-040A-00": {
+  "address": "10403 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-040A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 40A",
+  "market_value": 204195.0,
+  "owner": "KANTO MIGUEL",
+  "pid": "1371483",
+  "prop_type": "R"
+ },
+ "V3933-00-000-041A-00": {
+  "address": "10359 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-041A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 41A",
+  "market_value": 225276.0,
+  "owner": "ESCOBAR ERNESTO & ANA G RIOS MONCADA",
+  "pid": "1371484",
+  "prop_type": "R"
+ },
+ "V3933-00-000-043A-00": {
+  "address": "10351 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-043A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 43A",
+  "market_value": 244372.0,
+  "owner": "GLORIA VICTORIA",
+  "pid": "1371485",
+  "prop_type": "R"
+ },
+ "V3933-00-000-044A-00": {
+  "address": "10347 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-044A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 44A",
+  "market_value": 243000.0,
+  "owner": "ARANGO INVESTMENT GROUP LLC",
+  "pid": "1371486",
+  "prop_type": "R"
+ },
+ "V3933-00-000-045A-00": {
+  "address": "10343 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-045A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 45A",
+  "market_value": 242750.0,
+  "owner": "PACHECO GLINDA",
+  "pid": "1371490",
+  "prop_type": "R"
+ },
  "V3933-00-000-046A-00": {
   "address": "10339 N 32ND LN",
   "city": "MCALLEN",
@@ -984577,6 +987057,26 @@
   "market_value": 252435.0,
   "owner": "MARTINEZ MARIO & GUADALUPE ADRIANA REYES",
   "pid": "1371488",
+  "prop_type": "R"
+ },
+ "V3933-00-000-047A-00": {
+  "address": "10335 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-047A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 47A",
+  "market_value": 33674.0,
+  "owner": "VILLANUEVA PROPERTIES & INVESTMENTS LLC",
+  "pid": "1371489",
+  "prop_type": "R"
+ },
+ "V3933-00-000-049A-00": {
+  "address": "10327 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-049A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 49A",
+  "market_value": 227179.0,
+  "owner": "SOTO DAVID ULISES & ANNA ELENA MARTINEZ",
+  "pid": "1371491",
   "prop_type": "R"
  },
  "V3933-00-000-050A-00": {
@@ -984589,6 +987089,16 @@
   "pid": "1371492",
   "prop_type": "R"
  },
+ "V3933-00-000-051A-00": {
+  "address": "10319 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-051A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 51A",
+  "market_value": 225811.0,
+  "owner": "PADILLA GERARDO DELGADO & ANGEL JAFET DELGADO",
+  "pid": "1371493",
+  "prop_type": "R"
+ },
  "V3933-00-000-052A-00": {
   "address": "10315 N 32ND LN",
   "city": "MCALLEN",
@@ -984597,6 +987107,26 @@
   "market_value": 242131.0,
   "owner": "MUNOZ JESUS LOZANO",
   "pid": "1371494",
+  "prop_type": "R"
+ },
+ "V3933-00-000-053A-00": {
+  "address": "10311 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-053A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 53A",
+  "market_value": 203916.0,
+  "owner": "BROWN DWIGHT A & MARIA G",
+  "pid": "1371495",
+  "prop_type": "R"
+ },
+ "V3933-00-000-054A-00": {
+  "address": "10307 N 32ND LN",
+  "city": "MCALLEN",
+  "geo_id": "V3933-00-000-054A-00",
+  "legal": "VILLANUEVA ESTATES AT TRINITY OAKS LOT 54A",
+  "market_value": 219082.0,
+  "owner": "PECINA SERGIO ANTONIO & LORISSA",
+  "pid": "1371487",
   "prop_type": "R"
  },
  "V3935-00-000-0012-00": {
@@ -1027559,6 +1030089,26 @@
   "pid": "458082",
   "prop_type": "R"
  },
+ "W3800-00-183-0000-02": {
+  "address": "815 W MILE 10N",
+  "city": "",
+  "geo_id": "W3800-00-183-0000-02",
+  "legal": "WEST TRACT E330'-W660'-N660' FT 183 5.00AC GR 4.77AC NET",
+  "market_value": 665385.0,
+  "owner": "OLIVAREZ LAZARO G & FELA B",
+  "pid": "458081",
+  "prop_type": "R"
+ },
+ "W3800-00-183-0000-05": {
+  "address": "MILE 10 EAST RD",
+  "city": "",
+  "geo_id": "W3800-00-183-0000-05",
+  "legal": "WEST TRACT E330'-W990'-N660' FT 183 5AC GR 4.77AC NET",
+  "market_value": 166950.0,
+  "owner": "OLIVAREZ LAZARO G & FELA B",
+  "pid": "499103",
+  "prop_type": "R"
+ },
  "W3800-00-183-0000-06": {
   "address": "3812 N MILE 5 1/2 W",
   "city": "WESLACO",
@@ -1046747,6 +1049297,16 @@
   "market_value": 309736.0,
   "owner": "HERNANDEZ MARIA E & DAVID JR",
   "pid": "684941",
+  "prop_type": "R"
+ },
+ "W7360-12-000-0089-00": {
+  "address": "8432 N 24TH ST",
+  "city": "MCALLEN",
+  "geo_id": "W7360-12-000-0089-00",
+  "legal": "WOODHOLLOW PH 12 LOT 89",
+  "market_value": 305012.0,
+  "owner": "MORENO DANIEL & KATHERINE L",
+  "pid": "684963",
   "prop_type": "R"
  },
  "W7360-12-000-0093-00": {
