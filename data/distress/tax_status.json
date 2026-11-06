@@ -108,7 +108,7 @@
   "total_due": 0.0
  },
  "A0113-00-000-0014-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -313,7 +313,7 @@
   "total_due": 1651.31
  },
  "A0800-00-000-1076-04": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -389,7 +389,7 @@
   "total_due": 1480.76
  },
  "A1100-01-000-0028-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -401,7 +401,7 @@
   "total_due": 139.37
  },
  "A1200-00-000-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -410,9 +410,9 @@
   ],
   "owner_mailing": "464 UPLAND AVE PONTIAC, MI 48340",
   "owner_name": "SAUCEDA ELISEO",
-  "prior_year_due": 19761.56,
+  "prior_year_due": 19899.32,
   "status": "delinquent",
-  "total_due": 23147.19
+  "total_due": 23284.95
  },
  "A1295-01-000-0013-00": {
   "checked": "2026-11-02",
@@ -525,7 +525,7 @@
   "total_due": 2503.14
  },
  "A1750-03-000-0294-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -613,7 +613,7 @@
   "total_due": 374.5
  },
  "A1800-00-025-0003-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -687,16 +687,16 @@
   "total_due": 4651.2
  },
  "A1800-00-033-0006-05": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "416 E RIDGE RD ALAMO, TX 78516-7240",
   "owner_name": "CABRALES MAURO & MARIA MAXIMA",
-  "prior_year_due": 1430.18,
+  "prior_year_due": 1435.93,
   "status": "delinquent",
-  "total_due": 2827.26
+  "total_due": 2833.01
  },
  "A1800-00-033-0013-05": {
   "checked": "2026-11-05",
@@ -739,7 +739,7 @@
   "total_due": 1765.45
  },
  "A1800-00-043-0002-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL\nHOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -851,7 +851,7 @@
   "total_due": 8004.62
  },
  "A1800-00-061-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -939,16 +939,16 @@
   "total_due": 10989.06
  },
  "A2100-00-079-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "538 E FANNIN AVE ALAMO, TX 78516-2750",
   "owner_name": "BRIONES LUIS ANTONIO ROJAS",
-  "prior_year_due": 4525.58,
+  "prior_year_due": 4561.37,
   "status": "delinquent",
-  "total_due": 6221.83
+  "total_due": 6257.62
  },
  "A2100-00-088-0006-00": {
   "checked": "2026-10-31",
@@ -1071,7 +1071,7 @@
   "total_due": 9404.08
  },
  "A2456-00-000-0020-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1239,7 +1239,7 @@
   "total_due": 2329.14
  },
  "A4149-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1363,7 +1363,7 @@
   "total_due": 6014.04
  },
  "A5500-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1427,7 +1427,7 @@
   "total_due": 1656.58
  },
  "A5708-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1672,7 +1672,7 @@
   "total_due": 1826.94
  },
  "B0300-00-022-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -1928,7 +1928,7 @@
   "total_due": 671.75
  },
  "B1900-14-000-0030-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -2004,16 +2004,16 @@
   "total_due": 13457.68
  },
  "B2065-00-000-0094-00": {
-  "checked": "2026-10-30",
-  "exemptions": "NHS CAP LOSS",
+  "checked": "2026-11-06",
+  "exemptions": "IMMED RESIDENTIAL HOMESTEAD\nNHS CAP LOSS",
   "found": true,
-  "homestead": false,
+  "homestead": true,
   "lawsuits": [],
-  "owner_mailing": "PO BOX 306 LINGLE, WY 82223-0306",
-  "owner_name": "KENDALL DAVID W & MARLEEN",
+  "owner_mailing": "6909 N 39TH ST MCALLEN, TX 78504-5394",
+  "owner_name": "KIM DONGWON & EDELYN BARCENA",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 4701.99
+  "total_due": 4322.25
  },
  "B2065-02-000-0058-00": {
   "checked": "2026-10-31",
@@ -2132,16 +2132,16 @@
   "total_due": 1839.03
  },
  "B2400-02-004-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "PO BOX 532 SULLIVAN CITY, TX 78595-0532",
   "owner_name": "TRIMBLE STANTON G",
-  "prior_year_due": 5325.45,
+  "prior_year_due": 5365.59,
   "status": "delinquent",
-  "total_due": 6533.85
+  "total_due": 6573.99
  },
  "B2550-00-000-0346-00": {
   "checked": "2026-11-05",
@@ -2212,7 +2212,7 @@
   "total_due": 0.0
  },
  "B2930-00-000-0026-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2236,16 +2236,16 @@
   "total_due": 205.91
  },
  "B3150-02-005-0023-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "606 S AIRPORT DR WESLACO, TX 78596-6616",
   "owner_name": "RODRIGUEZ JULIA",
-  "prior_year_due": 3767.4,
-  "status": "delinquent",
-  "total_due": 5856.02
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 2088.62
  },
  "B3252-00-000-0006-00": {
   "checked": "2026-11-05",
@@ -2286,7 +2286,7 @@
   "total_due": 1355.75
  },
  "B3270-00-003-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2522,7 +2522,7 @@
   "total_due": 7056.64
  },
  "B4080-00-000-0036-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2706,7 +2706,7 @@
   "total_due": 1858.12
  },
  "B4810-00-000-0030-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2820,7 +2820,7 @@
   "total_due": 5285.6
  },
  "B5015-00-000-0069-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -2829,9 +2829,9 @@
   ],
   "owner_mailing": "88 BUEN CAMINO LN ALAMO, TX 78516-1382",
   "owner_name": "MONDRAGO JULIO & MIRIAM RAMIREZ",
-  "prior_year_due": 11976.75,
+  "prior_year_due": 9101.34,
   "status": "delinquent",
-  "total_due": 20038.03
+  "total_due": 17162.62
  },
  "B5025-00-000-0051-00": {
   "checked": "2026-10-30",
@@ -2964,19 +2964,19 @@
   "total_due": 4786.63
  },
  "B5400-00-002-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "901 E POLK AVE PHARR, TX 78577-3317",
   "owner_name": "ENRIQUEZ JOSE S JR & JUANITA S",
-  "prior_year_due": 5286.37,
+  "prior_year_due": 5304.61,
   "status": "delinquent",
-  "total_due": 5845.56
+  "total_due": 5863.8
  },
  "B5400-00-002-0003-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -2985,21 +2985,21 @@
   ],
   "owner_mailing": "5940 N CYNTHIA ST MCALLEN, TX 78504-1807",
   "owner_name": "GARZA LORENA",
-  "prior_year_due": 21598.0,
+  "prior_year_due": 21755.08,
   "status": "delinquent",
-  "total_due": 26044.6
+  "total_due": 26201.68
  },
  "B5400-00-002-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "1001 E POLK AVE PHARR, TX 78577-3315",
   "owner_name": "GARZA RICARDA & ISAURO",
-  "prior_year_due": 24172.23,
+  "prior_year_due": 24215.71,
   "status": "delinquent",
-  "total_due": 24590.44
+  "total_due": 24633.92
  },
  "B5400-00-002-0010-00": {
   "checked": "2026-10-30",
@@ -3126,7 +3126,7 @@
   "total_due": 261.94
  },
  "C0300-00-189-0020-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -3138,7 +3138,7 @@
   "total_due": 724.45
  },
  "C0300-00-191-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3147,9 +3147,9 @@
   ],
   "owner_mailing": "101 E BRADY ST PHARR, TX 78577-1830",
   "owner_name": "MANCHA JOSE & CONSUELO",
-  "prior_year_due": 12183.86,
+  "prior_year_due": 12276.01,
   "status": "delinquent",
-  "total_due": 15503.49
+  "total_due": 15595.64
  },
  "C0300-00-192-0011-00": {
   "checked": "2026-10-31",
@@ -3176,7 +3176,7 @@
   "total_due": 3931.9
  },
  "C0348-00-000-0072-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3188,7 +3188,7 @@
   "total_due": 1365.44
  },
  "C0600-00-001-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3236,16 +3236,16 @@
   "total_due": 1647.4
  },
  "C0635-02-000-0095-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "3401 LIMONEROS ST MISSION, TX 78572-1919",
   "owner_name": "GUEVARA VICTOR A VASQUEZ",
-  "prior_year_due": 2101.6,
+  "prior_year_due": 2118.57,
   "status": "delinquent",
-  "total_due": 3894.36
+  "total_due": 3911.33
  },
  "C0653-00-000-0008-00": {
   "checked": "2026-10-31",
@@ -3400,7 +3400,7 @@
   "total_due": 22086.24
  },
  "C1180-02-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3472,7 +3472,7 @@
   "total_due": 0.0
  },
  "C1400-00-032-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -3638,7 +3638,7 @@
   "total_due": 3762.18
  },
  "C1535-03-000-0035-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3650,7 +3650,7 @@
   "total_due": 1708.61
  },
  "C1613-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3662,7 +3662,7 @@
   "total_due": 1264.72
  },
  "C1614-00-000-0053-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3728,7 +3728,7 @@
   "total_due": 20570.91
  },
  "C1626-02-000-0046-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3752,7 +3752,7 @@
   "total_due": 31162.0
  },
  "C1630-00-000-0023-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3814,7 +3814,7 @@
   "total_due": 1710.64
  },
  "C2000-00-002-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3823,9 +3823,9 @@
   ],
   "owner_mailing": "749 N EBONY ST PHARR, TX 78577",
   "owner_name": "SIRISA JAY DIEGO ZUNIGA & EVELYN MARIE",
-  "prior_year_due": 14310.43,
+  "prior_year_due": 14413.99,
   "status": "delinquent",
-  "total_due": 17413.69
+  "total_due": 17517.25
  },
  "C2050-00-000-0010-00": {
   "checked": "2026-10-31",
@@ -3840,7 +3840,7 @@
   "total_due": 3760.42
  },
  "C2105-03-000-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -3849,9 +3849,9 @@
   ],
   "owner_mailing": "507 NORTH 5TH ST DONNA, TX 78537-4801",
   "owner_name": "ESQUIVEL ERIKA JEANNETTE",
-  "prior_year_due": 6183.17,
+  "prior_year_due": 6230.59,
   "status": "delinquent",
-  "total_due": 8084.42
+  "total_due": 8131.84
  },
  "C2243-02-000-0177-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $311,160 \r\nLand Value: $73,040 \r\nImprovement Value: $238,120 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -3878,7 +3878,7 @@
   "total_due": 3286.99
  },
  "C2246-01-000-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3994,7 +3994,7 @@
   "total_due": 4386.31
  },
  "C2666-00-000-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4074,7 +4074,7 @@
   "total_due": 11199.54
  },
  "C2950-01-000-0029-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4150,7 +4150,7 @@
   "total_due": 6210.68
  },
  "C4040-00-000-0056-00": {
-  "checked": "2026-10-23",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4158,8 +4158,8 @@
   "owner_mailing": "1211 WEST 23RD ST MISSION, TX 78574-2222",
   "owner_name": "CARRASCO YESENIA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 3041.12
  },
  "C4050-00-006-0008-01": {
   "checked": "2026-11-05",
@@ -4176,7 +4176,7 @@
   "total_due": 8486.93
  },
  "C4050-00-011-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4214,7 +4214,7 @@
   "total_due": 8262.46
  },
  "C4439-01-000-0085-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4456,7 +4456,7 @@
   "total_due": 9778.8
  },
  "C5800-00-000-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4468,7 +4468,7 @@
   "total_due": 13847.23
  },
  "C5830-00-000-0054-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -4477,9 +4477,9 @@
   ],
   "owner_mailing": "143 N VIRGINIA AVE MERCEDES, TX 78570-2640",
   "owner_name": "DE LA CERDA ROSE MARY",
-  "prior_year_due": 7610.58,
+  "prior_year_due": 7665.19,
   "status": "delinquent",
-  "total_due": 9000.01
+  "total_due": 9054.62
  },
  "C5850-00-001-0003-00": {
   "checked": "2026-11-05",
@@ -4520,7 +4520,7 @@
   "total_due": 1147.44
  },
  "C6160-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4636,7 +4636,7 @@
   "total_due": 2588.57
  },
  "C6750-00-003-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4660,7 +4660,7 @@
   "total_due": 1149.63
  },
  "C6760-00-000-0089-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4684,7 +4684,7 @@
   "total_due": 268.52
  },
  "C6800-02-000-0019-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4764,7 +4764,7 @@
   "total_due": 185.44
  },
  "C7000-00-006-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4882,7 +4882,7 @@
   "total_due": 958.04
  },
  "C7130-02-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4906,16 +4906,16 @@
   "total_due": 2690.3
  },
  "C7130-03-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "139 JACKLINE DR ALAMO, TX 78516-9664",
   "owner_name": "SANCHEZ MARIA MINERVA",
-  "prior_year_due": 9007.26,
+  "prior_year_due": 9072.41,
   "status": "delinquent",
-  "total_due": 11044.76
+  "total_due": 11109.91
  },
  "C7150-02-004-0017-00": {
   "checked": "2026-11-05",
@@ -4996,7 +4996,7 @@
   "total_due": 1776.52
  },
  "C7500-00-001-0026-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -5199,7 +5199,7 @@
   "total_due": 994.21
  },
  "C8850-00-024-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5237,7 +5237,7 @@
   "total_due": 23454.97
  },
  "C9032-92-000-0049-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -5263,7 +5263,7 @@
   "total_due": 20276.36
  },
  "C9100-00-000-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5479,16 +5479,16 @@
   "total_due": 520.66
  },
  "C9650-00-001-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "PRORATED-EXXV",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "PO BOX 178 EDINBURG, TX 78540-0178",
   "owner_name": "HIDALGO COUNTY TRUSTEE",
-  "prior_year_due": 129085.77,
+  "prior_year_due": 129549.09,
   "status": "delinquent",
-  "total_due": 129085.77
+  "total_due": 129549.09
  },
  "C9800-00-002-0005-65": {
   "checked": "2026-10-30",
@@ -5545,7 +5545,7 @@
   "total_due": 26557.84
  },
  "D0600-06-000-0049-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5735,7 +5735,7 @@
   "total_due": 13715.74
  },
  "D2949-02-000-0201-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5877,7 +5877,7 @@
   "total_due": 11884.82
  },
  "D4000-00-004-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -5953,7 +5953,7 @@
   "total_due": 0.0
  },
  "D4600-00-117-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5962,9 +5962,9 @@
   ],
   "owner_mailing": "815 W HAWK AVE PHARR, TX 78577-3633",
   "owner_name": "ONTIVEROS JAVIER & IDOLINA",
-  "prior_year_due": 3396.61,
+  "prior_year_due": 3420.41,
   "status": "delinquent",
-  "total_due": 3944.86
+  "total_due": 3968.66
  },
  "D4850-00-000-0002-00": {
   "checked": "2026-11-05",
@@ -6158,7 +6158,7 @@
   "total_due": 3381.93
  },
  "D6755-01-003-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6276,7 +6276,7 @@
   "total_due": 42243.2
  },
  "E0100-03-00B-0014-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6355,7 +6355,7 @@
   "total_due": 9938.69
  },
  "E1200-00-000-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6407,7 +6407,7 @@
   "total_due": 1629.5
  },
  "E1700-02-000-0123-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6419,7 +6419,7 @@
   "total_due": 2126.33
  },
  "E1760-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6483,7 +6483,7 @@
   "total_due": 5787.84
  },
  "E2600-00-00B-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -6492,9 +6492,9 @@
   ],
   "owner_mailing": "815 ORANGE AVE WESLACO, TX 78596-7118",
   "owner_name": "REYNA GUILLERMO & BRO",
-  "prior_year_due": 10633.54,
+  "prior_year_due": 10706.58,
   "status": "delinquent",
-  "total_due": 12414.09
+  "total_due": 12487.13
  },
  "E2600-00-00B-0012-00": {
   "checked": "2026-10-31",
@@ -6641,7 +6641,7 @@
   "total_due": 15626.36
  },
  "E3300-00-098-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6650,9 +6650,9 @@
   ],
   "owner_mailing": "MINOR 6232 PROMENADE AVE EDINBURG, TX 78542",
   "owner_name": "GARCIA CASSY & GUADALUPE RIVERA AS TRUST",
-  "prior_year_due": 12364.87,
-  "status": "delinquent",
-  "total_due": 16090.88
+  "prior_year_due": 0.0,
+  "status": "current_due",
+  "total_due": 94.33
  },
  "E3300-00-106-0003-00": {
   "checked": "2026-10-31",
@@ -6793,7 +6793,7 @@
   "total_due": 6183.04
  },
  "E3300-00-240-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6957,7 +6957,7 @@
   "total_due": 1334.19
  },
  "E3300-00-346-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6966,9 +6966,9 @@
   ],
   "owner_mailing": "C/O JOSEFINA & MARIO GONZALEZ 7805 N TOWER RD EDINBURG, TX 78542-5988",
   "owner_name": "SCOTT ANN LOIS",
-  "prior_year_due": 6992.32,
+  "prior_year_due": 7045.18,
   "status": "delinquent",
-  "total_due": 8680.84
+  "total_due": 8733.7
  },
  "E3300-00-346-0010-00": {
   "checked": "2026-10-31",
@@ -7078,7 +7078,7 @@
   "total_due": 1088.45
  },
  "E3345-95-000-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7087,9 +7087,9 @@
   ],
   "owner_mailing": "610 E ELDORA LOT #140 PHARR, TX 78577-7529",
   "owner_name": "CHERETY VERONICA",
-  "prior_year_due": 2484.82,
+  "prior_year_due": 2502.38,
   "status": "delinquent",
-  "total_due": 2715.7
+  "total_due": 2733.26
  },
  "E3480-00-000-0025-00": {
   "checked": "2026-10-31",
@@ -7142,7 +7142,7 @@
   "total_due": 424.54
  },
  "E4135-00-000-0014-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7214,7 +7214,7 @@
   "total_due": 2012.66
  },
  "E4310-00-000-0066-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7316,7 +7316,7 @@
   "total_due": 10511.58
  },
  "E4552-00-000-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7325,9 +7325,9 @@
   ],
   "owner_mailing": "725 E 27TH ST WESLACO, TX 78596-8103",
   "owner_name": "TURRUBRIATES HILDA",
-  "prior_year_due": 2024.26,
+  "prior_year_due": 2038.96,
   "status": "delinquent",
-  "total_due": 2384.35
+  "total_due": 2399.05
  },
  "E4560-00-000-0023-00": {
   "checked": "2026-10-30",
@@ -7380,7 +7380,7 @@
   "total_due": 1998.15
  },
  "E4642-00-000-0034-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL\nHOMESTEAD\nVETERAN\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -7392,7 +7392,7 @@
   "total_due": 1113.09
  },
  "E4645-00-000-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7618,7 +7618,7 @@
   "total_due": 41334.98
  },
  "E5600-00-002-0013-05": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -7782,7 +7782,7 @@
   "total_due": 0.0
  },
  "E6680-03-000-0232-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7830,7 +7830,7 @@
   "total_due": 9075.45
  },
  "E7200-00-004-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -7944,7 +7944,7 @@
   "total_due": 7239.42
  },
  "E7290-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8004,16 +8004,16 @@
   "total_due": 4871.09
  },
  "E8000-00-115-0003-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "2607 S FIRST PHARR, TX 78577",
   "owner_name": "ELGIN XAVIER",
-  "prior_year_due": 1275.4,
+  "prior_year_due": 1285.49,
   "status": "delinquent",
-  "total_due": 1792.14
+  "total_due": 1802.23
  },
  "E8000-00-116-0001-00": {
   "checked": "2026-10-30",
@@ -8042,16 +8042,16 @@
   "total_due": 12364.07
  },
  "E8000-00-129-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "PO BOX 477 PHARR, TX 78577-1608",
   "owner_name": "RIVERA LIDIA B",
-  "prior_year_due": 5648.07,
+  "prior_year_due": 5689.33,
   "status": "delinquent",
-  "total_due": 7131.48
+  "total_due": 7172.74
  },
  "E8000-00-129-0006-00": {
   "checked": "2026-10-31",
@@ -8396,19 +8396,19 @@
   "total_due": 43071.2
  },
  "F1800-00-004-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "825 E MARION ST PHARR, TX 78577-5007",
   "owner_name": "RENDON FRANCISCO",
-  "prior_year_due": 42094.7,
+  "prior_year_due": 42326.97,
   "status": "delinquent",
-  "total_due": 44559.04
+  "total_due": 44791.31
  },
  "F1800-00-006-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8534,7 +8534,7 @@
   "total_due": 1475.64
  },
  "F3450-00-155-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8624,7 +8624,7 @@
   "total_due": 6391.45
  },
  "F4050-00-010-0000-30": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8724,7 +8724,7 @@
   "total_due": 4292.24
  },
  "F5270-00-000-0064-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8760,7 +8760,7 @@
   "total_due": 971.39
  },
  "F6021-95-000-0023-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8769,9 +8769,9 @@
   ],
   "owner_mailing": "SMOCK MICHELLE DIONNE 13103 LAS CUMBRES DR EDCOUCH, TX 78538-3492",
   "owner_name": "SMOCK PHILIP",
-  "prior_year_due": 9702.21,
+  "prior_year_due": 9774.93,
   "status": "delinquent",
-  "total_due": 11579.61
+  "total_due": 11652.33
  },
  "F6750-07-000-0047-00": {
   "checked": "2026-10-31",
@@ -8798,7 +8798,7 @@
   "total_due": 10996.46
  },
  "F6750-08-000-0025-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8810,7 +8810,7 @@
   "total_due": 2295.52
  },
  "F6750-08-000-0031-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8886,7 +8886,7 @@
   "total_due": 3023.83
  },
  "F7200-00-102-0019-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8895,9 +8895,9 @@
   ],
   "owner_mailing": "2311 E STATE RD PORT CLINTON, OH 43452-2530",
   "owner_name": "CASTILLO JESUS ETAL",
-  "prior_year_due": 13001.0,
+  "prior_year_due": 13093.47,
   "status": "delinquent",
-  "total_due": 15578.28
+  "total_due": 15670.75
  },
  "F7495-01-000-0063-00": {
   "checked": "2026-11-05",
@@ -8976,7 +8976,7 @@
   "total_due": 4384.5
  },
  "G0155-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9064,7 +9064,7 @@
   "total_due": 508.91
  },
  "G0900-02-007-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -9073,9 +9073,9 @@
   ],
   "owner_mailing": "104 S MISSOURI AVE WESLACO, TX 78596-5926",
   "owner_name": "OLAGUE RAMON & ELOISA",
-  "prior_year_due": 1909.67,
+  "prior_year_due": 1924.99,
   "status": "delinquent",
-  "total_due": 3171.54
+  "total_due": 3186.86
  },
  "G0900-02-009-0004-00": {
   "checked": "2026-10-31",
@@ -9143,7 +9143,7 @@
   "total_due": 1673.27
  },
  "G1200-09-000-0102-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9217,7 +9217,7 @@
   "total_due": 41150.05
  },
  "G2300-00-001-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9226,9 +9226,9 @@
   ],
   "owner_mailing": "905 W SMITH ST EDINBURG, TX 78541-2340",
   "owner_name": "JIMENEZ GERARDO ET AL",
-  "prior_year_due": 18357.69,
+  "prior_year_due": 18485.55,
   "status": "delinquent",
-  "total_due": 21285.51
+  "total_due": 21413.37
  },
  "G2300-00-002-0003-00": {
   "checked": "2026-11-05",
@@ -9259,7 +9259,7 @@
   "total_due": 19648.07
  },
  "G2500-00-002-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9268,9 +9268,9 @@
   ],
   "owner_mailing": "2308 ANACUA CIR EDINBURG, TX 78539-5912",
   "owner_name": "REYNA REYMUNDO",
-  "prior_year_due": 6093.12,
+  "prior_year_due": 6141.08,
   "status": "delinquent",
-  "total_due": 9282.14
+  "total_due": 9330.1
  },
  "G2900-00-000-0002-00": {
   "checked": "2026-10-31",
@@ -9285,16 +9285,16 @@
   "total_due": 9195.34
  },
  "G4000-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "4012 ORCHID AVE MCALLEN, TX 78504",
   "owner_name": "ZUNIGA JOSE LUIS",
-  "prior_year_due": 964.35,
+  "prior_year_due": 968.22,
   "status": "delinquent",
-  "total_due": 4242.33
+  "total_due": 4246.2
  },
  "G4032-00-000-0047-00": {
   "checked": "2026-11-05",
@@ -9349,7 +9349,7 @@
   "total_due": 11008.28
  },
  "G4100-00-006-0026-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9451,7 +9451,7 @@
   "total_due": 5682.26
  },
  "G5046-00-000-0031-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -9591,7 +9591,7 @@
   "total_due": 8247.04
  },
  "G5975-02-000-0146-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9600,12 +9600,12 @@
   ],
   "owner_mailing": "212 YASMIN ST DONNA, TX 78537-4624",
   "owner_name": "JURADO VICTOR M & ARACELI B",
-  "prior_year_due": 6361.14,
+  "prior_year_due": 6410.08,
   "status": "delinquent",
-  "total_due": 10271.63
+  "total_due": 10320.57
  },
  "G6770-01-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9694,7 +9694,7 @@
   "total_due": 1410.36
  },
  "G7565-00-000-0287-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9806,7 +9806,7 @@
   "total_due": 4299.45
  },
  "G8555-00-000-0055-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10124,7 +10124,7 @@
   "total_due": 16352.35
  },
  "H0520-00-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10148,7 +10148,7 @@
   "total_due": 1298.11
  },
  "H0800-00-200-0000-10": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10270,7 +10270,7 @@
   "total_due": 455.89
  },
  "H1200-00-054-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -10373,16 +10373,16 @@
   "total_due": 1779.65
  },
  "H1850-00-167-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "1113 E JUAREZ AVE PHARR, TX 78577-4232",
   "owner_name": "MATA MARTIN & EUSEBIA",
-  "prior_year_due": 619.31,
+  "prior_year_due": 624.01,
   "status": "delinquent",
-  "total_due": 769.42
+  "total_due": 774.12
  },
  "H1850-00-168-0008-00": {
   "checked": "2026-10-31",
@@ -10459,7 +10459,7 @@
   "total_due": 12414.93
  },
  "H2047-00-000-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10471,7 +10471,7 @@
   "total_due": 7.86
  },
  "H2050-02-000-0051-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10509,7 +10509,7 @@
   "total_due": 7518.5
  },
  "H2500-00-036-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10547,7 +10547,7 @@
   "total_due": 4772.05
  },
  "H2650-00-001-0045-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -10687,7 +10687,7 @@
   "total_due": 12033.98
  },
  "H2661-00-000-0049-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10811,7 +10811,7 @@
   "total_due": 6702.39
  },
  "H3053-00-000-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10873,7 +10873,7 @@
   "total_due": 2756.27
  },
  "H3450-00-000-0027-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -10935,7 +10935,7 @@
   "total_due": 1397.65
  },
  "H3475-00-176-0000-08": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -10944,9 +10944,9 @@
   ],
   "owner_mailing": "PO BOX 468 WAPATO, WA 98951-9004",
   "owner_name": "ALMAGER EULOGIA",
-  "prior_year_due": 3308.52,
+  "prior_year_due": 3334.65,
   "status": "delinquent",
-  "total_due": 4746.47
+  "total_due": 4772.6
  },
  "H3475-00-192-0000-07": {
   "checked": "2026-11-05",
@@ -10975,16 +10975,16 @@
   "total_due": 11312.77
  },
  "H3650-03-000-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "4106 MARISOL ST MISSION, TX 78574-5749",
   "owner_name": "VILLARREAL JOSEFINA",
-  "prior_year_due": 15684.63,
+  "prior_year_due": 15729.43,
   "status": "delinquent",
-  "total_due": 16720.56
+  "total_due": 16765.36
  },
  "H3830-00-000-0145-00": {
   "checked": "2026-11-05",
@@ -11039,7 +11039,7 @@
   "total_due": 11118.57
  },
  "H4195-00-000-0027-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -11145,7 +11145,7 @@
   "total_due": 1493.91
  },
  "H5050-00-001-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11157,7 +11157,7 @@
   "total_due": 3554.32
  },
  "H5210-03-000-00C7-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11166,9 +11166,9 @@
   ],
   "owner_mailing": "10006 MONTE CARLO LANE EDINBURG, TX 78541-5962",
   "owner_name": "SANCHEZ SANTIAGO J & ROSA M MENDOZA",
-  "prior_year_due": 2836.82,
+  "prior_year_due": 2857.02,
   "status": "delinquent",
-  "total_due": 4512.28
+  "total_due": 4532.48
  },
  "H5210-07-000-0020-00": {
   "checked": "2026-11-05",
@@ -11317,16 +11317,16 @@
   "total_due": 5836.69
  },
  "I4046-00-000-0024-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "2806 DAVID ST MISSION, TX 78574-9155",
   "owner_name": "CAVAZOS MARILYN",
-  "prior_year_due": 3808.74,
+  "prior_year_due": 3837.56,
   "status": "delinquent",
-  "total_due": 4825.37
+  "total_due": 4854.19
  },
  "I4050-02-001-0013-00": {
   "checked": "2026-10-30",
@@ -11447,7 +11447,7 @@
   "total_due": 2847.76
  },
  "J2001-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "PRORATED-EXXV",
   "found": true,
   "homestead": false,
@@ -11485,7 +11485,7 @@
   "total_due": 4163.35
  },
  "J2165-00-000-0046-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11602,16 +11602,16 @@
   "total_due": 8323.27
  },
  "J5700-00-005-0002-02": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "FIDEL LOPEZ JR 218 FRESNO DR EDINBURG, TX 78542-7345",
   "owner_name": "LOPEZ FIDEL",
-  "prior_year_due": 1841.68,
+  "prior_year_due": 1856.91,
   "status": "delinquent",
-  "total_due": 6921.35
+  "total_due": 6936.58
  },
  "J5700-00-006-0004-25": {
   "checked": "2026-10-31",
@@ -11761,7 +11761,7 @@
   "total_due": 43552.63
  },
  "K0600-02-005-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11801,16 +11801,16 @@
   "total_due": 11770.84
  },
  "K2400-00-000-0053-11": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "4603 S BUSINESS HIGHWAY 281 EDINBURG, TX 78539-7837",
   "owner_name": "SANCHEZ AMALIA",
-  "prior_year_due": 52738.91,
+  "prior_year_due": 52841.94,
   "status": "delinquent",
-  "total_due": 53904.31
+  "total_due": 54007.34
  },
  "K2400-00-000-0073-13": {
   "checked": "2026-11-03",
@@ -11905,7 +11905,7 @@
   "total_due": 4587.19
  },
  "K2400-00-000-0237-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11977,7 +11977,7 @@
   "total_due": 4268.35
  },
  "K2400-00-000-0340-21": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11989,12 +11989,12 @@
   "total_due": 1193.23
  },
  "K2600-00-002-0003-00": {
-  "checked": "2026-10-30",
-  "exemptions": "DISABLED\nHOMESTEAD",
+  "checked": "2026-11-06",
+  "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
-  "owner_mailing": "1105 BURNEY ST MISSION, TX 78572-3601",
+  "owner_mailing": "1105 BURNEY ST MISSION, TX 78572",
   "owner_name": "RODRIGUEZ JESUS",
   "prior_year_due": 0.0,
   "status": "current_due",
@@ -12029,7 +12029,7 @@
   "total_due": 9233.24
  },
  "K4800-00-001-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12067,7 +12067,7 @@
   "total_due": 1400.65
  },
  "K6400-00-000-0014-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12209,7 +12209,7 @@
   "total_due": 1829.95
  },
  "L0250-00-065-0004-04": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12218,12 +12218,12 @@
   ],
   "owner_mailing": "132 N 1ST ST DONNA, TX 78537-2315",
   "owner_name": "VASQUEZ JUAN M & GLORIA BERNAL",
-  "prior_year_due": 7670.1,
+  "prior_year_due": 7728.91,
   "status": "delinquent",
-  "total_due": 10111.7
+  "total_due": 10170.51
  },
  "L0375-00-000-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12232,7 +12232,7 @@
   "owner_name": "VARELA YADIRA AIDEE",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 1407.22
+  "total_due": 1458.04
  },
  "L0450-00-024-0000-03": {
   "checked": "2026-10-31",
@@ -12327,7 +12327,7 @@
   "total_due": 1583.99
  },
  "L0750-02-000-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12336,9 +12336,9 @@
   ],
   "owner_mailing": "313 S 5TH ST DONNA, TX 78537-3084",
   "owner_name": "TORRES JULIO C & JULIA E",
-  "prior_year_due": 13642.67,
+  "prior_year_due": 13750.18,
   "status": "delinquent",
-  "total_due": 17632.36
+  "total_due": 17739.87
  },
  "L0800-00-001-0004-00": {
   "checked": "2026-10-31",
@@ -12353,7 +12353,7 @@
   "total_due": 16172.73
  },
  "L0800-00-017-0003-04": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -12561,7 +12561,7 @@
   "total_due": 326.29
  },
  "L1070-0B-000-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12601,7 +12601,7 @@
   "total_due": 8006.74
  },
  "L1100-02-002-0083-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12610,9 +12610,9 @@
   ],
   "owner_mailing": "5836 N 25TH ST MCALLEN, TX 78504-4309",
   "owner_name": "RENDON ALBERTO & ALDA",
-  "prior_year_due": 16540.76,
+  "prior_year_due": 16604.08,
   "status": "delinquent",
-  "total_due": 16990.81
+  "total_due": 17054.13
  },
  "L1100-02-002-0090-00": {
   "checked": "2026-10-31",
@@ -12644,7 +12644,7 @@
   "total_due": 60361.02
  },
  "L1150-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12658,7 +12658,7 @@
   "total_due": 2422.83
  },
  "L1150-00-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -12672,7 +12672,7 @@
   "total_due": 898.2
  },
  "L1150-00-000-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12700,7 +12700,7 @@
   "total_due": 5130.85
  },
  "L1170-00-000-0086-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12709,9 +12709,9 @@
   ],
   "owner_mailing": "2626 SYRACUSE DR IRVING, TX 75062-7137",
   "owner_name": "SALINAS JUAN RAFAEL & YARITZA LIZBETH GR",
-  "prior_year_due": 16873.58,
+  "prior_year_due": 17005.26,
   "status": "delinquent",
-  "total_due": 22257.14
+  "total_due": 22388.82
  },
  "L1300-00-000-0078-03": {
   "checked": "2026-11-03",
@@ -12804,7 +12804,7 @@
   "total_due": 4857.38
  },
  "L1600-00-002-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -12813,9 +12813,9 @@
   ],
   "owner_mailing": "1615 JUNIPER AVE MCALLEN, TX 78501-5343",
   "owner_name": "RODRIQUEZ SIMONA",
-  "prior_year_due": 5937.25,
+  "prior_year_due": 5976.51,
   "status": "delinquent",
-  "total_due": 6830.68
+  "total_due": 6869.94
  },
  "L1640-00-000-0021-00": {
   "checked": "2026-10-30",
@@ -12886,7 +12886,7 @@
   "total_due": 3823.83
  },
  "L1770-01-000-0098-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13012,7 +13012,7 @@
   "total_due": 6124.08
  },
  "L2099-00-000-0017-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13080,7 +13080,7 @@
   "total_due": 12417.88
  },
  "L2208-02-000-0028-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -13154,7 +13154,7 @@
   "total_due": 12274.0
  },
  "L2490-01-002-0008-10": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -13232,7 +13232,7 @@
   "total_due": 4879.34
  },
  "L2670-00-005-0012-05": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13462,7 +13462,7 @@
   "total_due": 4030.23
  },
  "L3151-00-000-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13594,7 +13594,7 @@
   "total_due": 1138.78
  },
  "L3180-03-000-0258-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13666,7 +13666,7 @@
   "total_due": 1597.96
  },
  "L3180-03-000-0328-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13690,7 +13690,7 @@
   "total_due": 1139.05
  },
  "L3183-00-000-0037-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13702,7 +13702,7 @@
   "total_due": 2941.97
  },
  "L3186-03-000-0307-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13768,7 +13768,7 @@
   "total_due": 2429.99
  },
  "L3198-00-001-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13780,19 +13780,19 @@
   "total_due": 1401.63
  },
  "L3200-00-003-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "732 E 9TH ST MERCEDES, TX 78570-3248",
   "owner_name": "MARTINEZ MARIA",
-  "prior_year_due": 1788.43,
+  "prior_year_due": 1803.21,
   "status": "delinquent",
-  "total_due": 5130.56
+  "total_due": 5145.34
  },
  "L3200-00-005-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13966,7 +13966,7 @@
   "total_due": 5779.1
  },
  "L3355-00-000-0087-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13978,7 +13978,7 @@
   "total_due": 4839.7
  },
  "L3365-00-000-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13987,9 +13987,9 @@
   ],
   "owner_mailing": "PO BOX 1584 PHARR, TX 78577-1627",
   "owner_name": "MASCORRO CESAR",
-  "prior_year_due": 5799.98,
+  "prior_year_due": 5843.85,
   "status": "delinquent",
-  "total_due": 7365.08
+  "total_due": 7408.95
  },
  "L3365-00-000-0041-00": {
   "checked": "2026-10-30",
@@ -14004,7 +14004,7 @@
   "total_due": 3219.8
  },
  "L3382-00-000-0087-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14056,7 +14056,7 @@
   "total_due": 19086.54
  },
  "L3397-2A-000-0145-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14068,7 +14068,7 @@
   "total_due": 961.99
  },
  "L3398-00-001-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -14154,7 +14154,7 @@
   "total_due": 392.75
  },
  "L3840-00-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -14246,16 +14246,16 @@
   "total_due": 10405.15
  },
  "L4700-00-000-0026-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "2532 LINDBERG AVE MCALLEN, TX 78501-7731",
   "owner_name": "GONZALEZ PEDRO & MA DE LOS ANGELES",
-  "prior_year_due": 388.18,
+  "prior_year_due": 389.75,
   "status": "delinquent",
-  "total_due": 771.53
+  "total_due": 773.1
  },
  "L4700-00-000-0049-00": {
   "checked": "2026-11-05",
@@ -14348,7 +14348,7 @@
   "total_due": 2122.48
  },
  "L5140-02-000-0082-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14438,7 +14438,7 @@
   "total_due": 10511.26
  },
  "L5260-01-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14450,7 +14450,7 @@
   "total_due": 3723.15
  },
  "L5260-01-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -14610,7 +14610,7 @@
   "total_due": 30459.12
  },
  "L5827-00-000-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14712,7 +14712,7 @@
   "total_due": 11525.35
  },
  "L5965-02-000-0130-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14824,7 +14824,7 @@
   "total_due": 1615.42
  },
  "L6115-00-000-0168-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14850,7 +14850,7 @@
   "total_due": 6189.81
  },
  "L6125-00-000-0060-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14886,16 +14886,16 @@
   "total_due": 1797.84
  },
  "L6150-00-000-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "5018 RETAMA ST EDINBURG, TX 78541-1917",
   "owner_name": "SANCHEZ OSCAR & MARIA SUSANA GONZALEZ DE",
-  "prior_year_due": 6667.48,
+  "prior_year_due": 6720.21,
   "status": "delinquent",
-  "total_due": 9624.99
+  "total_due": 9677.72
  },
  "L6155-00-000-0013-00": {
   "checked": "2026-10-30",
@@ -14950,7 +14950,7 @@
   "total_due": 1737.51
  },
  "L6225-5A-000-0068-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15050,7 +15050,7 @@
   "total_due": 13579.86
  },
  "L6278-00-000-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15200,7 +15200,7 @@
   "total_due": 1380.63
  },
  "L6453-00-000-0080-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15312,16 +15312,16 @@
   "total_due": 6817.48
  },
  "L6700-00-010-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL\nHOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "4106 TAGLE ST EDINBURG, TX 78541-6820",
   "owner_name": "GOMEZ MARIA D A/K/A MARIA AMBRIZ & JUAN",
-  "prior_year_due": 986.01,
+  "prior_year_due": 989.79,
   "status": "delinquent",
-  "total_due": 1297.69
+  "total_due": 1301.47
  },
  "L6700-00-021-0007-00": {
   "checked": "2026-10-30",
@@ -15378,7 +15378,7 @@
   "total_due": 35887.01
  },
  "M0150-00-046-0010-05": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -15478,7 +15478,7 @@
   "total_due": 253.69
  },
  "M0350-00-010-0041-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -15487,9 +15487,9 @@
   ],
   "owner_mailing": "3908 GARZA ST MISSION, TX 78572",
   "owner_name": "ALANIZ LEONARDO JR & SAN JUANITA",
-  "prior_year_due": 32924.84,
+  "prior_year_due": 33049.68,
   "status": "delinquent",
-  "total_due": 35031.59
+  "total_due": 35156.43
  },
  "M0450-02-001-0012-00": {
   "checked": "2026-10-31",
@@ -15504,7 +15504,7 @@
   "total_due": 1957.16
  },
  "M0547-00-000-0067-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -15528,7 +15528,7 @@
   "total_due": 1488.51
  },
  "M0619-00-000-0014-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15708,7 +15708,7 @@
   "total_due": 6820.51
  },
  "M1883-00-000-0093-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15732,7 +15732,7 @@
   "total_due": 4022.51
  },
  "M2050-00-000-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15741,9 +15741,9 @@
   ],
   "owner_mailing": "2117 S 32ND ST MCALLEN, TX 78503-8382",
   "owner_name": "SALINAS LORENZO & MARIA G",
-  "prior_year_due": 3080.52,
+  "prior_year_due": 3105.81,
   "status": "delinquent",
-  "total_due": 5989.19
+  "total_due": 6014.48
  },
  "M2050-00-000-0017-00": {
   "checked": "2026-11-05",
@@ -15867,7 +15867,7 @@
   "total_due": 7924.91
  },
  "M2600-02-000-0034-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15893,16 +15893,16 @@
   "total_due": 5728.23
  },
  "M2650-00-014-0001-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "116 E COMA AVE PMB 558 HIDALGO, TX 78557-2501",
   "owner_name": "ZAVALA ENRIQUE & JUANA",
-  "prior_year_due": 43444.45,
+  "prior_year_due": 43546.77,
   "status": "delinquent",
-  "total_due": 47587.7
+  "total_due": 47690.02
  },
  "M2800-00-003-0003-00": {
   "checked": "2026-10-30",
@@ -15943,7 +15943,7 @@
   "total_due": 0.0
  },
  "M3175-1B-002-00C3-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15952,9 +15952,9 @@
   ],
   "owner_mailing": "2020 E 19TH ST MISSION, TX 78572",
   "owner_name": "BALLESTEROS NELIDA",
-  "prior_year_due": 572.77,
+  "prior_year_due": 577.08,
   "status": "delinquent",
-  "total_due": 981.52
+  "total_due": 985.83
  },
  "M3175-1B-010-0023-00": {
   "checked": "2026-10-30",
@@ -15995,7 +15995,7 @@
   "total_due": 1016.97
  },
  "M3175-1B-013-0029-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16073,7 +16073,7 @@
   "total_due": 0.0
  },
  "M3225-00-000-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16163,7 +16163,7 @@
   "total_due": 5686.41
  },
  "M3531-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16275,16 +16275,16 @@
   "total_due": 3960.39
  },
  "M3550-00-065-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "3341 N 12TH ST MILWAUKEE, WI 53206-2835",
   "owner_name": "ZAMORA JUANA M",
-  "prior_year_due": 4486.02,
+  "prior_year_due": 4522.31,
   "status": "delinquent",
-  "total_due": 7037.02
+  "total_due": 7073.31
  },
  "M3550-00-104-0019-10": {
   "checked": "2026-10-30",
@@ -16439,7 +16439,7 @@
   "total_due": 15312.16
  },
  "M3576-01-000-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16465,7 +16465,7 @@
   "total_due": 9610.54
  },
  "M3576-01-000-0042-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16515,7 +16515,7 @@
   "total_due": 2055.76
  },
  "M3730-00-000-0031-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16539,7 +16539,7 @@
   "total_due": 562.72
  },
  "M3852-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16548,9 +16548,9 @@
   ],
   "owner_mailing": "PO BOX 664 PROGRESO, TX 78579-0664",
   "owner_name": "VARGAS ARNULFO & GLORIA",
-  "prior_year_due": 6497.36,
+  "prior_year_due": 6542.23,
   "status": "delinquent",
-  "total_due": 7505.72
+  "total_due": 7550.59
  },
  "M3852-00-000-0013-00": {
   "checked": "2026-11-05",
@@ -16581,7 +16581,7 @@
   "total_due": 17101.78
  },
  "M3920-00-002-0039-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16710,16 +16710,16 @@
   "total_due": 2443.33
  },
  "M4658-00-000-0020-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "4409 MARSHALL ST MISSION, TX 78574-6608",
   "owner_name": "VARGAS ESTANISLADO",
-  "prior_year_due": 178.08,
+  "prior_year_due": 179.53,
   "status": "delinquent",
-  "total_due": 474.24
+  "total_due": 475.69
  },
  "M4659-00-000-0030-00": {
   "checked": "2026-11-05",
@@ -16786,7 +16786,7 @@
   "total_due": 7850.07
  },
  "M4735-00-002-0036-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16836,7 +16836,7 @@
   "total_due": 11362.62
  },
  "M4754-00-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16848,16 +16848,16 @@
   "total_due": 2428.69
  },
  "M4800-00-114-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "702 N VETERANS BLVD EDINBURG, TX 78541",
   "owner_name": "TORRES LUCINDA",
-  "prior_year_due": 4922.89,
+  "prior_year_due": 4715.21,
   "status": "delinquent",
-  "total_due": 5877.87
+  "total_due": 5670.19
  },
  "M4820-00-002-0048-00": {
   "checked": "2026-11-05",
@@ -16872,7 +16872,7 @@
   "total_due": 4885.05
  },
  "M4900-00-000-0009-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16896,7 +16896,7 @@
   "total_due": 0.0
  },
  "M4900-00-000-0055-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16905,9 +16905,9 @@
   ],
   "owner_mailing": "424 S COUNTY ROAD 1140 RIVIERA, TX 78379-3526",
   "owner_name": "YBARRA JOSE DAVID",
-  "prior_year_due": 3621.35,
+  "prior_year_due": 3648.08,
   "status": "delinquent",
-  "total_due": 4554.29
+  "total_due": 4581.02
  },
  "M4900-00-000-0086-01": {
   "checked": "2026-10-30",
@@ -16964,7 +16964,7 @@
   "total_due": 3327.48
  },
  "M5110-2A-000-0096-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17030,7 +17030,7 @@
   "total_due": 3308.24
  },
  "M5200-00-109-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -17039,9 +17039,9 @@
   ],
   "owner_mailing": "620 OBLATE MISSION, TX 78572-5350",
   "owner_name": "HERNANDEZ JUANITA & NANCY",
-  "prior_year_due": 10355.84,
+  "prior_year_due": 10435.25,
   "status": "delinquent",
-  "total_due": 14004.05
+  "total_due": 14083.46
  },
  "M5200-00-169-0003-00": {
   "checked": "2026-10-31",
@@ -17158,7 +17158,7 @@
   "total_due": 18445.01
  },
  "M5650-00-002-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -17170,7 +17170,7 @@
   "total_due": 285.23
  },
  "M5679-01-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17206,7 +17206,7 @@
   "total_due": 28667.39
  },
  "M5679-01-000-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17215,9 +17215,9 @@
   ],
   "owner_mailing": "2213 VILLAGE DR MISSION, TX 78572-3281",
   "owner_name": "RANCHO LA LIBERTAD LLC",
-  "prior_year_due": 10884.83,
+  "prior_year_due": 10974.81,
   "status": "delinquent",
-  "total_due": 20252.09
+  "total_due": 20342.07
  },
  "M5679-01-000-0008-00": {
   "checked": "2026-10-30",
@@ -17334,7 +17334,7 @@
   "total_due": 14099.92
  },
  "M5942-02-000-0151-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17360,7 +17360,7 @@
   "total_due": 3867.29
  },
  "M5944-00-000-0040-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17408,16 +17408,16 @@
   "total_due": 3416.4
  },
  "M5948-00-000-0028-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "2638 AMANDA DR EDINBURG, TX 78542-3591",
   "owner_name": "MEDEIROS JASON WAYNE ANDRADE",
-  "prior_year_due": 1567.7,
+  "prior_year_due": 1580.05,
   "status": "delinquent",
-  "total_due": 2100.42
+  "total_due": 2112.77
  },
  "M5948-00-000-0037-00": {
   "checked": "2026-10-30",
@@ -17444,7 +17444,7 @@
   "total_due": 4425.43
  },
  "M5952-00-000-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17548,7 +17548,7 @@
   "total_due": 7836.61
  },
  "M6450-00-008-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17560,7 +17560,7 @@
   "total_due": 2520.69
  },
  "M6462-00-00A-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17596,7 +17596,7 @@
   "total_due": 8308.65
  },
  "M7003-02-000-0184-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17676,7 +17676,7 @@
   "total_due": 15963.94
  },
  "N0200-00-001-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17778,7 +17778,7 @@
   "total_due": 3385.95
  },
  "N1350-00-000-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17856,7 +17856,7 @@
   "total_due": 6422.02
  },
  "N1350-03-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17894,7 +17894,7 @@
   "total_due": 9202.45
  },
  "N2960-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -17972,7 +17972,7 @@
   "total_due": 12099.95
  },
  "N3400-00-000-2120-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18221,7 +18221,7 @@
   "total_due": 63735.5
  },
  "N4852-00-000-0092-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18257,7 +18257,7 @@
   "total_due": 3938.85
  },
  "N5020-00-000-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18269,7 +18269,7 @@
   "total_due": 1569.17
  },
  "N5400-00-018-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18281,7 +18281,7 @@
   "total_due": 3709.78
  },
  "N6400-00-000-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18293,7 +18293,7 @@
   "total_due": 1920.89
  },
  "N6600-00-000-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18305,7 +18305,7 @@
   "total_due": 833.92
  },
  "N6610-02-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18393,7 +18393,7 @@
   "total_due": 1197.17
  },
  "N7330-00-000-0037-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18431,7 +18431,7 @@
   "total_due": 730.35
  },
  "N7800-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18455,7 +18455,7 @@
   "total_due": 4357.77
  },
  "N8000-02-003-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18481,7 +18481,7 @@
   "total_due": 4284.26
  },
  "N8400-00-001-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -18517,7 +18517,7 @@
   "total_due": 824.99
  },
  "N8400-00-005-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18529,7 +18529,7 @@
   "total_due": 873.0
  },
  "N8400-00-007-0021-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -18538,9 +18538,9 @@
   ],
   "owner_mailing": "PO BOX 5004 BROWNSVILLE, TX 78523-5004",
   "owner_name": "GARZA OSCAR",
-  "prior_year_due": 13308.82,
+  "prior_year_due": 13406.17,
   "status": "delinquent",
-  "total_due": 16579.04
+  "total_due": 16676.39
  },
  "N8540-00-001-0025-00": {
   "checked": "2026-10-30",
@@ -18607,7 +18607,7 @@
   "total_due": 6076.69
  },
  "O0557-01-000-0034-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18813,7 +18813,7 @@
   "total_due": 14555.7
  },
  "O3000-06-000-0004-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18821,8 +18821,8 @@
   "owner_mailing": "5913 N MILE 4 1/2 W WESLACO, TX 78599-2547",
   "owner_name": "BENDANA DOUGLAS & CAROLINA",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 929.13
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "O3100-09-000-0006-00": {
   "checked": "2026-11-05",
@@ -18950,7 +18950,7 @@
   "total_due": 5912.33
  },
  "O7760-02-000-0070-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -18960,9 +18960,9 @@
   ],
   "owner_mailing": "PO BOX 1968 DONNA, TX 78537-1968",
   "owner_name": "YANEZ CATALINA",
-  "prior_year_due": 9983.48,
+  "prior_year_due": 10053.22,
   "status": "delinquent",
-  "total_due": 11679.86
+  "total_due": 11749.6
  },
  "O7800-02-001-0007-00": {
   "checked": "2026-10-31",
@@ -19017,7 +19017,7 @@
   "total_due": 738.75
  },
  "O8100-00-000-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19079,7 +19079,7 @@
   "total_due": 5417.06
  },
  "P0070-00-000-0113-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19119,16 +19119,16 @@
   "total_due": 19618.13
  },
  "P0335-00-000-0017-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "1709 PALM CREEK BLVD PALMVIEW, TX 78574-0326",
   "owner_name": "VIEZCA BENJAMIN & NANCY",
-  "prior_year_due": 30076.95,
+  "prior_year_due": 30169.89,
   "status": "delinquent",
-  "total_due": 32303.84
+  "total_due": 32396.78
  },
  "P0600-00-001-0001-01": {
   "checked": "2026-10-31",
@@ -19157,7 +19157,7 @@
   "total_due": 10978.38
  },
  "P1000-02-000-0179-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19273,7 +19273,7 @@
   "total_due": 32965.74
  },
  "P1300-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19285,19 +19285,19 @@
   "total_due": 4240.7
  },
  "P1400-00-005-0025-02": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "1219 S CANNA ST PHARR, TX 78577-5813",
   "owner_name": "ATTWOOD JUANITA",
-  "prior_year_due": 6073.9,
+  "prior_year_due": 6123.24,
   "status": "delinquent",
-  "total_due": 10098.33
+  "total_due": 10147.67
  },
  "P1750-00-000-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -19442,19 +19442,19 @@
   "total_due": 3054.55
  },
  "P3000-03-000-000A-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "7508 PALO VERDE CIR PHARR, TX 78577-9291",
   "owner_name": "MACIAS MARIA LUCILA",
-  "prior_year_due": 678.64,
+  "prior_year_due": 684.25,
   "status": "delinquent",
-  "total_due": 1805.15
+  "total_due": 1810.76
  },
  "P3111-00-000-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19463,9 +19463,9 @@
   ],
   "owner_mailing": "1113 MONICA AVE MISSION, TX 78573-1630",
   "owner_name": "FLORES JOSE MARTIN & MELISSA GRANADOS",
-  "prior_year_due": 6694.76,
+  "prior_year_due": 6745.76,
   "status": "delinquent",
-  "total_due": 8816.95
+  "total_due": 8867.95
  },
  "P3111-00-000-0039-00": {
   "checked": "2026-10-31",
@@ -19480,7 +19480,7 @@
   "total_due": 2400.76
  },
  "P3112-01-000-0026-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19506,7 +19506,7 @@
   "total_due": 8914.47
  },
  "P3112-03-000-0211-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -19518,7 +19518,7 @@
   "total_due": 1493.15
  },
  "P3112-03-000-0220-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19527,9 +19527,9 @@
   ],
   "owner_mailing": "1738 ROSALIA CIR EDINBURG, TX 78541-9160",
   "owner_name": "BARAHONA JUAN FRANCISCO & GRISELDA XIOMA",
-  "prior_year_due": 7326.66,
+  "prior_year_due": 7032.53,
   "status": "delinquent",
-  "total_due": 9585.22
+  "total_due": 9291.09
  },
  "P3295-00-000-0001-00": {
   "checked": "2026-10-31",
@@ -19546,7 +19546,7 @@
   "total_due": 5699.87
  },
  "P3650-01-000-0053-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19778,7 +19778,7 @@
   "total_due": 45718.31
  },
  "P5260-00-000-0036-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19787,9 +19787,9 @@
   ],
   "owner_mailing": "7801 E PECAN PLANTATION CIR PHARR, TX 78577-7055",
   "owner_name": "ALPERIZ JOSE FRANCISCO QUINONES",
-  "prior_year_due": 1260.8,
+  "prior_year_due": 1269.48,
   "status": "delinquent",
-  "total_due": 5371.67
+  "total_due": 5380.35
  },
  "P5260-00-000-0094-00": {
   "checked": "2026-10-30",
@@ -19870,7 +19870,7 @@
   "total_due": 760.24
  },
  "P6190-00-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19983,19 +19983,19 @@
   "total_due": 2554.7
  },
  "P6400-00-008-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "505 E CHAPA AVE PHARR, TX 78577-3207",
   "owner_name": "MOLINA MARY ANN",
-  "prior_year_due": 3988.04,
+  "prior_year_due": 3730.1,
   "status": "delinquent",
-  "total_due": 5852.74
+  "total_due": 5594.8
  },
  "P6400-00-008-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20019,7 +20019,7 @@
   "total_due": 3752.91
  },
  "P6400-00-015-0006-02": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20028,9 +20028,9 @@
   ],
   "owner_mailing": "300 N BLUEBONNET ST PHARR, TX 78577-3835",
   "owner_name": "HERNANDEZ LORENZO & DOLORES",
-  "prior_year_due": 18364.17,
+  "prior_year_due": 18493.23,
   "status": "delinquent",
-  "total_due": 21460.55
+  "total_due": 21589.61
  },
  "P6400-00-016-0001-00": {
   "checked": "2026-10-30",
@@ -20045,16 +20045,16 @@
   "total_due": 8108.41
  },
  "P6400-00-018-0013-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "318 W CLARK PHARR, TX 78577-3847",
   "owner_name": "DE LEON MARITZA",
-  "prior_year_due": 24351.51,
+  "prior_year_due": 24527.13,
   "status": "delinquent",
-  "total_due": 28587.22
+  "total_due": 28762.84
  },
  "P6400-00-018-0014-00": {
   "checked": "2026-10-30",
@@ -20069,7 +20069,7 @@
   "total_due": 3379.84
  },
  "P6400-00-019-0025-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -20078,9 +20078,9 @@
   ],
   "owner_mailing": "218 W CLARK AVE PHARR, TX 78577-3845",
   "owner_name": "GOMEZ LUPE GARCIA",
-  "prior_year_due": 10438.96,
+  "prior_year_due": 10512.18,
   "status": "delinquent",
-  "total_due": 12323.21
+  "total_due": 12396.43
  },
  "P6400-00-027-0011-00": {
   "checked": "2026-10-31",
@@ -20109,7 +20109,7 @@
   "total_due": 17354.8
  },
  "P6400-00-064-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20249,16 +20249,16 @@
   "total_due": 4269.72
  },
  "P7170-01-011-0031-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "3311 SAN FABIAN MISSION, TX 78572-7361",
   "owner_name": "OSTOS EDUARDO",
-  "prior_year_due": 2804.53,
+  "prior_year_due": 2819.11,
   "status": "delinquent",
-  "total_due": 4075.14
+  "total_due": 4089.72
  },
  "P7170-01-015-0016-00": {
   "checked": "2026-10-30",
@@ -20273,7 +20273,7 @@
   "total_due": 5589.31
  },
  "P7170-01-044-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20297,7 +20297,7 @@
   "total_due": 4492.86
  },
  "P7170-02-011-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20309,7 +20309,7 @@
   "total_due": 1210.09
  },
  "P7170-02-011-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20321,7 +20321,7 @@
   "total_due": 3173.28
  },
  "P7170-02-011-0023-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20369,7 +20369,7 @@
   "total_due": 5137.01
  },
  "P7170-06-001-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20377,11 +20377,11 @@
   "owner_mailing": "500 W HALL ACRES RD SAN JUAN, TX 78589-2779",
   "owner_name": "ESPINO HECTOR SR",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 2849.47
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "P7170-06-014-0004-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20393,7 +20393,7 @@
   "total_due": 2666.21
  },
  "P7170-06-014-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20417,7 +20417,7 @@
   "total_due": 2301.22
  },
  "P7170-07-016-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20443,16 +20443,16 @@
   "total_due": 13355.48
  },
  "P7170-13-035-0031-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "800 TARA DR PHARR, TX 78577-7227",
   "owner_name": "ESCAMILLA ROBERTO M & ROSAURA B",
-  "prior_year_due": 7568.45,
+  "prior_year_due": 7631.01,
   "status": "delinquent",
-  "total_due": 12884.42
+  "total_due": 12946.98
  },
  "P7170-13-051-0009-00": {
   "checked": "2026-11-03",
@@ -20469,7 +20469,7 @@
   "total_due": 18583.7
  },
  "P7170-13-051-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20519,7 +20519,7 @@
   "total_due": 5313.13
  },
  "P7170-14-027-0024-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20531,28 +20531,28 @@
   "total_due": 2410.14
  },
  "P7170-14-027-0037-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "1005 RHETT DR PHARR, TX 78577",
   "owner_name": "TREVINO MA ELENA CABELLO",
-  "prior_year_due": 1468.77,
+  "prior_year_due": 1480.91,
   "status": "delinquent",
-  "total_due": 3878.91
+  "total_due": 3891.05
  },
  "P7170-14-027-0045-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "1100 E RHETT CT PHARR, TX 78577-5229",
   "owner_name": "TRUJILLO YESENIA GRICEL",
-  "prior_year_due": 7888.22,
+  "prior_year_due": 7953.41,
   "status": "delinquent",
-  "total_due": 13857.39
+  "total_due": 13922.58
  },
  "P7170-15-029-0001-00": {
   "checked": "2026-11-05",
@@ -20595,7 +20595,7 @@
   "total_due": 13815.94
  },
  "P7190-00-000-0042-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20709,7 +20709,7 @@
   "total_due": 5116.91
  },
  "P8115-02-000-0086-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20785,7 +20785,7 @@
   "total_due": 10430.11
  },
  "P8500-00-000-0211-06": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20821,7 +20821,7 @@
   "total_due": 804.03
  },
  "P8500-00-000-0235-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "PRORATED-EXXV",
   "found": true,
   "homestead": false,
@@ -20869,7 +20869,7 @@
   "total_due": 635.69
  },
  "P8600-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20971,6 +20971,20 @@
   "prior_year_due": 0.0,
   "status": "current_due",
   "total_due": 1454.52
+ },
+ "P9277-09-000-0800-00": {
+  "checked": "2026-11-06",
+  "exemptions": "NHS CAP LOSS",
+  "found": true,
+  "homestead": false,
+  "lawsuits": [
+   "T-1300-26-A"
+  ],
+  "owner_mailing": "6304 CALIFORNIA ST MISSION, TX 78574-0764",
+  "owner_name": "SALINAS NERY & HECTOR J ALANIZ AMARO",
+  "prior_year_due": 5734.85,
+  "status": "delinquent",
+  "total_due": 8438.24
  },
  "P9277-15-000-0020-00": {
   "checked": "2026-10-31",
@@ -21083,7 +21097,7 @@
   "total_due": 1165.44
  },
  "P9350-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21107,7 +21121,7 @@
   "total_due": 1301.74
  },
  "P9540-00-000-0105-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21116,7 +21130,7 @@
   "owner_name": "CRUZ MARIANA",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 2191.4
+  "total_due": 2214.54
  },
  "P9540-00-000-0113-00": {
   "checked": "2026-11-02",
@@ -21171,7 +21185,7 @@
   "total_due": 12636.78
  },
  "Q1060-00-000-002A-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21249,7 +21263,7 @@
   "total_due": 15886.35
  },
  "Q3000-00-003-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21273,7 +21287,7 @@
   "total_due": 2764.49
  },
  "Q4010-02-001-0215-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21311,16 +21325,16 @@
   "total_due": 711.22
  },
  "Q7010-02-000-0093-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "2702 SANTA ERICA MISSION, TX 78572-7184",
   "owner_name": "ANTU EDOARDO & SILVIA A",
-  "prior_year_due": 7368.22,
+  "prior_year_due": 7432.31,
   "status": "delinquent",
-  "total_due": 18292.82
+  "total_due": 18356.91
  },
  "Q7010-02-000-0105-00": {
   "checked": "2026-10-31",
@@ -21349,7 +21363,7 @@
   "total_due": 16471.33
  },
  "R0212-00-000-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21453,7 +21467,7 @@
   "total_due": 3078.49
  },
  "R0800-01-000-0050-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21657,7 +21671,7 @@
   "total_due": 9369.75
  },
  "R1400-00-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21717,7 +21731,7 @@
   "total_due": 8604.03
  },
  "R1420-03-000-0039-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21741,7 +21755,7 @@
   "total_due": 2566.9
  },
  "R1650-00-000-2005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21777,7 +21791,7 @@
   "total_due": 1713.33
  },
  "R1755-04-000-0043-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -21801,16 +21815,16 @@
   "total_due": 676.58
  },
  "R1900-00-163-0023-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "1209 S 10TH ST STE A-572 MCALLEN, TX 78501-5059",
   "owner_name": "ESPINOZA ROGELIO JR & YANIRA D",
-  "prior_year_due": 1315.24,
+  "prior_year_due": 1326.04,
   "status": "delinquent",
-  "total_due": 2322.92
+  "total_due": 2333.72
  },
  "R1950-02-000-0014-00": {
   "checked": "2026-10-30",
@@ -21865,7 +21879,7 @@
   "total_due": 15502.21
  },
  "R2250-01-003-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22035,7 +22049,7 @@
   "total_due": 8822.47
  },
  "R3114-04-000-0236-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22059,7 +22073,7 @@
   "total_due": 1227.07
  },
  "R3200-03-142-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22071,7 +22085,7 @@
   "total_due": 1544.48
  },
  "R3230-00-000-0121-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22109,7 +22123,7 @@
   "total_due": 7182.61
  },
  "R3310-00-000-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22361,16 +22375,16 @@
   "total_due": 6157.71
  },
  "R4530-00-000-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "4220 ROYAL PALM ST MISSION, TX 78572-1185",
   "owner_name": "ESTRADA JOSE L & MARIA L",
-  "prior_year_due": 12237.8,
+  "prior_year_due": 12310.33,
   "status": "delinquent",
-  "total_due": 13456.29
+  "total_due": 13528.82
  },
  "R4570-03-000-0020-00": {
   "checked": "2026-11-05",
@@ -22387,7 +22401,7 @@
   "total_due": 11437.77
  },
  "R4570-03-000-0047-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22437,7 +22451,7 @@
   "total_due": 6898.08
  },
  "R4700-00-010-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22446,9 +22460,9 @@
   ],
   "owner_mailing": "714 S 23RD ST DONNA, TX 78537-3724",
   "owner_name": "AGUILAR OSBALDO VILLALON",
-  "prior_year_due": 7674.55,
+  "prior_year_due": 7733.06,
   "status": "delinquent",
-  "total_due": 9597.28
+  "total_due": 9655.79
  },
  "R4800-00-00L-0007-00": {
   "checked": "2026-11-05",
@@ -22491,16 +22505,16 @@
   "total_due": 22856.76
  },
  "R5400-00-068-0020-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "1030 S CESAR CHAVEZ RD ALAMO, TX 78516-9573",
   "owner_name": "FACUNDO VINCENTE & BIANKA F VAZQUEZ",
-  "prior_year_due": 1776.09,
+  "prior_year_due": 1790.44,
   "status": "delinquent",
-  "total_due": 2945.2
+  "total_due": 2959.55
  },
  "R5610-00-001-0010-00": {
   "checked": "2026-11-02",
@@ -22527,7 +22541,7 @@
   "total_due": 7201.92
  },
  "S0017-02-000-0115-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22655,7 +22669,7 @@
   "total_due": 1160.14
  },
  "S0225-00-000-0027-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22679,19 +22693,19 @@
   "total_due": 1823.18
  },
  "S0353-01-000-0025-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "433 DULCE DR ALAMO, TX 78516-7212",
   "owner_name": "NUNEZ DIANA",
-  "prior_year_due": 6507.83,
+  "prior_year_due": 6561.62,
   "status": "delinquent",
-  "total_due": 11476.33
+  "total_due": 11530.12
  },
  "S0353-02-000-0206-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22759,7 +22773,7 @@
   "total_due": 7350.41
  },
  "S0558-02-000-0175-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22771,16 +22785,16 @@
   "total_due": 2115.0
  },
  "S0610-01-000-0087-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "CALLE VICTORIA 224 COL UNIDAD OBRERA REYNOSA TAMP MEXICO 00000",
   "owner_name": "DE LA PENA YESSIKA GIOVANA L",
-  "prior_year_due": 6500.89,
+  "prior_year_due": 6548.02,
   "status": "delinquent",
-  "total_due": 7769.81
+  "total_due": 7816.94
  },
  "S0610-01-000-0088-00": {
   "checked": "2026-10-29",
@@ -22795,7 +22809,7 @@
   "total_due": 1686.16
  },
  "S0610-01-000-0133-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23093,16 +23107,16 @@
   "total_due": 661.75
  },
  "S1440-00-000-0065-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "PO BOX 291191 SAN ANTONIO, TX 78229-1791",
   "owner_name": "OLIVO REYES & ENEDINA",
-  "prior_year_due": 5066.66,
+  "prior_year_due": 5103.24,
   "status": "delinquent",
-  "total_due": 6823.07
+  "total_due": 6818.69
  },
  "S1445-00-000-0003-00": {
   "checked": "2026-10-30",
@@ -23153,7 +23167,7 @@
   "total_due": 1087.58
  },
  "S1553-04-00I-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23177,28 +23191,28 @@
   "total_due": 1358.99
  },
  "S1650-02-000-0056-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "4300 RODRIGUEZ ST SAN JUAN, TX 78589-9740",
   "owner_name": "GONZALEZ OLGA E",
-  "prior_year_due": 3271.02,
+  "prior_year_due": 3295.1,
   "status": "delinquent",
-  "total_due": 3875.13
+  "total_due": 3899.21
  },
  "S1650-02-000-0057-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "4300 RODRIGUEZ ST SAN JUAN, TX 78589-9740",
   "owner_name": "GONZALEZ OLGA E",
-  "prior_year_due": 3271.02,
+  "prior_year_due": 3295.1,
   "status": "delinquent",
-  "total_due": 3875.13
+  "total_due": 3899.21
  },
  "S1700-02-007-0004-00": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $248,887 \r\nLand Value: $136,686 \r\nImprovement Value: $112,201 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $1,520 \r\n\r\nExemptions:\nOVER 65\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -23327,7 +23341,7 @@
   "total_due": 3841.59
  },
  "S1753-04-00B-0175-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23483,7 +23497,7 @@
   "total_due": 14937.34
  },
  "S2370-00-000-0040-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23492,9 +23506,9 @@
   ],
   "owner_mailing": "807 DARLENE AVE. PHARR, TX 78577-8216",
   "owner_name": "VASQUEZ NEFTALI",
-  "prior_year_due": 7083.84,
+  "prior_year_due": 7139.78,
   "status": "delinquent",
-  "total_due": 10031.23
+  "total_due": 10087.17
  },
  "S2430-00-000-0008-00": {
   "checked": "2026-10-31",
@@ -23509,7 +23523,7 @@
   "total_due": 2915.35
  },
  "S2440-00-000-0057-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23545,16 +23559,16 @@
   "total_due": 25220.77
  },
  "S2450-00-000-0044-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "1707 E KUHN ST EDINBURG, TX 78542-0644",
   "owner_name": "HERNANDEZ NAZARIA",
-  "prior_year_due": 2194.72,
+  "prior_year_due": 2212.87,
   "status": "delinquent",
-  "total_due": 4077.93
+  "total_due": 4096.08
  },
  "S2450-00-000-0048-00": {
   "checked": "2026-11-05",
@@ -23621,7 +23635,7 @@
   "total_due": 42296.57
  },
  "S2462-01-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23687,7 +23701,7 @@
   "total_due": 9224.83
  },
  "S2750-02-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23699,7 +23713,7 @@
   "total_due": 1649.15
  },
  "S2755-01-000-0073-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23809,7 +23823,7 @@
   "total_due": 10599.93
  },
  "S2950-00-000-0408-23": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23911,7 +23925,7 @@
   "total_due": 8794.19
  },
  "S3006-00-000-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23920,12 +23934,12 @@
   ],
   "owner_mailing": "723 RENNEE DR KATY, TX 77450-2122",
   "owner_name": "DUAL ELECTRICAL SERVICES LLC",
-  "prior_year_due": 16350.02,
+  "prior_year_due": 16478.29,
   "status": "delinquent",
-  "total_due": 21393.35
+  "total_due": 21521.62
  },
  "S3010-00-000-022A-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23937,7 +23951,7 @@
   "total_due": 8766.37
  },
  "S3011-00-000-0062-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23949,7 +23963,7 @@
   "total_due": 1995.6
  },
  "S3055-01-000-0032-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23987,7 +24001,7 @@
   "total_due": 8813.38
  },
  "S3100-00-001-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23999,7 +24013,7 @@
   "total_due": 3212.28
  },
  "S3230-02-000-0064-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24089,7 +24103,7 @@
   "total_due": 1043.37
  },
  "S3450-95-007-0028-03": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -24101,16 +24115,16 @@
   "total_due": 364.88
  },
  "S3460-01-001-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "PO BOX NO 1523 PHARR, TX 78577",
   "owner_name": "SALINAS CARLOS ALBERTO JR",
-  "prior_year_due": 1576.85,
+  "prior_year_due": 1589.9,
   "status": "delinquent",
-  "total_due": 3070.0
+  "total_due": 3083.05
  },
  "S3460-01-002-0003-00": {
   "checked": "2026-10-31",
@@ -24151,7 +24165,7 @@
   "total_due": 5344.74
  },
  "S3460-02-006-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -24241,19 +24255,19 @@
   "total_due": 1780.4
  },
  "S3593-02-000-0046-00": {
-  "checked": "2026-10-30",
-  "exemptions": "NHS CAP LOSS",
+  "checked": "2026-11-06",
+  "exemptions": "HOMESTEAD\nNHS CAP LOSS",
   "found": true,
-  "homestead": false,
+  "homestead": true,
   "lawsuits": [],
-  "owner_mailing": "2016 COUGAR ST SAN JUAN, TX 78589-3428",
+  "owner_mailing": "2016 COUGAR ST SAN JUAN, TX 78589",
   "owner_name": "SEGURA LUISA",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 3774.44
+  "total_due": 2396.48
  },
  "S3593-02-000-0100-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -24497,19 +24511,19 @@
   "total_due": 1532.25
  },
  "S3975-04-000-0462-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "826 E MARION ST PHARR, TX 78577-5008",
   "owner_name": "CAMACHO ALBERTO & SANDRA",
-  "prior_year_due": 37608.15,
+  "prior_year_due": 37772.21,
   "status": "delinquent",
-  "total_due": 39009.84
+  "total_due": 39173.9
  },
  "S3975-04-000-0497-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24518,9 +24532,9 @@
   ],
   "owner_mailing": "812 S 25 1/2 ST W MCALLEN, TX 78501-7785",
   "owner_name": "SANCHEZ MARIA ISABEL",
-  "prior_year_due": 5853.69,
+  "prior_year_due": 5893.95,
   "status": "delinquent",
-  "total_due": 7345.22
+  "total_due": 7385.48
  },
  "S3975-05-000-0093-00": {
   "checked": "2026-10-31",
@@ -24629,7 +24643,7 @@
   "total_due": 7584.94
  },
  "S4050-00-000-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24756,7 +24770,7 @@
   "total_due": 7306.03
  },
  "S4270-00-000-0069-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24876,16 +24890,16 @@
   "total_due": 9379.99
  },
  "S4770-00-000-0057-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DEFERRAL\nHOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "555 SAN ANTONIO CIR ALAMO, TX 78516-9456",
   "owner_name": "CASTILLO RENE & MARICELA",
-  "prior_year_due": 9867.28,
+  "prior_year_due": 9888.56,
   "status": "delinquent",
-  "total_due": 10386.9
+  "total_due": 10408.18
  },
  "S4770-00-000-0161-00": {
   "checked": "2026-10-30",
@@ -24944,7 +24958,7 @@
   "total_due": 13130.31
  },
  "S4843-00-000-0065-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25018,16 +25032,16 @@
   "total_due": 0.0
  },
  "S5278-00-000-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "2400 HIGHLAND DR MISSION, TX 78574-2475",
   "owner_name": "MIGUEL ROSIE C",
-  "prior_year_due": 8053.67,
+  "prior_year_due": 8112.44,
   "status": "delinquent",
-  "total_due": 10083.28
+  "total_due": 10142.05
  },
  "S5278-00-000-0019-00": {
   "checked": "2026-10-31",
@@ -25068,7 +25082,7 @@
   "total_due": 0.0
  },
  "S5300-02-000-0029-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25396,7 +25410,7 @@
   "total_due": 44520.94
  },
  "S6859-00-000-0022-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25408,7 +25422,7 @@
   "total_due": 1285.08
  },
  "S6859-00-000-0045-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25474,19 +25488,19 @@
   "total_due": 8228.63
  },
  "S7280-02-000-0038-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
   "lawsuits": [],
   "owner_mailing": "202 SOLIS LN EDINBURG, TX 78542-0675",
   "owner_name": "ADAME EDMUNDO JR & ROSARIO F",
-  "prior_year_due": 28266.9,
+  "prior_year_due": 28325.66,
   "status": "delinquent",
-  "total_due": 29211.27
+  "total_due": 29270.03
  },
  "S7280-02-000-0050-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25494,11 +25508,11 @@
   "owner_mailing": "206 JULIE LN EDINBURG, TX 78542-0671",
   "owner_name": "MENDOZA AGAPITO & MARTA",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 676.71
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "S7350-00-003-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25676,7 +25690,7 @@
   "total_due": 2022.43
  },
  "T0940-02-000-0027-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25850,7 +25864,7 @@
   "total_due": 2139.34
  },
  "T1231-05-000-0018-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26056,7 +26070,7 @@
   "total_due": 6569.25
  },
  "T2100-00-248-0005-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26080,7 +26094,7 @@
   "total_due": 16313.31
  },
  "T2100-00-251-0004-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26234,7 +26248,7 @@
   "total_due": 469.64
  },
  "T2200-00-021-0008-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26390,7 +26404,7 @@
   "total_due": 70232.02
  },
  "T3137-00-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26466,7 +26480,7 @@
   "total_due": 168.63
  },
  "T3510-00-000-0060-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26550,7 +26564,7 @@
   "total_due": 3330.07
  },
  "T4040-03-000-0058-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26678,7 +26692,7 @@
   "total_due": 9018.91
  },
  "T4760-00-000-0055-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26726,7 +26740,7 @@
   "total_due": 4272.21
  },
  "T5000-01-001-0030-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26738,7 +26752,7 @@
   "total_due": 1236.69
  },
  "T5200-00-002-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -26788,16 +26802,16 @@
   "total_due": 12230.96
  },
  "T5265-00-000-0015-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "8702 W MADISON ST PEORIA, AZ 85345-9411",
   "owner_name": "CARROLL MICHAEL & MARIBEL",
-  "prior_year_due": 1555.97,
+  "prior_year_due": 1568.86,
   "status": "delinquent",
-  "total_due": 2659.07
+  "total_due": 2671.96
  },
  "T5265-00-000-0027-00": {
   "checked": "2026-10-31",
@@ -26888,7 +26902,7 @@
   "total_due": 0.0
  },
  "T5438-01-02A-0017-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27072,7 +27086,7 @@
   "total_due": 5842.51
  },
  "T6070-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27086,16 +27100,16 @@
   "total_due": 9259.08
  },
  "T6075-01-000-0020-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "PO BOX 3894 MISSION, TX 78573-0065",
   "owner_name": "VILLARREAL MELISSA",
-  "prior_year_due": 7595.4,
+  "prior_year_due": 7654.73,
   "status": "delinquent",
-  "total_due": 10037.58
+  "total_due": 10096.91
  },
  "T6200-00-000-0014-05": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $126,490 \r\nLand Value: $94,050 \r\nImprovement Value: $32,440 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\n100% EXEMPT VET\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -27160,7 +27174,7 @@
   "total_due": 1148.8
  },
  "T6353-00-000-0064-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27246,7 +27260,7 @@
   "total_due": 7689.81
  },
  "T6840-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27255,9 +27269,9 @@
   ],
   "owner_mailing": "1819 CRISTOBAL DR EDINBURG, TX 78542-5582",
   "owner_name": "GARCIA ERADIO B & ESMERALDA",
-  "prior_year_due": 10115.51,
+  "prior_year_due": 10192.32,
   "status": "delinquent",
-  "total_due": 13164.81
+  "total_due": 13241.62
  },
  "T6840-00-000-0045-00": {
   "checked": "2026-10-31",
@@ -27324,7 +27338,7 @@
   "total_due": 2123.89
  },
  "T6863-02-000-0064-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27474,7 +27488,7 @@
   "total_due": 349.33
  },
  "T7920-00-000-0041-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27483,9 +27497,9 @@
   ],
   "owner_mailing": "PO BOX 1787 DONNA, TX 78537-1787",
   "owner_name": "RODRIGUEZ VICENTE JR & OFELIA",
-  "prior_year_due": 5372.14,
+  "prior_year_due": 5413.08,
   "status": "delinquent",
-  "total_due": 6967.6
+  "total_due": 7008.54
  },
  "T7940-00-000-0065-00": {
   "checked": "2026-10-30",
@@ -27551,7 +27565,7 @@
   "total_due": 2552.24
  },
  "T8300-00-000-0010-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -27563,7 +27577,7 @@
   "total_due": 3895.3
  },
  "T8565-00-000-0009-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27924,7 +27938,7 @@
   "total_due": 9206.12
  },
  "V0560-02-000-0227-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27990,7 +28004,7 @@
   "total_due": 1930.7
  },
  "V0563-08-000-0431-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28014,7 +28028,7 @@
   "total_due": 3314.79
  },
  "V0568-00-000-0035-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28104,7 +28118,7 @@
   "total_due": 1842.81
  },
  "V0890-00-000-0096-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28258,7 +28272,7 @@
   "total_due": 6657.67
  },
  "V3053-02-000-0153-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28436,7 +28450,7 @@
   "total_due": 802.58
  },
  "V3515-00-000-0066-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28484,7 +28498,7 @@
   "total_due": 11609.01
  },
  "V3555-00-000-0047-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "IMMED RESIDENTIAL HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28493,9 +28507,9 @@
   ],
   "owner_mailing": "6706 S AMARILLO LN PHARR, TX 78577",
   "owner_name": "CORTEZ CAROL YAMILETH GARZA",
-  "prior_year_due": 6469.56,
+  "prior_year_due": 6520.71,
   "status": "delinquent",
-  "total_due": 8824.39
+  "total_due": 8875.54
  },
  "V3555-00-000-0051-00": {
   "checked": "2026-10-31",
@@ -28510,7 +28524,7 @@
   "total_due": 1431.03
  },
  "V3555-00-000-0057-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28650,7 +28664,7 @@
   "total_due": 596.78
  },
  "V3630-02-000-0003-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28714,7 +28728,7 @@
   "total_due": 0.0
  },
  "V3690-01-000-0080-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28738,7 +28752,7 @@
   "total_due": 1588.19
  },
  "V3690-01-000-0097-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28816,7 +28830,7 @@
   "total_due": 9045.13
  },
  "V3808-00-000-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28852,7 +28866,7 @@
   "total_due": 2047.16
  },
  "V3815-00-000-0025-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28906,7 +28920,7 @@
   "total_due": 48483.5
  },
  "V3820-00-000-0135-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28918,7 +28932,7 @@
   "total_due": 484.96
  },
  "V3820-00-000-0174-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28954,7 +28968,7 @@
   "total_due": 3269.76
  },
  "V3851-00-000-0037-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29004,7 +29018,7 @@
   "total_due": 1134.07
  },
  "V3933-00-000-0111-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29040,7 +29054,7 @@
   "total_due": 7901.72
  },
  "V4335-01-000-0053-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29076,7 +29090,7 @@
   "total_due": 21864.2
  },
  "V4343-00-000-0035-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29130,7 +29144,7 @@
   "total_due": 19766.74
  },
  "V4345-03-000-0116-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29258,7 +29272,7 @@
   "total_due": 5430.44
  },
  "W0100-00-032-0003-13": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29282,7 +29296,7 @@
   "total_due": 2030.84
  },
  "W0100-00-033-0006-02": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29294,7 +29308,7 @@
   "total_due": 203.91
  },
  "W0100-00-037-0010-20": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29303,9 +29317,9 @@
   ],
   "owner_mailing": "8409 BARKLEY ST HOUSTON, TX 77017-4723",
   "owner_name": "FLORES ROGELIO & REMIG",
-  "prior_year_due": 9636.91,
+  "prior_year_due": 9712.92,
   "status": "delinquent",
-  "total_due": 13050.93
+  "total_due": 13126.94
  },
  "W0100-00-038-0003-18": {
   "checked": "2026-11-05",
@@ -29388,7 +29402,7 @@
   "total_due": 970.16
  },
  "W0100-00-053-0006-23": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29632,7 +29646,7 @@
   "total_due": 1532.83
  },
  "W2500-00-145-0011-41": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29644,7 +29658,7 @@
   "total_due": 2792.15
  },
  "W2600-00-267-0007-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29698,7 +29712,7 @@
   "total_due": 13294.96
  },
  "W3800-00-000-1507-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29706,8 +29720,8 @@
   "owner_mailing": "4900-C N 10TH ST MCALLEN, TX 78504-2830",
   "owner_name": "GABO TX DEVELOPMENTS LLC",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 70815.91
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "W3800-00-001-0000-06": {
   "checked": "2026-11-05",
@@ -29724,7 +29738,7 @@
   "total_due": 3095.13
  },
  "W3800-00-232-0000-01": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29864,16 +29878,16 @@
   "total_due": 1335.54
  },
  "W3800-00-728-0000-36": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "11629 PUESTA DEL SOL DR WESLACO, TX 78599-1985",
   "owner_name": "WEEMS MARK A",
-  "prior_year_due": 4311.73,
+  "prior_year_due": 4347.38,
   "status": "delinquent",
-  "total_due": 7993.62
+  "total_due": 8029.27
  },
  "W3800-00-738-0000-80": {
   "checked": "2026-10-31",
@@ -29940,7 +29954,7 @@
   "total_due": 12685.25
  },
  "W4400-00-000-0035-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -29949,9 +29963,9 @@
   ],
   "owner_mailing": "15626 CORSAIR RD HOUSTON, TX 77053-3016",
   "owner_name": "TORRES ARTURO",
-  "prior_year_due": 14654.43,
+  "prior_year_due": 14766.17,
   "status": "delinquent",
-  "total_due": 19368.88
+  "total_due": 19480.62
  },
  "W4600-01-004-0008-00": {
   "checked": "2026-10-31",
@@ -29992,7 +30006,7 @@
   "total_due": 1986.36
  },
  "W4600-02-008-0001-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -30004,7 +30018,7 @@
   "total_due": 729.3
  },
  "W4600-02-008-0011-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30016,7 +30030,7 @@
   "total_due": 2383.14
  },
  "W5100-00-004-0019-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30028,7 +30042,7 @@
   "total_due": 3644.8
  },
  "W5150-00-000-0012-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30037,12 +30051,12 @@
   ],
   "owner_mailing": "1007 PELICAN ALAMO, TX 78516-9460",
   "owner_name": "CABRIALES SERGIO & BELEN",
-  "prior_year_due": 3625.69,
+  "prior_year_due": 3653.94,
   "status": "delinquent",
-  "total_due": 4667.56
+  "total_due": 4695.81
  },
  "W5150-03-000-0016-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30051,12 +30065,12 @@
   ],
   "owner_mailing": "1005 LARK CIR ALAMO, TX 78516-9003",
   "owner_name": "ACOSTA CESAR M & IMELDA R",
-  "prior_year_due": 1376.88,
+  "prior_year_due": 1387.24,
   "status": "delinquent",
-  "total_due": 2361.86
+  "total_due": 2372.22
  },
  "W5300-00-000-0006-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30108,7 +30122,7 @@
   "total_due": 15293.11
  },
  "W6650-00-000-0034-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30220,7 +30234,7 @@
   "total_due": 4956.48
  },
  "W7384-01-000-0072-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30244,7 +30258,7 @@
   "total_due": 572.01
  },
  "W7400-00-11B-0002-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "OVER 65\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -30270,16 +30284,16 @@
   "total_due": 2000.03
  },
  "Y3000-00-001-0019-00": {
-  "checked": "2026-10-30",
+  "checked": "2026-11-06",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
   "lawsuits": [],
   "owner_mailing": "603 W BUSINESS 83 PHARR, TX 78577",
   "owner_name": "ESPINO HECTOR",
-  "prior_year_due": 1929.04,
+  "prior_year_due": 1942.33,
   "status": "delinquent",
-  "total_due": 3277.79
+  "total_due": 3291.08
  },
  "Y4500-00-012-0009-00": {
   "checked": "2026-11-04",
