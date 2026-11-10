@@ -1147,7 +1147,7 @@
   "total_due": 1658.04
  },
  "A3500-00-004-0011-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1584,7 +1584,7 @@
   "total_due": 11500.21
  },
  "B0100-00-003-0002-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1806,7 +1806,7 @@
   "total_due": 7547.85
  },
  "B0950-00-000-0000-10": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "PRORATED-EXXV",
   "found": true,
   "homestead": false,
@@ -1940,7 +1940,7 @@
   "total_due": 7363.27
  },
  "B1900-16-000-0036-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2460,7 +2460,7 @@
   "total_due": 1445.61
  },
  "B3810-00-000-0013-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3164,7 +3164,7 @@
   "total_due": 1084.69
  },
  "C0300-00-197-0020-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -3460,7 +3460,7 @@
   "total_due": 11275.99
  },
  "C1400-00-030-0013-02": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -3674,7 +3674,7 @@
   "total_due": 1848.14
  },
  "C1622-00-000-0017-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4430,7 +4430,7 @@
   "total_due": 7555.54
  },
  "C5353-00-000-0034-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4696,7 +4696,7 @@
   "total_due": 608.76
  },
  "C6870-00-000-0052-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "DEFERRAL",
   "found": true,
   "homestead": false,
@@ -5008,7 +5008,7 @@
   "total_due": 1859.35
  },
  "C7550-00-001-0003-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5621,7 +5621,7 @@
   "total_due": 28.24
  },
  "D1750-00-000-0008-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5685,7 +5685,7 @@
   "total_due": 955.36
  },
  "D2400-00-000-0004-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7066,7 +7066,7 @@
   "total_due": 21800.36
  },
  "E3345-21-000-0018-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7075,7 +7075,7 @@
   "owner_name": "BRAVO KASSANDRA",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 1088.45
+  "total_due": 1135.62
  },
  "E3345-95-000-0021-00": {
   "checked": "2026-11-06",
@@ -7356,7 +7356,7 @@
   "total_due": 1335.06
  },
  "E4640-01-000-0004-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7526,7 +7526,7 @@
   "total_due": 9268.47
  },
  "E5370-00-000-0006-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "PRORATED-EXXV",
   "found": true,
   "homestead": false,
@@ -7656,7 +7656,7 @@
   "total_due": 0.0
  },
  "E6250-01-000-0006-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7980,7 +7980,7 @@
   "total_due": 4709.25
  },
  "E8000-00-113-0007-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8296,7 +8296,7 @@
   "total_due": 16228.56
  },
  "F0770-00-000-0021-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8850,7 +8850,7 @@
   "total_due": 7157.66
  },
  "F7200-00-101-0001-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9028,7 +9028,7 @@
   "total_due": 14829.9
  },
  "G0800-00-012-0022-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9169,7 +9169,7 @@
   "total_due": 13474.41
  },
  "G1200-14-000-0197-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9487,7 +9487,7 @@
   "total_due": 0.0
  },
  "G5200-03-000-0009-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -9794,7 +9794,7 @@
   "total_due": 1093.58
  },
  "G8400-00-000-0004-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10222,7 +10222,7 @@
   "total_due": 1220.99
  },
  "H0900-00-019-0009-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10749,7 +10749,7 @@
   "total_due": 9183.15
  },
  "H2840-00-000-0172-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11535,7 +11535,7 @@
   "total_due": 1445.0
  },
  "J3325-00-000-0036-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -11749,7 +11749,7 @@
   "total_due": 13971.35
  },
  "J9550-07-000-0007-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11813,7 +11813,7 @@
   "total_due": 54007.34
  },
  "K2400-00-000-0073-13": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11893,7 +11893,7 @@
   "total_due": 9929.61
  },
  "K2400-00-000-0236-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11917,7 +11917,7 @@
   "total_due": 3722.85
  },
  "K2400-00-000-0252-03": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11965,7 +11965,7 @@
   "total_due": 2809.62
  },
  "K2400-00-000-0325-17": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -12523,7 +12523,7 @@
   "total_due": 0.0
  },
  "L1069-03-000-0071-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12531,8 +12531,8 @@
   "owner_mailing": "2704 LIMON DR MISSION, TX 78574-3484",
   "owner_name": "CERVANTES RITA",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 786.96
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "L1069-03-000-0074-00": {
   "checked": "2026-11-05",
@@ -12714,7 +12714,7 @@
   "total_due": 22388.82
  },
  "L1300-00-000-0078-03": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13038,7 +13038,7 @@
   "total_due": 3037.44
  },
  "L2121-02-000-0086-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13142,7 +13142,7 @@
   "total_due": 0.0
  },
  "L2450-02-000-0013-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13282,7 +13282,7 @@
   "total_due": 9105.17
  },
  "L2845-06-000-0038-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13330,7 +13330,7 @@
   "total_due": 1496.26
  },
  "L2848-00-000-0067-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13342,7 +13342,7 @@
   "total_due": 7798.29
  },
  "L2945-00-000-0054-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13582,7 +13582,7 @@
   "total_due": 1598.12
  },
  "L3180-03-000-0256-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13842,7 +13842,7 @@
   "total_due": 14834.48
  },
  "L3300-00-000-0054-01": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -14374,7 +14374,7 @@
   "total_due": 2781.73
  },
  "L5150-00-001-0019-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14412,7 +14412,7 @@
   "total_due": 3656.36
  },
  "L5250-00-002-0001-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15466,7 +15466,7 @@
   "total_due": 2144.86
  },
  "M0350-00-010-0020-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -15474,8 +15474,8 @@
   "owner_mailing": "3937 PENA ST MISSION, TX 78572-1538",
   "owner_name": "GUERRA GILBERTO",
   "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 253.69
+  "status": "paid_up",
+  "total_due": 0.0
  },
  "M0350-00-010-0041-00": {
   "checked": "2026-11-06",
@@ -15568,7 +15568,7 @@
   "total_due": 11521.88
  },
  "M1035-00-000-0019-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD\nVETERAN",
   "found": true,
   "homestead": true,
@@ -18195,7 +18195,7 @@
   "total_due": 37652.64
  },
  "N4847-02-000-0045-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\n100% EXEMPT VET\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19494,7 +19494,7 @@
   "total_due": 354.12
  },
  "P3112-02-000-0026-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19959,7 +19959,7 @@
   "total_due": 6047.76
  },
  "P6400-00-006-0007-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20455,7 +20455,7 @@
   "total_due": 12946.98
  },
  "P7170-13-051-0009-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20659,7 +20659,7 @@
   "total_due": 13566.2
  },
  "P8060-06-000-0069-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21633,7 +21633,7 @@
   "total_due": 280983.97
  },
  "R1300-00-000-0024-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22593,7 +22593,7 @@
   "total_due": 8860.38
  },
  "S0100-02-001-0009-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22681,7 +22681,7 @@
   "total_due": 4093.9
  },
  "S0353-01-000-0015-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "VETERAN",
   "found": true,
   "homestead": false,
@@ -23609,7 +23609,7 @@
   "total_due": 0.0
  },
  "S2461-00-000-0025-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23873,7 +23873,7 @@
   "total_due": 734.48
  },
  "S2950-00-00H-0000-20": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23975,7 +23975,7 @@
   "total_due": 5299.16
  },
  "S3090-00-000-0038-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24994,7 +24994,7 @@
   "total_due": 3792.54
  },
  "S5100-00-001-0010-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -25162,7 +25162,7 @@
   "total_due": 20206.18
  },
  "S5447-00-000-0229-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26004,7 +26004,7 @@
   "total_due": 10247.35
  },
  "T2100-00-239-0004-15": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26326,7 +26326,7 @@
   "total_due": 223.84
  },
  "T2662-01-000-0031-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26552,7 +26552,7 @@
   "total_due": 6644.76
  },
  "T4040-02-000-0040-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26640,7 +26640,7 @@
   "total_due": 4116.62
  },
  "T4710-00-000-0003-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26866,7 +26866,7 @@
   "total_due": 15701.49
  },
  "T5370-00-002-0028-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27350,7 +27350,7 @@
   "total_due": 1940.25
  },
  "T7200-00-000-0006-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27362,7 +27362,7 @@
   "total_due": 15627.87
  },
  "T7200-00-000-0012-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27641,7 +27641,7 @@
   "total_due": 16289.5
  },
  "U1050-00-000-0013-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28462,7 +28462,7 @@
   "total_due": 708.9
  },
  "V3515-00-000-0119-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28740,7 +28740,7 @@
   "total_due": 3613.29
  },
  "V3690-01-000-0088-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29066,7 +29066,7 @@
   "total_due": 2028.37
  },
  "V4340-03-000-0019-00": {
-  "checked": "2026-11-03",
+  "checked": "2026-11-10",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
