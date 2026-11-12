@@ -101504,7 +101504,7 @@
   "city": "PHARR",
   "geo_id": "B4045-00-000-0095-00",
   "legal": "BRENTWOOD ESTATES LOT 95",
-  "market_value": 403078.0,
+  "market_value": 296000.0,
   "owner": "GONZALEZ JORGE & YADIRA",
   "pid": "1235022",
   "prop_type": "R"
@@ -239147,6 +239147,16 @@
   "market_value": 79898.0,
   "owner": "CERDA JUAN VICTORIO III & AMANDA LEE O CERDA",
   "pid": "163385",
+  "prop_type": "R"
+ },
+ "E3100-00-008-0009-00": {
+  "address": "116 MISSOURI AVE",
+  "city": "",
+  "geo_id": "E3100-00-008-0009-00",
+  "legal": "EDCOUCH ORIGINAL TOWNSITE BLK. 8 LT. 9,10",
+  "market_value": 87496.0,
+  "owner": "HERNANDEZ MARGARITA",
+  "pid": "163395",
   "prop_type": "R"
  },
  "E3100-00-008-0016-00": {
@@ -468974,7 +468984,7 @@
   "city": "MISSION",
   "geo_id": "L1160-02-000-0027-00",
   "legal": "LA HOMA TERRACE PH 2 LOT 27",
-  "market_value": 383425.0,
+  "market_value": 353616.0,
   "owner": "REYES ROSALINDA",
   "pid": "456438",
   "prop_type": "R"
@@ -661124,7 +661134,7 @@
   "city": "EDINBURG",
   "geo_id": "O8200-02-000-0026-00",
   "legal": "OWASSA GARDENS MOBILE HOME PH 2 LOT 26",
-  "market_value": 80422.0,
+  "market_value": 59940.0,
   "owner": "ORTIZ MARIA DEL CARMEN",
   "pid": "636229",
   "prop_type": "R"
@@ -728744,7 +728754,7 @@
   "city": "",
   "geo_id": "R0300-02-000-0046-00",
   "legal": "RABBIT PATCH #2 LOT 46",
-  "market_value": 192769.0,
+  "market_value": 165615.0,
   "owner": "VARGAS YESENIA",
   "pid": "265605",
   "prop_type": "R"
@@ -811375,7 +811385,7 @@
   "geo_id": "S2150-00-001-0033-00",
   "legal": "SCHROEDER LOT 33 BLK 1",
   "market_value": 94729.0,
-  "owner": "ALVAREZ MARIA ELENA",
+  "owner": "TREVINO JESSICA CARINA",
   "pid": "279338",
   "prop_type": "R"
  },
@@ -894574,7 +894584,7 @@
   "city": "",
   "geo_id": "T0945-11-000-0014-00",
   "legal": "TAURUS ESTATES NO. 11 LOT 14",
-  "market_value": 66322.0,
+  "market_value": 271548.0,
   "owner": "MARTINEZ MATIAS",
   "pid": "688278",
   "prop_type": "R"
@@ -900155,7 +900165,7 @@
   "geo_id": "T2100-00-000-0726-00",
   "legal": "TEX-MEX SURVEY ABST 726 463.63AC NET",
   "market_value": 1278696.0,
-  "owner": "GARZA JOSE CARMEN Jr",
+  "owner": "GARZA CARLOS",
   "pid": "959069",
   "prop_type": "R"
  },

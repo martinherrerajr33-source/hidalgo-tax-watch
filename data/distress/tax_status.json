@@ -42,7 +42,7 @@
   "total_due": 60629.57
  },
  "10038-00-000-0265-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -56,7 +56,7 @@
   "total_due": 61100.64
  },
  "10038-00-000-0314-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -70,7 +70,7 @@
   "total_due": 10335.47
  },
  "10038-98-000-0257-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -82,7 +82,7 @@
   "total_due": 3457.76
  },
  "10048-00-000-0076-3E": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -120,7 +120,7 @@
   "total_due": 4630.37
  },
  "A0113-02-000-0004-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -134,7 +134,7 @@
   "total_due": 10970.63
  },
  "A0116-00-000-0052-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -148,7 +148,7 @@
   "total_due": 27311.28
  },
  "A0137-04-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -162,7 +162,7 @@
   "total_due": 11148.83
  },
  "A0137-04-000-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -191,7 +191,7 @@
   "total_due": 8348.53
  },
  "A0220-01-000-0077-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -205,7 +205,7 @@
   "total_due": 16808.86
  },
  "A0225-00-001-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -245,7 +245,7 @@
   "total_due": 25481.04
  },
  "A0300-00-000-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -351,7 +351,7 @@
   "total_due": 9987.21
  },
  "A0800-00-000-1114-24": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "DISABLED\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -489,7 +489,7 @@
   "total_due": 4635.23
  },
  "A1730-01-000-0049-01": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -549,7 +549,7 @@
   "total_due": 1476.48
  },
  "A1750-03-000-0398-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\n100% EXEMPT VET\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -587,7 +587,7 @@
   "total_due": 3504.62
  },
  "A1765-02-000-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -711,7 +711,7 @@
   "total_due": 2833.01
  },
  "A1800-00-033-0013-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -775,16 +775,16 @@
   "total_due": 458.21
  },
  "A1800-00-044-0008-13": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $192,654 \r\nLand Value: $136,938 \r\nImprovement Value: $55,716 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
+  "lawsuits": [],
   "owner_mailing": "1428 N CESAR CHAVEZ RD ALAMO, TX 78516-6830",
   "owner_name": "CAZARES HECTOR & SYLVIA",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 5176.86
+  "total_due": 3542.42
  },
  "A1800-00-044-0012-11": {
   "checked": "2026-10-29",
@@ -801,16 +801,16 @@
   "total_due": 2842.03
  },
  "A1800-00-056-0009-31": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $285,396 \r\nLand Value: $132,118 \r\nImprovement Value: $153,278 \r\n\r\nCapped Value: $206,659 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nDISABLED\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "4520 E WISCONSIN RD EDINBURG, TX 78542-6287",
   "owner_name": "RANGEL JOSE R JR & MARIA I GARZA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 914.58
  },
  "A1800-00-056-0012-12": {
   "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $70,408 \r\nLand Value: $70,408 \r\nImprovement Value: $0 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
@@ -863,7 +863,7 @@
   "total_due": 9986.84
  },
  "A1800-00-061-0011-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1209,7 +1209,7 @@
   "total_due": 13581.66
  },
  "A3800-00-002-0021-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1237,7 +1237,7 @@
   "total_due": 10239.64
  },
  "A4120-00-000-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1246,9 +1246,9 @@
   ],
   "owner_mailing": "8224 ALEX LN DONNA, TX 78537-7164",
   "owner_name": "CHAPA YASMIN Y",
-  "prior_year_due": 19863.62,
+  "prior_year_due": 19813.63,
   "status": "delinquent",
-  "total_due": 24375.81
+  "total_due": 24325.82
  },
  "A4133-00-003-0011-00": {
   "checked": "2026-11-07",
@@ -1335,7 +1335,7 @@
   "total_due": 2773.44
  },
  "A4700-01-002-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1385,7 +1385,7 @@
   "total_due": 32.4
  },
  "A5405-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1487,7 +1487,7 @@
   "total_due": 2383.48
  },
  "A5770-02-000-0137-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1502,7 +1502,7 @@
   "total_due": 18145.67
  },
  "A6585-02-000-0109-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1594,7 +1594,7 @@
   "total_due": 19715.74
  },
  "B0050-04-002-0018-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1682,7 +1682,7 @@
   "total_due": 262.25
  },
  "B0300-00-015-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -1720,13 +1720,11 @@
   "total_due": 707.76
  },
  "B0300-00-025-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
-  "lawsuits": [
-   "T-0349-26-D"
-  ],
+  "lawsuits": [],
   "owner_mailing": "3513 BALBOA AVE MCALLEN, TX 78503",
   "owner_name": "ARAGUZ JUAN M & DIANA",
   "prior_year_due": 4590.69,
@@ -1746,7 +1744,7 @@
   "total_due": 1014.72
  },
  "B0300-00-027-0024-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -1814,7 +1812,7 @@
   "total_due": 76216.88
  },
  "B0500-00-003-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -2038,7 +2036,7 @@
   "total_due": 0.0
  },
  "B2065-00-000-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2047,9 +2045,9 @@
   ],
   "owner_mailing": "6929 N 40TH ST MCALLEN, TX 78504-5400",
   "owner_name": "ESPARZA MARY ANN",
-  "prior_year_due": 10054.73,
+  "prior_year_due": 9673.23,
   "status": "delinquent",
-  "total_due": 13457.68
+  "total_due": 13076.18
  },
  "B2065-00-000-0094-00": {
   "checked": "2026-11-06",
@@ -2152,7 +2150,7 @@
   "total_due": 6271.91
  },
  "B2400-02-002-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2178,7 +2176,7 @@
   "total_due": 4634.46
  },
  "B2400-02-004-000D-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2258,7 +2256,7 @@
   "total_due": 8641.26
  },
  "B2854-00-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2320,7 +2318,7 @@
   "total_due": 2088.62
  },
  "B3252-00-000-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2372,7 +2370,7 @@
   "total_due": 3954.87
  },
  "B3270-00-007-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2464,7 +2462,7 @@
   "total_due": 4405.24
  },
  "B3550-03-000-0073-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2490,7 +2488,7 @@
   "total_due": 808.29
  },
  "B3655-02-000-0026-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2504,7 +2502,7 @@
   "total_due": 5435.19
  },
  "B3677-00-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2518,7 +2516,7 @@
   "total_due": 4957.26
  },
  "B3682-00-000-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2850,7 +2848,7 @@
   "total_due": 12407.34
  },
  "B5015-00-000-0034-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2862,7 +2860,7 @@
   "total_due": 591.12
  },
  "B5015-00-000-0035-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2876,7 +2874,7 @@
   "total_due": 15120.06
  },
  "B5015-00-000-0064-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -2890,7 +2888,7 @@
   "total_due": 7266.61
  },
  "B5015-00-000-0066-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2930,16 +2928,16 @@
   "total_due": 3178.33
  },
  "B5030-01-000-0010-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $136,310 \r\nLand Value: $43,126 \r\nImprovement Value: $93,184 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
-  "exemptions": "HOMESTEAD",
+  "checked": "2026-11-12",
+  "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "2201 BUENA VIDA ST MISSION, TX 78574-8181",
   "owner_name": "SALINAS MIGUEL & MARIA",
-  "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 20.04
+  "prior_year_due": 20.04,
+  "status": "delinquent",
+  "total_due": 1152.51
  },
  "B5030-02-000-0072-00": {
   "checked": "2026-11-05",
@@ -2956,7 +2954,7 @@
   "total_due": 26201.08
  },
  "B5030-02-000-0076-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -2970,7 +2968,7 @@
   "total_due": 6377.64
  },
  "B5030-02-000-0084-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -2996,7 +2994,7 @@
   "total_due": 4395.47
  },
  "B5051-97-000-0275-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3034,7 +3032,7 @@
   "total_due": 1658.72
  },
  "B5185-00-000-0039-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3186,7 +3184,7 @@
   "total_due": 3171.11
  },
  "C0100-01-000-0003-02": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3456,7 +3454,7 @@
   "total_due": 4426.17
  },
  "C1120-00-000-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3470,7 +3468,7 @@
   "total_due": 11234.56
  },
  "C1150-02-000-0022-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3580,7 +3578,7 @@
   "total_due": 1273.96
  },
  "C1400-00-039-0012-10": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3589,21 +3587,21 @@
   ],
   "owner_mailing": "301 WILCREST DR HOUSTON, TX 77042-1047",
   "owner_name": "GOMEZ MARGO",
-  "prior_year_due": 11295.25,
+  "prior_year_due": 10878.45,
   "status": "delinquent",
-  "total_due": 14590.97
+  "total_due": 14174.17
  },
  "C1400-00-046-0002-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $133,602 \r\nLand Value: $13,768 \r\nImprovement Value: $119,834 \r\n\r\nCapped Value: $111,492 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nOVER 65\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "13755 MILE 2 E MERCEDES, TX 78570-2478",
   "owner_name": "FLORES LINDA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 602.07
  },
  "C1400-00-064-0002-00": {
   "checked": "2026-11-06",
@@ -3618,7 +3616,7 @@
   "total_due": 380.99
  },
  "C1400-00-064-0011-25": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -3694,7 +3692,7 @@
   "total_due": 1341.82
  },
  "C1520-03-000-0106-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3708,7 +3706,7 @@
   "total_due": 7927.41
  },
  "C1520-03-000-0108-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3798,7 +3796,7 @@
   "total_due": 10844.57
  },
  "C1626-02-000-0043-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -3848,7 +3846,7 @@
   "total_due": 1324.41
  },
  "C1645-02-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -3986,7 +3984,7 @@
   "total_due": 2268.96
  },
  "C2246-01-000-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -4000,7 +3998,7 @@
   "total_due": 2465.72
  },
  "C2246-03-000-0095-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -4104,7 +4102,7 @@
   "total_due": 1214.48
  },
  "C2668-00-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4144,7 +4142,7 @@
   "total_due": 14452.26
  },
  "C2750-00-003-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4232,7 +4230,7 @@
   "total_due": 9316.62
  },
  "C4020-00-000-0078-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4398,7 +4396,7 @@
   "total_due": 21291.12
  },
  "C4700-00-002-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4512,7 +4510,7 @@
   "total_due": 8736.28
  },
  "C5050-00-000-0006-12": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4578,7 +4576,7 @@
   "total_due": 9054.62
  },
  "C5850-00-001-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4656,7 +4654,7 @@
   "total_due": 10372.24
  },
  "C6300-00-013-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -4694,7 +4692,7 @@
   "total_due": 685.13
  },
  "C6440-00-000-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -4804,7 +4802,7 @@
   "total_due": 2604.31
  },
  "C6900-00-004-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -4910,7 +4908,7 @@
   "total_due": 7856.32
  },
  "C7050-00-007-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -5068,7 +5066,7 @@
   "total_due": 5586.28
  },
  "C7300-00-011-0006-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -5130,7 +5128,7 @@
   "total_due": 7731.87
  },
  "C7650-00-006-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5319,7 +5317,7 @@
   "total_due": 6185.13
  },
  "C8850-00-026-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5575,7 +5573,7 @@
   "total_due": 1602.54
  },
  "C9600-02-006-0012-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -5625,7 +5623,7 @@
   "total_due": 12175.7
  },
  "D0410-00-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5703,7 +5701,7 @@
   "total_due": 5322.95
  },
  "D1000-03-001-0023-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5867,7 +5865,7 @@
   "total_due": 1046.68
  },
  "D2949-02-000-0281-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -5907,7 +5905,7 @@
   "total_due": 6005.41
  },
  "D3010-01-000-0036-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -6021,7 +6019,7 @@
   "total_due": 222.74
  },
  "D4000-00-008-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -6102,7 +6100,7 @@
   "total_due": 4511.77
  },
  "D5000-00-000-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6210,7 +6208,7 @@
   "total_due": 0.0
  },
  "D6007-00-000-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6222,7 +6220,7 @@
   "total_due": 9115.14
  },
  "D6200-00-000-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6236,7 +6234,7 @@
   "total_due": 50096.62
  },
  "D6200-00-000-0035-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6262,7 +6260,7 @@
   "total_due": 3148.66
  },
  "D6435-01-002-0027-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6276,7 +6274,7 @@
   "total_due": 15943.61
  },
  "D6500-02-000-0025-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6316,7 +6314,7 @@
   "total_due": 1746.66
  },
  "D6800-00-047-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6325,9 +6323,9 @@
   ],
   "owner_mailing": "316 N 6TH ST DONNA, TX 78537-2606",
   "owner_name": "VILLALON JESUS J RAMIREZ",
-  "prior_year_due": 2758.49,
+  "prior_year_due": 3262.61,
   "status": "delinquent",
-  "total_due": 9378.38
+  "total_due": 9902.5
  },
  "D7111-02-000-0126-00": {
   "checked": "2026-11-05",
@@ -6444,7 +6442,7 @@
   "total_due": 654.81
  },
  "E0157-00-000-0061-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -6511,7 +6509,7 @@
   "total_due": 2501.15
  },
  "E1300-00-006-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6587,7 +6585,7 @@
   "total_due": 852.75
  },
  "E1900-00-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6613,7 +6611,7 @@
   "total_due": 3786.98
  },
  "E2500-00-00A-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6653,7 +6651,7 @@
   "total_due": 9827.12
  },
  "E2800-00-002-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -6693,7 +6691,7 @@
   "total_due": 5011.52
  },
  "E3100-00-011-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6885,7 +6883,7 @@
   "total_due": 4300.28
  },
  "E3300-00-142-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -6923,7 +6921,7 @@
   "total_due": 1063.43
  },
  "E3300-00-191-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7025,7 +7023,7 @@
   "total_due": 2378.89
  },
  "E3300-00-315-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7075,7 +7073,7 @@
   "total_due": 14210.7
  },
  "E3300-00-331-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7169,7 +7167,7 @@
   "total_due": 22424.0
  },
  "E3345-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7334,7 +7332,7 @@
   "total_due": 1451.76
  },
  "E4254-02-000-0164-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7343,7 +7341,7 @@
   "owner_name": "NIETO JOSE LUIS JR & JASMIN MARIA NIETO",
   "prior_year_due": 0.0,
   "status": "current_due",
-  "total_due": 1000.02
+  "total_due": 1027.24
  },
  "E4257-00-000-0006-00": {
   "checked": "2026-11-06",
@@ -7382,7 +7380,7 @@
   "total_due": 2591.89
  },
  "E4350-01-000-0072-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7396,7 +7394,7 @@
   "total_due": 6644.1
  },
  "E4361-00-000-0045-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7422,7 +7420,7 @@
   "total_due": 6328.12
  },
  "E4361-00-000-0071-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7600,7 +7598,7 @@
   "total_due": 6041.32
  },
  "E4970-00-000-0072-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7614,7 +7612,7 @@
   "total_due": 10553.84
  },
  "E5000-00-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7656,7 +7654,7 @@
   "total_due": 3399.75
  },
  "E5200-00-005-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7682,7 +7680,7 @@
   "total_due": 5748.27
  },
  "E5400-00-008-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -7696,7 +7694,7 @@
   "total_due": 4788.3
  },
  "E5400-00-019-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7774,7 +7772,7 @@
   "total_due": 599.34
  },
  "E5670-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7836,7 +7834,7 @@
   "total_due": 1491.1
  },
  "E6290-00-000-0028-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -7914,16 +7912,16 @@
   "total_due": 9445.43
  },
  "E6610-00-000-0002-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $353,038 \r\nLand Value: $69,793 \r\nImprovement Value: $283,245 \r\n\r\nCapped Value: $344,427 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "1219 N GLASSCOCK RD MISSION, TX 78572-4520",
   "owner_name": "PENA JOSE A & VERONICA",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 7032.84
  },
  "E6680-03-000-0232-00": {
   "checked": "2026-11-06",
@@ -8000,7 +7998,7 @@
   "total_due": 6493.55
  },
  "E7200-00-008-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8038,7 +8036,7 @@
   "total_due": 3823.35
  },
  "E7240-00-000-0047-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8184,7 +8182,7 @@
   "total_due": 893.53
  },
  "E8000-00-128-0004-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8234,7 +8232,7 @@
   "total_due": 1747.35
  },
  "E8100-00-003-0023-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8324,7 +8322,7 @@
   "total_due": 2903.19
  },
  "E8250-03-000-0102-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8336,7 +8334,7 @@
   "total_due": 3166.87
  },
  "E8250-06-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8362,7 +8360,7 @@
   "total_due": 4218.19
  },
  "E8500-00-00C-0000-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -8512,7 +8510,7 @@
   "total_due": 16989.39
  },
  "F1650-00-000-0044-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8523,7 +8521,7 @@
   "owner_name": "ROJAS SERVANDO & MARIBEL",
   "prior_year_due": 6984.52,
   "status": "delinquent",
-  "total_due": 9910.66
+  "total_due": 9410.66
  },
  "F1656-00-000-0005-00": {
   "checked": "2026-11-05",
@@ -8576,7 +8574,7 @@
   "total_due": 3168.97
  },
  "F2100-00-011-0022-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -8832,7 +8830,7 @@
   "total_due": 2183.45
  },
  "F4630-01-000-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -8992,7 +8990,7 @@
   "total_due": 17758.92
  },
  "F7050-05-025-0005-02": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9056,7 +9054,7 @@
   "total_due": 15670.75
  },
  "F7495-01-000-0063-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9272,7 +9270,7 @@
   "total_due": 3739.92
  },
  "G1200-04-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9284,7 +9282,7 @@
   "total_due": 4397.37
  },
  "G1200-05-000-0047-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9299,7 +9297,7 @@
   "total_due": 7174.95
  },
  "G1200-09-000-0069-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9323,7 +9321,7 @@
   "total_due": 1556.19
  },
  "G1200-12-000-0166-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9361,7 +9359,7 @@
   "total_due": 10434.21
  },
  "G1300-00-002-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -9465,7 +9463,7 @@
   "total_due": 4246.2
  },
  "G4032-00-000-0047-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9579,7 +9577,7 @@
   "total_due": 2588.25
  },
  "G4800-00-001-0005-04": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -9591,7 +9589,7 @@
   "total_due": 1653.2
  },
  "G5043-00-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9679,7 +9677,7 @@
   "total_due": 18211.88
  },
  "G5700-00-001-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -9693,7 +9691,7 @@
   "total_due": 5227.85
  },
  "G5770-01-000-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9731,7 +9729,7 @@
   "total_due": 17972.75
  },
  "G5900-3A-000-0064-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -9745,7 +9743,7 @@
   "total_due": 27.15
  },
  "G5970-02-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10090,7 +10088,7 @@
   "total_due": 2624.56
  },
  "G9400-00-005-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -10238,16 +10236,18 @@
   "total_due": 1874.18
  },
  "H0429-02-000-0017-00": {
-  "active_lawsuits": "",
-  "checked": "2026-10-15",
-  "exemptions": "",
+  "checked": "2026-11-12",
+  "exemptions": "HOMESTEAD",
   "found": true,
-  "homestead": false,
-  "owner_mailing": "",
-  "owner_name": "",
-  "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "homestead": true,
+  "lawsuits": [
+   "T-0220-25-E"
+  ],
+  "owner_mailing": "1331 SANTOS DR ALAMO, TX 78516",
+  "owner_name": "GUILLEN ROMANY A REYES",
+  "prior_year_due": 12957.73,
+  "status": "delinquent",
+  "total_due": 16995.16
  },
  "H0435-00-000-0039-00": {
   "checked": "2026-11-06",
@@ -10302,7 +10302,7 @@
   "total_due": 5682.29
  },
  "H0450-00-099-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10388,7 +10388,7 @@
   "total_due": 2033.36
  },
  "H0900-00-009-0000-21": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -10438,7 +10438,7 @@
   "total_due": 425.84
  },
  "H0900-00-037-0014-02": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10525,7 +10525,7 @@
   "total_due": 1059.31
  },
  "H1330-00-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -10649,7 +10649,7 @@
   "total_due": 5180.79
  },
  "H2044-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -10867,7 +10867,7 @@
   "total_due": 1157.61
  },
  "H2656-00-000-0015-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11101,7 +11101,7 @@
   "total_due": 2903.77
  },
  "H3475-00-006-0000-04": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -11153,7 +11153,7 @@
   "total_due": 4772.6
  },
  "H3475-00-192-0000-07": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11229,7 +11229,7 @@
   "total_due": 604.17
  },
  "H4195-00-000-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -11267,7 +11267,7 @@
   "total_due": 1971.38
  },
  "H4400-00-000-0089-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11323,7 +11323,7 @@
   "total_due": 5870.17
  },
  "H5000-00-002-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11375,7 +11375,7 @@
   "total_due": 4532.48
  },
  "H5210-07-000-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11425,7 +11425,7 @@
   "total_due": 2977.69
  },
  "H5255-00-000-0040-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11453,21 +11453,21 @@
   "total_due": 1980.34
  },
  "I2000-02-000-0065-00": {
-  "checked": "2026-11-05",
-  "exemptions": "None",
+  "checked": "2026-11-12",
+  "exemptions": "HOMESTEAD",
   "found": true,
-  "homestead": false,
+  "homestead": true,
   "lawsuits": [
    "T-0664-26-L"
   ],
   "owner_mailing": "KIMBERLY M ARGUELLO JANIE E ACHEDDAD 4605 S 33RD ST MCALLEN, TX 78503-7432",
   "owner_name": "ARGUELLO JESUS MANUEL CUST",
-  "prior_year_due": 5126.56,
+  "prior_year_due": 2856.69,
   "status": "delinquent",
-  "total_due": 7142.63
+  "total_due": 3840.39
  },
  "I2000-02-000-0111-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11495,7 +11495,7 @@
   "total_due": 6410.66
  },
  "I2000-04-000-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "DEFERRAL\nHOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -11597,7 +11597,7 @@
   "total_due": 24676.48
  },
  "J0150-00-000-0021-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11611,7 +11611,7 @@
   "total_due": 17467.95
  },
  "J1200-02-001-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11763,7 +11763,7 @@
   "total_due": 2049.79
  },
  "J3325-00-000-0081-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -11858,7 +11858,7 @@
   "total_due": 3266.79
  },
  "J5700-00-008-0020-54": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -11899,7 +11899,7 @@
   "total_due": 0.0
  },
  "J6600-00-000-0026-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -11951,7 +11951,7 @@
   "total_due": 878.88
  },
  "J8800-00-002-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12069,7 +12069,7 @@
   "total_due": 8179.14
  },
  "K2400-00-000-0141-18": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -12321,7 +12321,7 @@
   "total_due": 4002.92
  },
  "K6910-07-000-0195-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12397,7 +12397,7 @@
   "total_due": 3663.41
  },
  "L0250-00-021-0000-14": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12411,7 +12411,7 @@
   "total_due": 14368.37
  },
  "L0250-00-063-0002-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12475,7 +12475,7 @@
   "total_due": 10678.75
  },
  "L0450-00-122-0000-15": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -12489,7 +12489,7 @@
   "total_due": 17858.35
  },
  "L0450-00-175-0000-06": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12607,7 +12607,7 @@
   "total_due": 6827.37
  },
  "L0800-00-036-0004-24": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -12687,7 +12687,7 @@
   "total_due": 2787.67
  },
  "L0940-00-000-0032-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -12813,7 +12813,7 @@
   "total_due": 811.51
  },
  "L1100-01-001-0068-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13016,7 +13016,7 @@
   "total_due": 5735.45
  },
  "L1355-00-000-0034-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13112,7 +13112,7 @@
   "total_due": 8993.79
  },
  "L1703-02-000-0031-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13264,7 +13264,7 @@
   "total_due": 4048.33
  },
  "L2102-02-000-0046-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13332,7 +13332,7 @@
   "total_due": 2331.95
  },
  "L2213-02-000-0055-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13370,16 +13370,16 @@
   "total_due": 686.83
  },
  "L2300-00-00C-0005-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $178,319 \r\nLand Value: $77,303 \r\nImprovement Value: $101,016 \r\n\r\nCapped Value: $111,950 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nOVER 65\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "8208 LAKE CITRUS DR EDINBURG, TX 78541-9374",
   "owner_name": "GARCIA WENCESLADO & BEATRICE",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 858.55
  },
  "L2450-02-000-0013-00": {
   "checked": "2026-11-10",
@@ -13406,7 +13406,7 @@
   "total_due": 6934.24
  },
  "L2500-00-000-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -13420,19 +13420,19 @@
   "total_due": 7915.49
  },
  "L2550-01-005-0005-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $95,344 \r\nLand Value: $56,700 \r\nImprovement Value: $38,644 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
-  "owner_mailing": "208 W 5TH ST LA JOYA, TX 78560-9062",
+  "lawsuits": [],
+  "owner_mailing": "C/O ALEJANDRA GARZA & ANTONIO GARCIA JR 208 W 5TH ST LA JOYA, TX 78560",
   "owner_name": "GARZA JAVIER HUMBERTO & AMELIA",
-  "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 3155.58
+  "prior_year_due": 3181.67,
+  "status": "delinquent",
+  "total_due": 5501.48
  },
  "L2550-01-005-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -13666,7 +13666,7 @@
   "total_due": 4561.09
  },
  "L3130-01-000-0041-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13750,7 +13750,7 @@
   "total_due": 2125.65
  },
  "L3164-06-000-0089-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -13992,7 +13992,7 @@
   "total_due": 1496.5
  },
  "L3195-00-000-0045-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14006,7 +14006,7 @@
   "total_due": 8204.62
  },
  "L3195-00-000-0122-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14280,7 +14280,7 @@
   "total_due": 1861.12
  },
  "L3382-95-000-0117-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14306,7 +14306,7 @@
   "total_due": 7685.98
  },
  "L3390-01-000-0056-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14392,7 +14392,7 @@
   "total_due": 2582.7
  },
  "L3750-00-005-0009-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14494,7 +14494,7 @@
   "total_due": 10916.88
  },
  "L4500-04-000-0108-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -14508,7 +14508,7 @@
   "total_due": 11385.86
  },
  "L4650-00-000-0008-10": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14560,7 +14560,7 @@
   "total_due": 2398.27
  },
  "L4735-00-004-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -14574,7 +14574,7 @@
   "total_due": 17224.66
  },
  "L4920-97-000-0167-03": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14636,7 +14636,7 @@
   "total_due": 2817.52
  },
  "L5140-02-000-0116-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14855,7 +14855,7 @@
   "total_due": 0.0
  },
  "L5805-01-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -14883,7 +14883,7 @@
   "total_due": 7657.64
  },
  "L5813-01-000-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -14986,7 +14986,7 @@
   "total_due": 689.18
  },
  "L5965-02-000-0051-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15012,7 +15012,7 @@
   "total_due": 1688.27
  },
  "L5965-03-000-0047-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15060,7 +15060,7 @@
   "total_due": 0.0
  },
  "L6100-00-000-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15124,7 +15124,7 @@
   "total_due": 2726.02
  },
  "L6125-00-000-0052-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -15198,7 +15198,7 @@
   "total_due": 2274.49
  },
  "L6155-00-000-0043-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -15212,7 +15212,7 @@
   "total_due": 5255.16
  },
  "L6220-00-000-0004-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -15274,7 +15274,7 @@
   "total_due": 1545.0
  },
  "L6250-00-000-000A-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -15324,7 +15324,7 @@
   "total_due": 1832.06
  },
  "L6267-02-000-0021-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -15400,7 +15400,7 @@
   "total_due": 5351.6
  },
  "L6355-00-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -15584,7 +15584,7 @@
   "total_due": 25399.48
  },
  "L6700-00-004-0037-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -15598,7 +15598,7 @@
   "total_due": 12456.38
  },
  "L6700-00-006-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -15764,13 +15764,11 @@
   "total_due": 4506.59
  },
  "M0350-00-009-0037-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
-  "lawsuits": [
-   "T-0328-26-D"
-  ],
+  "lawsuits": [],
   "owner_mailing": "C/O ESPECIALES PENA 3300 EBONY AVE MCALLEN, TX 78501-8076",
   "owner_name": "MORALES SANTANA",
   "prior_year_due": 0.0,
@@ -16058,7 +16056,7 @@
   "total_due": 6014.48
  },
  "M2050-00-000-0017-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16085,7 +16083,7 @@
   "total_due": 6580.32
  },
  "M2150-00-004-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16137,7 +16135,7 @@
   "total_due": 7330.96
  },
  "M2321-00-00E-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16165,7 +16163,7 @@
   "total_due": 6687.42
  },
  "M2558-01-000-0100-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16191,7 +16189,7 @@
   "total_due": 2614.2
  },
  "M2650-00-005-0004-18": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16385,7 +16383,7 @@
   "total_due": 2706.82
  },
  "M3220-00-000-0031-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\n100% EXEMPT VET\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16461,7 +16459,7 @@
   "total_due": 7421.81
  },
  "M3400-01-000-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16723,7 +16721,7 @@
   "total_due": 1352.69
  },
  "M3550-00-162-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16737,7 +16735,7 @@
   "total_due": 21049.95
  },
  "M3550-00-182-0000-15": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -16749,7 +16747,7 @@
   "total_due": 1249.84
  },
  "M3576-01-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16787,7 +16785,7 @@
   "total_due": 2063.85
  },
  "M3576-01-000-0040-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -16796,9 +16794,9 @@
   ],
   "owner_mailing": "3909 N GARDEN ST MERCEDES, TX 78570-2440",
   "owner_name": "AGUILAR OSVALDO DANIEL",
-  "prior_year_due": 6382.28,
+  "prior_year_due": 6132.28,
   "status": "delinquent",
-  "total_due": 9610.54
+  "total_due": 9360.54
  },
  "M3576-01-000-0042-00": {
   "checked": "2026-11-06",
@@ -16813,7 +16811,7 @@
   "total_due": 1922.23
  },
  "M3580-00-001-001A-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -16977,7 +16975,7 @@
   "total_due": 1053.88
  },
  "M4180-00-000-0028-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -17058,7 +17056,7 @@
   "total_due": 475.69
  },
  "M4659-00-000-0030-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17096,7 +17094,7 @@
   "total_due": 13479.06
  },
  "M4670-00-000-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17258,7 +17256,7 @@
   "total_due": 7554.84
  },
  "M4900-00-000-0092-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17272,7 +17270,7 @@
   "total_due": 28817.67
  },
  "M5000-00-001-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17440,7 +17438,7 @@
   "total_due": 474.15
  },
  "M5258-00-000-0040-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17492,7 +17490,7 @@
   "total_due": 3305.52
  },
  "M5500-00-094-0010-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -17594,7 +17592,7 @@
   "total_due": 12001.28
  },
  "M5759-00-000-0045-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17668,7 +17666,7 @@
   "total_due": 2841.02
  },
  "M5942-01-000-0022-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -17804,7 +17802,7 @@
   "total_due": 6298.19
  },
  "M6050-00-001-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -17818,7 +17816,7 @@
   "total_due": 6844.36
  },
  "M6050-00-003-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -17994,7 +17992,7 @@
   "total_due": 1401.0
  },
  "M7030-00-000-0172-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -18174,7 +18172,7 @@
   "total_due": 1273.75
  },
  "N1350-02-000-0075-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18188,7 +18186,7 @@
   "total_due": 9981.22
  },
  "N1350-02-000-0184-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -18292,7 +18290,7 @@
   "total_due": 14862.2
  },
  "N3250-00-000-0060-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -18316,7 +18314,7 @@
   "total_due": 717.43
  },
  "N3360-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18330,7 +18328,7 @@
   "total_due": 11661.78
  },
  "N3400-00-000-2012-08": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18382,7 +18380,7 @@
   "total_due": 0.0
  },
  "N3400-00-000-2188-07": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18409,7 +18407,7 @@
   "total_due": 1428.12
  },
  "N3400-98-000-2244-11": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18487,7 +18485,7 @@
   "total_due": 2385.5
  },
  "N4765-00-000-0048-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18501,7 +18499,7 @@
   "total_due": 6982.77
  },
  "N4765-00-000-0055-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -18515,7 +18513,7 @@
   "total_due": 10647.88
  },
  "N4765-02-000-0067-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -18553,7 +18551,7 @@
   "total_due": 15180.46
  },
  "N4847-02-000-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18689,7 +18687,7 @@
   "total_due": 7543.39
  },
  "N6720-02-000-0117-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18698,9 +18696,9 @@
   ],
   "owner_mailing": "7420 NARANJA LN PHARR, TX 78577-9207",
   "owner_name": "CANTU ADRIANA & GERARDO",
-  "prior_year_due": 15849.96,
+  "prior_year_due": 15209.95,
   "status": "delinquent",
-  "total_due": 22197.37
+  "total_due": 21557.36
  },
  "N6730-03-000-0140-00": {
   "checked": "2026-10-30",
@@ -18927,7 +18925,7 @@
   "total_due": 3077.17
  },
  "N8600-00-001-0027-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -18936,12 +18934,12 @@
   ],
   "owner_mailing": "1403 N OAK ST ALTON, TX 78573-3876",
   "owner_name": "CORTES EULALIO & CINTHIA A GARICA",
-  "prior_year_due": 6343.07,
+  "prior_year_due": 5234.78,
   "status": "delinquent",
-  "total_due": 10657.33
+  "total_due": 9549.04
  },
  "N8610-01-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19055,19 +19053,19 @@
   "total_due": 3262.2
  },
  "O0651-00-000-0080-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $249,764 \r\nLand Value: $65,100 \r\nImprovement Value: $184,664 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nOVER 65\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "2009 N 46TH ST MCALLEN, TX 78501-3047",
   "owner_name": "GREES MARGARITA A MARTINEZ",
-  "prior_year_due": 0.0,
-  "status": "current_due",
-  "total_due": 3662.3
+  "prior_year_due": 3692.58,
+  "status": "delinquent",
+  "total_due": 6241.17
  },
  "O2005-02-000-0054-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -19081,7 +19079,7 @@
   "total_due": 7975.9
  },
  "O2440-00-001-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19171,7 +19169,7 @@
   "total_due": 3707.53
  },
  "O3000-05-00D-0000-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19280,7 +19278,7 @@
   "total_due": 2700.65
  },
  "O7760-01-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19349,7 +19347,7 @@
   "total_due": 3516.76
  },
  "O7900-00-000-0004-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19363,7 +19361,7 @@
   "total_due": 15563.07
  },
  "O7900-00-000-0032-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -19372,9 +19370,9 @@
   ],
   "owner_mailing": "132 ROMAN CIR EDINBURG, TX 78542",
   "owner_name": "PUENTE MARIBEL",
-  "prior_year_due": 9723.18,
+  "prior_year_due": 9023.13,
   "status": "delinquent",
-  "total_due": 11950.9
+  "total_due": 11250.85
  },
  "O8100-00-000-0013-00": {
   "checked": "2026-10-29",
@@ -19425,7 +19423,7 @@
   "total_due": 1477.61
  },
  "P0015-00-002-0027-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19501,7 +19499,7 @@
   "total_due": 5777.29
  },
  "P0333-00-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19579,7 +19577,7 @@
   "total_due": 11024.46
  },
  "P1000-02-000-0194-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -19617,7 +19615,7 @@
   "total_due": 28683.62
  },
  "P1000-03-000-0272-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -19745,7 +19743,7 @@
   "total_due": 1786.12
  },
  "P2000-00-007-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19771,7 +19769,7 @@
   "total_due": 857.31
  },
  "P2150-02-000-0024-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -19785,7 +19783,7 @@
   "total_due": 4899.9
  },
  "P2310-02-000-0036-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20014,7 +20012,7 @@
   "total_due": 23557.94
  },
  "P3900-02-000-0049-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20068,7 +20066,7 @@
   "total_due": 6350.46
  },
  "P4408-00-000-0029-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20094,7 +20092,7 @@
   "total_due": 3180.65
  },
  "P4500-00-004-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20108,7 +20106,7 @@
   "total_due": 3357.75
  },
  "P4750-00-000-0035-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20117,9 +20115,9 @@
   ],
   "owner_mailing": "2306 PEACOCK ST DONNA, TX 78537-7220",
   "owner_name": "NERIO ANASTACIO",
-  "prior_year_due": 5742.14,
+  "prior_year_due": 5160.79,
   "status": "delinquent",
-  "total_due": 7915.72
+  "total_due": 7334.37
  },
  "P4870-00-000-0005-00": {
   "checked": "2026-11-07",
@@ -20184,7 +20182,7 @@
   "total_due": 31189.77
  },
  "P5200-00-005-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -20193,9 +20191,9 @@
   ],
   "owner_mailing": "1107 ASH ST MISSION, TX 78572",
   "owner_name": "PARRAS ILIANA",
-  "prior_year_due": 42117.17,
+  "prior_year_due": 40662.29,
   "status": "delinquent",
-  "total_due": 45718.31
+  "total_due": 44263.43
  },
  "P5260-00-000-0036-00": {
   "checked": "2026-11-06",
@@ -20226,7 +20224,7 @@
   "total_due": 20186.68
  },
  "P5322-01-000-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20235,9 +20233,9 @@
   ],
   "owner_mailing": "13103 N FM 493 DONNA, TX 78537-5070",
   "owner_name": "RABE CLINTON B & BRENDA",
-  "prior_year_due": 25006.13,
+  "prior_year_due": 24506.13,
   "status": "delinquent",
-  "total_due": 32036.2
+  "total_due": 31536.2
  },
  "P5380-00-000-0029-00": {
   "checked": "2026-11-05",
@@ -20391,7 +20389,7 @@
   "total_due": 686.29
  },
  "P6400-00-008-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20861,7 +20859,7 @@
   "total_due": 1567.6
  },
  "P7170-08-037-0033-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -20987,7 +20985,7 @@
   "total_due": 13922.58
  },
  "P7170-15-029-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21065,7 +21063,7 @@
   "total_due": 2034.88
  },
  "P8007-00-000-0049-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21077,7 +21075,7 @@
   "total_due": 1514.51
  },
  "P8060-02-000-0100-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21153,7 +21151,7 @@
   "total_due": 2211.59
  },
  "P8115-03-000-0097-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21167,7 +21165,7 @@
   "total_due": 4007.83
  },
  "P8115-04-000-0058-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21349,7 +21347,7 @@
   "total_due": 563.12
  },
  "P9276-02-000-0154-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -21565,7 +21563,7 @@
   "total_due": 124.96
  },
  "P9540-00-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21601,7 +21599,7 @@
   "total_due": 1291.32
  },
  "P9550-00-000-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -21653,7 +21651,7 @@
   "total_due": 3390.73
  },
  "Q2000-02-009-0025-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21767,7 +21765,7 @@
   "total_due": 635.08
  },
  "Q4010-02-003-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -21817,7 +21815,7 @@
   "total_due": 7653.75
  },
  "R0150-00-000-0080-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22319,7 +22317,7 @@
   "total_due": 1626.71
  },
  "R2075-00-000-0003-03": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22359,7 +22357,7 @@
   "total_due": 429.4
  },
  "R2250-01-003-0013-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -22409,7 +22407,7 @@
   "total_due": 1627.65
  },
  "R2661-00-000-0041-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22421,16 +22419,16 @@
   "total_due": 6526.27
  },
  "R2845-00-000-0020-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $241,649 \r\nLand Value: $78,433 \r\nImprovement Value: $163,216 \r\n\r\nCapped Value: $208,293 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "4512 PHYLLIS LN EDINBURG, TX 78542-6313",
   "owner_name": "ROMO JOSE A & BEATRIZ",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2883.87
  },
  "R2845-03-000-0012-00": {
   "checked": "2026-11-06",
@@ -22473,7 +22471,7 @@
   "total_due": 5498.75
  },
  "R2846-00-000-0050-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22501,7 +22499,7 @@
   "total_due": 5848.81
  },
  "R2950-00-001-0002-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -22677,7 +22675,7 @@
   "total_due": 10502.38
  },
  "R3700-00-000-0022-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "DISABLED\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22841,7 +22839,7 @@
   "total_due": 14151.56
  },
  "R4400-00-002-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -22929,7 +22927,7 @@
   "total_due": 2000.08
  },
  "R4700-00-004-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -22983,7 +22981,7 @@
   "total_due": 2485.84
  },
  "R5150-00-000-0032-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23071,7 +23069,7 @@
   "total_due": 74129.24
  },
  "S0100-01-002-0013-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23135,7 +23133,7 @@
   "total_due": 721.38
  },
  "S0174-00-000-0023-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23221,7 +23219,7 @@
   "total_due": 4446.74
  },
  "S0455-00-000-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23249,7 +23247,7 @@
   "total_due": 11775.83
  },
  "S0558-01-000-0031-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23523,7 +23521,7 @@
   "total_due": 2.27
  },
  "S1150-00-014-0008-10": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23559,7 +23557,7 @@
   "total_due": 523.54
  },
  "S1350-00-000-0002-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23597,7 +23595,7 @@
   "total_due": 1749.25
  },
  "S1355-02-002-0050-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23755,19 +23753,19 @@
   "total_due": 0.0
  },
  "S1700-02-020-0001-14": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $98,652 \r\nLand Value: $84,870 \r\nImprovement Value: $13,782 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
+  "lawsuits": [],
   "owner_mailing": "18552 LA BLANCA DR EDINBURG, TX 78542-4196",
   "owner_name": "GARCIA SILVIA & RICARDO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1755.69
  },
  "S1700-02-025-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -23781,7 +23779,7 @@
   "total_due": 6380.23
  },
  "S1700-02-025-0013-10": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23869,7 +23867,7 @@
   "total_due": 3820.23
  },
  "S1810-03-000-0043-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -23897,7 +23895,7 @@
   "total_due": 16635.59
  },
  "S2150-00-001-0039-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23949,7 +23947,7 @@
   "total_due": 5114.1
  },
  "S2150-00-006-0024-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -23989,7 +23987,7 @@
   "total_due": 27543.84
  },
  "S2353-01-000-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -24001,7 +23999,7 @@
   "total_due": 467.0
  },
  "S2370-00-000-0039-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "DEFERRAL\nHOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -24063,7 +24061,7 @@
   "total_due": 4117.35
  },
  "S2450-00-000-0001-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -24177,7 +24175,7 @@
   "total_due": 8650.5
  },
  "S2500-00-000-0013-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24643,7 +24641,7 @@
   "total_due": 1386.14
  },
  "S3435-00-000-0056-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24807,7 +24805,7 @@
   "total_due": 1078.44
  },
  "S3591-02-000-0040-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -24857,7 +24855,7 @@
   "total_due": 3113.36
  },
  "S3594-01-000-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -24909,7 +24907,7 @@
   "total_due": 1191.06
  },
  "S3650-00-003-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -24923,7 +24921,7 @@
   "total_due": 15444.09
  },
  "S3850-01-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD\nSURVIVING SPOUSE OVER 65",
   "found": true,
   "homestead": true,
@@ -24949,7 +24947,7 @@
   "total_due": 39217.28
  },
  "S3925-00-023-0004-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25047,7 +25045,7 @@
   "total_due": 1788.57
  },
  "S3975-01-000-0021-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25061,7 +25059,7 @@
   "total_due": 4544.73
  },
  "S3975-01-000-0080-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25165,16 +25163,16 @@
   "total_due": 8348.21
  },
  "S3975-08-000-0033-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $143,247 \r\nLand Value: $48,200 \r\nImprovement Value: $95,047 \r\n\r\nCapped Value: $138,113 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nDISABLED\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "713 W FALCON AVE PHARR, TX 78577-9387",
   "owner_name": "GONZALEZ JUAN & SANDRA FLORES GONZALEZ",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1918.69
  },
  "S3975-08-000-0083-00": {
   "checked": "2026-11-05",
@@ -25191,7 +25189,7 @@
   "total_due": 3748.81
  },
  "S3975-09-000-0094-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25219,7 +25217,7 @@
   "total_due": 8391.53
  },
  "S4000-00-001-0019-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25283,7 +25281,7 @@
   "total_due": 1253.43
  },
  "S4100-00-002-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25450,7 +25448,7 @@
   "total_due": 5332.31
  },
  "S4470-03-000-0029-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -25558,18 +25556,18 @@
   "total_due": 2737.87
  },
  "S4770-00-000-0419-00": {
-  "checked": "2026-11-05",
-  "exemptions": "None",
+  "checked": "2026-11-12",
+  "exemptions": "HOMESTEAD",
   "found": true,
-  "homestead": false,
+  "homestead": true,
   "lawsuits": [
    "T-0604-25-E"
   ],
   "owner_mailing": "1415 SANTA CLARA DR ALAMO, TX 78516-4116",
   "owner_name": "LUNA DAVID & CRYSTAL CORONADO",
-  "prior_year_due": 10472.73,
+  "prior_year_due": 7013.9,
   "status": "delinquent",
-  "total_due": 13130.31
+  "total_due": 8273.12
  },
  "S4843-00-000-0065-00": {
   "checked": "2026-11-06",
@@ -25776,7 +25774,7 @@
   "total_due": 3622.02
  },
  "S5447-00-000-0052-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -25826,7 +25824,7 @@
   "total_due": 0.0
  },
  "S5520-00-000-0036-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25868,7 +25866,7 @@
   "total_due": 185542.94
  },
  "S5950-00-017-0001-16": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25906,7 +25904,7 @@
   "total_due": 1687.63
  },
  "S6000-00-007-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -25920,7 +25918,7 @@
   "total_due": 16079.31
  },
  "S6230-00-000-0026-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -25998,7 +25996,7 @@
   "total_due": 1508.92
  },
  "S6430-00-000-0024-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26062,7 +26060,7 @@
   "total_due": 5804.64
  },
  "S6856-00-000-0086-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26100,7 +26098,7 @@
   "total_due": 1048.79
  },
  "S6860-02-002-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26140,7 +26138,7 @@
   "total_due": 1205.38
  },
  "S6951-02-000-0055-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26202,7 +26200,7 @@
   "total_due": 652.38
  },
  "S7360-1A-000-009A-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26216,7 +26214,7 @@
   "total_due": 29808.72
  },
  "S7360-1A-000-015A-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26298,7 +26296,7 @@
   "total_due": 4465.56
  },
  "S7679-00-000-0058-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26326,7 +26324,7 @@
   "total_due": 9171.54
  },
  "T0108-00-000-0031-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26528,7 +26526,7 @@
   "total_due": 918.21
  },
  "T0945-22-000-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -26590,7 +26588,7 @@
   "total_due": 15964.56
  },
  "T1300-00-005-0013-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26616,7 +26614,7 @@
   "total_due": 1328.75
  },
  "T1750-00-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26690,7 +26688,7 @@
   "total_due": 3282.83
  },
  "T2100-00-236-0007-06": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26744,7 +26742,7 @@
   "total_due": 11398.29
  },
  "T2100-00-240-0001-08": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -26796,16 +26794,18 @@
   "total_due": 14297.74
  },
  "T2100-00-249-0010-19": {
-  "active_lawsuits": "T2853-12C\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $39,485 \r\nLand Value: $17,408 \r\nImprovement Value: $22,077 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
-  "exemptions": "NHS CAP LOSS",
+  "checked": "2026-11-12",
+  "exemptions": "None",
   "found": true,
   "homestead": false,
+  "lawsuits": [
+   "T-2853-12-C"
+  ],
   "owner_mailing": "RR 8 BOX 823C EDINBURG, TX 78541",
   "owner_name": "ABREGO FIDEL & MARIA E",
-  "prior_year_due": 15414.82,
+  "prior_year_due": 16385.75,
   "status": "delinquent",
-  "total_due": 16313.31
+  "total_due": 17066.17
  },
  "T2100-00-251-0004-01": {
   "checked": "2026-11-06",
@@ -26832,7 +26832,7 @@
   "total_due": 2549.1
  },
  "T2100-00-254-0016-23": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26936,7 +26936,7 @@
   "total_due": 1743.97
  },
  "T2200-00-011-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -26988,7 +26988,7 @@
   "total_due": 56314.04
  },
  "T2200-00-035-0008-01": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27064,7 +27064,7 @@
   "total_due": 1707.16
  },
  "T2662-02-000-0046-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27078,7 +27078,7 @@
   "total_due": 7017.87
  },
  "T2662-03-000-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27092,7 +27092,7 @@
   "total_due": 5057.76
  },
  "T2662-07-000-0029-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27194,7 +27194,7 @@
   "total_due": 5140.43
  },
  "T3425-97-00I-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27390,7 +27390,7 @@
   "total_due": 14179.72
  },
  "T4745-02-000-0054-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27416,7 +27416,7 @@
   "total_due": 4027.05
  },
  "T4755-00-000-0023-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -27514,7 +27514,7 @@
   "total_due": 13617.8
  },
  "T5250-00-027-0007-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27523,12 +27523,12 @@
   ],
   "owner_mailing": "2302 SOLEADO ST MISSION, TX 78572",
   "owner_name": "RIOS HERLINDA",
-  "prior_year_due": 14483.29,
+  "prior_year_due": 14283.27,
   "status": "delinquent",
-  "total_due": 16441.65
+  "total_due": 16241.63
  },
  "T5250-02-001-0012-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27576,7 +27576,7 @@
   "total_due": 3003.58
  },
  "T5270-00-000-0105-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27628,7 +27628,7 @@
   "total_due": 361.04
  },
  "T5380-00-000-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -27676,7 +27676,7 @@
   "total_due": 9117.75
  },
  "T5438-02-006-0031-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -27716,7 +27716,7 @@
   "total_due": 7083.89
  },
  "T5800-00-000-0018-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -27756,7 +27756,7 @@
   "total_due": 2130.79
  },
  "T5900-02-022-0001-12": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -27974,19 +27974,19 @@
   "total_due": 3955.43
  },
  "T6750-00-000-0039-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\n\r\nDate \r\nAmount \r\nPayer \r\n\r\n02/24/22 \r\n$0.00 \r\nJOSE GARCIA \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $149,338 \r\nLand Value: $65,367 \r\nImprovement Value: $83,971 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
+  "lawsuits": [],
   "owner_mailing": "6801 BAGLEY DR MISSION, TX 78574",
   "owner_name": "NARVAEZ MARIA DEL CONSUELO",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 3352.09
  },
  "T6800-00-000-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28050,7 +28050,7 @@
   "total_due": 5201.39
  },
  "T6841-02-000-0121-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28174,7 +28174,7 @@
   "total_due": 1463.51
  },
  "T7450-97-000-0027-10": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28188,7 +28188,7 @@
   "total_due": 9315.16
  },
  "T7450-97-000-0033-03": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28226,7 +28226,7 @@
   "total_due": 2021.17
  },
  "T7600-00-000-0023-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28240,7 +28240,7 @@
   "total_due": 15160.27
  },
  "T7650-97-000-0683-02": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28365,7 +28365,7 @@
   "total_due": 1416.68
  },
  "U0500-01-002-0045-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28453,7 +28453,7 @@
   "total_due": 774.47
  },
  "V0100-00-000-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28467,7 +28467,7 @@
   "total_due": 22454.52
  },
  "V0100-00-000-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28521,7 +28521,7 @@
   "total_due": 21288.88
  },
  "V0230-00-000-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -28636,7 +28636,7 @@
   "total_due": 16038.35
  },
  "V0560-00-000-000B-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28650,16 +28650,16 @@
   "total_due": 19552.53
  },
  "V0560-00-000-0048-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $148,805 \r\nLand Value: $52,070 \r\nImprovement Value: $96,735 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nHOMESTEAD\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
+  "lawsuits": [],
   "owner_mailing": "2507 BRAZIL HIDALGO, TX 78557-3810",
   "owner_name": "SANTANA JOSE & CRYSTAL MONTEMAYOR",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 2033.36
  },
  "V0560-00-000-0056-00": {
   "checked": "2026-11-05",
@@ -28676,19 +28676,19 @@
   "total_due": 9457.53
  },
  "V0560-00-000-0105-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $257,984 \r\nLand Value: $57,094 \r\nImprovement Value: $200,890 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNone \r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
+  "lawsuits": [],
   "owner_mailing": "2502 CYPRESS SPRINGS CT PEARLAND, TX 77584-6728",
   "owner_name": "MORALES BERNADETTE & SANDRA GONZALES",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 6362.38
  },
  "V0560-02-000-0166-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -28714,7 +28714,7 @@
   "total_due": 0.0
  },
  "V0560-02-000-0278-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -28728,7 +28728,7 @@
   "total_due": 5911.63
  },
  "V0560-03-003-0145-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28856,7 +28856,7 @@
   "total_due": 1850.09
  },
  "V0630-02-000-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -28870,7 +28870,7 @@
   "total_due": 15046.05
  },
  "V0700-00-005-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29010,7 +29010,7 @@
   "total_due": 6385.05
  },
  "V2500-00-003-0006-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29024,7 +29024,7 @@
   "total_due": 9428.19
  },
  "V2660-03-000-0145-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29152,7 +29152,7 @@
   "total_due": 7077.97
  },
  "V3316-00-000-0014-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -29202,7 +29202,7 @@
   "total_due": 10823.78
  },
  "V3430-00-000-0005-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29240,7 +29240,7 @@
   "total_due": 1372.48
  },
  "V3515-00-000-0021-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29352,7 +29352,7 @@
   "total_due": 0.0
  },
  "V3557-00-000-0003-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29390,16 +29390,16 @@
   "total_due": 475.8
  },
  "V3580-00-000-0012-00": {
-  "active_lawsuits": "None\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.pendingPayments { margin-left: 15px; }\r\n.pendingPayments th, .pendingPayments td { vertical-align: top; text-align: left; xfont-size: 12px; } \r\n.pendingPayments th { font-size: 11px; font-weight: normal; padding-top: 5px; font-style: italic; } \r\n.pendingPayments .date { width: 80px; min-width: 80px; } \r\n.pendingPayments .amount { width: 80px; min-width: 80px; text-align: right; padding-right: 10px; } \r\n.pendingPayments .hasPendingPayment {color: red} \r\n#scheduledPayments th.amount { padding-right: 4px; } \r\n\r\nPending\r\nCredit Card or eCheck\r\nPayments:\r\n\n\r\n\r\nNo Payment Pending\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCredit/debit card payments will take 4-5 business days to post. A convenience fee will be added if you pay by credit card.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n(Pay single or multiple accounts by eCheck. Pay now or schedule future payments without a convenience fee.) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegister for Certified Statements by E-mail\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGross Value: $53,378 \r\nLand Value: $50,400 \r\nImprovement Value: $2,978 \r\n\r\nCapped Value: $0 \r\nAgricultural Value: $0 \r\n\r\nExemptions:\nNHS CAP LOSS\n\r\n\r\n\r\n\r\nExemption and Tax Rate Information \r\n\n\r\n\n\r\n\n\r\n\r\nTaxes Due Detail by Year and Jurisdiction \r\n\n\r\n\n\r\n\n\r\n\r\nPayment Information \r\n\r\n\n\r\n\n\r\n\n\r\n\r\nPrint a Current Tax Statement \r\n\n\r\n\n\r\n\n\r\nRegister to Receive Electronic Tax Statements \r\n-->\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick \r\nHere to see your estimated amount due for a different date. You \r\ncan see this information by year and by both year and jurisdiction. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\nTerms of Use \r\nPrivacy Policy \r\n\n\r\n\r\n\r\n\r\n\r\n\r\nThe Tax Office makes no representations as to the accuracy or reliability of any information accessed from its computer data base. The Tax Office, its officers, agents, employees and representatives shall not be liable for the information posted on the Tax Office Website in connection with any actions losses, damages, claims or liability in any way related to use of, distribution of or reliance upon such information.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHIDALGO COUNTY TAX OFFICE\n\r\nPO BOX 178\n\r\nEDINBURG, TEXAS 78540\n\r\n(956) 318-2157\n\r\nYou may also e-mail the office.\r\n\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n©Appraisal & Collection Technologies. \r\nAll rights reserved. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTerms of Use:\r\nThis webpage is designed for individual taxpayers to research and pay their property taxes. ACT depends upon its own and third party computer systems to provide timely property tax information. As a condition of your use of this webpage and/or by submitting a query on this webpage, you agree and warrant to ACT that you will not use this webpage for any purpose that is unlawful or prohibited by these terms. You may not use this webpage in any manner which could damage, disable, overburden, or impair this webpage or interfere with any other party's use and enjoyment of this webpage. Occasionally, these computer systems are subjected to exceptional volumes of incoming data, service requests, processes, and electronic mail messages that result in significant degradation of system processing and response time. Regardless of the reason, in those instances when there is system performance degradation, ACT reserves the right, in its sole discretion, to filter or block electronic messages, data and/or processes originating from or traveling to the identified sources of the high volume, automated, electronic traffic. ACT further reserves the right to permanently filter or block repeated sources of high volume, automated, electronic traffic. The unauthorized use of this webpage may give rise to a claim for damages and/or injunctive relief. \r\n\r\n\r\n\r\n\r\n-->",
-  "checked": "2026-10-15",
-  "exemptions": "NHS CAP LOSS",
+  "checked": "2026-11-12",
+  "exemptions": "None",
   "found": true,
   "homestead": false,
-  "owner_mailing": "4410 PIZZARO DR EDINBURG, TX 78542-5556",
-  "owner_name": "RAMOS JUAN E & DANIEL RAMOS",
+  "lawsuits": [],
+  "owner_mailing": "4410 PIZZARO DR EDINBURG, TX 78542",
+  "owner_name": "SALINAS DANIEL RAMOS & MARISOL",
   "prior_year_due": 0.0,
-  "status": "paid_up",
-  "total_due": 0.0
+  "status": "current_due",
+  "total_due": 1269.42
  },
  "V3590-00-000-0012-00": {
   "checked": "2026-11-05",
@@ -29416,7 +29416,7 @@
   "total_due": 3236.8
  },
  "V3590-02-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -29504,7 +29504,7 @@
   "total_due": 6840.71
  },
  "V3675-00-000-0026-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29580,7 +29580,7 @@
   "total_due": 17001.77
  },
  "V3697-00-000-0016-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29618,7 +29618,7 @@
   "total_due": 1894.31
  },
  "V3800-02-008-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29656,7 +29656,7 @@
   "total_due": 9058.2
  },
  "V3815-00-000-0003-00": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "DISABLED\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -29782,7 +29782,7 @@
   "total_due": 2385.61
  },
  "V3900-01-000-0009-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -29958,7 +29958,7 @@
   "total_due": 4893.23
  },
  "V4348-00-000-0008-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -29972,7 +29972,7 @@
   "total_due": 6500.75
  },
  "V4348-02-000-0054-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30058,7 +30058,7 @@
   "total_due": 5759.75
  },
  "W0100-00-030-0004-09": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30072,7 +30072,7 @@
   "total_due": 36554.39
  },
  "W0100-00-030-0007-18": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30136,7 +30136,7 @@
   "total_due": 13126.94
  },
  "W0100-00-038-0003-18": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30150,7 +30150,7 @@
   "total_due": 8975.69
  },
  "W0100-00-038-0003-19": {
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30176,7 +30176,7 @@
   "total_due": 12287.39
  },
  "W0100-00-044-0010-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30292,7 +30292,7 @@
   "total_due": 2179.89
  },
  "W0250-00-000-0022-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30330,7 +30330,7 @@
   "total_due": 464.55
  },
  "W1010-00-000-0011-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30344,7 +30344,7 @@
   "total_due": 3432.28
  },
  "W1200-00-001-0004-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -30408,7 +30408,7 @@
   "total_due": 562.42
  },
  "W2400-00-001-0003-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD\nNHS CAP LOSS",
   "found": true,
   "homestead": true,
@@ -30536,7 +30536,7 @@
   "total_due": 890.43
  },
  "W2930-00-000-0047-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "OVER 65\nDEFERRAL\nHOMESTEAD",
   "found": true,
   "homestead": true,
@@ -30562,7 +30562,7 @@
   "total_due": 0.0
  },
  "W3800-00-001-0000-06": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30626,7 +30626,7 @@
   "total_due": 0.0
  },
  "W3800-00-468-0000-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30652,7 +30652,7 @@
   "total_due": 26043.3
  },
  "W3800-00-506-0000-05": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30661,12 +30661,12 @@
   ],
   "owner_mailing": "GENOVEVA CASTELLANOS PO BOX 1275 ELSA, TX 78543-1275",
   "owner_name": "CASTELLANO FIDEL M & GUADALUPE &",
-  "prior_year_due": 9003.88,
+  "prior_year_due": 6808.88,
   "status": "delinquent",
-  "total_due": 11693.11
+  "total_due": 9498.11
  },
  "W3800-00-515-0000-22": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -30818,7 +30818,7 @@
   "total_due": 2699.92
  },
  "W4600-02-006-0020-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "None",
   "found": true,
   "homestead": false,
@@ -31020,7 +31020,7 @@
   "total_due": 19095.9
  },
  "W7360-03-000-0085-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
@@ -31046,7 +31046,7 @@
   "total_due": 3537.23
  },
  "W7381-02-000-0015-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "NHS CAP LOSS",
   "found": true,
   "homestead": false,
@@ -31122,7 +31122,7 @@
   "total_due": 3471.27
  },
  "Y0800-01-000-0027-00": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-12",
   "exemptions": "HOMESTEAD",
   "found": true,
   "homestead": true,
