@@ -605323,8 +605323,8 @@
   "address": "21506 N SUNFLOWER RD",
   "city": "",
   "geo_id": "M5500-00-095-0012-06",
-  "legal": "MO-TEX AN IRR TR S50'-N495'-W378.78' & E941.22'-W1320'-S165'-N610' LOT 12 BLK 95 4.000 AC GR 3.814 AC NET",
-  "market_value": 236717.0,
+  "legal": "MO-TEX AN IRR TR S50'-N495'-E378.78' & S165'-N495'-E941.22' LOT 12 BLK 95 4.000AC GR 3.814 AC NET",
+  "market_value": 110221.0,
   "owner": "MARTINEZ RODOLFO JR & WENDY A MARTINEZ",
   "pid": "358343",
   "prop_type": "R"
@@ -791305,7 +791305,7 @@
   "geo_id": "S1150-00-006-0000-10",
   "legal": "SAN RAMON GRANT TR B 13.08AC 9.72AC- PUBLIC RDS-SH 3 & 4 R/S SH 6 16A & 12A 22.80AC GR 13.08 NET",
   "market_value": 12426.0,
-  "owner": "HINOJOSA RICARDO",
+  "owner": "CHAMPION ANNA M & FRANK JR",
   "pid": "791427",
   "prop_type": "R"
  },
@@ -815584,7 +815584,7 @@
   "city": "EDINBURG",
   "geo_id": "S2462-02-000-0040-00",
   "legal": "SENDERO TRAILS PH 2 LOT 40",
-  "market_value": 504886.0,
+  "market_value": 446795.0,
   "owner": "LOPEZ MARIA",
   "pid": "710992",
   "prop_type": "R"
