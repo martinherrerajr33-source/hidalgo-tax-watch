@@ -81695,7 +81695,7 @@
   "geo_id": "B1900-12-000-0015-00",
   "legal": "BASHAM NO. 12 LOT 15",
   "market_value": 215206.0,
-  "owner": "CONTRERAS DAVID & ERMERALDA",
+  "owner": "CONTRERAS DAVID & ESMERALDA",
   "pid": "122886",
   "prop_type": "R"
  },
@@ -270919,6 +270919,16 @@
   "pid": "673719",
   "prop_type": "R"
  },
+ "E4826-01-000-0089-00": {
+  "address": "4002 SANTA OLIVIA",
+  "city": "MISSION",
+  "geo_id": "E4826-01-000-0089-00",
+  "legal": "SHARYLAND PLANTATION VILLAGE EL SENDERO PH 1 LOT 89",
+  "market_value": 325128.0,
+  "owner": "MILLAN WILLIAM",
+  "pid": "673724",
+  "prop_type": "R"
+ },
  "E4826-01-000-0101-00": {
   "address": "4006 SANTA SUSANA ST",
   "city": "MISSION",
@@ -278595,7 +278605,7 @@
   "geo_id": "E5400-00-027-0025-00",
   "legal": "ELSA TOWNSITE BLK 27 LOT 25 & 26",
   "market_value": 66757.0,
-  "owner": "TIJERINA PROTACIO ET AL",
+  "owner": "TORRES GEORGE",
   "pid": "169398",
   "prop_type": "R"
  },
@@ -433915,7 +433925,7 @@
   "geo_id": "K2100-00-00D-0004-08",
   "legal": "KELLY PHARR LETTERED BLKS E.35AC OF CANAL R/O/W W 1/2 LOT 4 BLK D",
   "market_value": 105875.0,
-  "owner": "GARZA JUAN",
+  "owner": "GARZA ESTEVAN",
   "pid": "201586",
   "prop_type": "R"
  },
@@ -794274,7 +794284,7 @@
   "city": "EDINBURG",
   "geo_id": "S1545-00-000-0029-00",
   "legal": "SANTA CRUZ PALMS LOT 29",
-  "market_value": 367471.0,
+  "market_value": 280974.0,
   "owner": "HI QUALITY NEW HOMES LLC",
   "pid": "1565413",
   "prop_type": "R"
@@ -822104,7 +822114,7 @@
   "city": "MISSION",
   "geo_id": "S2950-00-000-0194-26",
   "legal": "JOHN H SHARY N8.75AC LOT 194 & 80'X 1280' CANAL R/O/W N OF LOT 194 11.10AC GR 10.63AC NET",
-  "market_value": 2968512.0,
+  "market_value": 2089128.0,
   "owner": "SUPERIOR GRANITE LLC",
   "pid": "281058",
   "prop_type": "R"
@@ -861887,6 +861897,16 @@
   "market_value": 143178.0,
   "owner": "RIVERA LUIS O & YESSENIA I MARTINEZ",
   "pid": "641623",
+  "prop_type": "R"
+ },
+ "S4846-02-000-0098-01": {
+  "address": "1901 TULIPAN AVE",
+  "city": "",
+  "geo_id": "S4846-02-000-0098-01",
+  "legal": "SOUTHERN OAK PH 2 LOT 98",
+  "market_value": 252716.0,
+  "owner": "CANTU RAMIRO SOLIS & JULIA M PEREZ MOLINA",
+  "pid": "655367",
   "prop_type": "R"
  },
  "S4846-02-000-0100-00": {
@@ -915384,7 +915404,7 @@
   "city": "",
   "geo_id": "T2200-00-006-0013-00",
   "legal": "TEXAN GARDENS LOT 13 BLK 6 10.00 AC",
-  "market_value": 795727.0,
+  "market_value": 587170.0,
   "owner": "GARCIA GUILLERMO & ROSALY",
   "pid": "298633",
   "prop_type": "R"
@@ -1047304,7 +1047324,7 @@
   "city": "",
   "geo_id": "W3800-00-173-0000-00",
   "legal": "WEST TRACT-THE WEST 20 ACRES OF FARM TRACT 173 20 ACRES NET",
-  "market_value": 742000.0,
+  "market_value": 519400.0,
   "owner": "PAYNE E M & PAYNE ESTATES LLC",
   "pid": "324721",
   "prop_type": "R"
@@ -1047324,7 +1047344,7 @@
   "city": "",
   "geo_id": "W3800-00-174-0000-02",
   "legal": "WEST TRACT-THE S627' ACRES OF FARM TRACT 174 20.0AC GR 19.71AC NET",
-  "market_value": 902217.0,
+  "market_value": 1011026.0,
   "owner": "PAYNE EDWIN M",
   "pid": "324724",
   "prop_type": "R"
@@ -1048504,7 +1048524,7 @@
   "city": "",
   "geo_id": "W3800-00-209-0000-00",
   "legal": "WEST TRACT 53.13AC OF FT 209 51.84AC NET",
-  "market_value": 1318810.0,
+  "market_value": 659405.0,
   "owner": "PAYNE E M",
   "pid": "324873",
   "prop_type": "R"
