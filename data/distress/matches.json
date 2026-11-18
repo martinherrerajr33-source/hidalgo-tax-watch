@@ -21083,6 +21083,1340 @@
   "confidence": "low",
   "tried": "2026-11-11"
  },
+ "clerk:332313542": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "H1966-00-000-0020-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318417": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "M6249-00-000-0019-00",
+  "method": "name+legal",
+  "n_candidates": 6,
+  "person": "MARTINEZ CELEDINA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318970": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W1170-01-000-0001-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318971": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318972": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "N4700-00-000-0009-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318973": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "R4300-02-000-0120-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "CASTRO FELICIA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318974": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L0920-01-000-0136-00",
+  "method": "name+legal",
+  "n_candidates": 13,
+  "person": "CARDENAS VICTOR",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318975": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W4000-00-003-0009-00",
+  "method": "name+legal",
+  "n_candidates": 7,
+  "person": "CASTILLO CAROLINA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318976": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318977": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318978": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "P8900-02-005-0009-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "HETRICK DAVID",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318979": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L4700-00-000-0049-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "ALVAREZ ANNA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318980": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S2650-01-000-0045-00",
+  "method": "name+legal",
+  "n_candidates": 25,
+  "person": "CARDENAS MARIA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318981": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "R0700-00-005-0011-02",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "FRANCIS JAMES",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318982": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "I2000-02-000-0031-00",
+  "method": "name+legal",
+  "n_candidates": 51,
+  "person": "CANTU JESUS",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318983": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318984": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318985": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "K4800-00-004-0007-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "DAVIS DONALD",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318986": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C2200-00-002-0009-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "FERNANDEZ MINERVA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318987": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "P2920-00-000-0048-00",
+  "method": "name+legal",
+  "n_candidates": 32,
+  "person": "CANTU RAUL",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318988": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "N4600-00-000-0029-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "ERCEG NINFA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332318989": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319423": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "G4800-00-004-0002-02",
+  "method": "name+legal",
+  "n_candidates": 24,
+  "person": "SALINAS MARIO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319424": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S7850-00-000-0019-00",
+  "method": "name+legal",
+  "n_candidates": 14,
+  "person": "GARCIA CESAR",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319426": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "T2100-00-277-0012-15",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "GARCIA JACQUELINE",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319429": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S5500-00-002-0003-00",
+  "method": "name+legal",
+  "n_candidates": 5,
+  "person": "GARZA ELENA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319430": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "H1933-02-000-0067-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "GASCA AGUSTIN",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319431": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C7250-00-002-0030-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "IGLESIAS GABRIEL",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319432": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "V3515-00-000-0058-00",
+  "method": "name+legal",
+  "n_candidates": 10,
+  "person": "HERNANDEZ ADRIANA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319435": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "K0200-00-000-0002-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "LEE WOO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319437": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C2300-00-006-0008-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "HENKEL WALTER",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319438": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "K4800-00-002-0004-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "HARMS RANDALL",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319937": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L4500-05-000-0177-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "NAVARRO JERONIMO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319938": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "F1050-01-000-0050-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "ODOM BRIAN",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319939": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "B5100-02-000-0009-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "LOPEZ ESTHELA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319942": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W1010-00-000-0050-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319945": {
+  "candidates": [
+   "M0100-00-000-0000-22",
+   "M0100-00-000-0000-23"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319946": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L6453-00-000-0030-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "ROSAS MARCO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319947": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "N5400-00-013-0006-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "ROCHA PHIL",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319949": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "R4300-02-000-0031-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319950": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "G7000-02-000-0025-01",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "RODRIGUEZ JAIRO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332319952": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "H3950-00-003-0007-00",
+  "method": "name+legal",
+  "n_candidates": 67,
+  "person": "RODRIGUEZ FRANCISCO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330357": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L4500-02-000-0064-00",
+  "method": "name+legal",
+  "n_candidates": 78,
+  "person": "TORRES JUAN",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330360": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "T6860-00-005-027A-00",
+  "method": "name+legal",
+  "n_candidates": 21,
+  "person": "SILVA LUIS",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330363": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S4850-00-001-0006-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "BALDERAS REYNA",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330364": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "F1050-01-000-0021-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330365": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L4500-02-000-0034-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "VINEWOOD GROUP",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330366": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "O6500-00-000-0016-00",
+  "method": "name+legal",
+  "n_candidates": 71,
+  "person": "GARZA RODOLFO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330369": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "T2100-00-233-0013-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "GORENA ROBERTO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332330372": {
+  "candidates": [
+   "S3013-00-001-0028-00",
+   "R4570-03-000-0039-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:332360829": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "L6050-00-000-0275-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "SALINAS ELEUTERIO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332674173": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L2848-00-000-0055-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "THERRIEN IAN",
+  "tried": "2026-11-18"
+ },
+ "clerk:332674175": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L5845-00-000-0019-00",
+  "method": "name+legal",
+  "n_candidates": 7,
+  "person": "CENTENO ARNOLDO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332800730": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "T5370-00-002-0028-00",
+  "method": "name+legal",
+  "n_candidates": 6,
+  "person": "RODRIGUEZ TEODOMIRO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332917302": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "T2100-00-254-0005-16",
+  "method": "name+legal",
+  "n_candidates": 48,
+  "person": "GONZALEZ RENE",
+  "tried": "2026-11-18"
+ },
+ "clerk:332917305": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "T2200-00-031-0030-00",
+  "method": "name+co-owner",
+  "n_candidates": 278,
+  "person": "HERNANDEZ HILARIO",
+  "tried": "2026-11-18"
+ },
+ "clerk:332917308": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "T2100-00-254-0005-16",
+  "method": "name+legal",
+  "n_candidates": 48,
+  "person": "GONZALEZ RENE",
+  "tried": "2026-11-18"
+ },
+ "clerk:332917314": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "T2100-00-254-0005-16",
+  "method": "name+legal",
+  "n_candidates": 48,
+  "person": "GONZALEZ RENE",
+  "tried": "2026-11-18"
+ },
+ "clerk:332998105": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "Y0800-01-000-0027-00",
+  "method": "name+legal",
+  "n_candidates": 5,
+  "person": "PENA DULCE",
+  "tried": "2026-11-18"
+ },
+ "clerk:332998109": {
+  "candidates": [
+   "10038-00-000-0239-36",
+   "M3849-03-000-0326-00",
+   "N3400-00-000-2119-02",
+   "P9279-01-000-0023-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:332998113": {
+  "candidates": [
+   "C2750-00-003-0001-00",
+   "L0050-00-002-0018-00",
+   "H3055-00-007-0007-00",
+   "H3055-00-007-0009-00",
+   "C6455-00-000-0004-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333179354": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "E6600-00-006-0001-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818878": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L3391-05-000-0044-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "KAMEL DANIEL",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818892": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W2300-00-039-0007-00",
+  "method": "name+legal",
+  "n_candidates": 11,
+  "person": "SAN MIGUEL",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818895": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S0610-02-000-0314-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818896": {
+  "candidates": [
+   "L3200-00-005-0016-00",
+   "L4750-00-000-0014-00",
+   "M3550-00-005-0000-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818901": {
+  "candidates": [
+   "L3200-00-005-0016-00",
+   "L4750-00-000-0014-00",
+   "M3550-00-005-0000-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333818905": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "H3570-00-000-0048-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "CANTU ADORALIDA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333819791": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L2700-02-001-0006-00",
+  "method": "name+legal",
+  "n_candidates": 83,
+  "person": "MOLINA MARIA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333819799": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W4670-00-000-0016-00",
+  "method": "name+legal",
+  "n_candidates": 3,
+  "person": "CASTRO RODOLFO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333824546": {
+  "candidates": [
+   "N3360-00-000-0012-00",
+   "G5700-00-001-0032-00",
+   "I2230-00-001-0637-00",
+   "T1300-00-005-0008-00",
+   "D3800-03-000-0066-05"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333825263": {
+  "candidates": [
+   "S6852-00-000-0015-00",
+   "E3300-00-109-0003-00",
+   "R4700-00-001-0015-00",
+   "L6225-03-000-0135-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333825269": {
+  "candidates": [
+   "S6852-00-000-0015-00",
+   "E3300-00-109-0003-00",
+   "R4700-00-001-0015-00",
+   "L6225-03-000-0135-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333825898": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "V0250-00-000-0036-00",
+  "method": "name+legal",
+  "n_candidates": 32,
+  "person": "SALINAS ALFREDO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333827705": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333827706": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333828034": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831117": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831118": {
+  "candidates": [
+   "M4011-05-000-000B-00",
+   "R0650-00-005-0021-00",
+   "T2350-97-000-0119-08",
+   "N1600-00-002-0001-31",
+   "M5660-00-000-0040-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831119": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831120": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831123": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831126": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831127": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831128": {
+  "candidates": [
+   "N7700-00-003-0001-00",
+   "E3345-13-000-0032-00",
+   "V3440-05-000-0548-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831129": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831130": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831582": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333831585": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333834279": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L3164-09-000-0045-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333835142": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "Y4900-00-000-0005-00",
+  "method": "name+legal",
+  "n_candidates": 18,
+  "person": "SALINAS EDUARDO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333837095": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "I7000-00-000-0061-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "GARCIA CASSANDRA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333839820": {
+  "candidates": [
+   "T8260-01-000-0078-00",
+   "P8200-00-000-0005-00",
+   "O7760-01-000-0008-00",
+   "A4750-00-000-0015-00",
+   "L2622-00-000-0013-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333839821": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S2650-01-000-0159-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "JACINTO ROLANDO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333839825": {
+  "candidates": [
+   "G9400-00-008-0007-00",
+   "L0850-95-000-0022-00",
+   "G7400-02-000-0006-00",
+   "M5950-01-000-0016-00",
+   "L5950-00-001-0011-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333839833": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "M6750-00-006-0005-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "ECKHARDT YOLANDA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333841127": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S0557-02-000-0148-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333842760": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S1540-00-000-0001-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333844098": {
+  "candidates": [
+   "S6205-1A-000-0007-00",
+   "N1750-00-000-0021-00",
+   "L6360-02-000-0035-00",
+   "P4350-00-000-0009-00",
+   "A2400-00-000-0019-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333847414": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "H2542-00-000-0004-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333848127": {
+  "candidates": [
+   "O8420-00-000-0027-00",
+   "M0955-02-000-0056-00",
+   "D2949-04-000-0391-00",
+   "F1650-00-000-0013-00",
+   "H0424-00-000-0061-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333848572": {
+  "candidates": [
+   "S1091-06-000-0180-00",
+   "L5260-03-000-0313-00",
+   "S3975-02-000-0164-00",
+   "B4965-00-000-0018-00",
+   "B4965-00-000-0019-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333848573": {
+  "candidates": [
+   "H3062-97-000-0026-02",
+   "L5831-02-000-0128-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333848574": {
+  "candidates": [
+   "E3345-12-000-0023-00",
+   "E3345-95-000-0023-00",
+   "A1300-00-002-0018-00",
+   "G7850-00-000-0039-00",
+   "S1130-00-000-0048-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333848577": {
+  "candidates": [
+   "C2950-01-000-0010-00",
+   "K2400-00-000-0389-54",
+   "K2400-00-000-0389-63",
+   "P5000-00-006-0007-00",
+   "A1300-00-001-0033-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333849059": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "B0950-00-000-0000-10",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "U S",
+  "tried": "2026-11-18"
+ },
+ "clerk:333852620": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "S1700-02-033-0011-00",
+  "method": "name+legal",
+  "n_candidates": 6,
+  "person": "VEGA ADOLFO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333852633": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "I4042-00-000-0066-00",
+  "method": "name+legal",
+  "n_candidates": 14,
+  "person": "LOPEZ RAMIRO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333853308": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333854550": {
+  "candidates": [
+   "T2100-00-235-0009-04",
+   "T2100-00-235-0009-05",
+   "V2200-00-020-0000-00",
+   "R0408-02-000-0096-00",
+   "L0450-00-090-0000-15"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333859279": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333859710": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "A4149-00-000-0010-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861082": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861086": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861092": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861093": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861094": {
+  "candidates": [
+   "L3750-00-007-0012-00",
+   "V4340-02-000-0007-00",
+   "E4560-00-000-0049-00",
+   "F7050-03-009-0005-10",
+   "B1610-00-002-0034-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861097": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861142": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861479": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861481": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0048-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861482": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0041-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861483": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0045-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861485": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "O8100-00-000-0029-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "SANCHEZ FELIX",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861486": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "L0375-00-000-0035-00",
+  "method": "name+legal",
+  "n_candidates": 5,
+  "person": "ROJAS YESENIA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861487": {
+  "candidates": [
+   "E3345-03-000-0013-00",
+   "R4180-00-000-0054-00",
+   "H1850-00-178-0004-05",
+   "A0621-01-000-0114-00",
+   "O4510-00-000-0080-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861488": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "S1130-00-000-0007-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "ROMERO BLANCA",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861489": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861490": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861494": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861510": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861902": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0047-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861903": {
+  "candidates": [
+   "W0100-95-034-0004-04",
+   "M2150-00-002-0008-00",
+   "A6550-95-000-0008-00",
+   "S0830-95-000-0053-01",
+   "N4000-00-001-0016-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861904": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0042-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861905": {
+  "candidates": [
+   "C1400-00-027-0009-04",
+   "L2845-01-000-0022-00",
+   "K2990-00-000-0005-00",
+   "W1553-00-000-0003-00",
+   "E4395-01-000-0024-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861907": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861908": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861909": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861910": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "C0637-00-000-0051-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861911": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861912": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861913": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861914": {
+  "candidates": [],
+  "confidence": "medium",
+  "geo_id": "C4700-00-011-0020-00",
+  "method": "name",
+  "n_candidates": 1,
+  "person": "ESPINOZA EDGAR",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861916": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "B3681-01-000-0059-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861917": {
+  "candidates": [
+   "E3300-00-112-0009-00",
+   "W3800-00-178-0000-06",
+   "R0300-02-000-0030-00",
+   "H1200-00-095-0004-00",
+   "R4368-00-000-0026-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861918": {
+  "candidates": [
+   "L5806-02-000-0137-00",
+   "C9387-00-000-0041-00",
+   "G7565-00-000-0368-00",
+   "L6050-00-000-0214-30"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861920": {
+  "candidates": [
+   "L3325-00-000-0004-00",
+   "N4852-00-000-0095-00",
+   "L5650-02-000-0124-00",
+   "C4350-00-000-0015-00"
+  ],
+  "confidence": "low",
+  "tried": "2026-11-18"
+ },
+ "clerk:333861921": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "P7190-00-000-0035-00",
+  "method": "name+legal",
+  "n_candidates": 43,
+  "person": "GARZA JOSE",
+  "tried": "2026-11-18"
+ },
+ "clerk:333863141": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "R0945-03-000-0114-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333875760": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "F7850-00-004-0011-00",
+  "method": "name+legal",
+  "n_candidates": 1,
+  "person": "DUDLEY JACK",
+  "tried": "2026-11-18"
+ },
+ "clerk:333877303": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "F4683-00-000-0001-00",
+  "method": "legal",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
+ },
+ "clerk:333877780": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333877790": {
+  "candidates": [],
+  "confidence": "none",
+  "tried": "2026-11-18"
+ },
+ "clerk:333878503": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "A2100-00-049-0017-00",
+  "method": "name+legal",
+  "n_candidates": 2,
+  "person": "SAENZ CONSUELO",
+  "tried": "2026-11-18"
+ },
+ "clerk:333890107": {
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "M5329-00-000-0023-00",
+  "method": "name+legal",
+  "n_candidates": 41,
+  "person": "RODRIGUEZ MARTIN",
+  "tried": "2026-11-18"
+ },
  "court:188628": {
   "candidates": [],
   "confidence": "none",
@@ -22461,15 +23795,13 @@
   "tried": "2026-11-12"
  },
  "court:4123860": {
-  "candidates": [
-   "I2000-01-000-0217-00",
-   "K2400-00-000-0004-04",
-   "L3900-00-000-0051-00",
-   "S2400-00-000-0094-10",
-   "L3900-00-000-0052-00"
-  ],
-  "confidence": "low",
-  "tried": "2026-11-12"
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "R4300-02-000-0120-00",
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
  },
  "court:4123945": {
   "candidates": [],
@@ -32743,8 +34075,12 @@
  },
  "court:4771433": {
   "candidates": [],
-  "confidence": "none",
-  "tried": "2026-11-12"
+  "confidence": "high",
+  "geo_id": "C2300-00-006-0008-00",
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
  },
  "court:4772802": {
   "candidates": [
@@ -45099,15 +46435,13 @@
   "tried": "2026-10-16"
  },
  "court:5063702": {
-  "candidates": [
-   "C7867-00-000-0037-00",
-   "W3800-95-708-0000-14",
-   "Y2500-00-000-0004-00",
-   "T4370-00-000-0012-00",
-   "T4370-00-000-0011-00"
-  ],
-  "confidence": "low",
-  "tried": "2026-11-12"
+  "candidates": [],
+  "confidence": "high",
+  "geo_id": "W2300-00-039-0007-00",
+  "method": "tax-office",
+  "n_candidates": 1,
+  "person": "",
+  "tried": "2026-11-18"
  },
  "court:5063703": {
   "candidates": [
