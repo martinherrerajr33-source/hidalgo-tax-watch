@@ -204,6 +204,12 @@
     text-decoration:underline; cursor:pointer; font-family:'IBM Plex Mono', monospace; font-size:12px;
   }
   .outreach-bar button.link-btn:hover{color:var(--stamp);}
+  .export-btn{
+    margin-left:auto; background:var(--ledger); color:#fff; border:1px solid var(--ledger);
+    padding:8px 14px; border-radius:2px; cursor:pointer;
+    font-family:'IBM Plex Mono', monospace; font-size:12px; font-weight:600;
+  }
+  .export-btn:hover{background:var(--ledger-dark);}
   .contact-check{width:16px; height:16px; cursor:pointer; accent-color:var(--ledger);}
   th.col-contacted, td[data-label="Contacted"]{text-align:center;}
   tbody tr.is-contacted{opacity:0.5;}
@@ -272,6 +278,8 @@
     <span id="contactCounter">Contacted: 0/0</span>
     <label><input type="checkbox" id="hideContacted"> Hide contacted</label>
     <button type="button" class="link-btn" id="clearContacted">Clear all checkmarks</button>
+    <span id="rowCount"></span>
+    <button type="button" class="export-btn" id="exportBtn">Export CSV (for DealMachine)</button>
   </div>
 
   <div class="table-scroll">
@@ -398,7 +406,9 @@ function buildStatusTabs(){
   });
 }
 
-function render(){
+const MAX_RENDER = 500;   // keep the page fast with tens of thousands of rows
+
+function getRows(){
   const q = document.getElementById('searchBox').value.trim().toLowerCase();
   const sortMode = document.getElementById('sortSelect').value;
 
@@ -423,6 +433,50 @@ function render(){
     if(sortMode === 'checked_desc') return new Date(b.checked_at) - new Date(a.checked_at);
     return 0;
   });
+  return rows;
+}
+
+function csvCell(v){
+  const s = String(v ?? '');
+  return /[",\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+
+// Export whatever is currently filtered/sorted (tab, search, hide-contacted)
+// in a layout DealMachine's bulk import maps automatically.
+function exportCsv(){
+  const rows = getRows();
+  if(!rows.length){ alert('Nothing to export with the current filters.'); return; }
+  const header = ['Property Address','City','State','Zip','Owner Name','Geo ID','Account #','Status','Total Due','Prior Year Due','Current Due'];
+  const lines = [header.map(csvCell).join(',')];
+  rows.forEach(p => {
+    lines.push([
+      p.property_site_address || p.source_address || '',
+      p.source_city || '',
+      'TX',
+      '',
+      p.owner_name || p.source_owner || '',
+      p.cad_reference || '',
+      p.account_number || '',
+      baseStatus(p.status),
+      (p.total_amount_due || 0).toFixed(2),
+      (p.prior_year_amount_due || 0).toFixed(2),
+      (p.current_amount_due || 0).toFixed(2),
+    ].map(csvCell).join(','));
+  });
+  const blob = new Blob(['﻿' + lines.join('\r\n')], {type:'text/csv;charset=utf-8'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `hidalgo-leads-${currentStatus}-${new Date().toISOString().slice(0,10)}.csv`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+function render(){
+  const allRows = getRows();
+  const rows = allRows.slice(0, MAX_RENDER);
+  document.getElementById('rowCount').textContent = allRows.length > MAX_RENDER
+    ? `Showing top ${MAX_RENDER} of ${allRows.length.toLocaleString()} (export CSV includes all ${allRows.length.toLocaleString()})`
+    : `${allRows.length.toLocaleString()} properties`;
 
   const tbody = document.getElementById('tbody');
   tbody.innerHTML = '';
@@ -472,6 +526,7 @@ function escapeHtml(str){
 document.getElementById('searchBox').addEventListener('input', render);
 document.getElementById('sortSelect').addEventListener('change', render);
 document.getElementById('hideContacted').addEventListener('change', render);
+document.getElementById('exportBtn').addEventListener('click', exportCsv);
 
 // Delegated so it keeps working after render() rebuilds the table rows.
 document.getElementById('tbody').addEventListener('change', (e) => {
