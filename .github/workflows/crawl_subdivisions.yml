@@ -1,37 +1,36 @@
 name: Crawl County Subdivisions
 
-# Gradually and automatically works through every subdivision/abstract code
-# in Hidalgo CAD's index, a batch at a time, pulling property lists straight
-# from the CAD portal's own public API and adding only delinquent /
-# current_due properties to input/geo_ids.csv. No manual .xlsx export
-# needed - see subdivision_crawler.py for how it talks to the CAD portal.
-#
-# NOTE: commits made with the default GITHUB_TOKEN (which is what
-# git-auto-commit-action uses below) do NOT trigger other workflows'
-# `on: push` filters - that's a deliberate GitHub Actions anti-loop
-# safeguard. So this workflow explicitly kicks off check_delinquency.yml
-# itself (via `gh workflow run`) whenever it actually adds new rows,
-# instead of relying on the push trigger to do it automatically.
+# Overnight lead crawler. Two back-to-back ~4h40m shifts cover 8pm-6am Central
+# (CST = UTC-6; during daylight time the window shifts one hour earlier
+# on the clock, e.g. 7pm-5am CDT).
+#   Shift 1: 02:00 UTC = 8:00pm CST
+#   Shift 2: 07:00 UTC = 1:00am CST
+# GitHub allows 6h per job, hence two shifts. The concurrency group queues
+# them so they never overlap. The dashboard refresh (check_delinquency.yml)
+# runs separately at 12:00 UTC = 6:00am CST.
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # 9:00 UTC = 3-4am Central - runs quietly overnight
-
-  # Manual "run it now" button in the Actions tab
+    - cron: "0 2 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:
     inputs:
-      max_properties:
-        description: "Max new properties to tax-check this run"
+      max_minutes:
+        description: "Minutes to crawl this run (max ~330)"
         required: false
-        default: "400"
+        default: "280"
 
 permissions:
   contents: write
-  actions: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 345
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,19 +43,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Crawl next batch of subdivisions
+      - name: Crawl subdivisions
+        run: python subdivision_crawler.py --max-minutes "${{ github.event.inputs.max_minutes || '280' }}"
+
+      - name: Commit new leads and progress
+        if: ${{ !cancelled() }}
         run: |
-          python subdivision_crawler.py --max-properties "${{ github.event.inputs.max_properties || '400' }}"
-
-      - name: Commit new properties and progress
-        id: commit
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-crawl: add newly discovered delinquent/current-due properties"
-          file_pattern: "input/geo_ids.csv input/subdivision_progress.json"
-
-      - name: Trigger dashboard refresh (only if new properties were added)
-        if: steps.commit.outputs.changes_detected == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh workflow run check_delinquency.yml --ref main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add input/geo_ids.csv input/subdivision_progress.json
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Auto-crawl: add newly discovered delinquent/current-due properties"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              sleep 10
+            done
+          fi
