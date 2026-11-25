@@ -52,10 +52,11 @@ jobs:
           python run_batch.py --input input/geo_ids.csv --workers 6 --max-minutes 200 --max-age-days 3
 
       - name: Commit results.csv (cache + CRM export)
+        continue-on-error: true   # a failed cache save must never block the dashboard deploy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/results.csv
+          git add -f output/results.csv   # output/ is gitignored; force-add the cache
           if git diff --cached --quiet; then
             echo "No changes."
           else
