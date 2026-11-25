@@ -1,70 +1,30 @@
 """
 subdivision_crawler.py
 
-Gradual, hands-off crawler that works through every subdivision/abstract code
-in Hidalgo CAD's public property-search index, pulls the property list for
-each one directly from the CAD's own (public, anonymous) API, checks each
-new property's tax-delinquency status against actweb.acttax.com using the
-exact same logic as hidalgo_tax_checker.py, and appends only the
-delinquent / current_due properties to input/geo_ids.csv.
+Hands-off crawler that works through every subdivision/abstract code in
+Hidalgo CAD's public property-search index, pulls the property list for each
+one from the CAD's public API, checks each property's tax status against
+actweb.acttax.com (same logic as hidalgo_tax_checker.py), and appends only
+the delinquent / current_due properties to input/geo_ids.csv.
 
-This replaces the manual "export .xlsx from the CAD portal, upload it"
-workflow with something that can run unattended on a schedule, a handful of
-subdivisions/properties at a time, until it has eventually covered the whole
-county.
+CAD API (anonymous, public):
+  POST /trueprodigy/cadpublic/auth/token  {"office": "Hidalgo"} -> JWT (~5 min)
+  GET  /public/config/propertysearchadvanced -> field "abstractSubdivisionName"
+       has a "codefile" list of every subdivision/abstract code (~11.8k)
+  POST /public/property/advancedsearch -> every property for a code
+       (HTTP 204 = code has no properties)
 
-HOW IT TALKS TO THE CAD PORTAL
--------------------------------
-hidalgo.prodigycad.com (Hidalgo County Appraisal District's public property
-search) is a single-page app backed by prod-container.trueprodigyapi.com
-(a "TrueProdigy" CAD platform). The API allows fully anonymous, public
-access - confirmed live:
+RUN LIMITS
+  --max-minutes N     stop gracefully after N minutes (used by the overnight
+                      workflow; each GitHub job may run 6h max)
+  --max-properties N  stop after N properties have been tax-checked
 
-  1. POST /trueprodigy/cadpublic/auth/token   body: {"office": "Hidalgo"}
-     -> {"user": {"token": "<JWT>"}}
-     A JWT scoped to office=Hidalgo, valid ~5 minutes, no credentials needed.
-
-  2. GET /public/config/propertysearchadvanced   header: Authorization: <JWT>
-     -> {"results": {"0": {...}, "1": {...}, ...}}
-     Field "1" (id: "abstractSubdivisionName") has a "codefile" array with
-     every subdivision/abstract code in the county (~11,839 entries as of
-     2026), each shaped {"codeName": "...", "codeDescription": "..."}.
-     codeName is what you feed back into the search below. In practice it's
-     almost always the property's Geo ID prefix (first 5 characters) + "00",
-     e.g. Geo IDs starting "N0400-" belong to codeName "N040000"
-     ("NELCO - SDN"); Geo IDs starting "A2100-" belong to "A210000"
-     ("ALAMO TOWNSITE - SPA"). Confirmed against real subdivisions already
-     tracked in this project.
-
-  3. POST /public/property/advancedsearch   header: Authorization: <JWT>
-     body: {"advanced": true, "pYear": {"operator": "=", "value": "<year>"},
-            "sortOrder": "geoID",
-            "abstractSubdivisionName": {"operator": "in", "value": ["<codeName>"]}}
-     -> {"results": [{"geoID": "...", "name": "...", "streetPrimary": "...",
-                       "city": ..., ...}, ...]}
-     Returns every property in that subdivision/abstract in one shot (no
-     pagination cap seen up to 930 results for Alamo Townsite) or HTTP 204
-     with no body if the code has zero properties for that year (many of
-     the ~11,839 codes are legacy/unused abstract codes with nothing on
-     them for the current roll year).
-
-PROGRESS TRACKING
-------------------
-input/subdivision_progress.json keeps the list of codeNames already
-processed (so a code is never re-queried/re-checked once it's been fully
-handled) plus some running counters. On first run it also seeds itself with
-every codeName derivable from Geo IDs already present in input/geo_ids.csv
-(prefix + "00"), so subdivisions already covered by earlier manual batches
-aren't pointlessly re-crawled.
-
-BUDGET PER RUN
---------------
-Each run processes whole subdivisions (never stops partway through one) up
-to a properties-checked budget (--max-properties, default 400) so a daily
-scheduled run finishes in a reasonable time and doesn't hammer either the
-CAD portal or the county tax site. At ~2 seconds per property checked
-(two HTTP calls + politeness delay, per hidalgo_tax_checker.py), 400
-properties is roughly 15-20 minutes.
+PROGRESS (input/subdivision_progress.json)
+  processed_codes : codes fully checked - never revisited
+  partial         : {code: next_index} for a code that was interrupted
+                    part-way (time/budget ran out); resumed first next run
+Progress and new leads are flushed to disk every FLUSH_EVERY properties so a
+killed job loses almost nothing.
 """
 
 from __future__ import annotations
@@ -73,7 +33,7 @@ import argparse
 import csv
 import json
 import os
-import sys
+import re
 import time
 from datetime import datetime, timezone
 
@@ -87,12 +47,18 @@ CONFIG_URL = f"{TRUEPRODIGY_BASE}/public/config/propertysearchadvanced"
 SEARCH_URL = f"{TRUEPRODIGY_BASE}/public/property/advancedsearch"
 
 OFFICE = "Hidalgo"
-TOKEN_MAX_AGE_SECONDS = 240  # refresh a bit before the ~300s expiry
+TOKEN_MAX_AGE_SECONDS = 240
 
 GEO_IDS_CSV = os.path.join("input", "geo_ids.csv")
 PROGRESS_JSON = os.path.join("input", "subdivision_progress.json")
-
 CSV_HEADER = ["Geo ID", "Owner Name", "Property Address", "City"]
+
+FLUSH_EVERY = 50          # properties between disk flushes
+MAX_CONSEC_ERRORS = 5     # abort the run if the tax site keeps erroring
+
+# A Geo ID glued onto the end of the previous line (missing newline from an
+# old manual upload) - split it back onto its own line.
+_GLUED_GEO_RE = re.compile(r"(?<=[^\n])(?=[A-Z0-9]{5}-[0-9A-Z]{2}-[0-9A-Z]{3}-[0-9A-Z]{4}-[0-9A-Z]{2},)")
 
 
 class TokenManager:
@@ -103,11 +69,7 @@ class TokenManager:
     def get(self) -> str:
         now = time.time()
         if self._token is None or (now - self._obtained_at) > TOKEN_MAX_AGE_SECONDS:
-            resp = requests.post(
-                TOKEN_URL,
-                json={"office": OFFICE},
-                timeout=20,
-            )
+            resp = requests.post(TOKEN_URL, json={"office": OFFICE}, timeout=20)
             resp.raise_for_status()
             self._token = resp.json()["user"]["token"]
             self._obtained_at = now
@@ -115,91 +77,93 @@ class TokenManager:
 
 
 def fetch_subdivision_codes(tokens: TokenManager) -> list[dict]:
-    """Returns the full list of {"codeName": ..., "codeDescription": ...} entries."""
     resp = requests.get(CONFIG_URL, headers={"Authorization": tokens.get()}, timeout=30)
     resp.raise_for_status()
-    cfg = resp.json()
-    results = cfg["results"]
-    # "results" has been observed as both a JSON array and as an object keyed by
-    # stringified indices ("0", "1", ...) depending on how it's serialized -
-    # normalize to an iterable of field dicts either way.
+    results = resp.json()["results"]
     fields = results.values() if isinstance(results, dict) else results
     field = next((f for f in fields if f.get("id") == "abstractSubdivisionName"), None)
     if field is None:
-        raise RuntimeError(
-            "Could not find 'abstractSubdivisionName' field in propertysearchadvanced "
-            "config - the CAD API layout may have changed."
-        )
+        raise RuntimeError("'abstractSubdivisionName' not found in propertysearchadvanced config - CAD API may have changed.")
     return field["codefile"]
 
 
 def search_subdivision(tokens: TokenManager, code_name: str, year: str) -> list[dict]:
-    """Returns the list of property dicts for one subdivision/abstract code."""
-    resp = requests.post(
-        SEARCH_URL,
-        headers={"Authorization": tokens.get(), "Content-Type": "application/json"},
-        json={
-            "advanced": True,
-            "pYear": {"operator": "=", "value": year},
-            "sortOrder": "geoID",
-            "abstractSubdivisionName": {"operator": "in", "value": [code_name]},
-        },
-        timeout=30,
-    )
-    if resp.status_code == 204:
-        return []
-    resp.raise_for_status()
-    if not resp.text.strip():
-        return []
-    return resp.json().get("results", [])
+    last_exc = None
+    for attempt in range(3):
+        try:
+            resp = requests.post(
+                SEARCH_URL,
+                headers={"Authorization": tokens.get(), "Content-Type": "application/json"},
+                json={
+                    "advanced": True,
+                    "pYear": {"operator": "=", "value": year},
+                    "sortOrder": "geoID",
+                    "abstractSubdivisionName": {"operator": "in", "value": [code_name]},
+                },
+                timeout=60,
+            )
+            if resp.status_code == 204 or not resp.text.strip():
+                return []
+            resp.raise_for_status()
+            return resp.json().get("results", [])
+        except requests.RequestException as exc:
+            last_exc = exc
+            time.sleep(2 * (attempt + 1))
+    raise last_exc
+
+
+def read_geo_csv_text() -> str:
+    if not os.path.exists(GEO_IDS_CSV):
+        return ""
+    with open(GEO_IDS_CSV, encoding="utf-8-sig", newline="") as f:
+        return _GLUED_GEO_RE.sub("\n", f.read().replace("\r\n", "\n"))
 
 
 def load_existing_geo_ids() -> set[str]:
     ids = set()
-    if os.path.exists(GEO_IDS_CSV):
-        with open(GEO_IDS_CSV, newline="", encoding="utf-8") as f:
-            reader = csv.reader(f)
-            next(reader, None)  # header
-            for row in reader:
-                if row:
-                    ids.add(row[0].strip())
+    lines = read_geo_csv_text().split("\n")
+    for row in csv.reader(lines[1:]):
+        if row and row[0].strip():
+            ids.add(row[0].strip())
     return ids
+
+
+def append_rows_to_csv(rows: list[list[str]]) -> None:
+    if not rows:
+        return
+    os.makedirs(os.path.dirname(GEO_IDS_CSV), exist_ok=True)
+    exists = os.path.exists(GEO_IDS_CSV) and os.path.getsize(GEO_IDS_CSV) > 0
+    needs_newline = False
+    if exists:
+        with open(GEO_IDS_CSV, "rb") as f:
+            f.seek(-1, os.SEEK_END)
+            needs_newline = f.read(1) not in (b"\n", b"\r")
+    with open(GEO_IDS_CSV, "a", newline="", encoding="utf-8") as f:
+        if needs_newline:
+            f.write("\n")
+        w = csv.writer(f, lineterminator="\n")
+        if not exists:
+            w.writerow(CSV_HEADER)
+        w.writerows(rows)
 
 
 def derive_code_from_geo_id(geo_id: str) -> str | None:
     geo_id = geo_id.strip()
-    if len(geo_id) < 5:
-        return None
-    return geo_id[:5] + "00"
+    return geo_id[:5] + "00" if len(geo_id) >= 5 else None
 
 
 def load_progress(existing_geo_ids: set[str]) -> dict:
+    progress = {"processed_codes": [], "partial": {}, "total_properties_checked": 0,
+                "total_added": 0, "seeded_from_existing_csv": False}
     if os.path.exists(PROGRESS_JSON):
         with open(PROGRESS_JSON, encoding="utf-8") as f:
-            progress = json.load(f)
-        progress.setdefault("processed_codes", [])
-        progress.setdefault("total_properties_checked", 0)
-        progress.setdefault("total_added", 0)
-        progress.setdefault("seeded_from_existing_csv", False)
-    else:
-        progress = {
-            "processed_codes": [],
-            "total_properties_checked": 0,
-            "total_added": 0,
-            "seeded_from_existing_csv": False,
-        }
-
+            progress.update(json.load(f))
+    progress.setdefault("partial", {})
     if not progress["seeded_from_existing_csv"]:
         derived = {derive_code_from_geo_id(g) for g in existing_geo_ids}
         derived.discard(None)
-        combined = set(progress["processed_codes"]) | derived
-        progress["processed_codes"] = sorted(combined)
+        progress["processed_codes"] = sorted(set(progress["processed_codes"]) | derived)
         progress["seeded_from_existing_csv"] = True
-        print(
-            f"Seeded progress file with {len(derived)} subdivision codes derived "
-            f"from {len(existing_geo_ids)} already-tracked Geo IDs."
-        )
-
     return progress
 
 
@@ -210,125 +174,117 @@ def save_progress(progress: dict) -> None:
         json.dump(progress, f, indent=2)
 
 
-def append_rows_to_csv(rows: list[list[str]]) -> None:
-    if not rows:
-        return
-    file_exists = os.path.exists(GEO_IDS_CSV)
-    os.makedirs(os.path.dirname(GEO_IDS_CSV), exist_ok=True)
-    with open(GEO_IDS_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        if not file_exists:
-            writer.writerow(CSV_HEADER)
-        writer.writerows(rows)
-
-
 def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--max-properties", type=int, default=400,
-                         help="Budget of new properties to tax-check this run (default 400).")
-    parser.add_argument("--year", default="2026", help="Appraisal year to query (default 2026).")
-    parser.add_argument("--max-subdivisions", type=int, default=None,
-                         help="Optional hard cap on number of subdivisions to process this run, "
-                              "regardless of property budget (mainly for testing).")
-    args = parser.parse_args()
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--max-properties", type=int, default=None)
+    ap.add_argument("--max-minutes", type=float, default=None)
+    ap.add_argument("--year", default="2026")
+    ap.add_argument("--max-subdivisions", type=int, default=None)
+    args = ap.parse_args()
+    if args.max_properties is None and args.max_minutes is None:
+        args.max_properties = 400
+
+    start = time.time()
+    deadline = start + args.max_minutes * 60 if args.max_minutes else None
+
+    def out_of_budget(checked: int) -> bool:
+        if args.max_properties is not None and checked >= args.max_properties:
+            return True
+        return deadline is not None and time.time() >= deadline
 
     tokens = TokenManager()
-    existing_geo_ids = load_existing_geo_ids()
-    progress = load_progress(existing_geo_ids)
-    processed_set = set(progress["processed_codes"])
+    existing = load_existing_geo_ids()
+    progress = load_progress(existing)
+    done = set(progress["processed_codes"])
+    partial: dict = progress["partial"]
+    print(f"Tracked Geo IDs: {len(existing)} | codes done: {len(done)} | partial: {len(partial)}")
 
-    print(f"Already tracked Geo IDs: {len(existing_geo_ids)}")
-    print(f"Subdivision codes already processed: {len(processed_set)}")
-
-    print("Fetching full subdivision/abstract code list from CAD portal...")
     all_codes = fetch_subdivision_codes(tokens)
-    print(f"Total subdivision/abstract codes in county index: {len(all_codes)}")
-
-    remaining = [c for c in all_codes if c["codeName"] not in processed_set]
-    print(f"Remaining unprocessed codes: {len(remaining)}")
-
-    if not remaining:
-        print("Nothing left to crawl - the full county index has been processed.")
-        save_progress(progress)
-        return
+    by_name = {c["codeName"]: c for c in all_codes}
+    # resume interrupted codes first, then everything not yet done
+    queue = [by_name[c] for c in partial if c in by_name and c not in done]
+    queue += [c for c in all_codes if c["codeName"] not in done and c["codeName"] not in partial]
+    print(f"Total codes: {len(all_codes)} | to do: {len(queue)}")
 
     checker = HidalgoTaxChecker()
-    new_rows: list[list[str]] = []
-    properties_checked_this_run = 0
-    subdivisions_processed_this_run = 0
-    subdivisions_with_new_matches = 0
+    pending_rows: list[list[str]] = []
+    checked = added = codes_done_run = since_flush = consec_err = 0
+    aborted = False
 
-    for code in remaining:
-        if properties_checked_this_run >= args.max_properties:
-            print(f"Hit property budget ({args.max_properties}) - stopping for this run.")
+    def flush():
+        nonlocal pending_rows, since_flush
+        append_rows_to_csv(pending_rows)
+        progress["processed_codes"] = sorted(done)
+        save_progress(progress)
+        pending_rows = []
+        since_flush = 0
+
+    for code in queue:
+        if out_of_budget(checked) or aborted:
             break
-        if args.max_subdivisions is not None and subdivisions_processed_this_run >= args.max_subdivisions:
-            print(f"Hit subdivision cap ({args.max_subdivisions}) - stopping for this run.")
+        if args.max_subdivisions is not None and codes_done_run >= args.max_subdivisions:
             break
-
-        code_name = code["codeName"]
-        description = code.get("codeDescription") or ""
-
+        name = code["codeName"]
         try:
-            properties = search_subdivision(tokens, code_name, args.year)
+            props = search_subdivision(tokens, name, args.year)
         except requests.RequestException as exc:
-            print(f"  [{code_name}] request failed, will retry another day: {exc}")
-            continue  # do NOT mark as processed - try again next run
-
-        subdivisions_processed_this_run += 1
-        processed_set.add(code_name)
-
-        new_in_this_code = [p for p in properties if p.get("geoID") and p["geoID"] not in existing_geo_ids]
-        if not properties:
-            continue
-        if not new_in_this_code:
+            print(f"  [{name}] search failed, retry next run: {exc}")
             continue
 
-        print(f"  [{code_name}] {description!r}: {len(properties)} properties, "
-              f"{len(new_in_this_code)} not yet tracked - checking delinquency...")
-
-        matches_here = 0
-        for prop in new_in_this_code:
-            if properties_checked_this_run >= args.max_properties:
+        start_idx = int(partial.get(name, 0))
+        finished = True
+        for idx in range(start_idx, len(props)):
+            prop = props[idx]
+            gid = prop.get("geoID")
+            if not gid or gid in existing:
+                continue
+            if out_of_budget(checked):
+                partial[name] = idx
+                finished = False
                 break
-            geo_id = prop["geoID"]
-            record = checker.check(
-                geo_id,
-                source_owner=prop.get("name") or "",
-                source_address=prop.get("streetPrimary") or "",
-                source_city=prop.get("city") or "",
-            )
-            properties_checked_this_run += 1
-            base_status = record.status.replace("_multi_match", "")
-            if base_status in ("delinquent", "current_due"):
-                new_rows.append([
-                    geo_id,
-                    prop.get("name") or "",
-                    prop.get("streetPrimary") or "",
-                    prop.get("city") or "",
-                ])
-                existing_geo_ids.add(geo_id)
-                matches_here += 1
+            rec = checker.check(gid, source_owner=prop.get("name") or "",
+                                source_address=prop.get("streetPrimary") or "",
+                                source_city=prop.get("city") or "")
+            if rec.status == "error":
+                consec_err += 1
+                partial[name] = idx          # retry this property next time
+                finished = False
+                time.sleep(20)
+                if consec_err >= MAX_CONSEC_ERRORS:
+                    print("Tax site keeps erroring - stopping this run early.")
+                    aborted = True
+                break
+            consec_err = 0
+            checked += 1
+            since_flush += 1
+            if rec.status.replace("_multi_match", "") in ("delinquent", "current_due"):
+                pending_rows.append([gid, prop.get("name") or "", prop.get("streetPrimary") or "",
+                                     prop.get("city") or ""])
+                existing.add(gid)
+                added += 1
+            if since_flush >= FLUSH_EVERY:
+                if finished:
+                    partial[name] = idx + 1
+                flush()
+        if finished:
+            partial.pop(name, None)
+            done.add(name)
+            codes_done_run += 1
+        elif name not in partial:
+            partial[name] = start_idx
+        if props:
+            print(f"  [{name}] {len(props)} props | finished={finished} | run totals checked={checked} added={added}")
 
-        if matches_here:
-            subdivisions_with_new_matches += 1
-            print(f"    -> {matches_here} delinquent/current_due, added to geo_ids.csv")
-
-    progress["processed_codes"] = sorted(processed_set)
-    progress["total_properties_checked"] += properties_checked_this_run
-    progress["total_added"] += len(new_rows)
-
-    append_rows_to_csv(new_rows)
-    save_progress(progress)
+    progress["total_properties_checked"] += checked
+    progress["total_added"] += added
+    progress["partial"] = partial
+    flush()
 
     print("---")
-    print(f"Subdivisions processed this run: {subdivisions_processed_this_run}")
-    print(f"Subdivisions with new delinquent/current_due matches: {subdivisions_with_new_matches}")
-    print(f"Properties tax-checked this run: {properties_checked_this_run}")
-    print(f"New rows appended to geo_ids.csv: {len(new_rows)}")
-    print(f"Total subdivision codes processed so far: {len(processed_set)} / {len(all_codes)}")
-    remaining_after = len(all_codes) - len(processed_set)
-    print(f"Remaining subdivision codes for future runs: {remaining_after}")
+    print(f"Minutes elapsed: {(time.time()-start)/60:.1f}")
+    print(f"Subdivisions completed: {codes_done_run} | in progress: {len(partial)}")
+    print(f"Properties checked: {checked} | new leads: {added}")
+    print(f"Codes done overall: {len(done)} / {len(all_codes)}")
 
 
 if __name__ == "__main__":
