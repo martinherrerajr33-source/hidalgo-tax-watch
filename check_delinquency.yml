@@ -1,0 +1,82 @@
+name: Check Tax Delinquency
+
+on:
+  # Daily refresh, right after the overnight crawl finishes
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC = 6:00am CST
+
+  workflow_dispatch:
+
+  # Manual upload of input/geo_ids.csv also refreshes the dashboard
+  push:
+    paths:
+      - "input/geo_ids.csv"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Incremental + parallel: new leads first, then the stalest results.
+      # Stops taking work after 200 min so the dashboard is always published
+      # well before the job limit; unfinished rows keep their last result.
+      - name: Run delinquency check
+        run: |
+          if [ ! -f input/geo_ids.csv ]; then
+            echo "No input/geo_ids.csv found yet."
+            exit 0
+          fi
+          python run_batch.py --input input/geo_ids.csv --workers 6 --max-minutes 200 --max-age-days 3
+
+      - name: Commit results.csv (cache + CRM export)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/results.csv
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Refresh tax delinquency data"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && break
+              sleep 10
+            done
+          fi
+
+      # Pull in the Distress Watch's latest committed dashboard data so this
+      # deploy doesn't publish a stale copy of it.
+      - name: Pull latest Distress Watch data
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}" && git checkout FETCH_HEAD -- dashboard/distress.json dashboard/distress.html 2>/dev/null || true
+
+      - name: Upload dashboard as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
