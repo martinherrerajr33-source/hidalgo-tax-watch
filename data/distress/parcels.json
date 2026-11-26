@@ -194314,7 +194314,7 @@
   "city": "EDINBURG",
   "geo_id": "C7886-02-000-0009-00",
   "legal": "CONCHO HEIGHTS UT 2 LOT 9",
-  "market_value": 78000.0,
+  "market_value": 143187.0,
   "owner": "MARTINEZ CRUZ ANGEL",
   "pid": "958195",
   "prop_type": "R"
@@ -722144,7 +722144,7 @@
   "city": "",
   "geo_id": "P8500-00-000-0192-00",
   "legal": "PRIDE O' TEXAS AN IRR TR W267.55'& 0.04AC ADJ & W OF LOT 192 1.54 AC GR 1.35 AC NET",
-  "market_value": 334809.0,
+  "market_value": 200000.0,
   "owner": "SANTOS MARIA TERESA",
   "pid": "262649",
   "prop_type": "R"
@@ -919435,7 +919435,7 @@
   "geo_id": "T2100-00-000-0726-00",
   "legal": "TEX-MEX SURVEY ABST 726 463.63AC NET",
   "market_value": 1278696.0,
-  "owner": "GARZA JOSE CARMEN Jr",
+  "owner": "GARZA CARLOS",
   "pid": "959069",
   "prop_type": "R"
  },
@@ -923657,6 +923657,16 @@
   "market_value": 256224.0,
   "owner": "PEREZ JULIAN & SYLVIA G",
   "pid": "590015",
+  "prop_type": "R"
+ },
+ "T2100-00-237-0004-22": {
+  "address": "N MON MACK RD",
+  "city": "",
+  "geo_id": "T2100-00-237-0004-22",
+  "legal": "TEX-MEX SURVEY W32.10'-E160.50'-N321' LOT 4 BLK 237 0.24 AC GR 0.23 AC NET",
+  "market_value": 32566.0,
+  "owner": "LUNA ROBERTO & ET AL",
+  "pid": "796218",
   "prop_type": "R"
  },
  "T2100-00-237-0004-24": {
@@ -971014,7 +971024,7 @@
   "city": "PENITAS",
   "geo_id": "T6010-05-000-0507-00",
   "legal": "TOM GILL NO 5 LOT 507",
-  "market_value": 299756.0,
+  "market_value": 190000.0,
   "owner": "RAMIREZ JOSE ADOLFO & MAGALI",
   "pid": "623374",
   "prop_type": "R"
