@@ -73725,7 +73725,7 @@
   "geo_id": "B0300-00-024-0001-00",
   "legal": "BALBOA ACRES LOT 1 BLK 24",
   "market_value": 58650.0,
-  "owner": "GARCIA CASIMIRO & ELVIRA I ALONZO",
+  "owner": "GARCIA CASIMIRO & ELVIRA I ALONZO &",
   "pid": "120726",
   "prop_type": "R"
  },
@@ -109275,7 +109275,7 @@
   "geo_id": "B4965-00-000-0119-00",
   "legal": "BUCHANAN ESTATES LOT 119",
   "market_value": 118516.0,
-  "owner": "CONFIDENTIAL",
+  "owner": "CONFIDENTIAL OWNER",
   "pid": "580521",
   "prop_type": "R"
  },
@@ -137795,7 +137795,7 @@
   "geo_id": "C1400-00-074-0001-03",
   "legal": "CAPISALLO E0.38AC-NW1.14AC LOT 1 BLK 74 CAPISALLO",
   "market_value": 62429.0,
-  "owner": "CONFIDENTIAL",
+  "owner": "CONFIDENTIAL OWNER",
   "pid": "131980",
   "prop_type": "R"
  },
@@ -247255,7 +247255,7 @@
   "geo_id": "E3300-00-154-0004-00",
   "legal": "EDINBURG TOWNSITE LOT 4 BLK 154",
   "market_value": 140000.0,
-  "owner": "CONFIDENTIAL",
+  "owner": "CONFIDENTIAL OWNER",
   "pid": "164491",
   "prop_type": "R"
  },
@@ -249235,7 +249235,7 @@
   "geo_id": "E3300-00-193-0002-00",
   "legal": "EDINBURG TOWNSITE LOT 2 BLK 193",
   "market_value": 71000.0,
-  "owner": "CONFIDENTIAL",
+  "owner": "CONFIDENTIAL OWNER",
   "pid": "164697",
   "prop_type": "R"
  },
@@ -338285,7 +338285,7 @@
   "geo_id": "G5960-02-000-0002-00",
   "legal": "GOODWIN WEST NO. 2 LOT 2",
   "market_value": 389926.0,
-  "owner": "CONFIDENTIAL",
+  "owner": "CONFIDENTIAL OWNER",
   "pid": "181533",
   "prop_type": "R"
  },
@@ -411924,7 +411924,7 @@
   "city": "WESLACO",
   "geo_id": "H5100-00-003-0002-00",
   "legal": "HUGHES ADDN LOT 2 BLK 3",
-  "market_value": 61740.0,
+  "market_value": 51000.0,
   "owner": "DIAZ ROSA ISELA",
   "pid": "195661",
   "prop_type": "R"
@@ -486527,6 +486527,16 @@
   "market_value": 168251.0,
   "owner": "CANTU JOSE FRANCISCO & VIRGINIA GARCIA MARTINEZ",
   "pid": "681077",
+  "prop_type": "R"
+ },
+ "L1780-00-000-0004-00": {
+  "address": "8425 QUIETUD ST",
+  "city": "EDINBURG",
+  "geo_id": "L1780-00-000-0004-00",
+  "legal": "LA QUIETUD LOT 4",
+  "market_value": 249307.0,
+  "owner": "RAMIREZ YOLANDA AKA MARTINEZ DE RAMIREZ",
+  "pid": "681078",
   "prop_type": "R"
  },
  "L1780-00-000-0011-00": {
@@ -803644,7 +803654,7 @@
   "city": "SAN JUAN",
   "geo_id": "S1000-00-027-0007-00",
   "legal": "SAN JUAN ORIGINAL TOWNSITE LOT 7-13 BLK 27",
-  "market_value": 793734.0,
+  "market_value": 690000.0,
   "owner": "LOS ENCINOS ADULT DAY CARE CENTER INC",
   "pid": "276123",
   "prop_type": "R"
@@ -815264,7 +815274,7 @@
   "city": "",
   "geo_id": "S1600-00-001-0007-03",
   "legal": "SANTA CRUZ RANCH AN IRR TR W393.31'-E867.93'-S721.43' LOT G BLK 1 EXC AN IRR TR S379.60' 2.762AC NET",
-  "market_value": 443936.0,
+  "market_value": 332952.0,
   "owner": "MONTE CRISTO PLAZA II LLC",
   "pid": "277576",
   "prop_type": "R"
@@ -933954,7 +933964,7 @@
   "city": "",
   "geo_id": "T2200-00-002-0009-00",
   "legal": "TEXAN GARDENS LT 9 BLK 2 10.0 AC",
-  "market_value": 30000.0,
+  "market_value": 21000.0,
   "owner": "FILEGONIA MATERIALS LLC",
   "pid": "298513",
   "prop_type": "R"
@@ -933964,7 +933974,7 @@
   "city": "",
   "geo_id": "T2200-00-002-0010-00",
   "legal": "TEXAN GARDENS LT 10 BLK 2 10.0 AC",
-  "market_value": 30000.0,
+  "market_value": 21000.0,
   "owner": "FILEGONIA MATERIALS LLC",
   "pid": "298514",
   "prop_type": "R"
@@ -1057024,7 +1057034,7 @@
   "city": "WESLACO",
   "geo_id": "W2300-00-053-0023-02",
   "legal": "WESLACO ORIGINAL TOWNSITE W45'-E90'-LOTS 23 & 24 BLK 53",
-  "market_value": 120055.0,
+  "market_value": 112000.0,
   "owner": "DIAZ ROSA ISELA",
   "pid": "560550",
   "prop_type": "R"
@@ -1057034,7 +1057044,7 @@
   "city": "",
   "geo_id": "W2300-00-053-0023-03",
   "legal": "WESLACO ORIGINAL TOWNSITE E45'-LOT 23 & E45' LOT 24 BLK 53",
-  "market_value": 80113.0,
+  "market_value": 70000.0,
   "owner": "DIAZ ROSA ISELA",
   "pid": "560551",
   "prop_type": "R"
@@ -1078615,7 +1078625,7 @@
   "geo_id": "W3920-00-000-0089-00",
   "legal": "WESTGATE VILLAGE MOBILE HOME LOT 89",
   "market_value": 84570.0,
-  "owner": "MARTINEZ OFELIA",
+  "owner": "MARTINEZ OFELIA & RUDY CHAVEZ",
   "pid": "581808",
   "prop_type": "R"
  },
